@@ -41,10 +41,28 @@ def get_bot_ratings_online(type):
             user_arr.append(result)
         count += 1
     resulting_arr = sorted(user_arr, key=lambda x: x[1], reverse=True)
-    with open('bot_leaderboard_{type}.txt', 'w') as f:
-        for j in resulting_arr:
-            print(str(count2) + ". " + "@" + j[0] + ": " + str(j[1]), file=f)
-            count2 += 1
+    match type:
+        case 'bullet':
+            with open('bot_leaderboard_bullet.txt', 'w') as f:
+                for j in resulting_arr:
+                    print(str(count2) + ". " + "@" + j[0] + ": " + str(j[1]), file=f)
+                    count2 += 1
+        case 'blitz':
+            with open('bot_leaderboard_blitz.txt', 'w') as f:
+                for j in resulting_arr:
+                    print(str(count2) + ". " + "@" + j[0] + ": " + str(j[1]), file=f)
+                    count2 += 1
+        case 'rapid':
+            with open('bot_leaderboard_rapid.txt', 'w') as f:
+                for j in resulting_arr:
+                    print(str(count2) + ". " + "@" + j[0] + ": " + str(j[1]), file=f)
+                    count2 += 1
+        case 'classical':
+            with open('bot_leaderboard_classical.txt', 'w') as f:
+                for j in resulting_arr:
+                    print(str(count2) + ". " + "@" + j[0] + ": " + str(j[1]), file=f)
+                    count2 += 1
+
     return "\n" + "Banned bots: " + str(banned)
 
 display_user_rating('TheMatrix2029', 'bullet')
