@@ -50,8 +50,8 @@ def get_bot_ratings_online(type):
 with open('bot_leaderboard_bullet.txt', 'w') as f:
     print(get_bot_ratings_online('bullet'), file=f)
 with open('bot_leaderboard_blitz.txt', 'w') as f:
-    f.write(get_bot_ratings_online('blitz'), file=f)
+    print(get_bot_ratings_online('blitz'), file=f)
 with open('bot_leaderboard_rapid.txt', 'w') as f:
-    f.write(get_bot_ratings_online('rapid'), file=f)
+    print(get_bot_ratings_online('rapid'), file=f)
 with open('bot_leaderboard_classical.txt', 'w') as f:
-    f.write(get_bot_ratings_online('classical'), file=f)
+    print(get_bot_ratings_online('classical'), file=f)
