@@ -1,3 +1,5 @@
+from sched import scheduler
+import time
 import lichess.api
 import urllib.request
 import orjson
@@ -56,15 +58,17 @@ def get_bot_ratings_online(type):
                     count2 += 1
     return "\n" + "Banned bots: " + str(banned)
 
-# get_bot_ratings_online('bullet')
-# get_bot_ratings_online('blitz')
-# get_bot_ratings_online('rapid')
-# get_bot_ratings_online('classical')
-get_bot_ratings_online('antichess')
-get_bot_ratings_online('atomic')
-get_bot_ratings_online('chess960')
-get_bot_ratings_online('crazyhouse')
-get_bot_ratings_online('horde')
-get_bot_ratings_online('kingOfTheHill')
-get_bot_ratings_online('racingKings')
-get_bot_ratings_online('threeCheck')
+while True:
+    get_bot_ratings_online('bullet')
+    get_bot_ratings_online('blitz')
+    get_bot_ratings_online('rapid')
+    get_bot_ratings_online('classical')
+    get_bot_ratings_online('antichess')
+    get_bot_ratings_online('atomic')
+    get_bot_ratings_online('chess960')
+    get_bot_ratings_online('crazyhouse')
+    get_bot_ratings_online('horde')
+    get_bot_ratings_online('kingOfTheHill')
+    get_bot_ratings_online('racingKings')
+    get_bot_ratings_online('threeCheck')
+    time.sleep(300)
