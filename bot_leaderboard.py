@@ -39,12 +39,15 @@ def get_bot_ratings_online(type):
     
     for i in online_bots:
         d = orjson.loads(i)
-        result = [d['username'], d['perfs'][type]['rating']]
-        print(count, result)
-        if result[0] in banned_bots:
-            banned += 1
-        else:
-            user_arr.append(result)
+        try:
+            result = [d['username'], d['perfs'][type]['rating']]
+            print(count, result)
+            if result[0] in banned_bots:
+                banned += 1
+            else:
+                user_arr.append(result)
+        except:
+            print("No {type} rating available")
         count += 1
     resulting_arr = sorted(user_arr, key=lambda x: x[1], reverse=True)
     with open(get_file_name(type), 'w') as f:
@@ -53,16 +56,15 @@ def get_bot_ratings_online(type):
                     count2 += 1
     return "\n" + "Banned bots: " + str(banned)
 
-display_user_rating('TheMatrix2029', 'bullet')
-get_bot_ratings_online('bullet')
-get_bot_ratings_online('blitz')
-get_bot_ratings_online('rapid')
-get_bot_ratings_online('classical')
-# get_bot_ratings_online('antichess')
-# get_bot_ratings_online('atomic')
-# get_bot_ratings_online('chess960')
-# get_bot_ratings_online('crazyhouse')
-# get_bot_ratings_online('horde')
-# get_bot_ratings_online('kingOfTheHill')
-# get_bot_ratings_online('racingKings')
-# get_bot_ratings_online('threeCheck')
+# get_bot_ratings_online('bullet')
+# get_bot_ratings_online('blitz')
+# get_bot_ratings_online('rapid')
+# get_bot_ratings_online('classical')
+get_bot_ratings_online('antichess')
+get_bot_ratings_online('atomic')
+get_bot_ratings_online('chess960')
+get_bot_ratings_online('crazyhouse')
+get_bot_ratings_online('horde')
+get_bot_ratings_online('kingOfTheHill')
+get_bot_ratings_online('racingKings')
+get_bot_ratings_online('threeCheck')
