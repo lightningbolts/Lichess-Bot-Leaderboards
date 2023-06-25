@@ -66,8 +66,10 @@ def get_bot_ratings_online(type):
     return "\n" + "Banned bots: " + str(banned)
 
 display_user_rating('TheMatrix2029', 'bullet')
-get_bot_ratings_online('bullet')
-
+#get_bot_ratings_online('bullet')
+get_bot_ratings_online('blitz')
+get_bot_ratings_online('rapid')
+get_bot_ratings_online('classical')
 # with open('bot_leaderboard_bullet.txt', 'w') as f:
 #     print(get_bot_ratings_online('bullet'), file=f)
 # with open('bot_leaderboard_blitz.txt', 'w') as f:
