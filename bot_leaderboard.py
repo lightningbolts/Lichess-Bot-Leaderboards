@@ -62,14 +62,62 @@ def get_bot_ratings_online(type):
                 for j in resulting_arr:
                     print(str(count2) + ". " + "@" + j[0] + ": " + str(j[1]), file=f)
                     count2 += 1
+        case 'antichess':
+            with open('bot_leaderboard_antichess.txt', 'w') as f:
+                for j in resulting_arr:
+                    print(str(count2) + ". " + "@" + j[0] + ": " + str(j[1]), file=f)
+                    count2 += 1
+        case 'atomic':
+            with open('bot_leaderboard_atomic.txt', 'w') as f:
+                for j in resulting_arr:
+                    print(str(count2) + ". " + "@" + j[0] + ": " + str(j[1]), file=f)
+                    count2 += 1
+        case 'chess960':
+            with open('bot_leaderboard_chess960.txt', 'w') as f:
+                for j in resulting_arr:
+                    print(str(count2) + ". " + "@" + j[0] + ": " + str(j[1]), file=f)
+                    count2 += 1
+        case 'crazyhouse':
+            with open('bot_leaderboard_crazyhouse.txt', 'w') as f:
+                for j in resulting_arr:
+                    print(str(count2) + ". " + "@" + j[0] + ": " + str(j[1]), file=f)
+                    count2 += 1
+        case 'horde':
+            with open('bot_leaderboard_horde.txt', 'w') as f:
+                for j in resulting_arr:
+                    print(str(count2) + ". " + "@" + j[0] + ": " + str(j[1]), file=f)
+                    count2 += 1
+        case 'kingOfTheHill':
+            with open('bot_leaderboard_kingOfTheHill.txt', 'w') as f:
+                for j in resulting_arr:
+                    print(str(count2) + ". " + "@" + j[0] + ": " + str(j[1]), file=f)
+                    count2 += 1
+        case 'racingKings':
+            with open('bot_leaderboard_racingKings.txt', 'w') as f:
+                for j in resulting_arr:
+                    print(str(count2) + ". " + "@" + j[0] + ": " + str(j[1]), file=f)
+                    count2 += 1
+        case 'threeCheck':
+            with open('bot_leaderboard_threeCheck.txt', 'w') as f:
+                for j in resulting_arr:
+                    print(str(count2) + ". " + "@" + j[0] + ": " + str(j[1]), file=f)
+                    count2 += 1
 
     return "\n" + "Banned bots: " + str(banned)
 
 display_user_rating('TheMatrix2029', 'bullet')
-#get_bot_ratings_online('bullet')
+get_bot_ratings_online('bullet')
 get_bot_ratings_online('blitz')
 get_bot_ratings_online('rapid')
 get_bot_ratings_online('classical')
+get_bot_ratings_online('antichess')
+get_bot_ratings_online('atomic')
+get_bot_ratings_online('chess960')
+get_bot_ratings_online('crazyhouse')
+get_bot_ratings_online('horde')
+get_bot_ratings_online('kingOfTheHill')
+get_bot_ratings_online('racingKings')
+get_bot_ratings_online('threeCheck')
 # with open('bot_leaderboard_bullet.txt', 'w') as f:
 #     print(get_bot_ratings_online('bullet'), file=f)
 # with open('bot_leaderboard_blitz.txt', 'w') as f:
