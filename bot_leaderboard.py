@@ -11,6 +11,9 @@ def get_user_rating(username, type):
     user = lichess.api.user(username)
     return [username, user.get('perfs', {}).get(type, {}).get('rating')]
 
+def get_user_rating_from_dict(username, dict, type):
+    return [username, dict[type]]
+
 def get_bot_ratings_online(type):
     banned_bots = [
         'caissa-ai',
@@ -33,8 +36,8 @@ def get_bot_ratings_online(type):
     
     for i in online_bots:
         d = orjson.loads(i)
-        result = get_user_rating(d['username'], type)
-        print(count)
+        result = [d['username'], d['perfs'][type]['rating']]
+        print(count, result)
         if result[0] in banned_bots:
             banned += 1
         else:
