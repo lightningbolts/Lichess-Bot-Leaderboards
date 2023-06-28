@@ -2,7 +2,7 @@ Rank       Bot                       Rating     Prog
 1          ToromBot                  2882       9              
 2          pangubot                  2879       3              
 3          EmptikBot                 2875       5              
-4          caissa-x                  2859       2              
+4          caissa-x                  2857       -1             
 5          YoBot_v2                  2852       1              
 6          FireFishBOT               2851       -4             
 7          Mate-AI                   2849       0              
@@ -18,10 +18,10 @@ Rank       Bot                       Rating     Prog
 17         blundar_bot               2756       -9             
 18         LazyBot                   2756       3              
 19         ReinforcementTrial        2752       21             
-20         AKS-Mantissa              2686       0              
+20         AKS-Mantissa              2683       -3             
 21         SaxtonEngine              2576       3              
 22         expositor                 2523       -11            
-23         pawn_git                  2494       18             
+23         pawn_git                  2497       21             
 24         Weiawaga                  2485       0              
 25         misteick_bot              2475       -17            
 26         OldStockfish              2436       -1             
@@ -30,7 +30,7 @@ Rank       Bot                       Rating     Prog
 29         odonata-bot               2420       -8             
 30         fornax-engine             2410       7              
 31         ChessNoobComp             2399       -1             
-32         admete_bot                2372       -5             
+32         admete_bot                2372       -4             
 33         FlamingDragon_9000        2323       19             
 34         bekbot                    2314       -17            
 35         simpleEval                2286       -9             
