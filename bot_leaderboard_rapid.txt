@@ -35,7 +35,7 @@ Rank       Bot                       Rating     Prog
 34         bekbot                    2291       8              
 35         simpleEval                2291       -8             
 36         SimplerEval               2266       19             
-37         LunaChessEngine           2222       24             
+37         LunaChessEngine           2225       26             
 38         eubos                     2216       4              
 39         MaxtheDog                 2214       16             
 40         Boris-Trapsky             2190       -30            
@@ -43,11 +43,11 @@ Rank       Bot                       Rating     Prog
 42         GarboBot                  2139       11             
 43         jangine                   2132       -1             
 44         redtail-zero              2130       35             
-45         CadabraBot                2123       -4             
+45         CadabraBot                2128       4              
 46         MatMoi                    2083       7              
-47         halcyonbot                2050       3              
-48         BLANK_BOT                 2048       11             
-49         theoden8_uci              2040       -31            
+47         BLANK_BOT                 2048       11             
+48         halcyonbot                2047       -8             
+49         theoden8_uci              2035       -40            
 50         LazyBotJr                 1998       -8             
 51         zeekat                    1976       4              
 52         Lynx_BOT                  1974       1              
@@ -68,8 +68,8 @@ Rank       Bot                       Rating     Prog
 67         maia9                     1712       -41            
 68         simplexitor               1699       23             
 69         HulkBot                   1698       -61            
-70         maia5                     1658       2              
-71         Jibbby                    1656       2              
+70         Jibbby                    1656       2              
+71         maia5                     1653       -7             
 72         sargon-3ply               1625       6              
 73         yeoldwiz                  1621       12             
 74         turochamp-2ply            1609       -47            
