@@ -31,7 +31,7 @@ Rank       Bot                       Rating     Prog
 30         odonata-bot               2420       -8             
 31         fornax-engine             2410       7              
 32         ChessNoobComp             2399       -1             
-33         admete_bot                2371       -3             
+33         admete_bot                2370       -3             
 34         FlamingDragon_9000        2323       19             
 35         bekbot                    2314       -17            
 36         simpleEval                2286       -9             
@@ -49,11 +49,11 @@ Rank       Bot                       Rating     Prog
 48         Boris-Trapsky             2110       -17            
 49         redtail-zero              2084       -14            
 50         Humaia-Strong             2069       -5             
-51         MatMoi                    2065       -14            
-52         MaxtheDog                 2057       15             
+51         MaxtheDog                 2057       15             
+52         MatMoi                    2036       -50            
 53         LeelaRogue                2028       -1             
-54         halcyonbot                2023       -6             
-55         Nc3Nc6Bot                 2021       -5             
+54         Nc3Nc6Bot                 2027       4              
+55         halcyonbot                2023       -6             
 56         BLANK_BOT                 2009       2              
 57         LazyBotJr                 2006       -20            
 58         Zagreus_Engine            1988       2              
@@ -67,9 +67,9 @@ Rank       Bot                       Rating     Prog
 66         notropis                  1827       19             
 67         myopic-bot                1807       8              
 68         Hyperopic                 1803       -30            
-69         FlounderBot               1791       -18            
+69         FlounderBot               1796       -9             
 70         Fisk_Bot                  1737       9              
-71         melsh_bot                 1723       -11            
+71         melsh_bot                 1719       -11            
 72         AshNostromo               1715       -3             
 73         QueensGamBOT              1708       -1             
 74         maia9                     1665       7              
@@ -78,7 +78,7 @@ Rank       Bot                       Rating     Prog
 77         yeoldwiz                  1614       -12            
 78         HardRok                   1613       -3             
 79         turkjs                    1606       -9             
-80         maia5                     1574       -20            
+80         maia5                     1580       -19            
 81         chat_bot                  1569       3              
 82         maia1                     1511       16             
 83         sargon-4ply               1499       40             
