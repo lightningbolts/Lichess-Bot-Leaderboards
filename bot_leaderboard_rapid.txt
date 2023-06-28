@@ -34,9 +34,9 @@ Rank       Bot                       Rating     Prog
 33         simpleEval                2280       -17            
 34         SimplerEval               2266       19             
 35         DQN-chess                 2245       16             
-36         LunaChessEngine           2221       -1             
-37         MaxtheDog                 2221       15             
-38         eubos                     2218       1              
+36         eubos                     2221       5              
+37         LunaChessEngine           2221       -1             
+38         MaxtheDog                 2221       15             
 39         HistoryExplorer           2189       0              
 40         Boris-Trapsky             2170       -43            
 41         Elmichess                 2170       63             
@@ -46,7 +46,7 @@ Rank       Bot                       Rating     Prog
 45         CadabraBot                2122       1              
 46         MatMoi                    2083       7              
 47         Humaia-Strong             2060       86             
-48         halcyonbot                2059       12             
+48         halcyonbot                2056       2              
 49         BLANK_BOT                 2048       11             
 50         theoden8_uci              2027       -44            
 51         LazyBotJr                 1998       -8             
@@ -76,7 +76,7 @@ Rank       Bot                       Rating     Prog
 75         yeoldwiz                  1621       12             
 76         turochamp-2ply            1617       8              
 77         chat_bot                  1579       -33            
-78         maia1                     1546       5              
+78         maia1                     1547       16             
 79         sargon-4ply               1531       26             
 80         DavidsGuterBot            1498       13             
 81         dlvc-bot                  1475       -54            
