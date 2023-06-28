@@ -12,7 +12,7 @@ Rank       Bot                       Rating     Prog       Games
 11         Nikitosik-ai              2847       -11        222       
 12         chessfyBOT                2845       -7         228       
 13         ResoluteBot               2844       -6         5153      
-14         ReinforcementTrial        2842       2          3951      
+14         ReinforcementTrial        2838       -2         3952      
 15         JuroJ                     2832       -5         2839      
 16         blundar_bot               2801       -6         891       
 17         AKS-Mantissa              2624       27         3770      
@@ -22,7 +22,7 @@ Rank       Bot                       Rating     Prog       Games
 21         pawn_git                  2517       21         912       
 22         Weiawaga                  2501       -18        9205      
 23         OldStockfish              2498       3          411       
-24         misteick_bot              2476       -6         962       
+24         misteick_bot              2481       1          963       
 25         odonata-bot               2426       -5         3566      
 26         bot_adario                2394       0          1152      
 27         TuksuBot                  2378       -15        1770      
@@ -72,8 +72,8 @@ Rank       Bot                       Rating     Prog       Games
 71         turochamp-2ply            1625       2          982       
 72         yeoldwiz                  1621       12         623       
 73         maia5                     1612       17         95548     
-74         maia1                     1580       5          220941    
-75         chat_bot                  1579       -33        146       
+74         chat_bot                  1579       -33        146       
+75         maia1                     1575       3          220942    
 76         sargon-4ply               1531       26         504       
 77         DavidsGuterBot            1507       4          525       
 78         sargon-2ply               1430       -18        3028      
@@ -82,6 +82,7 @@ Rank       Bot                       Rating     Prog       Games
 81         turochamp-1ply            1318       3          1411      
 82         pawnrobot                 1291       -16        497       
 83         OhniBOT                   1246       3          208       
-84         CHoMPBoT                  1060       3          284       
-85         DeepLLaMA                 824        -114       53        
-86         G0thamB0t                 717        -7         230       
+84         kireevi                   1177       -27        502       
+85         CHoMPBoT                  1060       3          284       
+86         DeepLLaMA                 824        -114       53        
+87         G0thamB0t                 717        -7         230       
