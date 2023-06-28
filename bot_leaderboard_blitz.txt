@@ -30,8 +30,8 @@ Rank       Bot                       Rating     Prog
 29         bot_adario                2420       -5             
 30         odonata-bot               2420       -8             
 31         fornax-engine             2410       7              
-32         ChessNoobComp             2399       -1             
-33         admete_bot                2363       -4             
+32         ChessNoobComp             2390       -15            
+33         admete_bot                2362       -4             
 34         FlamingDragon_9000        2323       19             
 35         bekbot                    2314       -17            
 36         simpleEval                2286       -9             
@@ -41,7 +41,7 @@ Rank       Bot                       Rating     Prog
 40         SneakyBot21               2185       -68            
 41         Elmichess                 2182       1              
 42         LunaChessEngine           2182       11             
-43         humanian                  2142       16             
+43         humanian                  2151       19             
 44         eubos                     2137       -6             
 45         jangine                   2137       7              
 46         CadabraBot                2123       -34            
@@ -49,12 +49,12 @@ Rank       Bot                       Rating     Prog
 48         redtail-zero              2084       -14            
 49         Humaia-Strong             2069       -5             
 50         MaxtheDog                 2057       15             
-51         MatMoi                    2036       -50            
-52         LeelaRogue                2028       -1             
-53         Nc3Nc6Bot                 2027       4              
-54         halcyonbot                2023       -6             
-55         BLANK_BOT                 2009       -1             
-56         LazyBotJr                 2006       -20            
+51         LeelaRogue                2028       -1             
+52         Nc3Nc6Bot                 2027       4              
+53         halcyonbot                2023       -6             
+54         BLANK_BOT                 2009       -1             
+55         LazyBotJr                 2006       -20            
+56         MatMoi                    2000       -78            
 57         Zagreus_Engine            1994       4              
 58         BengalBot                 1970       1              
 59         Lynx_BOT                  1962       9              
@@ -62,7 +62,7 @@ Rank       Bot                       Rating     Prog
 61         zeekat                    1916       -4             
 62         baby_eubos                1909       1              
 63         zulu_bot                  1861       -3             
-64         Trollfish-Bot             1850       4              
+64         Trollfish-Bot             1858       7              
 65         notropis                  1827       19             
 66         myopic-bot                1807       8              
 67         Hyperopic                 1803       -30            
@@ -71,7 +71,7 @@ Rank       Bot                       Rating     Prog
 70         melsh_bot                 1719       -11            
 71         AshNostromo               1715       -3             
 72         QueensGamBOT              1708       -1             
-73         maia9                     1654       5              
+73         maia9                     1657       11             
 74         simplexitor               1649       -15            
 75         Jibbby                    1616       11             
 76         yeoldwiz                  1614       -12            
@@ -80,7 +80,7 @@ Rank       Bot                       Rating     Prog
 79         maia5                     1585       -2             
 80         chat_bot                  1569       3              
 81         sargon-4ply               1499       40             
-82         maia1                     1490       -22            
+82         maia1                     1492       -26            
 83         DavidsGuterBot            1484       31             
 84         ChamberiAjedrez           1470       -106           
 85         sargon-3ply               1458       18             
