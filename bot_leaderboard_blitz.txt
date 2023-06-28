@@ -1,5 +1,5 @@
 Rank       Bot                       Rating     Prog           
-1          TorBot                    2888       -1             
+1          TorBot                    2886       -3             
 2          ToromBot                  2880       7              
 3          pangubot                  2878       8              
 4          EmptikBot                 2875       5              
@@ -10,7 +10,7 @@ Rank       Bot                       Rating     Prog
 9          ArasanX                   2823       -2             
 10         chessfyBOT                2819       -12            
 11         ResoluteBot               2807       -18            
-12         Nikitosik-ai              2774       -17            
+12         Nikitosik-ai              2779       -12            
 13         EmptikBot247              2763       10             
 14         RaspFish                  2763       10             
 15         JuroJ                     2760       7              
@@ -21,7 +21,7 @@ Rank       Bot                       Rating     Prog
 20         AKS-Mantissa              2690       10             
 21         SaxtonEngine              2583       8              
 22         expositor                 2523       -11            
-23         misteick_bot              2511       3              
+23         misteick_bot              2507       -1             
 24         pawn_git                  2484       11             
 25         Weiawaga                  2479       -34            
 26         TuksuBot                  2423       -16            
@@ -32,7 +32,7 @@ Rank       Bot                       Rating     Prog
 31         admete_bot                2319       13             
 32         simpleEval                2285       -13            
 33         SimplerEval               2253       0              
-34         catriever                 2222       -48            
+34         catriever                 2229       -22            
 35         GarboBot                  2202       -2             
 36         SneakyBot21               2185       -68            
 37         Elmichess                 2182       1              
@@ -41,7 +41,7 @@ Rank       Bot                       Rating     Prog
 40         eubos                     2149       -3             
 41         jangine                   2142       4              
 42         humanian                  2121       -2             
-43         Boris-Trapsky             2112       14             
+43         Boris-Trapsky             2109       -2             
 44         redtail-zero              2084       -14            
 45         MaxtheDog                 2050       16             
 46         halcyonbot                2036       18             
@@ -49,11 +49,11 @@ Rank       Bot                       Rating     Prog
 48         Nc3Nc6Bot                 2020       -6             
 49         BLANK_BOT                 2010       13             
 50         LazyBotJr                 2006       -20            
-51         Zagreus_Engine            1986       11             
+51         Zagreus_Engine            1990       11             
 52         theoden8_uci              1961       -16            
-53         Lynx_BOT                  1955       -10            
+53         Lynx_BOT                  1956       -9             
 54         zeekat                    1917       4              
-55         baby_eubos                1908       -1             
+55         baby_eubos                1904       -9             
 56         zulu_bot                  1849       -30            
 57         Trollfish-Bot             1839       16             
 58         Hyperopic                 1832       2              
@@ -70,7 +70,7 @@ Rank       Bot                       Rating     Prog
 69         yeoldwiz                  1614       -12            
 70         HardRok                   1610       -27            
 71         turkjs                    1605       -16            
-72         Jibbby                    1603       21             
+72         Jibbby                    1602       19             
 73         chat_bot                  1569       3              
 74         maia5                     1540       20             
 75         sargon-4ply               1501       43             
