@@ -28,7 +28,6 @@ def get_bot_ratings_online(type):
         'ProteusSF-Open',
         'ProteusSF-Turbo',
         'QalatBotEngine',
-        'SumuraiX_v1',
         'Vaxim2000',
         'MedipolUniversity',
         'MustafaYilmazBot'

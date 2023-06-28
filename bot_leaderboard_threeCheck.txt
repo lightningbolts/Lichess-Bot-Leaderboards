@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Rank       Bot                       Rating     Prog       Games     
 1          VariantsBot               2759       -5         2110      
 2          RaspFish                  2510       6          166       
@@ -5,3 +6,12 @@ Rank       Bot                       Rating     Prog       Games
 4          SimplerEval               2142       -37        499       
 5          DavidsGuterBot            1498       -1         534       
 6          pawnrobot                 1194       6          836       
+=======
+Rank       Bot                       Rating     Prog           
+1          VariantsBot               2759       -5             
+2          RaspFish                  2510       6              
+3          EmptikBot                 2479       -19            
+4          SimplerEval               2142       -37            
+5          DavidsGuterBot            1498       -1             
+6          pawnrobot                 1194       6              
+>>>>>>> 6c3b6bab63aab5199478d8e525d79b7d248fc9c8
