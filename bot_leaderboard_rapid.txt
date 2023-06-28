@@ -2,7 +2,7 @@ Rank       Bot                       Rating     Prog
 1          caissa-x                  2890       -3             
 2          TorBot                    2890       2              
 3          EmptikBot                 2889       6              
-4          ToromBot                  2884       1              
+4          ToromBot                  2883       0              
 5          RaspFish                  2876       -4             
 6          FireFishBOT               2874       11             
 7          Mate-AI                   2870       2              
@@ -47,7 +47,7 @@ Rank       Bot                       Rating     Prog
 46         GarboBot                  2144       13             
 47         redtail-zero              2130       35             
 48         jangine                   2125       -6             
-49         CadabraBot                2116       -3             
+49         CadabraBot                2118       -4             
 50         MatMoi                    2110       35             
 51         Humaia-Strong             2060       86             
 52         halcyonbot                2054       0              
@@ -55,10 +55,10 @@ Rank       Bot                       Rating     Prog
 54         theoden8_uci              2027       -44            
 55         LazyBotJr                 1998       -8             
 56         Lynx_BOT                  1990       30             
-57         zeekat                    1973       6              
+57         zeekat                    1974       10             
 58         BengalBot                 1951       -20            
 59         LeelaRogue                1940       2              
-60         baby_eubos                1925       19             
+60         baby_eubos                1923       19             
 61         Nc3Nc6Bot                 1913       -15            
 62         notropis                  1872       6              
 63         Zagreus_Engine            1857       -2             
@@ -80,9 +80,9 @@ Rank       Bot                       Rating     Prog
 79         yeoldwiz                  1621       12             
 80         maia5                     1618       -25            
 81         chat_bot                  1579       -33            
-82         maia1                     1536       6              
-83         sargon-4ply               1531       26             
-84         DavidsGuterBot            1509       24             
+82         sargon-4ply               1531       26             
+83         maia1                     1528       4              
+84         DavidsGuterBot            1507       14             
 85         dlvc-bot                  1475       -54            
 86         sargon-2ply               1428       -5             
 87         Humaia                    1370       -10            
@@ -94,4 +94,4 @@ Rank       Bot                       Rating     Prog
 93         schnecken_bot             1107       -4             
 94         CHoMPBoT                  1062       4              
 95         DeepLLaMA                 908        -41            
-96         G0thamB0t                 722        -6             
+96         G0thamB0t                 722        -3             
