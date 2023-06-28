@@ -65,6 +65,7 @@ while True:
     get_bot_ratings_online('blitz')
     get_bot_ratings_online('rapid')
     get_bot_ratings_online('classical')
+    get_bot_ratings_online('correspondence')
     get_bot_ratings_online('antichess')
     get_bot_ratings_online('atomic')
     get_bot_ratings_online('chess960')
