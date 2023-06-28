@@ -37,14 +37,14 @@ Rank       Bot                       Rating     Prog
 36         LunaChessEngine           2218       -11            
 37         MaxtheDog                 2209       13             
 38         Elmichess                 2170       63             
-39         Boris-Trapsky             2165       -35            
+39         Boris-Trapsky             2164       -33            
 40         GarboBot                  2149       23             
 41         redtail-zero              2130       35             
 42         jangine                   2117       -9             
 43         MatMoi                    2110       11             
 44         CadabraBot                2108       -26            
 45         WaspBot                   2053       -9             
-46         halcyonbot                2049       -9             
+46         halcyonbot                2051       -7             
 47         BLANK_BOT                 2042       8              
 48         theoden8_uci              2032       -33            
 49         LazyBotJr                 1998       -8             
@@ -64,7 +64,7 @@ Rank       Bot                       Rating     Prog
 63         turkjs                    1751       7              
 64         AshNostromo               1743       -34            
 65         melsh_bot                 1717       28             
-66         maia9                     1706       -9             
+66         maia9                     1702       -15            
 67         simplexitor               1700       29             
 68         HulkBot                   1694       -59            
 69         Jibbby                    1646       -8             
@@ -74,7 +74,7 @@ Rank       Bot                       Rating     Prog
 73         yeoldwiz                  1621       12             
 74         maia5                     1595       -10            
 75         chat_bot                  1579       -33            
-76         maia1                     1568       29             
+76         maia1                     1574       38             
 77         sargon-4ply               1531       26             
 78         DavidsGuterBot            1507       15             
 79         sargon-2ply               1428       -14            
@@ -84,4 +84,4 @@ Rank       Bot                       Rating     Prog
 83         OhniBOT                   1246       3              
 84         kireevi                   1190       -18            
 85         CHoMPBoT                  1062       4              
-86         DeepLLaMA                 908        -41            
+86         DeepLLaMA                 890        -46            
