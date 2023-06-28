@@ -61,8 +61,9 @@ def get_bot_ratings_online(type):
         count += 1
     resulting_arr = sorted(user_arr, key=lambda x: x[1], reverse=True)
     with open(get_file_name(type), 'w') as f:
+                print("{0:<10} {1:<25} {2:<10} {3:<15}".format("Rank", "Bot", "Rating", "Prog"), file=f)
                 for j in resulting_arr:
-                    print(str(count2) + ". " + "@" + j[0] + "-> Rating: " + str(j[1]) + ", Prog: " + str(j[2]) , file=f)
+                    print("{0:<10} {1:<25} {2:<10} {3:<15}".format(str(count2), j[0], str(j[1]), str(j[2])), file=f)
                     count2 += 1
     return "\n" + "Banned bots: " + str(banned)
 

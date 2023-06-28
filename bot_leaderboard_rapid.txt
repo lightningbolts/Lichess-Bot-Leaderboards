@@ -1,88 +1,91 @@
-1. @TorBot-> Rating: 2892, Prog: 8
-2. @caissa-x-> Rating: 2891, Prog: -3
-3. @EmptikBot-> Rating: 2889, Prog: 6
-4. @ToromBot-> Rating: 2881, Prog: -4
-5. @RaspFish-> Rating: 2879, Prog: -4
-6. @Mate-AI-> Rating: 2870, Prog: 2
-7. @pangubot-> Rating: 2860, Prog: -6
-8. @Shineshou90_BOT-> Rating: 2856, Prog: 0
-9. @YoBot_v2-> Rating: 2856, Prog: -5
-10. @ArasanX-> Rating: 2852, Prog: -17
-11. @EmptikBot247-> Rating: 2848, Prog: 3
-12. @chessfyBOT-> Rating: 2845, Prog: -7
-13. @Nikitosik-ai-> Rating: 2845, Prog: -8
-14. @ResoluteBot-> Rating: 2844, Prog: -6
-15. @JuroJ-> Rating: 2838, Prog: 10
-16. @ReinforcementTrial-> Rating: 2838, Prog: 8
-17. @blundar_bot-> Rating: 2805, Prog: 5
-18. @MrChessTheBot-> Rating: 2800, Prog: 13
-19. @AKS-Mantissa-> Rating: 2632, Prog: 45
-20. @LazyBot-> Rating: 2618, Prog: 26
-21. @expositor-> Rating: 2557, Prog: 20
-22. @SaxtonEngine-> Rating: 2520, Prog: -6
-23. @Weiawaga-> Rating: 2516, Prog: -17
-24. @pawn_git-> Rating: 2501, Prog: 5
-25. @misteick_bot-> Rating: 2472, Prog: -16
-26. @odonata-bot-> Rating: 2428, Prog: -2
-27. @bot_adario-> Rating: 2386, Prog: -10
-28. @TuksuBot-> Rating: 2384, Prog: -10
-29. @fornax-engine-> Rating: 2366, Prog: 5
-30. @FlamingDragon_9000-> Rating: 2309, Prog: -12
-31. @humanian-> Rating: 2304, Prog: 6
-32. @admete_bot-> Rating: 2303, Prog: 3
-33. @SneakyBot21-> Rating: 2301, Prog: 23
-34. @simpleEval-> Rating: 2297, Prog: -15
-35. @bekbot-> Rating: 2295, Prog: 20
-36. @SimplerEval-> Rating: 2263, Prog: 14
-37. @LunaChessEngine-> Rating: 2218, Prog: 26
-38. @eubos-> Rating: 2216, Prog: 4
-39. @MaxtheDog-> Rating: 2210, Prog: 9
-40. @Boris-Trapsky-> Rating: 2197, Prog: -26
-41. @Elmichess-> Rating: 2170, Prog: 63
-42. @GarboBot-> Rating: 2138, Prog: 11
-43. @jangine-> Rating: 2131, Prog: -11
-44. @CadabraBot-> Rating: 2130, Prog: -2
-45. @redtail-zero-> Rating: 2130, Prog: 35
-46. @halcyonbot-> Rating: 2049, Prog: 2
-47. @BLANK_BOT-> Rating: 2048, Prog: 20
-48. @theoden8_uci-> Rating: 2045, Prog: -29
-49. @LazyBotJr-> Rating: 1998, Prog: -8
-50. @Lynx_BOT-> Rating: 1973, Prog: -4
-51. @zeekat-> Rating: 1969, Prog: 0
-52. @Nc3Nc6Bot-> Rating: 1944, Prog: -6
-53. @LeelaRogue-> Rating: 1936, Prog: 1
-54. @baby_eubos-> Rating: 1902, Prog: -1
-55. @notropis-> Rating: 1866, Prog: -6
-56. @Zagreus_Engine-> Rating: 1855, Prog: 6
-57. @myopic-bot-> Rating: 1851, Prog: 38
-58. @FlounderBot-> Rating: 1839, Prog: -23
-59. @Fisk_Bot-> Rating: 1830, Prog: 11
-60. @Trollfish-Bot-> Rating: 1825, Prog: 38
-61. @Demolito_L5-> Rating: 1797, Prog: -16
-62. @zulu_bot-> Rating: 1764, Prog: 4
-63. @AshNostromo-> Rating: 1743, Prog: -34
-64. @turkjs-> Rating: 1737, Prog: 10
-65. @maia9-> Rating: 1734, Prog: -14
-66. @melsh_bot-> Rating: 1717, Prog: 28
-67. @simplexitor-> Rating: 1699, Prog: 23
-68. @HulkBot-> Rating: 1698, Prog: -61
-69. @Jibbby-> Rating: 1655, Prog: -1
-70. @maia5-> Rating: 1653, Prog: 8
-71. @HardRok-> Rating: 1635, Prog: 15
-72. @sargon-3ply-> Rating: 1625, Prog: 6
-73. @yeoldwiz-> Rating: 1621, Prog: 12
-74. @turochamp-2ply-> Rating: 1609, Prog: -47
-75. @chat_bot-> Rating: 1579, Prog: -33
-76. @maia1-> Rating: 1528, Prog: 51
-77. @sargon-4ply-> Rating: 1506, Prog: -8
-78. @DavidsGuterBot-> Rating: 1498, Prog: 13
-79. @dlvc-bot-> Rating: 1476, Prog: -66
-80. @sargon-2ply-> Rating: 1434, Prog: 12
-81. @turochamp-1ply-> Rating: 1305, Prog: -13
-82. @pawnrobot-> Rating: 1292, Prog: -21
-83. @sargon-1ply-> Rating: 1275, Prog: -5
-84. @OhniBOT-> Rating: 1246, Prog: 3
-85. @kireevi-> Rating: 1192, Prog: -27
-86. @schnecken_bot-> Rating: 1095, Prog: -48
-87. @CHoMPBoT-> Rating: 1062, Prog: 4
-88. @DeepLLaMA-> Rating: 912, Prog: -2
+Rank       Bot                       Rating     Prog           
+1          TorBot                    2892       8              
+2          caissa-x                  2891       -3             
+3          EmptikBot                 2889       6              
+4          ToromBot                  2886       1              
+5          RaspFish                  2879       -4             
+6          Mate-AI                   2870       2              
+7          pangubot                  2860       -6             
+8          YoBot_v2                  2856       -4             
+9          ArasanX                   2853       -11            
+10         Shineshou90_BOT           2852       -4             
+11         EmptikBot247              2848       3              
+12         chessfyBOT                2845       -7             
+13         Nikitosik-ai              2845       -8             
+14         ResoluteBot               2844       -6             
+15         JuroJ                     2838       10             
+16         ReinforcementTrial        2833       2              
+17         blundar_bot               2805       5              
+18         MrChessTheBot             2800       13             
+19         AKS-Mantissa              2632       45             
+20         LazyBot                   2618       26             
+21         expositor                 2557       20             
+22         SaxtonEngine              2520       -6             
+23         Weiawaga                  2519       -18            
+24         pawn_git                  2501       5              
+25         misteick_bot              2472       -16            
+26         odonata-bot               2428       -2             
+27         tgjufddolugiytgiyrt6      2410       -90            
+28         bot_adario                2386       -10            
+29         TuksuBot                  2384       -10            
+30         fornax-engine             2366       5              
+31         FlamingDragon_9000        2309       -12            
+32         admete_bot                2308       3              
+33         humanian                  2304       6              
+34         simpleEval                2294       -13            
+35         SimplerEval               2263       14             
+36         LunaChessEngine           2218       26             
+37         eubos                     2216       4              
+38         MaxtheDog                 2210       9              
+39         Boris-Trapsky             2195       -29            
+40         Elmichess                 2170       63             
+41         GarboBot                  2138       11             
+42         jangine                   2131       -11            
+43         CadabraBot                2130       -2             
+44         redtail-zero              2130       35             
+45         Humaia-Strong             2060       86             
+46         WaspBot                   2053       -9             
+47         halcyonbot                2049       2              
+48         BLANK_BOT                 2048       20             
+49         theoden8_uci              2045       -29            
+50         LazyBotJr                 1998       -8             
+51         Lynx_BOT                  1973       -4             
+52         zeekat                    1969       0              
+53         Nc3Nc6Bot                 1944       -6             
+54         LeelaRogue                1936       1              
+55         baby_eubos                1902       -1             
+56         notropis                  1866       -6             
+57         Zagreus_Engine            1860       15             
+58         myopic-bot                1851       38             
+59         FlounderBot               1839       -23            
+60         Fisk_Bot                  1830       11             
+61         Trollfish-Bot             1825       38             
+62         Demolito_L5               1792       -22            
+63         zulu_bot                  1764       4              
+64         AshNostromo               1743       -34            
+65         turkjs                    1737       10             
+66         maia9                     1734       -14            
+67         melsh_bot                 1717       28             
+68         simplexitor               1699       23             
+69         HulkBot                   1698       -61            
+70         Jibbby                    1655       -1             
+71         maia5                     1653       8              
+72         HardRok                   1635       15             
+73         sargon-3ply               1625       6              
+74         yeoldwiz                  1621       12             
+75         turochamp-2ply            1609       -47            
+76         chat_bot                  1579       -33            
+77         maia1                     1524       25             
+78         sargon-4ply               1506       -8             
+79         DavidsGuterBot            1498       13             
+80         dlvc-bot                  1476       -66            
+81         sargon-2ply               1434       12             
+82         Humaia                    1370       -10            
+83         turochamp-1ply            1305       -13            
+84         pawnrobot                 1292       -21            
+85         sargon-1ply               1275       -5             
+86         OhniBOT                   1246       3              
+87         kireevi                   1192       -27            
+88         schnecken_bot             1095       -48            
+89         CHoMPBoT                  1062       4              
+90         DeepLLaMA                 912        -2             
