@@ -1,16 +1,13 @@
-Rank       Bot                       Rating     Prog           
-1          ResoluteBot               2176       0              
-2          TorBot                    2154       24             
-3          pangubot                  2141       7              
-4          EmptikBot                 2119       10             
-5          ToromBot                  2118       13             
-6          YoBot_v2                  2068       1              
-7          Shineshou90_BOT           2059       -1             
-8          RaspFish                  2027       6              
-9          EmptikBot247              2001       -15            
-10         Nikitosik-ai              1971       -15            
-11         MrChessTheBot             1750       37             
-12         SimplerEval               1589       -19            
-13         theoden8_uci              1273       -1             
-14         Demolito_L5               1207       25             
-15         pawnrobot                 944        -62            
+Rank       Bot                       Rating     Prog       Games     
+1          ResoluteBot               2176       0          960       
+2          TorBot                    2155       18         39        
+3          pangubot                  2142       9          225       
+4          EmptikBot                 2119       10         57        
+5          YoBot_v2                  2068       1          398       
+6          Shineshou90_BOT           2059       -1         159       
+7          RaspFish                  2029       -2         431       
+8          Nikitosik-ai              1952       -27        147       
+9          SimplerEval               1587       -11        1017      
+10         theoden8_uci              1282       11         1095      
+11         Demolito_L5               1213       31         51        
+12         pawnrobot                 936        -56        424       

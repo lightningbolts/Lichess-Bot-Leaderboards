@@ -1,58 +1,61 @@
-Rank       Bot                       Rating     Prog           
-1          TorBot                    2605       28             
-2          caissa-x                  2566       4              
-3          pangubot                  2565       7              
-4          RaspFish                  2558       -4             
-5          Shineshou90_BOT           2540       -11            
-6          MrChessTheBot             2525       2              
-7          ResoluteBot               2520       -2             
-8          JuroJ                     2518       -23            
-9          ArasanX                   2507       24             
-10         sf_bot                    2507       27             
-11         AKS-Mantissa              2377       16             
-12         expositor                 2342       -3             
-13         LazyBot                   2336       13             
-14         SaxtonEngine              2296       3              
-15         pawn_git                  2275       -4             
-16         misteick_bot              2259       13             
-17         FlamingDragon_9000        2238       -18            
-18         Weiawaga                  2231       -21            
-19         TuksuBot                  2158       17             
-20         simpleEval                2072       3              
-21         EmptikBot                 2058       49             
-22         LunaChessEngine           2012       -5             
-23         jangine                   1989       41             
-24         SimplerEval               1986       9              
-25         Boris-Trapsky             1979       2              
-26         Humaia-Strong             1975       19             
-27         eubos                     1974       7              
-28         MaxtheDog                 1968       -16            
-29         Elmichess                 1942       23             
-30         LazyBotJr                 1940       87             
-31         GarboBot                  1912       -3             
-32         Lynx_BOT                  1904       -7             
-33         CadabraBot                1901       -3             
-34         zeekat                    1874       9              
-35         baby_eubos                1845       -24            
-36         theoden8_uci              1841       -24            
-37         Demolito_L5               1822       20             
-38         LeelaRogue                1818       20             
-39         HulkBot                   1724       -130           
-40         maia9                     1702       -29            
-41         turochamp-2ply            1657       3              
-42         notropis                  1649       11             
-43         turkjs                    1619       18             
-44         chat_bot                  1617       -128           
-45         sargon-4ply               1608       34             
-46         simplexitor               1608       23             
-47         sargon-3ply               1604       6              
-48         maia5                     1595       6              
-49         Jibbby                    1578       32             
-50         yeoldwiz                  1567       -30            
-51         maia1                     1538       9              
-52         Humaia                    1441       27             
-53         sargon-2ply               1415       -36            
-54         turochamp-1ply            1380       -3             
-55         kireevi                   1354       -82            
-56         sargon-1ply               1335       27             
-57         CHoMPBoT                  1106       -38            
+Rank       Bot                       Rating     Prog       Games     
+1          TorBot                    2605       28         28        
+2          caissa-x                  2566       4          359       
+3          pangubot                  2565       7          62        
+4          RaspFish                  2558       -4         416       
+5          Shineshou90_BOT           2542       -9         163       
+6          ResoluteBot               2520       -2         569       
+7          JuroJ                     2518       -23        1837      
+8          ArasanX                   2507       24         112       
+9          LeelaChessTest            2507       14         124       
+10         sf_bot                    2507       27         156       
+11         AKS-Mantissa              2378       15         939       
+12         expositor                 2342       -3         1033      
+13         LazyBot                   2336       13         183       
+14         SaxtonEngine              2296       3          406       
+15         pawn_git                  2277       1          143       
+16         misteick_bot              2259       13         503       
+17         Weiawaga                  2239       -6         5392      
+18         FlamingDragon_9000        2238       -18        514       
+19         OldStockfish              2167       -4         19        
+20         TuksuBot                  2152       10         914       
+21         SneakyBot21               2094       99         78        
+22         simpleEval                2072       3          1759      
+23         EmptikBot                 2058       49         42        
+24         LunaChessEngine           2012       -5         522       
+25         jangine                   1989       41         237       
+26         SimplerEval               1986       9          209       
+27         Boris-Trapsky             1981       2          10217     
+28         Humaia-Strong             1975       19         173       
+29         eubos                     1974       7          700       
+30         MaxtheDog                 1958       -32        152       
+31         Elmichess                 1942       23         411       
+32         LazyBotJr                 1940       87         141       
+33         GarboBot                  1921       1          1659      
+34         CadabraBot                1908       12         171       
+35         Lynx_BOT                  1904       -7         751       
+36         zeekat                    1882       26         2780      
+37         baby_eubos                1845       -24        74        
+38         theoden8_uci              1841       -24        211       
+39         Demolito_L5               1822       20         14        
+40         LeelaRogue                1818       20         581       
+41         HulkBot                   1724       -130       236       
+42         maia9                     1710       -14        19469     
+43         turochamp-2ply            1654       2          692       
+44         notropis                  1637       13         96        
+45         turkjs                    1625       18         887       
+46         chat_bot                  1617       -128       26        
+47         maia5                     1615       -10        21566     
+48         sargon-4ply               1608       34         401       
+49         simplexitor               1608       23         109       
+50         sargon-3ply               1604       6          706       
+51         Jibbby                    1580       -3         75        
+52         yeoldwiz                  1567       -30        302       
+53         maia1                     1547       12         61847     
+54         Humaia                    1426       11         694       
+55         sargon-2ply               1412       -36        1158      
+56         turochamp-1ply            1380       -3         781       
+57         kireevi                   1354       -82        237       
+58         sargon-1ply               1342       24         3161      
+59         CHoMPBoT                  1134       40         97        
+60         G0thamB0t                 1080       -21        73        

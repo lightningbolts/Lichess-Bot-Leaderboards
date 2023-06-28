@@ -44,7 +44,7 @@ def get_bot_ratings_online(type):
     for i in online_bots:
         d = orjson.loads(i)
         try:
-            result = [d['username'], d['perfs'][type]['rating'], d['perfs'][type]['prog']]
+            result = [d['username'], d['perfs'][type]['rating'], d['perfs'][type]['prog'], d['perfs'][type]['games']]
             print(count, result)
             try: 
                 if d['perfs'][type]['prov'] == True:
@@ -61,9 +61,9 @@ def get_bot_ratings_online(type):
         count += 1
     resulting_arr = sorted(user_arr, key=lambda x: x[1], reverse=True)
     with open(get_file_name(type), 'w') as f:
-                print("{0:<10} {1:<25} {2:<10} {3:<15}".format("Rank", "Bot", "Rating", "Prog"), file=f)
+                print("{0:<10} {1:<25} {2:<10} {3:<10} {4:<10}".format("Rank", "Bot", "Rating", "Prog", "Games"), file=f)
                 for j in resulting_arr:
-                    print("{0:<10} {1:<25} {2:<10} {3:<15}".format(str(count2), j[0], str(j[1]), str(j[2])), file=f)
+                    print("{0:<10} {1:<25} {2:<10} {3:<10} {4:<10}".format(str(count2), j[0], str(j[1]), str(j[2]), str(j[3])), file=f)
                     count2 += 1
     return "\n" + "Banned bots: " + str(banned)
 
