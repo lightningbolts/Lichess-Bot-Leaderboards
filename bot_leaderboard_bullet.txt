@@ -2,14 +2,14 @@ Rank       Bot                       Rating     Prog
 1          Mate-AI                   3000       0              
 2          EmptikBot                 2950       12             
 3          pangubot                  2941       -8             
-4          EmptikVariantsBot         2937       10             
-5          caissa-x                  2931       -3             
-6          FireFishBOT               2920       1              
-7          YoBot_v2                  2906       1              
+4          caissa-x                  2931       -3             
+5          FireFishBOT               2926       12             
+6          YoBot_v2                  2906       1              
+7          TorBot                    2901       -3             
 8          Karpov_bot                2889       -14            
 9          ResoluteBot               2887       -4             
 10         caissa-test               2885       8              
-11         Shineshou90_BOT           2873       6              
+11         Shineshou90_BOT           2868       1              
 12         RaspFish                  2838       5              
 13         NikitosikVariantsbot      2831       12             
 14         Nikitosik-ai              2809       -5             
@@ -56,7 +56,7 @@ Rank       Bot                       Rating     Prog
 55         theoden8_uci              1963       9              
 56         Lynx_BOT                  1945       -11            
 57         BengalBot                 1933       7              
-58         Nc3Nc6Bot                 1908       -5             
+58         Nc3Nc6Bot                 1912       2              
 59         zeekat                    1906       17             
 60         Trollfish-Bot             1897       -7             
 61         FlounderBot               1877       13             
@@ -65,7 +65,7 @@ Rank       Bot                       Rating     Prog
 64         Hyperopic                 1825       -28            
 65         myopic-bot                1822       1              
 66         notropis                  1812       3              
-67         baby_eubos                1790       15             
+67         baby_eubos                1787       6              
 68         melsh_bot                 1774       4              
 69         maia9                     1771       7              
 70         Fisk_Bot                  1749       5              
@@ -83,7 +83,7 @@ Rank       Bot                       Rating     Prog
 82         Ramses-Chess              1534       121            
 83         monchester                1524       5              
 84         turochamp-1ply            1487       -18            
-85         sargon-1ply               1454       -4             
+85         sargon-1ply               1452       -4             
 86         yeoldwiz                  1450       18             
 87         sargon-2ply               1447       -3             
 88         OhniBOT                   1440       -138           
@@ -92,4 +92,4 @@ Rank       Bot                       Rating     Prog
 91         HulkBot                   1360       -63            
 92         CHoMPBoT                  1344       -26            
 93         pawnrobot                 1323       4              
-94         botTideEval               1309       -8             
+94         botTideEval               1311       -2             
