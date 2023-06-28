@@ -35,6 +35,8 @@ def get_bot_ratings_online(type):
     ]
     online_bots = urllib.request.urlopen('https://lichess.org/api/bot/online')
     user_arr = []
+    num_prov = 0
+    num_est = 0
     count = 0
     banned = 0
     count2 = 1
@@ -44,12 +46,16 @@ def get_bot_ratings_online(type):
         try:
             result = [d['username'], d['perfs'][type]['rating'], d['perfs'][type]['prog']]
             print(count, result)
-            if result[0] in banned_bots:
-                banned += 1
-            if d['perfs'][type]['prov'] == True:
-                print('Provisional rating')
-            else:
-                user_arr.append(result)
+            try: 
+                if d['perfs'][type]['prov'] == True:
+                    print('Provisional rating')
+                num_prov += 1
+            except:
+                num_est += 1
+                if result[0] in banned_bots:
+                    banned += 1
+                else:
+                    user_arr.append(result)
         except:
             print("No " + type + " rating available")
         count += 1

@@ -1,120 +1,88 @@
-1. @TorBot: 2892
-2. @caissa-x: 2891
-3. @EmptikBot: 2889
-4. @ToromBot: 2881
-5. @RaspFish: 2880
-6. @Mate-AI: 2870
-7. @pangubot: 2861
-8. @Shineshou90_BOT: 2856
-9. @YoBot_v2: 2856
-10. @ArasanX: 2852
-11. @EmptikBot247: 2848
-12. @chessfyBOT: 2845
-13. @Nikitosik-ai: 2845
-14. @ResoluteBot: 2844
-15. @JuroJ: 2837
-16. @ReinforcementTrial: 2837
-17. @blundar_bot: 2805
-18. @MrChessTheBot: 2800
-19. @Karpov_bot: 2752
-20. @StockDory: 2662
-21. @AKS-Mantissa: 2632
-22. @LazyBot: 2618
-23. @expositor: 2557
-24. @SaxtonEngine: 2520
-25. @Weiawaga: 2516
-26. @pawn_git: 2501
-27. @misteick_bot: 2472
-28. @odonata-bot: 2428
-29. @bot_adario: 2386
-30. @TuksuBot: 2384
-31. @catriever: 2382
-32. @fornax-engine: 2366
-33. @tgjufddolugiytgiyrt6: 2353
-34. @FlamingDragon_9000: 2309
-35. @admete_bot: 2304
-36. @humanian: 2304
-37. @simpleEval: 2297
-38. @SimplerEval: 2263
-39. @sf_bot: 2245
-40. @eubos: 2223
-41. @LunaChessEngine: 2218
-42. @MaxtheDog: 2210
-43. @Boris-Trapsky: 2197
-44. @Elmichess: 2170
-45. @TestBotRaul1: 2164
-46. @GarboBot: 2138
-47. @redtail-zero: 2130
-48. @jangine: 2126
-49. @CadabraBot: 2122
-50. @rudim-bot: 2088
-51. @halcyonbot: 2053
-52. @BLANK_BOT: 2048
-53. @theoden8_uci: 2045
-54. @actual_magnus: 2000
-55. @Annie_Archy: 2000
-56. @botTideEval: 2000
-57. @caissa-test: 2000
-58. @charibot: 2000
-59. @duchessAI: 2000
-60. @knucklefish: 2000
-61. @monke_bot: 2000
-62. @OpeningsBot: 2000
-63. @piglet_engine: 2000
-64. @StreamerVSChat: 2000
-65. @LazyBotJr: 1998
-66. @Lynx_BOT: 1973
-67. @zeekat: 1969
-68. @Nc3Nc6Bot: 1944
-69. @LeelaRogue: 1936
-70. @baby_eubos: 1902
-71. @notropis: 1866
-72. @Zagreus_Engine: 1855
-73. @myopic-bot: 1851
-74. @FlounderBot: 1841
-75. @Fisk_Bot: 1830
-76. @Trollfish-Bot: 1825
-77. @Demolito_L5: 1793
-78. @zulu_bot: 1765
-79. @turkjs: 1744
-80. @AshNostromo: 1743
-81. @maia9: 1732
-82. @melsh_bot: 1717
-83. @simplexitor: 1699
-84. @HulkBot: 1698
-85. @maia5: 1657
-86. @Jibbby: 1655
-87. @HardRok: 1627
-88. @sargon-3ply: 1625
-89. @yeoldwiz: 1621
-90. @turochamp-2ply: 1609
-91. @chat_bot: 1579
-92. @Hyperopic: 1530
-93. @QueensGamBOT: 1518
-94. @maia1: 1512
-95. @sargon-4ply: 1506
-96. @anti-bot: 1500
-97. @CatNail: 1500
-98. @Lurch_0: 1500
-99. @Lurch_1: 1500
-100. @monchester: 1500
-101. @NilatacBot: 1500
-102. @sixteen-sixty: 1500
-103. @VariantsBot: 1500
-104. @WorstFish: 1500
-105. @DavidsGuterBot: 1498
-106. @dlvc-bot: 1476
-107. @feeks99: 1459
-108. @sargon-2ply: 1434
-109. @TurtleBot: 1320
-110. @turochamp-1ply: 1305
-111. @pawnrobot: 1292
-112. @sargon-1ply: 1275
-113. @OhniBOT: 1246
-114. @kireevi: 1192
-115. @Babibot: 1161
-116. @BelaBot: 1098
-117. @schnecken_bot: 1095
-118. @CHoMPBoT: 1062
-119. @DeepLLaMA: 912
-120. @JustinBot: 744
+1. @TorBot-> Rating: 2892, Prog: 8
+2. @caissa-x-> Rating: 2891, Prog: -3
+3. @EmptikBot-> Rating: 2889, Prog: 6
+4. @ToromBot-> Rating: 2881, Prog: -4
+5. @RaspFish-> Rating: 2879, Prog: -4
+6. @Mate-AI-> Rating: 2870, Prog: 2
+7. @pangubot-> Rating: 2860, Prog: -6
+8. @Shineshou90_BOT-> Rating: 2856, Prog: 0
+9. @YoBot_v2-> Rating: 2856, Prog: -5
+10. @ArasanX-> Rating: 2852, Prog: -17
+11. @EmptikBot247-> Rating: 2848, Prog: 3
+12. @chessfyBOT-> Rating: 2845, Prog: -7
+13. @Nikitosik-ai-> Rating: 2845, Prog: -8
+14. @ResoluteBot-> Rating: 2844, Prog: -6
+15. @JuroJ-> Rating: 2838, Prog: 10
+16. @ReinforcementTrial-> Rating: 2838, Prog: 8
+17. @blundar_bot-> Rating: 2805, Prog: 5
+18. @MrChessTheBot-> Rating: 2800, Prog: 13
+19. @AKS-Mantissa-> Rating: 2632, Prog: 45
+20. @LazyBot-> Rating: 2618, Prog: 26
+21. @expositor-> Rating: 2557, Prog: 20
+22. @SaxtonEngine-> Rating: 2520, Prog: -6
+23. @Weiawaga-> Rating: 2516, Prog: -17
+24. @pawn_git-> Rating: 2501, Prog: 5
+25. @misteick_bot-> Rating: 2472, Prog: -16
+26. @odonata-bot-> Rating: 2428, Prog: -2
+27. @bot_adario-> Rating: 2386, Prog: -10
+28. @TuksuBot-> Rating: 2384, Prog: -10
+29. @fornax-engine-> Rating: 2366, Prog: 5
+30. @FlamingDragon_9000-> Rating: 2309, Prog: -12
+31. @humanian-> Rating: 2304, Prog: 6
+32. @admete_bot-> Rating: 2303, Prog: 3
+33. @SneakyBot21-> Rating: 2301, Prog: 23
+34. @simpleEval-> Rating: 2297, Prog: -15
+35. @bekbot-> Rating: 2295, Prog: 20
+36. @SimplerEval-> Rating: 2263, Prog: 14
+37. @LunaChessEngine-> Rating: 2218, Prog: 26
+38. @eubos-> Rating: 2216, Prog: 4
+39. @MaxtheDog-> Rating: 2210, Prog: 9
+40. @Boris-Trapsky-> Rating: 2197, Prog: -26
+41. @Elmichess-> Rating: 2170, Prog: 63
+42. @GarboBot-> Rating: 2138, Prog: 11
+43. @jangine-> Rating: 2131, Prog: -11
+44. @CadabraBot-> Rating: 2130, Prog: -2
+45. @redtail-zero-> Rating: 2130, Prog: 35
+46. @halcyonbot-> Rating: 2049, Prog: 2
+47. @BLANK_BOT-> Rating: 2048, Prog: 20
+48. @theoden8_uci-> Rating: 2045, Prog: -29
+49. @LazyBotJr-> Rating: 1998, Prog: -8
+50. @Lynx_BOT-> Rating: 1973, Prog: -4
+51. @zeekat-> Rating: 1969, Prog: 0
+52. @Nc3Nc6Bot-> Rating: 1944, Prog: -6
+53. @LeelaRogue-> Rating: 1936, Prog: 1
+54. @baby_eubos-> Rating: 1902, Prog: -1
+55. @notropis-> Rating: 1866, Prog: -6
+56. @Zagreus_Engine-> Rating: 1855, Prog: 6
+57. @myopic-bot-> Rating: 1851, Prog: 38
+58. @FlounderBot-> Rating: 1839, Prog: -23
+59. @Fisk_Bot-> Rating: 1830, Prog: 11
+60. @Trollfish-Bot-> Rating: 1825, Prog: 38
+61. @Demolito_L5-> Rating: 1797, Prog: -16
+62. @zulu_bot-> Rating: 1764, Prog: 4
+63. @AshNostromo-> Rating: 1743, Prog: -34
+64. @turkjs-> Rating: 1737, Prog: 10
+65. @maia9-> Rating: 1734, Prog: -14
+66. @melsh_bot-> Rating: 1717, Prog: 28
+67. @simplexitor-> Rating: 1699, Prog: 23
+68. @HulkBot-> Rating: 1698, Prog: -61
+69. @Jibbby-> Rating: 1655, Prog: -1
+70. @maia5-> Rating: 1653, Prog: 8
+71. @HardRok-> Rating: 1635, Prog: 15
+72. @sargon-3ply-> Rating: 1625, Prog: 6
+73. @yeoldwiz-> Rating: 1621, Prog: 12
+74. @turochamp-2ply-> Rating: 1609, Prog: -47
+75. @chat_bot-> Rating: 1579, Prog: -33
+76. @maia1-> Rating: 1528, Prog: 51
+77. @sargon-4ply-> Rating: 1506, Prog: -8
+78. @DavidsGuterBot-> Rating: 1498, Prog: 13
+79. @dlvc-bot-> Rating: 1476, Prog: -66
+80. @sargon-2ply-> Rating: 1434, Prog: 12
+81. @turochamp-1ply-> Rating: 1305, Prog: -13
+82. @pawnrobot-> Rating: 1292, Prog: -21
+83. @sargon-1ply-> Rating: 1275, Prog: -5
+84. @OhniBOT-> Rating: 1246, Prog: 3
+85. @kireevi-> Rating: 1192, Prog: -27
+86. @schnecken_bot-> Rating: 1095, Prog: -48
+87. @CHoMPBoT-> Rating: 1062, Prog: 4
+88. @DeepLLaMA-> Rating: 912, Prog: -2
