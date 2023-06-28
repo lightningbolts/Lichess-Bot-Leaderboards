@@ -31,10 +31,10 @@ Rank       Bot                       Rating     Prog
 30         admete_bot                2313       6              
 31         FlamingDragon_9000        2309       -12            
 32         humanian                  2306       14             
-33         bekbot                    2291       2              
+33         bekbot                    2286       -3             
 34         simpleEval                2285       -10            
 35         SimplerEval               2266       19             
-36         LunaChessEngine           2225       26             
+36         LunaChessEngine           2228       25             
 37         eubos                     2216       4              
 38         MaxtheDog                 2216       15             
 39         Boris-Trapsky             2183       -35            
@@ -44,8 +44,8 @@ Rank       Bot                       Rating     Prog
 43         redtail-zero              2130       35             
 44         jangine                   2125       -6             
 45         MatMoi                    2083       7              
-46         halcyonbot                2050       -3             
-47         BLANK_BOT                 2048       11             
+46         BLANK_BOT                 2048       11             
+47         halcyonbot                2047       -2             
 48         theoden8_uci              2037       -37            
 49         LazyBotJr                 1998       -8             
 50         zeekat                    1978       5              
@@ -54,7 +54,7 @@ Rank       Bot                       Rating     Prog
 53         LeelaRogue                1936       1              
 54         Nc3Nc6Bot                 1932       -13            
 55         baby_eubos                1914       4              
-56         notropis                  1866       -4             
+56         notropis                  1871       8              
 57         Zagreus_Engine            1862       12             
 58         FlounderBot               1854       -17            
 59         myopic-bot                1851       38             
@@ -63,7 +63,7 @@ Rank       Bot                       Rating     Prog
 62         Demolito_L5               1798       6              
 63         zulu_bot                  1770       -3             
 64         AshNostromo               1743       -34            
-65         turkjs                    1727       -11            
+65         turkjs                    1734       -2             
 66         melsh_bot                 1717       28             
 67         maia9                     1716       -31            
 68         simplexitor               1699       23             
