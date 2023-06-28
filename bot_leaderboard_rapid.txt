@@ -35,9 +35,9 @@ Rank       Bot                       Rating     Prog
 34         simpleEval                2286       -7             
 35         SimplerEval               2266       21             
 36         eubos                     2225       5              
-37         LunaChessEngine           2224       0              
+37         LunaChessEngine           2217       -11            
 38         MaxtheDog                 2209       13             
-39         HistoryExplorer           2187       3              
+39         HistoryExplorer           2194       10             
 40         Boris-Trapsky             2170       -38            
 41         Elmichess                 2170       63             
 42         GarboBot                  2144       13             
@@ -65,7 +65,7 @@ Rank       Bot                       Rating     Prog
 64         turkjs                    1745       7              
 65         AshNostromo               1743       -34            
 66         melsh_bot                 1717       28             
-67         maia9                     1707       7              
+67         maia9                     1705       -1             
 68         simplexitor               1700       29             
 69         HulkBot                   1694       -59            
 70         Jibbby                    1646       -8             
