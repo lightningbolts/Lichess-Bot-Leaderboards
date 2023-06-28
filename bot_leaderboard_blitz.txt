@@ -29,7 +29,7 @@ Rank       Bot                       Rating     Prog
 28         odonata-bot               2422       -5             
 29         bot_adario                2420       -4             
 30         fornax-engine             2406       8              
-31         admete_bot                2339       32             
+31         admete_bot                2339       21             
 32         bekbot                    2327       0              
 33         FlamingDragon_9000        2323       19             
 34         simpleEval                2280       -20            
@@ -48,10 +48,10 @@ Rank       Bot                       Rating     Prog
 47         MaxtheDog                 2054       27             
 48         halcyonbot                2034       5              
 49         LeelaRogue                2028       -1             
-50         Nc3Nc6Bot                 2018       -3             
+50         Nc3Nc6Bot                 2023       2              
 51         BLANK_BOT                 2007       -4             
 52         LazyBotJr                 2006       -20            
-53         Zagreus_Engine            1987       -4             
+53         Zagreus_Engine            1982       -15            
 54         BengalBot                 1976       2              
 55         Lynx_BOT                  1965       -4             
 56         theoden8_uci              1961       -16            
@@ -76,12 +76,12 @@ Rank       Bot                       Rating     Prog
 75         chat_bot                  1569       3              
 76         maia5                     1561       6              
 77         sargon-4ply               1499       40             
-78         DavidsGuterBot            1471       26             
+78         DavidsGuterBot            1477       31             
 79         maia1                     1463       19             
 80         sargon-3ply               1458       14             
 81         turochamp-2ply            1453       -1             
 82         monchester                1435       -16            
-83         dlvc-bot                  1432       13             
+83         dlvc-bot                  1427       17             
 84         OhniBOT                   1264       -22            
 85         pawnrobot                 1258       26             
 86         sargon-2ply               1256       1              
@@ -90,5 +90,6 @@ Rank       Bot                       Rating     Prog
 89         HulkBot                   1219       17             
 90         sargon-1ply               1155       -6             
 91         knucklefish               1081       -20            
-92         CHoMPBoT                  1028       -16            
-93         BelaBot                   912        -45            
+92         bobandi                   1076       -19            
+93         CHoMPBoT                  1028       -16            
+94         BelaBot                   912        -45            
