@@ -9,7 +9,7 @@ Rank       Bot                       Rating     Prog       Games
 8          chessfyBOT                2819       -12        180       
 9          ResoluteBot               2807       -18        10832     
 10         ChessVBOT                 2787       -2         80        
-11         Nikitosik-ai              2781       6          48        
+11         Nikitosik-ai              2781       0          50        
 12         RaspFish                  2764       -2         10458     
 13         JuroJ                     2760       7          1932      
 14         blundar_bot               2756       -9         722       
@@ -25,7 +25,7 @@ Rank       Bot                       Rating     Prog       Games
 24         TuksuBot                  2436       10         3535      
 25         bot_adario                2420       3          1807      
 26         OpeningsBot               2394       -101       19        
-27         admete_bot                2333       0          4248      
+27         admete_bot                2333       0          4249      
 28         FlamingDragon_9000        2323       19         3331      
 29         bekbot                    2309       -3         1200      
 30         catriever                 2301       13         459       
@@ -49,7 +49,7 @@ Rank       Bot                       Rating     Prog       Games
 48         Zagreus_Engine            1959       -33        3577      
 49         theoden8_uci              1956       1          3652      
 50         camel_bot                 1897       -23        169       
-51         baby_eubos                1893       -21        6128      
+51         baby_eubos                1885       -25        6129      
 52         Trollfish-Bot             1885       26         979       
 53         zeekat                    1883       -10        18134     
 54         zulu_bot                  1861       -3         992       
@@ -59,8 +59,8 @@ Rank       Bot                       Rating     Prog       Games
 58         Demolito_L5               1771       12         262       
 59         Fisk_Bot                  1733       2          1461      
 60         AshNostromo               1726       13         900       
-61         melsh_bot                 1710       -9         1403      
-62         maia9                     1703       -10        95137     
+61         maia9                     1712       -4         95138     
+62         melsh_bot                 1710       -9         1403      
 63         simplexitor               1661       10         1855      
 64         Jibbby                    1651       25         5021      
 65         yeoldwiz                  1614       -12        1584      
@@ -73,7 +73,7 @@ Rank       Bot                       Rating     Prog       Games
 72         Ramses-Chess              1471       95         43        
 73         ChamberiAjedrez           1470       -106       321       
 74         turochamp-2ply            1446       -15        1414      
-75         maia1                     1436       -27        197655    
+75         maia1                     1439       -27        197656    
 76         monchester                1426       -19        2490      
 77         OhniBOT                   1264       -22        262       
 78         sargon-2ply               1251       -9         2656      
