@@ -1,8 +1,8 @@
 Rank       Bot                       Rating     Prog       Games     
 1          caissa-x                  2891       -1         2955      
-2          TorBot                    2890       2          389       
-3          EmptikBot                 2889       6          388       
-4          RaspFish                  2876       -4         5118      
+2          EmptikBot                 2889       6          388       
+3          RaspFish                  2876       -4         5118      
+4          UltimateL                 2874       -5         309       
 5          Mate-AI                   2870       2          2375      
 6          pangubot                  2869       9          954       
 7          FireFishBOT               2868       -7         772       
@@ -44,12 +44,12 @@ Rank       Bot                       Rating     Prog       Games
 43         jangine                   2117       -9         1450      
 44         CadabraBot                2110       -6         582       
 45         MatMoi                    2110       11         67        
-46         halcyonbot                2047       -6         4800      
-47         kulubot                   2044       4          345       
+46         kulubot                   2049       13         346       
+47         halcyonbot                2047       -6         4800      
 48         BLANK_BOT                 2042       8          1311      
 49         theoden8_uci              2028       -33        1091      
 50         LazyBotJr                 1998       -8         1240      
-51         Lynx_BOT                  1986       22         38635     
+51         Lynx_BOT                  1981       17         38636     
 52         zeekat                    1972       -2         7399      
 53         BengalBot                 1950       -14        77        
 54         LeelaRogue                1940       2          2174      
@@ -65,8 +65,8 @@ Rank       Bot                       Rating     Prog       Games
 64         AshNostromo               1743       -34        1144      
 65         melsh_bot                 1717       28         140       
 66         simplexitor               1702       25         392       
-67         maia9                     1695       -16        79524     
-68         HulkBot                   1694       -59        394       
+67         HulkBot                   1694       -59        394       
+68         maia9                     1691       -18        79525     
 69         HardRok                   1658       23         161       
 70         Jibbby                    1650       -3         1652      
 71         sargon-3ply               1625       2          1026      
@@ -74,7 +74,7 @@ Rank       Bot                       Rating     Prog       Games
 73         yeoldwiz                  1621       12         623       
 74         maia5                     1620       37         95552     
 75         chat_bot                  1579       -33        146       
-76         maia1                     1559       -18        220946    
+76         maia1                     1565       -4         220948    
 77         sargon-4ply               1531       26         504       
 78         DavidsGuterBot            1507       -6         526       
 79         sargon-2ply               1430       -18        3028      
