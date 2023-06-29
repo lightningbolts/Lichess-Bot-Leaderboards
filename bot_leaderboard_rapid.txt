@@ -4,7 +4,7 @@ Rank       Bot                       Rating     Prog       Games
 3          YoBot_v2                  2872       0          12375     
 4          FireFishBOT               2867       -1         783       
 5          TheMatrix2025             2856       -2         288       
-6          ReinforcementTrial        2853       3          3978      
+6          ReinforcementTrial        2855       5          3979      
 7          chessfyBOT                2845       -7         228       
 8          ResoluteBot               2844       -6         5153      
 9          Nikitosik-ai              2835       -11        230       
@@ -19,8 +19,8 @@ Rank       Bot                       Rating     Prog       Games
 18         pawn_git                  2519       22         915       
 19         OldStockfish              2494       5          416       
 20         Weiawaga                  2493       -11        9217      
-21         misteick_bot              2469       0          972       
-22         Cheng-4                   2415       -7         2686      
+21         misteick_bot              2468       -8         973       
+22         Cheng-4                   2415       -7         2687      
 23         Pseudo-0                  2391       11         991       
 24         bot_adario                2389       7          1158      
 25         TuksuBot                  2378       -6         1774      
@@ -55,7 +55,7 @@ Rank       Bot                       Rating     Prog       Games
 54         Zagreus_Engine            1879       25         1480      
 55         myopic-bot                1865       35         201       
 56         FlounderBot               1864       12         36        
-57         notropis                  1855       -16        1883      
+57         notropis                  1852       -25        1884      
 58         Trollfish-Bot             1843       15         75        
 59         Fisk_Bot                  1839       13         209       
 60         Virutor                   1813       13         3068      
@@ -68,8 +68,8 @@ Rank       Bot                       Rating     Prog       Games
 67         HulkBot                   1720       -22        395       
 68         melsh_bot                 1717       28         140       
 69         simplexitor               1702       25         392       
-70         maia9                     1696       -12        79591     
-71         HardRok                   1693       27         181       
+70         HardRok                   1696       33         182       
+71         maia9                     1692       -12        79592     
 72         Jibbby                    1648       -4         1664      
 73         yeoldwiz                  1621       12         623       
 74         turochamp-2ply            1614       -18        984       
@@ -78,12 +78,13 @@ Rank       Bot                       Rating     Prog       Games
 77         chat_bot                  1579       -33        146       
 78         sargon-4ply               1530       16         505       
 79         DavidsGuterBot            1506       -2         527       
-80         maia1                     1495       -15        221089    
+80         maia1                     1498       -14        221090    
 81         sargon-2ply               1432       -6         3032      
 82         sargon-1ply               1320       26         7860      
 83         turochamp-1ply            1304       -8         1413      
 84         pawnrobot                 1285       -13        499       
 85         OhniBOT                   1246       3          208       
-86         CHoMPBoT                  1060       3          284       
-87         DeepLLaMA                 813        -106       55        
-88         G0thamB0t                 717        -4         232       
+86         kireevi                   1168       -32        504       
+87         CHoMPBoT                  1060       3          284       
+88         DeepLLaMA                 813        -106       55        
+89         G0thamB0t                 717        -4         232       
