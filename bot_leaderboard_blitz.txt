@@ -27,7 +27,7 @@ Rank       Bot                       Rating     Prog       Games
 26         odonata-bot               2420       -8         5701      
 27         bot_adario                2413       -12        1806      
 28         fornax-engine             2409       6          6191      
-29         admete_bot                2344       -4         4186      
+29         admete_bot                2344       -4         4187      
 30         FlamingDragon_9000        2323       19         3331      
 31         simpleEval                2298       17         13670     
 32         catriever                 2296       25         450       
@@ -60,9 +60,9 @@ Rank       Bot                       Rating     Prog       Games
 59         Trollfish-Bot             1864       21         969       
 60         zulu_bot                  1861       -3         992       
 61         notropis                  1816       -6         5367      
-62         myopic-bot                1807       -7         1236      
-63         FlounderBot               1806       9          410       
-64         Demolito_L5               1777       14         257       
+62         FlounderBot               1811       14         411       
+63         myopic-bot                1807       -7         1236      
+64         Demolito_L5               1772       4          258       
 65         Fisk_Bot                  1738       14         1458      
 66         melsh_bot                 1721       -2         1399      
 67         AshNostromo               1720       2          899       
@@ -78,7 +78,7 @@ Rank       Bot                       Rating     Prog       Games
 77         sargon-4ply               1497       27         1625      
 78         DavidsGuterBot            1484       14         3145      
 79         sargon-3ply               1474       26         1582      
-80         maia1                     1464       -6         197582    
+80         maia1                     1455       -19        197583    
 81         turochamp-2ply            1449       -4         1412      
 82         monchester                1425       -26        2488      
 83         OhniBOT                   1264       -22        262       
@@ -88,5 +88,6 @@ Rank       Bot                       Rating     Prog       Games
 87         HulkBot                   1219       17         657       
 88         sargon-1ply               1218       35         7167      
 89         knucklefish               1081       -20        2996      
-90         CHoMPBoT                  1011       -8         994       
-91         BelaBot                   912        -45        44        
+90         bobandi                   1076       -19        1055      
+91         CHoMPBoT                  1011       -8         994       
+92         BelaBot                   912        -45        44        
