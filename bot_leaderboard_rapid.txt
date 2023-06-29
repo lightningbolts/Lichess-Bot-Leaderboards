@@ -1,10 +1,10 @@
 Rank       Bot                       Rating     Prog       Games     
 1          caissa-x                  2891       -1         2955      
-2          RaspFish                  2875       -7         5126      
+2          RaspFish                  2874       -2         5127      
 3          YoBot_v2                  2869       2          12371     
 4          FireFishBOT               2867       -5         781       
 5          TheMatrix2025             2857       -1         287       
-6          ReinforcementTrial        2852       10         3973      
+6          ReinforcementTrial        2853       10         3974      
 7          chessfyBOT                2845       -7         228       
 8          ResoluteBot               2844       -6         5153      
 9          Nikitosik-ai              2833       -13        229       
@@ -21,8 +21,8 @@ Rank       Bot                       Rating     Prog       Games
 20         Weiawaga                  2491       -11        9216      
 21         misteick_bot              2469       5          970       
 22         Cheng-4                   2424       0          2672      
-23         Pseudo-0                  2395       16         990       
-24         bot_adario                2392       5          1156      
+23         bot_adario                2396       14         1157      
+24         Pseudo-0                  2395       16         990       
 25         TuksuBot                  2378       -6         1774      
 26         Phalanx-XXV               2367       -9         765       
 27         fornax-engine             2361       -2         3506      
@@ -33,7 +33,7 @@ Rank       Bot                       Rating     Prog       Games
 32         SneakyBot21               2301       23         232       
 33         simpleEval                2277       -9         7108      
 34         honzovy-sachy-2           2255       16         3360      
-35         SimplerEval               2251       -4         1841      
+35         SimplerEval               2247       -7         1842      
 36         eubos                     2230       10         4047      
 37         LunaChessEngine           2224       7          836       
 38         MaxtheDog                 2206       -3         441       
@@ -70,8 +70,8 @@ Rank       Bot                       Rating     Prog       Games
 69         melsh_bot                 1717       28         140       
 70         simplexitor               1702       25         392       
 71         maia9                     1686       4          79572     
-72         HardRok                   1668       10         172       
-73         Jibbby                    1643       -3         1662      
+72         HardRok                   1662       6          173       
+73         Jibbby                    1649       -1         1663      
 74         yeoldwiz                  1621       12         623       
 75         sargon-3ply               1618       -10        1029      
 76         turochamp-2ply            1614       -18        984       
@@ -79,7 +79,7 @@ Rank       Bot                       Rating     Prog       Games
 78         chat_bot                  1579       -33        146       
 79         sargon-4ply               1530       16         505       
 80         DavidsGuterBot            1506       -2         527       
-81         maia1                     1485       -1         221062    
+81         maia1                     1495       3          221064    
 82         sargon-2ply               1434       -9         3031      
 83         sargon-1ply               1320       26         7860      
 84         turochamp-1ply            1304       -8         1413      
