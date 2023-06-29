@@ -1,13 +1,13 @@
 Rank       Bot                       Rating     Prog       Games     
 1          caissa-x                  2971       5          14269     
-2          TheMatrix2025             2945       1          5758      
-3          ToromBot                  2945       -4         54580     
+2          ToromBot                  2946       -2         54581     
+3          TheMatrix2025             2943       0          5759      
 4          YoBot_v2                  2930       22         15848     
 5          FireFishBOT               2912       -5         192       
 6          caissa-test               2904       -6         604       
 7          Nikitosikbot              2888       -4         19481     
 8          ResoluteBot               2887       -4         24791     
-9          RaspFish                  2851       -8         43834     
+9          RaspFish                  2853       -6         43835     
 10         Nikitosik-ai              2830       4          406       
 11         blundar_bot               2805       6          4233      
 12         chessfyBOT                2788       -8         1404      
@@ -18,7 +18,7 @@ Rank       Bot                       Rating     Prog       Games
 17         Elmichess                 2566       -15        3178      
 18         CodingAdventureBot        2548       -16        59        
 19         FlamingDragon_9000        2524       -5         10619     
-20         AKS-Mantissa              2511       16         9325      
+20         AKS-Mantissa              2510       13         9326      
 21         SaxtonEngine              2481       -4         3247      
 22         Cheng-4                   2434       -7         13018     
 23         pawn_git                  2428       -2         3308      
@@ -28,8 +28,8 @@ Rank       Bot                       Rating     Prog       Games
 27         bot_adario                2361       -8         2143      
 28         TuksuBot                  2350       1          6415      
 29         odonata-bot               2346       -7         5732      
-30         admete_bot                2335       -3         4892      
-31         misteick_bot              2335       -15        14029     
+30         misteick_bot              2335       -15        14029     
+31         admete_bot                2334       -3         4896      
 32         catriever                 2333       -7         1318      
 33         Phalanx-XXV               2323       8          3861      
 34         fornax-engine             2284       10         6485      
@@ -92,5 +92,4 @@ Rank       Bot                       Rating     Prog       Games
 91         knucklefish               1364       4          2550      
 92         HulkBot                   1360       -56        1159      
 93         pawnrobot                 1325       3          3544      
-94         botTideEval               1317       15         364       
-95         CHoMPBoT                  1309       -29        608       
+94         CHoMPBoT                  1309       -29        608       
