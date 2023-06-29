@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          TorBot                    2890       -7         513       
 2          pangubot                  2879       1          1051      
-3          caissa-x                  2857       -9         2992      
+3          caissa-x                  2857       -9         2993      
 4          TheMatrix2025             2856       6          353       
 5          FireFishBOT               2853       -1         167       
 6          YoBot_v2                  2853       1          2859      
@@ -19,13 +19,13 @@ Rank       Bot                       Rating     Prog       Games
 18         SaxtonEngine              2587       12         1795      
 19         pawn_git                  2499       17         1970      
 20         Weiawaga                  2495       16         10903     
-21         misteick_bot              2452       -6         5381      
+21         misteick_bot              2457       -1         5382      
 22         OldStockfish              2439       14         314       
-23         OpeningsBot               2438       -57        16        
-24         TuksuBot                  2436       10         3535      
-25         bot_adario                2420       3          1807      
-26         odonata-bot               2420       -8         5701      
-27         admete_bot                2343       -4         4209      
+23         TuksuBot                  2436       10         3535      
+24         bot_adario                2420       3          1807      
+25         odonata-bot               2420       -8         5701      
+26         OpeningsBot               2415       -80        17        
+27         admete_bot                2343       -4         4210      
 28         bekbot                    2306       -11        1198      
 29         catriever                 2297       17         454       
 30         simpleEval                2294       8          13674     
@@ -42,7 +42,7 @@ Rank       Bot                       Rating     Prog       Games
 41         MatMoi                    2023       33         94        
 42         LazyBotJr                 2006       -20        1482      
 43         Zagreus_Engine            1969       -11        3574      
-44         Lynx_BOT                  1962       -6         46059     
+44         Lynx_BOT                  1962       1          46060     
 45         theoden8_uci              1955       0          3649      
 46         BengalBot                 1952       -20        392       
 47         zeekat                    1904       -9         18120     
@@ -55,7 +55,7 @@ Rank       Bot                       Rating     Prog       Games
 54         Fisk_Bot                  1738       14         1459      
 55         AshNostromo               1726       13         900       
 56         melsh_bot                 1709       -8         1401      
-57         maia9                     1705       -13        95118     
+57         maia9                     1704       -10        95120     
 58         Jibbby                    1641       19         5014      
 59         yeoldwiz                  1614       -12        1584      
 60         turkjs                    1596       -29        9919      
@@ -74,5 +74,6 @@ Rank       Bot                       Rating     Prog       Games
 73         HulkBot                   1219       17         657       
 74         sargon-1ply               1218       35         7167      
 75         knucklefish               1081       -20        2996      
-76         CHoMPBoT                  1025       11         1000      
-77         BelaBot                   912        -45        44        
+76         bobandi                   1076       -19        1055      
+77         CHoMPBoT                  1025       11         1000      
+78         BelaBot                   912        -45        44        
