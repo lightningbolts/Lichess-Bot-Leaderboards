@@ -1,10 +1,10 @@
 Rank       Bot                       Rating     Prog       Games     
 1          TorBot                    2889       -3         514       
 2          ToromBot                  2881       2          2489      
-3          FireFishBOT               2859       7          177       
+3          FireFishBOT               2859       6          178       
 4          caissa-x                  2857       -4         2996      
 5          TheMatrix2025             2856       6          353       
-6          YoBot_v2                  2853       3          2862      
+6          YoBot_v2                  2853       3          2863      
 7          Mate-AI                   2849       0          2929      
 8          chessfyBOT                2819       -12        180       
 9          ResoluteBot               2807       -18        10832     
@@ -30,11 +30,11 @@ Rank       Bot                       Rating     Prog       Games
 29         OpeningsBot               2364       -96        23        
 30         catriever                 2332       34         466       
 31         FlamingDragon_9000        2323       19         3331      
-32         admete_bot                2322       1          4285      
+32         admete_bot                2321       0          4286      
 33         bekbot                    2312       1          1203      
 34         simpleEval                2291       1          13675     
-35         SimplerEval               2259       9          3227      
-36         humanian                  2195       20         11105     
+35         SimplerEval               2252       -2         3228      
+36         humanian                  2202       34         11106     
 37         GarboBot                  2179       -23        8382      
 38         honzovy-sachy-2           2179       -16        6279      
 39         LunaChessEngine           2172       -23        1086      
@@ -81,7 +81,7 @@ Rank       Bot                       Rating     Prog       Games
 80         DavidsGuterBot            1480       -4         3151      
 81         sargon-3ply               1473       19         1584      
 82         ChamberiAjedrez           1470       -106       321       
-83         turochamp-2ply            1466       3          1418      
+83         turochamp-2ply            1470       10         1419      
 84         monchester                1426       -19        2490      
 85         maia1                     1425       -7         197716    
 86         sargon-2ply               1279       24         2664      
