@@ -1,14 +1,14 @@
 Rank       Bot                       Rating     Prog       Games     
 1          caissa-x                  2971       5          14269     
 2          Mate-AI                   2951       -7         11218     
-3          ToromBot                  2946       3          54561     
-4          TheMatrix2025             2938       4          5727      
+3          ToromBot                  2946       2          54562     
+4          TheMatrix2025             2938       4          5728      
 5          TorBot                    2924       -1         5109      
 6          FireFishBOT               2917       -6         175       
 7          YoBot_v2                  2909       2          15843     
 8          caissa-test               2904       -6         604       
 9          ResoluteBot               2887       -4         24791     
-10         RaspFish                  2879       4          43787     
+10         RaspFish                  2874       -1         43788     
 11         Nikitosik-ai              2826       6          390       
 12         blundar_bot               2805       6          4233      
 13         chessfyBOT                2788       -8         1404      
@@ -22,7 +22,7 @@ Rank       Bot                       Rating     Prog       Games
 21         AKS-Mantissa              2492       -44        9313      
 22         SaxtonEngine              2485       2          3243      
 23         Cheng-4                   2434       -7         13018     
-24         pawn_git                  2427       -7         3301      
+24         pawn_git                  2432       -2         3302      
 25         Weiawaga                  2409       -6         13945     
 26         OldStockfish              2381       -3         671       
 27         bot_adario                2361       -8         2142      
@@ -37,8 +37,8 @@ Rank       Bot                       Rating     Prog       Games
 36         SimplerEval               2273       20         2592      
 37         Pseudo-0                  2257       24         3513      
 38         simpleEval                2251       -7         23934     
-39         honzovy-sachy-2           2229       -7         6504      
-40         bekbot                    2228       -16        1224      
+39         bekbot                    2228       -16        1224      
+40         honzovy-sachy-2           2226       -8         6505      
 41         humanian                  2195       -12        4217      
 42         LunaChessEngine           2164       5          784       
 43         CadabraBot                2144       6          436       
@@ -50,7 +50,7 @@ Rank       Bot                       Rating     Prog       Games
 49         GarboBot                  2105       -4         9122      
 50         eubos                     2089       16         11208     
 51         redtail-zero              2083       -2         217       
-52         MaxtheDog                 2058       11         11659     
+52         MaxtheDog                 2061       11         11660     
 53         BLANK_BOT                 2041       32         6466      
 54         halcyonbot                2017       3          3953      
 55         theoden8_uci              1956       6          3580      
@@ -64,8 +64,8 @@ Rank       Bot                       Rating     Prog       Games
 63         maia9                     1806       -3         59025     
 64         Demolito_L5               1802       -22        154       
 65         notropis                  1797       -37        3090      
-66         honzovy-sachy             1796       -16        4609      
-67         melsh_bot                 1778       12         3230      
+66         honzovy-sachy             1790       -15        4610      
+67         melsh_bot                 1784       17         3231      
 68         baby_eubos                1771       11         4321      
 69         simplexitor               1755       17         1976      
 70         Fisk_Bot                  1749       11         222       
