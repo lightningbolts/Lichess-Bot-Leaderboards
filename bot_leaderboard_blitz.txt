@@ -30,7 +30,7 @@ Rank       Bot                       Rating     Prog       Games
 29         OpeningsBot               2364       -96        23        
 30         catriever                 2332       34         466       
 31         FlamingDragon_9000        2323       19         3331      
-32         admete_bot                2321       1          4289      
+32         admete_bot                2320       0          4290      
 33         bekbot                    2312       1          1203      
 34         simpleEval                2291       1          13675     
 35         SimplerEval               2252       -2         3228      
@@ -50,12 +50,12 @@ Rank       Bot                       Rating     Prog       Games
 49         BLANK_BOT                 2029       27         4103      
 50         halcyonbot                2018       -6         7311      
 51         LazyBotJr                 2006       -20        1482      
-52         kulubot                   2003       -4         806       
+52         kulubot                   1996       -6         807       
 53         Lynx_BOT                  1972       10         46081     
 54         BengalBot                 1965       1          396       
 55         theoden8_uci              1960       3          3653      
-56         Zagreus_Engine            1945       -40        3579      
-57         camel_bot                 1926       0          175       
+56         camel_bot                 1946       24         176       
+57         Zagreus_Engine            1945       -40        3579      
 58         zeekat                    1889       0          18141     
 59         Trollfish-Bot             1888       10         984       
 60         baby_eubos                1866       -32        6134      
@@ -69,7 +69,7 @@ Rank       Bot                       Rating     Prog       Games
 68         Fisk_Bot                  1733       2          1461      
 69         AshNostromo               1726       13         900       
 70         melsh_bot                 1710       -9         1403      
-71         maia9                     1690       -7         95170     
+71         maia9                     1682       -11        95171     
 72         simplexitor               1659       15         1859      
 73         Jibbby                    1647       -4         5030      
 74         ChessChildren             1631       -13        20879     
@@ -92,6 +92,6 @@ Rank       Bot                       Rating     Prog       Games
 91         sargon-1ply               1226       33         7171      
 92         HulkBot                   1219       17         657       
 93         knucklefish               1081       -20        2996      
-94         CHoMPBoT                  1016       5          1005      
+94         CHoMPBoT                  1020       1          1006      
 95         BelaBot                   912        -45        44        
 96         DeepLLaMA                 870        -164       25        
