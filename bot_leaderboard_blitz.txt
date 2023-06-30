@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ToromBot                  2880       -1         2502      
-2          FireFishBOT               2879       -2         269       
+2          FireFishBOT               2878       0          270       
 3          caissa-x                  2858       4          2999      
 4          YoBot_v2                  2856       3          2873      
 5          Shineshou90_BOT           2839       3          1352      
@@ -8,7 +8,7 @@ Rank       Bot                       Rating     Prog       Games
 7          chessfyBOT                2819       -12        180       
 8          NikitosikVariantsbot      2819       4          692       
 9          ResoluteBot               2807       -18        10832     
-10         RaspFish                  2784       17         10471     
+10         RaspFish                  2785       16         10472     
 11         Nikitosik-ai              2773       -15        56        
 12         blundar_bot               2756       -9         722       
 13         LazyBot                   2756       3          1977      
@@ -16,12 +16,12 @@ Rank       Bot                       Rating     Prog       Games
 15         TRGBot                    2691       8          98        
 16         AKS-Mantissa              2689       -4         8495      
 17         SaxtonEngine              2572       -3         1811      
-18         Altair_Engine             2538       22         171       
+18         Altair_Engine             2547       36         172       
 19         expositor                 2528       2          6255      
 20         pawn_git                  2502       12         1978      
-21         CodingAdventureBot        2499       6          118       
+21         CodingAdventureBot        2501       4          124       
 22         Weiawaga                  2489       -12        10927     
-23         misteick_bot              2459       -3         5429      
+23         misteick_bot              2455       -9         5430      
 24         Cheng-4                   2438       2          5975      
 25         TuksuBot                  2434       5          3543      
 26         OldStockfish              2432       -4         321       
@@ -35,7 +35,7 @@ Rank       Bot                       Rating     Prog       Games
 34         OpeningsBot               2372       24         33        
 35         FlamingDragon_9000        2323       19         3331      
 36         bekbot                    2301       -8         1217      
-37         admete_bot                2299       0          4461      
+37         admete_bot                2299       0          4462      
 38         simpleEval                2285       -11        13683     
 39         SimplerEval               2248       -8         3230      
 40         HistoryExplorer           2246       -12        2380      
@@ -58,10 +58,10 @@ Rank       Bot                       Rating     Prog       Games
 57         halcyonbot                2021       7          7359      
 58         LazyBotJr                 2006       -20        1482      
 59         BLANK_BOT                 2000       -28        4116      
-60         Lynx_BOT                  1997       3          46156     
+60         Lynx_BOT                  1991       0          46157     
 61         camel_bot                 1974       2          219       
 62         theoden8_uci              1961       20         3670      
-63         Zagreus_Engine            1952       16         3603      
+63         Zagreus_Engine            1959       27         3604      
 64         BengalBot                 1904       -16        424       
 65         zeekat                    1898       5          18196     
 66         Trollfish-Bot             1896       1          1009      
@@ -92,7 +92,7 @@ Rank       Bot                       Rating     Prog       Games
 91         ChamberiAjedrez           1470       -106       321       
 92         RoundMoundOfRebounds      1463       23         975       
 93         turochamp-2ply            1463       14         1423      
-94         maia1                     1446       24         197915    
+94         maia1                     1446       19         197916    
 95         monchester                1421       -14        2495      
 96         Humaia                    1366       0          753       
 97         sargon-2ply               1281       3          2672      
