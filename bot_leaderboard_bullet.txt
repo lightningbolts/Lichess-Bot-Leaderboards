@@ -24,8 +24,8 @@ Rank       Bot                       Rating     Prog       Games
 23         Cheng-4                   2436       2          13029     
 24         pawn_git                  2419       -9         3319      
 25         Weiawaga                  2392       -4         13966     
-26         OldStockfish              2371       -7         689       
-27         misteick_bot              2366       3          14094     
+26         misteick_bot              2372       6          14095     
+27         OldStockfish              2365       -12        690       
 28         OpeningsBot               2363       25         51        
 29         bot_adario                2357       -6         2149      
 30         TuksuBot                  2355       4          6423      
@@ -37,10 +37,10 @@ Rank       Bot                       Rating     Prog       Games
 36         SimplerEval               2275       26         2593      
 37         simpleEval                2274       23         23940     
 38         Pseudo-0                  2267       28         3516      
-39         bekbot                    2246       13         1237      
+39         bekbot                    2244       18         1238      
 40         humanian                  2222       27         4226      
 41         honzovy-sachy-2           2198       -35        6510      
-42         LunaChessEngine           2163       11         809       
+42         LunaChessEngine           2165       17         810       
 43         CadabraBot                2131       -15        453       
 44         LazyBotJr                 2131       9          804       
 45         rudim-bot                 2131       43         110       
@@ -54,7 +54,7 @@ Rank       Bot                       Rating     Prog       Games
 53         BLANK_BOT                 2026       -2         6474      
 54         halcyonbot                2020       7          3969      
 55         YourSparringBot           1973       -27        201       
-56         camel_bot                 1969       67         185       
+56         camel_bot                 1971       65         186       
 57         Zagreus_Engine            1965       -11        2505      
 58         theoden8_uci              1963       21         3594      
 59         Lynx_BOT                  1936       -16        5414      
@@ -63,7 +63,7 @@ Rank       Bot                       Rating     Prog       Games
 62         BengalBot                 1906       -23        815       
 63         QueensGamBOT              1865       -7         4512      
 64         myopic-bot                1853       5          1210      
-65         FlounderBot               1839       -7         789       
+65         FlounderBot               1843       -4         790       
 66         Genetic_Chess_Bot         1823       22         1993      
 67         baby_eubos                1797       21         4329      
 68         notropis                  1791       -9         3100      
@@ -72,13 +72,13 @@ Rank       Bot                       Rating     Prog       Games
 71         simplexitor               1764       12         1984      
 72         melsh_bot                 1763       1          3250      
 73         Fisk_Bot                  1749       11         222       
-74         ChessChildren             1723       -13        15054     
+74         ChessChildren             1719       -16        15055     
 75         Virutor                   1702       -1         6301      
 76         turkjs                    1668       -6         18827     
 77         maia5                     1651       51         38213     
 78         Jibbby                    1648       -19        2327      
 79         maia1                     1648       -8         119723    
-80         sargon-4ply               1596       11         1393      
+80         sargon-4ply               1595       10         1394      
 81         turochamp-2ply            1587       3          1287      
 82         DavidsGuterBot            1561       11         5561      
 83         sargon-3ply               1552       -7         1044      
