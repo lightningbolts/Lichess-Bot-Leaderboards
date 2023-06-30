@@ -1,10 +1,10 @@
 Rank       Bot                       Rating     Prog       Games     
 1          caissa-x                  2972       4          14279     
-2          ToromBot                  2946       0          54845     
+2          ToromBot                  2947       0          54846     
 3          YoBot_v2                  2927       10         15875     
 4          Nikitosikbot              2909       3          19580     
 5          FireFishBOT               2902       -1         239       
-6          caissa-test               2895       -1         628       
+6          caissa-test               2896       1          629       
 7          RaspFish                  2891       5          44058     
 8          ResoluteBot               2887       -4         24791     
 9          Shineshou90_BOT           2849       -6         6509      
@@ -15,10 +15,10 @@ Rank       Bot                       Rating     Prog       Games
 14         TRGBot                    2792       -1         378       
 15         chessfyBOT                2788       -8         1404      
 16         LazyBot                   2707       18         1388      
-17         CodingAdventureBot        2653       9          202       
+17         CodingAdventureBot        2655       8          204       
 18         expositor                 2576       6          17789     
 19         Elmichess                 2566       -15        3178      
-20         AKS-Mantissa              2536       3          9369      
+20         AKS-Mantissa              2535       3          9370      
 21         FlamingDragon_9000        2524       -5         10619     
 22         SaxtonEngine              2464       -8         3284      
 23         Cheng-4                   2441       3          13038     
@@ -26,7 +26,7 @@ Rank       Bot                       Rating     Prog       Games
 25         RenegadeEngine            2386       14         1127      
 26         Weiawaga                  2377       -8         13987     
 27         misteick_bot              2376       2          14140     
-28         OldStockfish              2375       2          708       
+28         OldStockfish              2374       1          709       
 29         bot_adario                2351       -9         2162      
 30         TuksuBot                  2350       -4         6436      
 31         OpeningsBot               2344       -23        59        
@@ -54,7 +54,7 @@ Rank       Bot                       Rating     Prog       Games
 53         Sparring_Bot              2055       43         214       
 54         Humaia-Strong             2035       56         1304      
 55         BLANK_BOT                 2022       -4         6481      
-56         halcyonbot                2014       -5         3981      
+56         halcyonbot                2018       6          3982      
 57         YourSparringBot           1997       39         219       
 58         Trollfish-Bot             1981       13         2008      
 59         theoden8_uci              1980       22         3604      
@@ -63,7 +63,7 @@ Rank       Bot                       Rating     Prog       Games
 62         Lynx_BOT                  1932       -10        5423      
 63         zeekat                    1900       -21        16546     
 64         BengalBot                 1883       -24        849       
-65         myopic-bot                1865       6          1217      
+65         myopic-bot                1862       2          1218      
 66         rudim-bot                 1856       -222       117       
 67         FlounderBot               1852       9          816       
 68         QueensGamBOT              1851       -7         4520      
@@ -90,11 +90,11 @@ Rank       Bot                       Rating     Prog       Games
 89         monchester                1520       -5         2145      
 90         turochamp-1ply            1491       -5         1552      
 91         RoundMoundOfRebounds      1467       -13        960       
-92         sargon-1ply               1455       4          3801      
+92         sargon-1ply               1455       -1         3802      
 93         yeoldwiz                  1450       18         791       
 94         sargon-2ply               1444       9          1748      
 95         OhniBOT                   1440       -138       327       
-96         andoma-bot                1435       -4         25        
+96         andoma-bot                1436       20         26        
 97         schnecken_bot             1370       -22        369       
 98         knucklefish               1364       4          2550      
 99         HulkBot                   1360       -56        1159      
