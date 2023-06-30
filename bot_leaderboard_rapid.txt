@@ -5,7 +5,7 @@ Rank       Bot                       Rating     Prog       Games
 4          YoBot_v2                  2874       -4         12413     
 5          FireFishBOT               2867       -1         789       
 6          Shineshou90_BOT           2856       3          2180      
-7          ReinforcementTrial        2853       1          4006      
+7          ReinforcementTrial        2853       0          4007      
 8          faith_bot                 2848       -5         601       
 9          chessfyBOT                2845       -7         228       
 10         ResoluteBot               2844       -6         5153      
@@ -25,7 +25,7 @@ Rank       Bot                       Rating     Prog       Games
 24         misteick_bot              2468       -13        974       
 25         odonata-bot               2427       8          3569      
 26         Pseudo-0                  2389       2          993       
-27         bot_adario                2388       -2         1161      
+27         bot_adario                2387       -3         1162      
 28         Cheng-4                   2385       -4         2766      
 29         TuksuBot                  2377       -7         1777      
 30         Phalanx-XXV               2360       -6         770       
@@ -45,7 +45,7 @@ Rank       Bot                       Rating     Prog       Games
 44         Boris-Trapsky             2170       1          26832     
 45         Sparring_Bot              2165       -6         116       
 46         MatMoi                    2162       19         109       
-47         CadabraBot                2148       11         637       
+47         CadabraBot                2145       12         638       
 48         GarboBot                  2145       13         5726      
 49         YourSparringBot           2136       0          122       
 50         redtail-zero              2130       35         90        
@@ -56,17 +56,17 @@ Rank       Bot                       Rating     Prog       Games
 55         theoden8_uci              2020       -8         1102      
 56         LazyBotJr                 1998       -8         1240      
 57         Lynx_BOT                  1996       5          38689     
-58         camel_bot                 1986       -5         149       
+58         camel_bot                 1990       0          150       
 59         halcyonbot                1981       -24        4871      
 60         zeekat                    1951       -1         7442      
-61         LeelaRogue                1945       16         2176      
-62         BengalBot                 1943       -10        84        
+61         BengalBot                 1948       0          85        
+62         LeelaRogue                1945       16         2176      
 63         baby_eubos                1937       18         724       
 64         Zagreus_Engine            1883       5          1489      
 65         FlounderBot               1875       32         39        
 66         myopic-bot                1867       43         202       
 67         Trollfish-Bot             1845       20         79        
-68         notropis                  1837       -23        1893      
+68         notropis                  1833       -22        1894      
 69         Fisk_Bot                  1832       2          213       
 70         Virutor                   1824       13         3073      
 71         ChessChildren             1823       34         4253      
@@ -87,7 +87,7 @@ Rank       Bot                       Rating     Prog       Games
 86         maia5                     1595       14         95788     
 87         chat_bot                  1579       -33        146       
 88         sargon-4ply               1523       31         509       
-89         maia1                     1512       -24        221239    
+89         maia1                     1515       -21        221241    
 90         RoundMoundOfRebounds      1454       0          279       
 91         sargon-2ply               1439       5          3042      
 92         Humaia                    1366       -20        1904      
