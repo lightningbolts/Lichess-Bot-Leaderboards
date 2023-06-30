@@ -6,7 +6,7 @@ Rank       Bot                       Rating     Prog       Games
 5          FireFishBOT               2904       -3         211       
 6          Nikitosikbot              2897       -1         19519     
 7          ResoluteBot               2887       -4         24791     
-8          RaspFish                  2880       8          43930     
+8          RaspFish                  2882       10         43931     
 9          Botacik                   2861       -4         109       
 10         Shineshou90_BOT           2858       3          6465      
 11         Nikitosik-ai              2833       -2         430       
@@ -15,7 +15,7 @@ Rank       Bot                       Rating     Prog       Games
 14         chessfyBOT                2788       -8         1404      
 15         LazyBot                   2707       18         1388      
 16         MrChessTheBot             2629       4          4280      
-17         expositor                 2575       1          17770     
+17         expositor                 2573       -5         17771     
 18         Elmichess                 2566       -15        3178      
 19         CodingAdventureBot        2549       24         61        
 20         AKS-Mantissa              2524       6          9345      
@@ -39,11 +39,11 @@ Rank       Bot                       Rating     Prog       Games
 38         fornax-engine             2271       -7         6488      
 39         SimplerEval               2271       13         2594      
 40         bekbot                    2246       19         1239      
-41         HistoryExplorer           2244       -17        2257      
+41         HistoryExplorer           2242       -16        2258      
 42         humanian                  2228       33         4228      
 43         honzovy-sachy-2           2198       -36        6511      
 44         SneakyBot21               2176       -39        772       
-45         LunaChessEngine           2150       -2         814       
+45         LunaChessEngine           2152       -2         815       
 46         CadabraBot                2135       -10        455       
 47         LazyBotJr                 2131       9          804       
 48         rudim-bot                 2131       43         110       
@@ -94,3 +94,4 @@ Rank       Bot                       Rating     Prog       Games
 93         HulkBot                   1360       -56        1159      
 94         botTideEval               1310       -10        370       
 95         CHoMPBoT                  1309       -29        609       
+96         RedFlojo                  1089       -64        28        
