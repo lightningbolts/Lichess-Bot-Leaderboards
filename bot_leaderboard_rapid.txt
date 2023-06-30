@@ -1,9 +1,9 @@
 Rank       Bot                       Rating     Prog       Games     
 1          caissa-x                  2891       -1         2955      
 2          ToromBot                  2882       0          1592      
-3          YoBot_v2                  2878       0          12402     
+3          YoBot_v2                  2878       1          12403     
 4          RaspFish                  2876       0          5131      
-5          FireFishBOT               2867       -1         787       
+5          FireFishBOT               2867       -1         788       
 6          chessbot2880              2862       8          267       
 7          Shineshou90_BOT           2855       3          2177      
 8          ReinforcementTrial        2853       0          3996      
@@ -23,7 +23,7 @@ Rank       Bot                       Rating     Prog       Games
 22         OldStockfish              2491       7          419       
 23         misteick_bot              2468       -8         973       
 24         odonata-bot               2428       5          3568      
-25         Cheng-4                   2393       -4         2733      
+25         Cheng-4                   2392       -5         2734      
 26         Pseudo-0                  2391       11         991       
 27         bot_adario                2388       -2         1160      
 28         TuksuBot                  2381       -3         1776      
@@ -95,4 +95,3 @@ Rank       Bot                       Rating     Prog       Games
 94         CHoMPBoT                  1057       3          287       
 95         DeepLLaMA                 828        -89        56        
 96         G0thamB0t                 717        -4         232       
-97         RedFlojo                  473        -5         100       
