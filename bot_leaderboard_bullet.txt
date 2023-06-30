@@ -5,7 +5,7 @@ Rank       Bot                       Rating     Prog       Games
 4          FireFishBOT               2903       -7         207       
 5          Nikitosikbot              2897       0          19514     
 6          ResoluteBot               2887       -4         24791     
-7          RaspFish                  2877       9          43897     
+7          RaspFish                  2877       7          43898     
 8          Shineshou90_BOT           2857       3          6459      
 9          Nikitosik-ai              2832       8          424       
 10         NikitosikVariantsbot      2831       12         2143      
@@ -21,14 +21,14 @@ Rank       Bot                       Rating     Prog       Games
 20         AKS-Mantissa              2518       8          9337      
 21         SaxtonEngine              2479       -1         3259      
 22         Cheng-4                   2436       2          13029     
-23         pawn_git                  2422       -8         3316      
-24         Weiawaga                  2390       -9         13963     
+23         pawn_git                  2420       -10        3317      
+24         Weiawaga                  2389       -8         13964     
 25         OldStockfish              2372       -7         688       
 26         OpeningsBot               2367       4          48        
 27         bot_adario                2357       -6         2149      
 28         TuksuBot                  2353       3          6421      
-29         odonata-bot               2344       -7         5735      
-30         misteick_bot              2343       -2         14058     
+29         misteick_bot              2346       2          14062     
+30         odonata-bot               2344       -7         5735      
 31         catriever                 2335       -5         1319      
 32         admete_bot                2323       -3         4938      
 33         Phalanx-XXV               2323       7          3862      
@@ -53,7 +53,7 @@ Rank       Bot                       Rating     Prog       Games
 52         halcyonbot                2017       5          3966      
 53         Zagreus_Engine            1966       -5         2504      
 54         theoden8_uci              1963       21         3594      
-55         camel_bot                 1944       54         182       
+55         camel_bot                 1942       37         183       
 56         Lynx_BOT                  1942       -12        5412      
 57         Trollfish-Bot             1928       30         1960      
 58         zeekat                    1915       -21        16511     
@@ -61,11 +61,11 @@ Rank       Bot                       Rating     Prog       Games
 60         QueensGamBOT              1865       -11        4510      
 61         myopic-bot                1851       11         1209      
 62         FlounderBot               1831       -25        785       
-63         Genetic_Chess_Bot         1820       38         1990      
+63         Genetic_Chess_Bot         1819       31         1991      
 64         baby_eubos                1797       21         4329      
 65         honzovy-sachy             1791       -9         4615      
-66         maia9                     1785       6          59068     
-67         notropis                  1785       -29        3097      
+66         notropis                  1785       -29        3097      
+67         maia9                     1774       -4         59069     
 68         melsh_bot                 1773       5          3248      
 69         simplexitor               1764       16         1982      
 70         Fisk_Bot                  1749       11         222       
@@ -89,4 +89,4 @@ Rank       Bot                       Rating     Prog       Games
 88         HulkBot                   1360       -56        1159      
 89         pawnrobot                 1325       3          3544      
 90         botTideEval               1315       -6         369       
-91         CHoMPBoT                  1309       -29        608       
+91         CHoMPBoT                  1309       -29        609       
