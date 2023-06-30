@@ -23,7 +23,7 @@ Rank       Bot                       Rating     Prog       Games
 22         OldStockfish              2495       7          417       
 23         misteick_bot              2468       -8         973       
 24         odonata-bot               2428       5          3568      
-25         Cheng-4                   2403       -6         2709      
+25         Cheng-4                   2403       -5         2710      
 26         Pseudo-0                  2391       11         991       
 27         bot_adario                2389       7          1158      
 28         TuksuBot                  2379       -6         1775      
@@ -55,7 +55,7 @@ Rank       Bot                       Rating     Prog       Games
 54         theoden8_uci              2020       -7         1099      
 55         camel_bot                 2009       37         131       
 56         LazyBotJr                 1998       -8         1240      
-57         Lynx_BOT                  1986       14         38673     
+57         Lynx_BOT                  1987       8          38674     
 58         BengalBot                 1956       -11        80        
 59         zeekat                    1952       1          7431      
 60         LeelaRogue                1945       16         2176      
@@ -83,8 +83,8 @@ Rank       Bot                       Rating     Prog       Games
 82         sargon-3ply               1608       -21        1031      
 83         chat_bot                  1579       -33        146       
 84         maia5                     1552       -41        95713     
-85         sargon-4ply               1527       21         506       
-86         maia1                     1526       -14        221143    
+85         maia1                     1526       -14        221143    
+86         sargon-4ply               1526       27         507       
 87         sargon-2ply               1428       -7         3034      
 88         sargon-1ply               1324       23         7862      
 89         turochamp-1ply            1304       -8         1413      
@@ -92,3 +92,4 @@ Rank       Bot                       Rating     Prog       Games
 91         kireevi                   1154       -40        507       
 92         CHoMPBoT                  1057       3          287       
 93         DeepLLaMA                 828        -89        56        
+94         RedFlojo                  473        -5         100       
