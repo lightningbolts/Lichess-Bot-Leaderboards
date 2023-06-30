@@ -16,7 +16,7 @@ Rank       Bot                       Rating     Prog       Games
 15         AKS-Mantissa              2624       13         3774      
 16         LazyBot                   2618       26         698       
 17         expositor                 2560       25         4180      
-18         catriever                 2550       18         53        
+18         catriever                 2553       14         54        
 19         pawn_git                  2522       15         918       
 20         SaxtonEngine              2521       1          1179      
 21         Weiawaga                  2518       16         9234      
@@ -26,7 +26,7 @@ Rank       Bot                       Rating     Prog       Games
 25         odonata-bot               2427       8          3569      
 26         ChessNoobComp             2397       17         526       
 27         Pseudo-0                  2391       11         991       
-28         Cheng-4                   2390       1          2753      
+28         Cheng-4                   2390       -4         2754      
 29         bot_adario                2388       -2         1161      
 30         TuksuBot                  2377       -7         1777      
 31         Phalanx-XXV               2360       -6         770       
@@ -50,7 +50,7 @@ Rank       Bot                       Rating     Prog       Games
 49         MatMoi                    2145       8          104       
 50         jangine                   2130       5          1460      
 51         redtail-zero              2130       35         90        
-52         YourSparringBot           2130       -4         119       
+52         YourSparringBot           2129       -16        120       
 53         Humaia-Strong             2060       86         584       
 54         BLANK_BOT                 2038       -4         1321      
 55         theoden8_uci              2020       -8         1102      
@@ -80,15 +80,15 @@ Rank       Bot                       Rating     Prog       Games
 79         HardRok                   1708       0          202       
 80         simplexitor               1695       2          395       
 81         Ptit-biscuit              1679       27         25        
-82         maia9                     1669       -15        79641     
+82         maia9                     1666       -13        79642     
 83         Jibbby                    1646       -9         1688      
 84         yeoldwiz                  1621       12         623       
 85         turochamp-2ply            1609       -10        986       
 86         sargon-3ply               1603       -31        1032      
-87         maia5                     1582       10         95766     
-88         chat_bot                  1579       -33        146       
+87         chat_bot                  1579       -33        146       
+88         maia5                     1576       5          95768     
 89         sargon-4ply               1523       31         509       
-90         maia1                     1455       -16        221200    
+90         maia1                     1463       -9         221201    
 91         RoundMoundOfRebounds      1454       0          279       
 92         sargon-2ply               1436       9          3040      
 93         Humaia                    1370       -10        1903      
