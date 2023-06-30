@@ -1,5 +1,5 @@
 Rank       Bot                       Rating     Prog       Games     
-1          TorBot                    2893       1          516       
+1          TorBot                    2895       4          517       
 2          FireFishBOT               2881       10         256       
 3          ToromBot                  2877       -4         2502      
 4          Botacik                   2864       -77        22        
@@ -32,7 +32,7 @@ Rank       Bot                       Rating     Prog       Games
 31         Phalanx-XXV               2378       -15        2343      
 32         OpeningsBot               2370       9          32        
 33         FlamingDragon_9000        2323       19         3331      
-34         admete_bot                2309       -3         4397      
+34         admete_bot                2309       -2         4398      
 35         bekbot                    2309       2          1215      
 36         simpleEval                2291       -7         13680     
 37         SimplerEval               2248       -8         3230      
@@ -49,11 +49,11 @@ Rank       Bot                       Rating     Prog       Games
 48         Boris-Trapsky             2104       -28        27216     
 49         redtail-zero              2084       -14        227       
 50         MatMoi                    2070       8          119       
-51         MaxtheDog                 2065       10         3384      
+51         MaxtheDog                 2070       11         3385      
 52         Sparring_Bot              2040       -2         784       
 53         LeelaRogue                2036       5          2172      
 54         BLANK_BOT                 2026       9          4109      
-55         halcyonbot                2015       -15        7344      
+55         halcyonbot                2010       -14        7345      
 56         LazyBotJr                 2006       -20        1482      
 57         Lynx_BOT                  1997       -1         46139     
 58         theoden8_uci              1960       0          3665      
@@ -74,8 +74,8 @@ Rank       Bot                       Rating     Prog       Games
 73         melsh_bot                 1708       -15        1406      
 74         QueensGamBOT              1707       3          2620      
 75         Jibbby                    1648       2          5049      
-76         maia9                     1646       -3         95289     
-77         simplexitor               1644       -15        1868      
+76         simplexitor               1644       -15        1868      
+77         maia9                     1638       -8         95290     
 78         ChessChildren             1634       -6         20884     
 79         yeoldwiz                  1614       -12        1584      
 80         turkjs                    1596       -12        9927      
@@ -85,7 +85,7 @@ Rank       Bot                       Rating     Prog       Games
 84         sargon-3ply               1473       15         1589      
 85         ChamberiAjedrez           1470       -106       321       
 86         turochamp-2ply            1467       14         1422      
-87         maia1                     1462       -7         197845    
+87         maia1                     1461       3          197849    
 88         monchester                1421       -14        2494      
 89         sargon-2ply               1284       21         2669      
 90         OhniBOT                   1264       -22        262       
@@ -96,4 +96,4 @@ Rank       Bot                       Rating     Prog       Games
 95         knucklefish               1081       -20        2996      
 96         CHoMPBoT                  1047       27         1017      
 97         BelaBot                   912        -45        44        
-98         DeepLLaMA                 844        -127       28        
+98         DeepLLaMA                 837        -111       29        
