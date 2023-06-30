@@ -4,8 +4,8 @@ Rank       Bot                       Rating     Prog       Games
 3          YoBot_v2                  2883       11         12386     
 4          RaspFish                  2874       -2         5130      
 5          FireFishBOT               2867       -1         787       
-6          Shineshou90_BOT           2853       1          2173      
-7          ReinforcementTrial        2852       -3         3990      
+6          Shineshou90_BOT           2853       1          2174      
+7          ReinforcementTrial        2852       -4         3991      
 8          chessfyBOT                2845       -7         228       
 9          ResoluteBot               2844       -6         5153      
 10         Nikitosik-ai              2836       -11        233       
@@ -21,7 +21,7 @@ Rank       Bot                       Rating     Prog       Games
 20         SaxtonEngine              2521       8          1178      
 21         pawn_git                  2519       17         916       
 22         Weiawaga                  2501       1          9223      
-23         OldStockfish              2494       5          416       
+23         OldStockfish              2495       7          417       
 24         misteick_bot              2468       -8         973       
 25         odonata-bot               2428       5          3568      
 26         Cheng-4                   2408       -6         2700      
@@ -54,7 +54,7 @@ Rank       Bot                       Rating     Prog       Games
 53         halcyonbot                2028       -3         4841      
 54         theoden8_uci              2020       -7         1099      
 55         LazyBotJr                 1998       -8         1240      
-56         camel_bot                 1990       -12        127       
+56         camel_bot                 1988       -12        128       
 57         Lynx_BOT                  1987       16         38671     
 58         BengalBot                 1956       -11        80        
 59         zeekat                    1952       1          7431      
@@ -67,8 +67,8 @@ Rank       Bot                       Rating     Prog       Games
 66         Trollfish-Bot             1835       -1         76        
 67         Fisk_Bot                  1828       -2         212       
 68         Virutor                   1823       26         3070      
-69         ChessChildren             1796       -4         4244      
-70         Genetic_Chess_Bot         1778       8          219       
+69         ChessChildren             1790       -9         4245      
+70         Genetic_Chess_Bot         1788       22         220       
 71         zulu_bot                  1776       3          110       
 72         honzovy-sachy             1765       5          848       
 73         AshNostromo               1752       -18        1147      
@@ -91,7 +91,7 @@ Rank       Bot                       Rating     Prog       Games
 90         turochamp-1ply            1304       -8         1413      
 91         pawnrobot                 1284       -18        502       
 92         OhniBOT                   1246       3          208       
-93         kireevi                   1159       -36        506       
+93         kireevi                   1154       -40        507       
 94         CHoMPBoT                  1057       3          287       
 95         DeepLLaMA                 828        -89        56        
 96         G0thamB0t                 717        -4         232       
