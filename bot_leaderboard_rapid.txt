@@ -1,8 +1,8 @@
 Rank       Bot                       Rating     Prog       Games     
 1          caissa-x                  2891       -1         2955      
 2          ToromBot                  2882       -5         1594      
-3          YoBot_v2                  2877       -2         12407     
-4          RaspFish                  2876       0          5131      
+3          RaspFish                  2876       0          5131      
+4          YoBot_v2                  2876       -3         12408     
 5          FireFishBOT               2867       -1         788       
 6          ReinforcementTrial        2857       5          4001      
 7          Shineshou90_BOT           2856       4          2178      
@@ -10,7 +10,7 @@ Rank       Bot                       Rating     Prog       Games
 9          chessfyBOT                2845       -7         228       
 10         ResoluteBot               2844       -6         5153      
 11         Nikitosik-ai              2837       -11        236       
-12         Nikitosikbot              2833       -9         8341      
+12         Nikitosikbot              2833       -9         8342      
 13         NikitosikVariantsbot      2810       1          740       
 14         blundar_bot               2797       -12        893       
 15         TRGBot                    2716       25         121       
@@ -26,7 +26,7 @@ Rank       Bot                       Rating     Prog       Games
 25         misteick_bot              2468       -13        974       
 26         odonata-bot               2428       5          3568      
 27         ChessNoobComp             2397       17         526       
-28         Cheng-4                   2392       1          2749      
+28         Cheng-4                   2391       1          2750      
 29         Pseudo-0                  2391       11         991       
 30         bot_adario                2388       -2         1161      
 31         TuksuBot                  2377       -7         1777      
@@ -46,7 +46,7 @@ Rank       Bot                       Rating     Prog       Games
 45         Boris-Trapsky             2173       7          26829     
 46         Sparring_Bot              2161       -6         115       
 47         MatMoi                    2152       17         102       
-48         CadabraBot                2146       14         631       
+48         CadabraBot                2149       13         632       
 49         GarboBot                  2145       13         5726      
 50         jangine                   2130       5          1460      
 51         redtail-zero              2130       35         90        
@@ -60,7 +60,7 @@ Rank       Bot                       Rating     Prog       Games
 59         Lynx_BOT                  1994       8          38684     
 60         camel_bot                 1987       -14        141       
 61         BengalBot                 1954       -8         82        
-62         zeekat                    1952       -8         7438      
+62         zeekat                    1949       -6         7439      
 63         LeelaRogue                1945       16         2176      
 64         baby_eubos                1937       18         724       
 65         Zagreus_Engine            1885       14         1486      
@@ -82,10 +82,10 @@ Rank       Bot                       Rating     Prog       Games
 81         simplexitor               1695       2          395       
 82         Ptit-biscuit              1679       27         25        
 83         maia9                     1677       -18        79639     
-84         Jibbby                    1640       -15        1687      
+84         Jibbby                    1646       -9         1688      
 85         yeoldwiz                  1621       12         623       
 86         turochamp-2ply            1609       -10        986       
-87         sargon-3ply               1608       -21        1031      
+87         sargon-3ply               1603       -31        1032      
 88         chat_bot                  1579       -33        146       
 89         maia5                     1572       10         95755     
 90         sargon-4ply               1523       31         509       
