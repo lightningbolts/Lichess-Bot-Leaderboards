@@ -1,8 +1,8 @@
 Rank       Bot                       Rating     Prog       Games     
 1          caissa-x                  2891       -1         2955      
-2          ToromBot                  2882       -1         1591      
-3          YoBot_v2                  2879       -2         12399     
-4          RaspFish                  2874       -2         5130      
+2          ToromBot                  2882       0          1592      
+3          YoBot_v2                  2879       -1         12400     
+4          RaspFish                  2876       0          5131      
 5          FireFishBOT               2867       -1         787       
 6          chessbot2880              2862       8          267       
 7          Shineshou90_BOT           2855       3          2177      
@@ -15,7 +15,7 @@ Rank       Bot                       Rating     Prog       Games
 14         blundar_bot               2797       -12        893       
 15         AKS-Mantissa              2626       18         3773      
 16         expositor                 2562       27         4179      
-17         catriever                 2557       57         49        
+17         catriever                 2551       40         50        
 18         pawn_git                  2522       15         918       
 19         SaxtonEngine              2521       8          1178      
 20         Weiawaga                  2511       21         9227      
@@ -44,7 +44,7 @@ Rank       Bot                       Rating     Prog       Games
 43         Sparring_Bot              2175       10         112       
 44         Boris-Trapsky             2172       7          26828     
 45         GarboBot                  2149       23         5725      
-46         MatMoi                    2137       -28        93        
+46         MatMoi                    2142       -17        94        
 47         CadabraBot                2133       1          625       
 48         YourSparringBot           2132       16         117       
 49         jangine                   2130       5          1460      
@@ -54,8 +54,8 @@ Rank       Bot                       Rating     Prog       Games
 53         BLANK_BOT                 2042       -6         1320      
 54         halcyonbot                2024       -1         4851      
 55         theoden8_uci              2020       -7         1099      
-56         camel_bot                 2008       48         135       
-57         Lynx_BOT                  1990       3          38677     
+56         camel_bot                 2001       37         136       
+57         Lynx_BOT                  1991       4          38678     
 58         zeekat                    1953       1          7432      
 59         BengalBot                 1949       -15        81        
 60         LeelaRogue                1945       16         2176      
@@ -76,9 +76,9 @@ Rank       Bot                       Rating     Prog       Games
 75         HulkBot                   1720       -22        395       
 76         melsh_bot                 1717       28         140       
 77         HardRok                   1706       2          198       
-78         maia9                     1704       1          79626     
+78         maia9                     1700       1          79627     
 79         simplexitor               1695       2          395       
-80         Jibbby                    1651       -6         1680      
+80         Jibbby                    1649       -4         1681      
 81         yeoldwiz                  1621       12         623       
 82         turochamp-2ply            1609       -10        986       
 83         sargon-3ply               1608       -21        1031      
@@ -95,3 +95,4 @@ Rank       Bot                       Rating     Prog       Games
 94         CHoMPBoT                  1057       3          287       
 95         DeepLLaMA                 828        -89        56        
 96         G0thamB0t                 717        -4         232       
+97         RedFlojo                  473        -5         100       
