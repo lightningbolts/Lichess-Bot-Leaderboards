@@ -1,8 +1,8 @@
 Rank       Bot                       Rating     Prog       Games     
 1          caissa-x                  2972       4          14279     
-2          ToromBot                  2944       -6         54785     
+2          ToromBot                  2940       -10        54788     
 3          YoBot_v2                  2928       11         15868     
-4          Nikitosikbot              2907       5          19575     
+4          Nikitosikbot              2908       2          19576     
 5          caissa-test               2904       -6         604       
 6          FireFishBOT               2902       -1         229       
 7          ResoluteBot               2887       -4         24791     
@@ -19,11 +19,11 @@ Rank       Bot                       Rating     Prog       Games
 18         Elmichess                 2566       -15        3178      
 19         AKS-Mantissa              2529       5          9356      
 20         FlamingDragon_9000        2524       -5         10619     
-21         SaxtonEngine              2465       -14        3276      
-22         Cheng-4                   2441       8          13030     
+21         SaxtonEngine              2470       -9         3277      
+22         Cheng-4                   2440       7          13031     
 23         pawn_git                  2421       2          3330      
-24         Weiawaga                  2382       -14        13980     
-25         misteick_bot              2374       -3         14133     
+24         Weiawaga                  2381       -14        13981     
+25         misteick_bot              2373       -4         14134     
 26         OldStockfish              2371       0          702       
 27         bot_adario                2356       -3         2157      
 28         ChessNoobComp             2351       4          9345      
@@ -99,6 +99,7 @@ Rank       Bot                       Rating     Prog       Games
 98         HulkBot                   1360       -56        1159      
 99         botTideEval               1333       20         379       
 100        CHoMPBoT                  1293       -32        612       
-101        StupidChess_SuicKing      995        21         1359      
-102        StupidChess_Random        965        -3         2003      
-103        StupidChess_Sprinter      901        -28        1442      
+101        bobandi                   1246       -7         1018      
+102        StupidChess_SuicKing      995        21         1359      
+103        StupidChess_Random        965        -3         2003      
+104        StupidChess_Sprinter      901        -28        1442      
