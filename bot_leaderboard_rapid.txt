@@ -58,11 +58,11 @@ Rank       Bot                       Rating     Prog       Games
 57         zeekat                    1952       1          7431      
 58         LeelaRogue                1945       16         2176      
 59         baby_eubos                1937       18         724       
-60         Zagreus_Engine            1883       22         1482      
+60         Zagreus_Engine            1888       30         1483      
 61         FlounderBot               1871       27         38        
 62         myopic-bot                1865       35         201       
-63         Trollfish-Bot             1843       15         75        
-64         notropis                  1842       -20        1888      
+63         notropis                  1842       -20        1888      
+64         Trollfish-Bot             1835       -1         76        
 65         Fisk_Bot                  1832       8          211       
 66         Virutor                   1823       26         3070      
 67         ChessChildren             1796       -4         4244      
@@ -79,7 +79,7 @@ Rank       Bot                       Rating     Prog       Games
 78         yeoldwiz                  1621       12         623       
 79         turochamp-2ply            1609       -10        986       
 80         sargon-3ply               1608       -21        1031      
-81         maia5                     1584       -16        95700     
+81         maia5                     1589       -10        95701     
 82         chat_bot                  1579       -33        146       
 83         sargon-4ply               1530       16         505       
 84         maia1                     1528       -4         221138    
@@ -91,5 +91,6 @@ Rank       Bot                       Rating     Prog       Games
 90         OhniBOT                   1246       3          208       
 91         kireevi                   1159       -36        506       
 92         CHoMPBoT                  1057       3          287       
-93         DeepLLaMA                 828        -89        56        
-94         G0thamB0t                 717        -4         232       
+93         bobandi                   930        -31        620       
+94         DeepLLaMA                 828        -89        56        
+95         G0thamB0t                 717        -4         232       
