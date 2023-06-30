@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          TorBot                    2889       -2         396       
 2          ToromBot                  2882       -1         1591      
-3          YoBot_v2                  2880       3          12390     
+3          YoBot_v2                  2878       1          12391     
 4          RaspFish                  2874       -2         5130      
 5          FireFishBOT               2867       -1         787       
 6          Shineshou90_BOT           2855       3          2176      
@@ -12,7 +12,7 @@ Rank       Bot                       Rating     Prog       Games
 11         Nikitosikbot              2832       -9         8340      
 12         NikitosikVariantsbot      2810       1          740       
 13         blundar_bot               2797       -12        893       
-14         MrChessTheBot             2794       -5         1852      
+14         MrChessTheBot             2795       -5         1853      
 15         AKS-Mantissa              2626       18         3773      
 16         LazyBot                   2618       26         698       
 17         expositor                 2562       27         4179      
@@ -65,7 +65,7 @@ Rank       Bot                       Rating     Prog       Games
 64         Trollfish-Bot             1835       -1         76        
 65         Fisk_Bot                  1828       -2         212       
 66         Virutor                   1823       26         3070      
-67         Genetic_Chess_Bot         1802       47         223       
+67         Genetic_Chess_Bot         1796       39         224       
 68         ChessChildren             1790       -9         4245      
 69         zulu_bot                  1776       3          110       
 70         honzovy-sachy             1765       5          848       
@@ -80,8 +80,8 @@ Rank       Bot                       Rating     Prog       Games
 79         turochamp-2ply            1609       -10        986       
 80         sargon-3ply               1608       -21        1031      
 81         chat_bot                  1579       -33        146       
-82         maia5                     1552       -41        95713     
-83         maia1                     1533       -2         221145    
+82         maia5                     1561       -26        95715     
+83         maia1                     1528       -3         221146    
 84         sargon-4ply               1526       27         507       
 85         sargon-2ply               1428       -7         3034      
 86         sargon-1ply               1324       23         7862      
@@ -90,3 +90,4 @@ Rank       Bot                       Rating     Prog       Games
 89         kireevi                   1154       -40        507       
 90         CHoMPBoT                  1057       3          287       
 91         DeepLLaMA                 828        -89        56        
+92         G0thamB0t                 717        -4         232       
