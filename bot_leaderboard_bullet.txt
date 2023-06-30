@@ -5,7 +5,7 @@ Rank       Bot                       Rating     Prog       Games
 4          FireFishBOT               2903       -7         207       
 5          Nikitosikbot              2897       0          19514     
 6          ResoluteBot               2887       -4         24791     
-7          RaspFish                  2880       4          43902     
+7          RaspFish                  2881       4          43903     
 8          Shineshou90_BOT           2857       3          6459      
 9          Nikitosik-ai              2832       8          424       
 10         NikitosikVariantsbot      2831       12         2143      
@@ -22,11 +22,11 @@ Rank       Bot                       Rating     Prog       Games
 21         SaxtonEngine              2479       -1         3259      
 22         Cheng-4                   2436       2          13029     
 23         pawn_git                  2419       -9         3319      
-24         Weiawaga                  2389       -8         13964     
+24         Weiawaga                  2388       -9         13965     
 25         OldStockfish              2372       -7         688       
 26         OpeningsBot               2365       4          49        
 27         bot_adario                2357       -6         2149      
-28         misteick_bot              2353       11         14068     
+28         misteick_bot              2356       13         14069     
 29         TuksuBot                  2353       3          6421      
 30         odonata-bot               2344       -7         5735      
 31         catriever                 2335       -5         1319      
@@ -40,11 +40,11 @@ Rank       Bot                       Rating     Prog       Games
 39         humanian                  2219       21         4225      
 40         honzovy-sachy-2           2204       -30        6509      
 41         LunaChessEngine           2159       -5         807       
-42         CadabraBot                2138       -15        449       
+42         CadabraBot                2136       -15        450       
 43         LazyBotJr                 2131       9          804       
 44         rudim-bot                 2131       43         110       
 45         jangine                   2129       19         2279      
-46         MatMoi                    2124       -2         144       
+46         MatMoi                    2114       -17        145       
 47         GarboBot                  2105       -4         9122      
 48         MaxtheDog                 2090       13         11684     
 49         redtail-zero              2083       -2         217       
@@ -53,7 +53,7 @@ Rank       Bot                       Rating     Prog       Games
 52         halcyonbot                2024       14         3967      
 53         Zagreus_Engine            1966       -5         2504      
 54         theoden8_uci              1963       21         3594      
-55         camel_bot                 1942       37         183       
+55         camel_bot                 1959       54         184       
 56         Lynx_BOT                  1937       -12        5413      
 57         Trollfish-Bot             1933       29         1962      
 58         zeekat                    1913       -15        16513     
@@ -90,4 +90,3 @@ Rank       Bot                       Rating     Prog       Games
 89         pawnrobot                 1331       13         3545      
 90         botTideEval               1310       -10        370       
 91         CHoMPBoT                  1309       -29        609       
-92         bobandi                   1246       -7         1018      
