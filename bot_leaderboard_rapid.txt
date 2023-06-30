@@ -40,12 +40,12 @@ Rank       Bot                       Rating     Prog       Games
 39         LunaChessEngine           2232       -1         857       
 40         eubos                     2212       -9         4051      
 41         MaxtheDog                 2205       -9         445       
-42         HistoryExplorer           2203       14         896       
+42         HistoryExplorer           2202       15         897       
 43         Elmichess                 2178       71         1326      
 44         Boris-Trapsky             2172       7          26828     
 45         Sparring_Bot              2161       -6         115       
 46         GarboBot                  2145       13         5726      
-47         MatMoi                    2143       -18        98        
+47         MatMoi                    2144       -8         99        
 48         YourSparringBot           2137       13         118       
 49         CadabraBot                2133       -7         627       
 50         jangine                   2130       5          1460      
@@ -80,7 +80,7 @@ Rank       Bot                       Rating     Prog       Games
 79         melsh_bot                 1717       28         140       
 80         HardRok                   1712       10         200       
 81         simplexitor               1695       2          395       
-82         maia9                     1676       -14        79632     
+82         maia9                     1686       -17        79634     
 83         Ptit-biscuit              1661       -1         24        
 84         Jibbby                    1640       -15        1687      
 85         yeoldwiz                  1621       12         623       
@@ -89,7 +89,7 @@ Rank       Bot                       Rating     Prog       Games
 88         chat_bot                  1579       -33        146       
 89         maia5                     1546       -33        95734     
 90         sargon-4ply               1523       31         509       
-91         maia1                     1487       -44        221180    
+91         maia1                     1494       -33        221181    
 92         sargon-2ply               1425       -3         3037      
 93         Humaia                    1370       -10        1903      
 94         sargon-1ply               1318       12         7863      
@@ -98,5 +98,6 @@ Rank       Bot                       Rating     Prog       Games
 97         kireevi                   1152       -40        508       
 98         schnecken_bot             1105       -1         91        
 99         CHoMPBoT                  1057       5          288       
-100        DeepLLaMA                 822        -90        57        
-101        G0thamB0t                 717        -4         232       
+100        bobandi                   930        -31        620       
+101        DeepLLaMA                 822        -90        57        
+102        G0thamB0t                 717        -4         232       
