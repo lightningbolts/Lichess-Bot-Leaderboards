@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          caissa-x                  2891       -1         2955      
-2          ToromBot                  2882       0          1592      
-3          YoBot_v2                  2877       1          12404     
+2          ToromBot                  2882       1          1593      
+3          YoBot_v2                  2877       -4         12405     
 4          RaspFish                  2876       0          5131      
 5          FireFishBOT               2867       -1         788       
 6          ttBOT                     2856       27         102       
@@ -24,7 +24,7 @@ Rank       Bot                       Rating     Prog       Games
 23         OldStockfish              2491       7          419       
 24         misteick_bot              2468       -8         973       
 25         odonata-bot               2428       5          3568      
-26         Cheng-4                   2394       1          2744      
+26         Cheng-4                   2394       2          2745      
 27         ChessNoobComp             2393       12         525       
 28         Pseudo-0                  2391       11         991       
 29         bot_adario                2388       -2         1161      
@@ -46,7 +46,7 @@ Rank       Bot                       Rating     Prog       Games
 45         Sparring_Bot              2161       -6         115       
 46         MatMoi                    2151       5          100       
 47         GarboBot                  2145       13         5726      
-48         CadabraBot                2141       3          628       
+48         CadabraBot                2144       2          629       
 49         jangine                   2130       5          1460      
 50         redtail-zero              2130       35         90        
 51         YourSparringBot           2130       -4         119       
@@ -54,12 +54,12 @@ Rank       Bot                       Rating     Prog       Games
 53         kulubot                   2044       -4         369       
 54         BLANK_BOT                 2038       -4         1321      
 55         theoden8_uci              2020       -8         1102      
-56         halcyonbot                2013       -9         4857      
+56         halcyonbot                2009       -10        4858      
 57         LazyBotJr                 1998       -8         1240      
 58         Lynx_BOT                  1997       9          38681     
 59         camel_bot                 1991       1          138       
 60         BengalBot                 1949       -15        81        
-61         zeekat                    1946       -18        7435      
+61         zeekat                    1948       -14        7436      
 62         LeelaRogue                1945       16         2176      
 63         baby_eubos                1937       18         724       
 64         Nc3Nc6Bot                 1917       -14        1009      
@@ -87,7 +87,7 @@ Rank       Bot                       Rating     Prog       Games
 86         turochamp-2ply            1609       -10        986       
 87         sargon-3ply               1608       -21        1031      
 88         chat_bot                  1579       -33        146       
-89         maia5                     1558       13         95741     
+89         maia5                     1562       6          95743     
 90         sargon-4ply               1523       31         509       
 91         maia1                     1494       -33        221181    
 92         sargon-2ply               1425       -3         3037      
