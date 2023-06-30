@@ -17,11 +17,11 @@ Rank       Bot                       Rating     Prog       Games
 16         AKS-Mantissa              2695       0          8485      
 17         SaxtonEngine              2582       -5         1806      
 18         expositor                 2530       4          6252      
-19         Weiawaga                  2503       0          10918     
+19         Weiawaga                  2496       -10        10919     
 20         pawn_git                  2494       10         1974      
-21         misteick_bot              2462       4          5405      
-22         OldStockfish              2432       -4         321       
-23         Cheng-4                   2430       -8         5973      
+21         misteick_bot              2462       5          5406      
+22         Cheng-4                   2437       0          5974      
+23         OldStockfish              2432       -4         321       
 24         TuksuBot                  2428       -5         3541      
 25         odonata-bot               2420       -8         5701      
 26         bot_adario                2416       -8         1810      
@@ -31,7 +31,7 @@ Rank       Bot                       Rating     Prog       Games
 30         Pseudo-0                  2380       -21        2598      
 31         Phalanx-XXV               2378       -15        2343      
 32         FlamingDragon_9000        2323       19         3331      
-33         admete_bot                2311       -1         4362      
+33         admete_bot                2312       0          4363      
 34         bekbot                    2308       -4         1214      
 35         simpleEval                2289       -9         13679     
 36         SimplerEval               2250       -2         3229      
@@ -39,7 +39,7 @@ Rank       Bot                       Rating     Prog       Games
 38         GarboBot                  2179       -23        8382      
 39         LunaChessEngine           2170       4          1110      
 40         eubos                     2165       6          13077     
-41         Elmichess                 2150       -18        3451      
+41         Elmichess                 2138       -32        3452      
 42         CadabraBot                2134       -6         866       
 43         humanian                  2126       -55        11128     
 44         jangine                   2126       -9         2645      
@@ -57,7 +57,7 @@ Rank       Bot                       Rating     Prog       Games
 56         Zagreus_Engine            1936       -2         3594      
 57         BengalBot                 1912       -39        414       
 58         Trollfish-Bot             1895       4          998       
-59         zeekat                    1888       -15        18175     
+59         zeekat                    1887       -18        18176     
 60         zulu_bot                  1861       -3         992       
 61         baby_eubos                1853       -8         6146      
 62         FlounderBot               1848       23         433       
@@ -87,7 +87,7 @@ Rank       Bot                       Rating     Prog       Games
 86         sargon-2ply               1277       26         2665      
 87         OhniBOT                   1264       -22        262       
 88         pawnrobot                 1243       -13        1718      
-89         turochamp-1ply            1235       14         1484      
+89         turochamp-1ply            1235       16         1485      
 90         HulkBot                   1219       17         657       
 91         sargon-1ply               1218       5          7176      
 92         knucklefish               1081       -20        2996      
