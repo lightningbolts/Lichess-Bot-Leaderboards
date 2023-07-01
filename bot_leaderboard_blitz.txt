@@ -1,5 +1,5 @@
 Rank       Bot                       Rating     Prog       Games     
-1          FireFishBOT               2895       0          362       
+1          FireFishBOT               2896       3          363       
 2          ToromBot                  2880       0          2516      
 3          YoBot_v2                  2862       7          2881      
 4          caissa-x                  2857       6          3002      
@@ -32,15 +32,15 @@ Rank       Bot                       Rating     Prog       Games
 31         Phalanx-XXV               2353       -17        2356      
 32         FlamingDragon_9000        2323       19         3331      
 33         bekbot                    2304       -11        1221      
-34         admete_bot                2290       -2         4779      
-35         simpleEval                2279       -7         13702     
+34         admete_bot                2290       -2         4780      
+35         simpleEval                2280       -7         13703     
 36         HistoryExplorer           2247       -7         2383      
 37         humanian                  2216       34         11180     
 38         honzovy-sachy-2           2192       5          6309      
 39         LunaChessEngine           2185       -6         1190      
 40         GarboBot                  2169       -7         8414      
 41         Elmichess                 2128       -33        3455      
-42         jangine                   2123       8          2676      
+42         jangine                   2121       11         2677      
 43         MatMoi                    2120       22         159       
 44         MaxtheDog                 2100       -12        3420      
 45         redtail-zero              2084       -14        227       
@@ -49,9 +49,9 @@ Rank       Bot                       Rating     Prog       Games
 48         LeelaRogue                2034       2          2173      
 49         halcyonbot                2016       -8         7409      
 50         LazyBotJr                 2006       -20        1482      
-51         camel_bot                 1996       6          284       
+51         camel_bot                 1998       5          285       
 52         BLANK_BOT                 1991       -1         4138      
-53         Lynx_BOT                  1982       -6         46247     
+53         Lynx_BOT                  1980       -10        46248     
 54         theoden8_uci              1967       16         3686      
 55         Zagreus_Engine            1963       14         3628      
 56         BengalBot                 1934       10         454       
@@ -70,7 +70,7 @@ Rank       Bot                       Rating     Prog       Games
 69         AshNostromo               1719       6          907       
 70         maia9                     1668       -6         95527     
 71         simplexitor               1653       8          1881      
-72         Jibbby                    1639       11         5102      
+72         Jibbby                    1640       12         5103      
 73         yeoldwiz                  1621       4          1587      
 74         ChessChildren             1619       -14        20896     
 75         turkjs                    1592       -3         9934      
@@ -82,7 +82,7 @@ Rank       Bot                       Rating     Prog       Games
 81         RoundMoundOfRebounds      1472       22         981       
 82         turochamp-2ply            1471       10         1428      
 83         ChamberiAjedrez           1470       -106       321       
-84         maia1                     1452       11         198217    
+84         maia1                     1448       3          198218    
 85         monchester                1418       -8         2501      
 86         Humaia                    1369       6          754       
 87         sargon-2ply               1311       26         2687      
@@ -90,7 +90,7 @@ Rank       Bot                       Rating     Prog       Games
 89         OhniBOT                   1264       -22        262       
 90         schnecken_bot             1243       18         1127      
 91         HulkBot                   1219       17         657       
-92         sargon-1ply               1219       25         7216      
+92         sargon-1ply               1219       17         7217      
 93         knucklefish               1081       -20        2996      
 94         CHoMPBoT                  1033       -8         1036      
 95         BelaBot                   912        -45        44        
