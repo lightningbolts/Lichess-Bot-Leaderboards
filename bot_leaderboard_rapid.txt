@@ -1,13 +1,13 @@
 Rank       Bot                       Rating     Prog       Games     
 1          caissa-x                  2891       -1         2955      
 2          TorBot                    2889       -2         396       
-3          ToromBot                  2880       -3         1600      
+3          ToromBot                  2880       -3         1601      
 4          RaspFish                  2876       0          5131      
 5          YoBot_v2                  2872       -2         12424     
 6          FireFishBOT               2868       1          790       
 7          TheMatrix2025             2858       0          291       
 8          Shineshou90_BOT           2856       3          2182      
-9          ReinforcementTrial        2854       -1         4011      
+9          ReinforcementTrial        2854       -3         4012      
 10         faith_bot                 2850       2          606       
 11         chessfyBOT                2845       -7         228       
 12         ResoluteBot               2844       -6         5153      
@@ -26,8 +26,8 @@ Rank       Bot                       Rating     Prog       Games
 25         OldStockfish              2492       4          420       
 26         misteick_bot              2468       -13        974       
 27         odonata-bot               2427       8          3569      
-28         Pseudo-0                  2388       -5         995       
-29         bot_adario                2387       -3         1162      
+28         bot_adario                2390       -4         1163      
+29         Pseudo-0                  2388       -5         995       
 30         Cheng-4                   2387       -2         2768      
 31         TuksuBot                  2378       -6         1778      
 32         Phalanx-XXV               2360       -6         770       
@@ -46,7 +46,7 @@ Rank       Bot                       Rating     Prog       Games
 45         MatMoi                    2179       28         116       
 46         Elmichess                 2178       71         1326      
 47         GarboBot                  2148       15         5727      
-48         CadabraBot                2137       -12        643       
+48         CadabraBot                2135       -10        644       
 49         redtail-zero              2130       35         90        
 50         jangine                   2124       7          1461      
 51         Humaia-Strong             2060       86         584       
@@ -85,7 +85,7 @@ Rank       Bot                       Rating     Prog       Games
 84         chat_bot                  1579       -33        146       
 85         maia5                     1571       -11        95815     
 86         sargon-4ply               1522       32         510       
-87         maia1                     1506       7          221330    
+87         maia1                     1514       13         221331    
 88         RoundMoundOfRebounds      1454       0          279       
 89         sargon-2ply               1439       5          3042      
 90         Humaia                    1357       -35        1908      
@@ -97,4 +97,3 @@ Rank       Bot                       Rating     Prog       Games
 96         schnecken_bot             1119       22         93        
 97         CHoMPBoT                  1057       7          289       
 98         DeepLLaMA                 838        -70        58        
-99         G0thamB0t                 717        -4         232       
