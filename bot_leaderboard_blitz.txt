@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          FireFishBOT               2896       7          356       
 2          ToromBot                  2880       0          2515      
-3          Chess_is_Wide             2869       65         23        
+3          Chess_is_Wide             2874       48         24        
 4          YoBot_v2                  2862       7          2881      
 5          caissa-x                  2857       6          3002      
 6          Shineshou90_BOT           2854       4          1367      
@@ -17,12 +17,12 @@ Rank       Bot                       Rating     Prog       Games
 16         LazyBot                   2756       3          1977      
 17         ReinforcementTrial        2752       21         71        
 18         AKS-Mantissa              2682       -6         8521      
-19         CodingAdventureBot        2614       2          667       
+19         CodingAdventureBot        2616       3          672       
 20         SaxtonEngine              2573       -5         1821      
 21         expositor                 2548       6          6279      
 22         Weiawaga                  2500       3          10945     
 23         pawn_git                  2493       -1         1985      
-24         misteick_bot              2444       -6         5496      
+24         misteick_bot              2443       -7         5497      
 25         catriever                 2442       37         508       
 26         TuksuBot                  2439       6          3551      
 27         OpeningsBot               2437       49         54        
@@ -33,7 +33,7 @@ Rank       Bot                       Rating     Prog       Games
 32         Pseudo-0                  2372       -11        2612      
 33         Phalanx-XXV               2353       -17        2356      
 34         bekbot                    2300       -9         1219      
-35         admete_bot                2296       4          4752      
+35         admete_bot                2296       -1         4753      
 36         simpleEval                2279       -7         13702     
 37         humanian                  2216       34         11180     
 38         honzovy-sachy-2           2192       5          6309      
@@ -49,9 +49,9 @@ Rank       Bot                       Rating     Prog       Games
 48         LeelaRogue                2034       2          2173      
 49         LazyBotJr                 2006       -20        1482      
 50         halcyonbot                2004       -11        7402      
-51         BLANK_BOT                 1996       17         4135      
-52         camel_bot                 1990       12         277       
-53         Lynx_BOT                  1988       -3         46243     
+51         BLANK_BOT                 1996       15         4136      
+52         camel_bot                 1991       11         278       
+53         Lynx_BOT                  1988       -4         46244     
 54         theoden8_uci              1967       12         3685      
 55         Zagreus_Engine            1966       10         3627      
 56         BengalBot                 1935       13         452       
@@ -80,9 +80,9 @@ Rank       Bot                       Rating     Prog       Games
 79         sargon-4ply               1519       18         1649      
 80         maia5                     1516       -2         96585     
 81         sargon-3ply               1484       10         1594      
-82         maia1                     1477       -4         198183    
+82         maia1                     1475       -10        198184    
 83         RoundMoundOfRebounds      1472       22         981       
-84         turochamp-2ply            1472       16         1427      
+84         turochamp-2ply            1471       10         1428      
 85         ChamberiAjedrez           1470       -106       321       
 86         monchester                1418       -8         2501      
 87         Humaia                    1369       6          754       
