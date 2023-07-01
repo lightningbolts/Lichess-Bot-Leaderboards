@@ -1,11 +1,11 @@
 Rank       Bot                       Rating     Prog       Games     
 1          caissa-x                  2891       -1         2955      
-2          ToromBot                  2879       -3         1604      
+2          ToromBot                  2879       -3         1605      
 3          RaspFish                  2876       1          5133      
-4          YoBot_v2                  2873       -4         12440     
+4          YoBot_v2                  2873       -4         12441     
 5          FireFishBOT               2862       -5         797       
 6          Shineshou90_BOT           2862       6          2190      
-7          ReinforcementTrial        2858       10         4027      
+7          ReinforcementTrial        2859       11         4028      
 8          faith_bot                 2846       -3         614       
 9          chessfyBOT                2845       -7         228       
 10         ResoluteBot               2844       -6         5153      
@@ -18,7 +18,7 @@ Rank       Bot                       Rating     Prog       Games
 17         LazyBot                   2618       9          700       
 18         expositor                 2561       6          4184      
 19         catriever                 2534       -22        62        
-20         SaxtonEngine              2533       10         1182      
+20         SaxtonEngine              2531       10         1183      
 21         pawn_git                  2524       20         920       
 22         Weiawaga                  2514       0          9249      
 23         OldStockfish              2493       -4         422       
@@ -32,10 +32,10 @@ Rank       Bot                       Rating     Prog       Games
 31         admete_bot                2341       -3         2759      
 32         humanian                  2325       14         1183      
 33         bekbot                    2324       10         927       
-34         Boris-Trapsky             2312       -34        26887     
+34         Boris-Trapsky             2311       -33        26888     
 35         simpleEval                2282       -14        7133      
 36         honzovy-sachy-2           2271       9          3376      
-37         LunaChessEngine           2238       2          874       
+37         LunaChessEngine           2239       -1         875       
 38         MaxtheDog                 2206       -9         448       
 39         Elmichess                 2178       87         1327      
 40         MatMoi                    2170       -6         126       
@@ -47,8 +47,8 @@ Rank       Bot                       Rating     Prog       Games
 46         theoden8_uci              2012       -8         1108      
 47         halcyonbot                2009       17         4899      
 48         LazyBotJr                 2003       10         1243      
-49         camel_bot                 1983       -19        166       
-50         Lynx_BOT                  1983       0          38705     
+49         Lynx_BOT                  1983       0          38705     
+50         camel_bot                 1981       -28        167       
 51         BengalBot                 1963       13         88        
 52         LeelaRogue                1951       17         2179      
 53         zeekat                    1947       1          7446      
@@ -79,7 +79,7 @@ Rank       Bot                       Rating     Prog       Games
 78         turochamp-2ply            1564       -45        997       
 79         GeraldBOT                 1546       -12        263       
 80         sargon-4ply               1522       32         510       
-81         maia1                     1493       7          221521    
+81         maia1                     1497       11         221523    
 82         RoundMoundOfRebounds      1454       1          280       
 83         sargon-2ply               1432       7          3048      
 84         Humaia                    1360       -16        1912      
