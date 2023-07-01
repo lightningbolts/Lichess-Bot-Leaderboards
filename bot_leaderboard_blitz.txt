@@ -16,7 +16,7 @@ Rank       Bot                       Rating     Prog       Games
 15         LazyBot                   2756       3          1977      
 16         ReinforcementTrial        2752       21         71        
 17         AKS-Mantissa              2685       4          8509      
-18         CodingAdventureBot        2601       -4         451       
+18         CodingAdventureBot        2601       -5         453       
 19         SaxtonEngine              2577       1          1814      
 20         Weiawaga                  2500       6          10935     
 21         pawn_git                  2499       0          1981      
@@ -32,7 +32,7 @@ Rank       Bot                       Rating     Prog       Games
 31         OpeningsBot               2372       -30        41        
 32         Phalanx-XXV               2361       -28        2350      
 33         bekbot                    2304       -8         1218      
-34         admete_bot                2302       -3         4509      
+34         admete_bot                2301       -3         4511      
 35         simpleEval                2282       0          13696     
 36         honzovy-sachy-2           2201       5          6301      
 37         humanian                  2178       -5         11164     
@@ -59,9 +59,9 @@ Rank       Bot                       Rating     Prog       Games
 58         Trollfish-Bot             1893       -8         1027      
 59         zeekat                    1892       -21        18230     
 60         zulu_bot                  1861       -3         992       
-61         baby_eubos                1857       -8         6150      
-62         FlounderBot               1822       -7         454       
-63         notropis                  1822       -4         5429      
+61         baby_eubos                1850       -15        6151      
+62         notropis                  1828       9          5430      
+63         FlounderBot               1822       -7         454       
 64         myopic-bot                1816       -20        1254      
 65         honzovy-sachy             1773       -2         4580      
 66         Ptit-biscuit              1757       -13        218       
@@ -76,7 +76,7 @@ Rank       Bot                       Rating     Prog       Games
 75         yeoldwiz                  1617       -5         1585      
 76         turkjs                    1595       -7         9928      
 77         chat_bot                  1569       3          216       
-78         maia5                     1539       17         96539     
+78         maia5                     1533       5          96540     
 79         sargon-4ply               1522       32         1646      
 80         sargon-3ply               1486       29         1591      
 81         maia1                     1472       21         198045    
@@ -89,9 +89,10 @@ Rank       Bot                       Rating     Prog       Games
 88         sargon-2ply               1281       -5         2681      
 89         OhniBOT                   1264       -22        262       
 90         turochamp-1ply            1249       11         1491      
-91         sargon-1ply               1222       37         7215      
-92         HulkBot                   1219       17         657       
-93         knucklefish               1081       -20        2996      
-94         CHoMPBoT                  1033       -13        1031      
-95         BelaBot                   912        -45        44        
-96         DeepLLaMA                 830        -81        31        
+91         schnecken_bot             1228       6          1122      
+92         sargon-1ply               1222       37         7215      
+93         HulkBot                   1219       17         657       
+94         knucklefish               1081       -20        2996      
+95         CHoMPBoT                  1033       -13        1031      
+96         BelaBot                   912        -45        44        
+97         DeepLLaMA                 830        -81        31        
