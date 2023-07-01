@@ -16,7 +16,7 @@ Rank       Bot                       Rating     Prog       Games
 15         ReinforcementTrial        2752       21         71        
 16         TRGBot                    2691       4          99        
 17         AKS-Mantissa              2690       4          8507      
-18         CodingAdventureBot        2602       9          433       
+18         CodingAdventureBot        2603       7          437       
 19         SaxtonEngine              2577       1          1814      
 20         Weiawaga                  2500       6          10935     
 21         pawn_git                  2499       0          1981      
@@ -31,7 +31,7 @@ Rank       Bot                       Rating     Prog       Games
 30         Pseudo-0                  2388       1          2605      
 31         Phalanx-XXV               2366       -22        2349      
 32         OpeningsBot               2364       -35        40        
-33         admete_bot                2305       -3         4495      
+33         admete_bot                2305       -3         4497      
 34         bekbot                    2304       -8         1218      
 35         simpleEval                2286       9          13695     
 36         honzovy-sachy-2           2201       5          6301      
@@ -92,4 +92,4 @@ Rank       Bot                       Rating     Prog       Games
 91         knucklefish               1081       -20        2996      
 92         CHoMPBoT                  1033       -13        1030      
 93         BelaBot                   912        -45        44        
-94         DeepLLaMA                 831        -97        30        
+94         DeepLLaMA                 830        -81        31        
