@@ -33,7 +33,7 @@ Rank       Bot                       Rating     Prog       Games
 32         admete_bot                2319       7          4964      
 33         Phalanx-XXV               2319       -4         3871      
 34         Pseudo-0                  2292       8          3535      
-35         simpleEval                2284       15         23989     
+35         simpleEval                2284       14         23990     
 36         AjedrezChamberi           2275       -4         499       
 37         humanian                  2223       -4         4243      
 38         LunaChessEngine           2194       17         868       
@@ -49,8 +49,8 @@ Rank       Bot                       Rating     Prog       Games
 48         Humaia-Strong             2035       56         1304      
 49         BLANK_BOT                 2022       2          6499      
 50         halcyonbot                2013       19         4025      
-51         YourSparringBot           1997       39         219       
-52         Trollfish-Bot             1987       17         2085      
+51         YourSparringBot           1997       34         220       
+52         Trollfish-Bot             1987       12         2086      
 53         theoden8_uci              1979       -8         3632      
 54         camel_bot                 1975       -10        257       
 55         Zagreus_Engine            1949       -6         2553      
@@ -78,13 +78,13 @@ Rank       Bot                       Rating     Prog       Games
 77         maia5                     1640       -16        38254     
 78         turochamp-2ply            1635       24         1307      
 79         maia1                     1634       -9         119932    
-80         sargon-4ply               1621       29         1403      
+80         sargon-4ply               1614       18         1404      
 81         Humaia                    1571       9          319       
 82         sargon-3ply               1570       14         1053      
-83         nilesrogoff_chessbot      1556       16         63        
+83         nilesrogoff_chessbot      1563       21         64        
 84         monchester                1525       5          2149      
 85         RoundMoundOfRebounds      1485       6          980       
-86         turochamp-1ply            1475       -8         1572      
+86         turochamp-1ply            1473       -3         1573      
 87         sargon-2ply               1469       -2         1793      
 88         sargon-1ply               1455       6          3824      
 89         yeoldwiz                  1450       18         791       
@@ -93,7 +93,7 @@ Rank       Bot                       Rating     Prog       Games
 92         schnecken_bot             1374       3          381       
 93         knucklefish               1364       4          2550      
 94         HulkBot                   1342       -71        1160      
-95         botTideEval               1336       0          403       
+95         botTideEval               1338       5          404       
 96         CHoMPBoT                  1295       4          625       
 97         DeepLLaMA                 995        -12        51        
 98         grandQ_AI                 759        -8         754       
