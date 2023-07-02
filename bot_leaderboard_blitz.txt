@@ -17,7 +17,7 @@ Rank       Bot                       Rating     Prog       Games
 16         LazyBot                   2756       3          1977      
 17         ReinforcementTrial        2752       21         71        
 18         AKS-Mantissa              2670       -3         8547      
-19         CodingAdventureBot        2642       0          959       
+19         CodingAdventureBot        2643       1          960       
 20         SaxtonEngine              2569       3          1840      
 21         expositor                 2568       10         6298      
 22         pawn_git                  2496       -7         2000      
@@ -33,12 +33,12 @@ Rank       Bot                       Rating     Prog       Games
 32         Pseudo-0                  2374       -15        2617      
 33         Phalanx-XXV               2355       -2         2362      
 34         FlamingDragon_9000        2323       19         3331      
-35         admete_bot                2315       -3         4913      
-36         simpleEval                2292       2          13727     
+35         admete_bot                2315       -3         4914      
+36         simpleEval                2287       -7         13728     
 37         humanian                  2232       0          11211     
-38         LunaChessEngine           2224       8          1257      
+38         LunaChessEngine           2218       1          1258      
 39         honzovy-sachy-2           2197       -4         6331      
-40         eubos                     2166       1          13088     
+40         eubos                     2173       7          13089     
 41         C-A-R-L                   2149       127        32        
 42         YourSparringBot           2149       -45        888       
 43         CadabraBot                2148       -2         968       
@@ -64,7 +64,7 @@ Rank       Bot                       Rating     Prog       Games
 63         zeekat                    1879       -8         18309     
 64         BengalBot                 1875       -34        482       
 65         zulu_bot                  1861       -3         992       
-66         baby_eubos                1853       17         6204      
+66         baby_eubos                1855       24         6205      
 67         notropis                  1842       14         5470      
 68         FlounderBot               1817       -20        493       
 69         myopic-bot                1813       13         1277      
@@ -83,8 +83,8 @@ Rank       Bot                       Rating     Prog       Games
 82         Jibbby                    1618       -6         5137      
 83         KnightlessKid             1616       -25        267       
 84         maia9                     1616       19         95679     
-85         turkjs                    1596       -3         9943      
-86         maia5                     1584       10         96743     
+85         turkjs                    1598       5          9944      
+86         maia5                     1582       4          96744     
 87         chat_bot                  1562       -30        218       
 88         HardRok                   1554       -22        394       
 89         sargon-4ply               1527       5          1657      
