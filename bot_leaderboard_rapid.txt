@@ -8,10 +8,10 @@ Rank       Bot                       Rating     Prog       Games
 7          ArasanX                   2862       0          4322      
 8          FireFishBOT               2862       -5         798       
 9          Shineshou90_BOT           2856       0          2196      
-10         faith_bot                 2852       7          632       
-11         chessfyBOT                2845       -7         228       
-12         Nikitosik-ai              2844       5          253       
-13         ResoluteBot               2844       -6         5153      
+10         chessfyBOT                2845       -7         228       
+11         Nikitosik-ai              2844       5          253       
+12         ResoluteBot               2844       -6         5153      
+13         faith_bot                 2842       -4         633       
 14         LoseisnotAvailablehe      2842       2          244       
 15         Nikitosikbot              2834       -1         8347      
 16         NikitosikVariantsbot      2810       1          740       
@@ -19,7 +19,7 @@ Rank       Bot                       Rating     Prog       Games
 18         AKS-Mantissa              2625       0          3782      
 19         LazyBot                   2618       9          700       
 20         expositor                 2581       16         4194      
-21         catriever                 2537       -8         68        
+21         catriever                 2557       28         69        
 22         SaxtonEngine              2537       11         1184      
 23         pawn_git                  2527       10         923       
 24         Weiawaga                  2504       -15        9261      
@@ -48,9 +48,9 @@ Rank       Bot                       Rating     Prog       Games
 47         Sparring_Bot              2133       -43        124       
 48         redtail-zero              2130       35         90        
 49         YourSparringBot           2123       -16        124       
-50         BLANK_BOT                 2035       -1         1330      
+50         BLANK_BOT                 2040       -2         1331      
 51         Humaia-Strong             2031       11         589       
-52         halcyonbot                2027       20         4931      
+52         halcyonbot                2021       8          4932      
 53         LazyBotJr                 2007       8          1245      
 54         camel_bot                 2005       31         188       
 55         Lynx_BOT                  1993       7          38738     
@@ -81,8 +81,8 @@ Rank       Bot                       Rating     Prog       Games
 80         HardRok                   1665       -23        242       
 81         Jibbby                    1659       8          1710      
 82         yeoldwiz                  1623       8          624       
-83         maia9                     1616       17         79812     
-84         maia5                     1607       8          96014     
+83         maia5                     1616       28         96016     
+84         maia9                     1616       17         79812     
 85         chat_bot                  1579       -33        146       
 86         sargon-3ply               1576       -6         1066      
 87         turochamp-2ply            1568       -35        999       
