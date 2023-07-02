@@ -3,8 +3,8 @@ Rank       Bot                       Rating     Prog       Games
 2          TorBot                    2887       -5         397       
 3          ToromBot                  2883       3          1610      
 4          RaspFish                  2870       -6         5143      
-5          YoBot_v2                  2869       -4         12455     
-6          ReinforcementTrial        2868       5          4044      
+5          ReinforcementTrial        2869       6          4045      
+6          YoBot_v2                  2869       -4         12455     
 7          ArasanX                   2862       7          4310      
 8          FireFishBOT               2862       -5         798       
 9          Shineshou90_BOT           2856       0          2196      
@@ -27,7 +27,7 @@ Rank       Bot                       Rating     Prog       Games
 26         OldStockfish              2489       -5         424       
 27         misteick_bot              2460       -10        982       
 28         Cheng-4                   2411       25         2781      
-29         Pseudo-0                  2390       -4         999       
+29         Pseudo-0                  2390       -4         1000      
 30         TuksuBot                  2381       2          1786      
 31         bot_adario                2380       -16        1168      
 32         Phalanx-XXV               2370       2          777       
@@ -53,13 +53,13 @@ Rank       Bot                       Rating     Prog       Games
 52         halcyonbot                2018       8          4922      
 53         LazyBotJr                 2007       8          1245      
 54         camel_bot                 2005       31         188       
-55         theoden8_uci              2001       -23        1111      
+55         theoden8_uci              1994       -33        1112      
 56         Lynx_BOT                  1978       -13        38730     
 57         LeelaRogue                1951       17         2179      
 58         BengalBot                 1945       -9         93        
 59         zeekat                    1932       -9         7465      
-60         baby_eubos                1920       -10        730       
-61         Zagreus_Engine            1920       25         1504      
+60         Zagreus_Engine            1928       30         1505      
+61         baby_eubos                1920       -10        730       
 62         Nc3Nc6Bot                 1908       -9         1020      
 63         FlounderBot               1863       9          42        
 64         myopic-bot                1858       10         206       
@@ -84,7 +84,7 @@ Rank       Bot                       Rating     Prog       Games
 83         chat_bot                  1579       -33        146       
 84         sargon-3ply               1576       -6         1066      
 85         turochamp-2ply            1568       -35        999       
-86         maia1                     1525       15         221677    
+86         maia1                     1523       19         221678    
 87         sargon-4ply               1522       32         510       
 88         dlvc-bot                  1517       4          29        
 89         RoundMoundOfRebounds      1451       6          282       
