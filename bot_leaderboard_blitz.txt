@@ -15,12 +15,12 @@ Rank       Bot                       Rating     Prog       Games
 14         blundar_bot               2756       -9         722       
 15         LazyBot                   2756       3          1977      
 16         ReinforcementTrial        2752       21         71        
-17         AKS-Mantissa              2667       -5         8546      
-18         CodingAdventureBot        2642       1          950       
+17         AKS-Mantissa              2670       -3         8547      
+18         CodingAdventureBot        2642       0          952       
 19         SaxtonEngine              2569       3          1840      
 20         expositor                 2568       10         6298      
 21         pawn_git                  2496       -7         2000      
-22         Weiawaga                  2481       -11        10963     
+22         Weiawaga                  2478       -19        10964     
 23         catriever                 2453       13         521       
 24         OpeningsBot               2443       8          76        
 25         OldStockfish              2435       10         339       
@@ -32,7 +32,7 @@ Rank       Bot                       Rating     Prog       Games
 31         Pseudo-0                  2374       -15        2617      
 32         Phalanx-XXV               2355       -2         2362      
 33         FlamingDragon_9000        2323       19         3331      
-34         admete_bot                2316       -3         4908      
+34         admete_bot                2316       -3         4909      
 35         simpleEval                2292       2          13727     
 36         humanian                  2232       0          11211     
 37         LunaChessEngine           2231       8          1256      
@@ -58,7 +58,7 @@ Rank       Bot                       Rating     Prog       Games
 57         Zagreus_Engine            1995       16         3648      
 58         Nc3Nc6Bot                 1989       -27        877       
 59         theoden8_uci              1976       8          3705      
-60         Lynx_BOT                  1947       7          46326     
+60         Lynx_BOT                  1947       9          46327     
 61         Trollfish-Bot             1882       3          1084      
 62         BengalBot                 1879       -24        481       
 63         zeekat                    1879       -8         18309     
@@ -81,7 +81,7 @@ Rank       Bot                       Rating     Prog       Games
 80         ChessChildren             1625       9          20911     
 81         Jibbby                    1618       -6         5137      
 82         KnightlessKid             1616       -25        267       
-83         maia9                     1616       27         95677     
+83         maia9                     1611       23         95678     
 84         turkjs                    1596       -3         9943      
 85         maia5                     1584       10         96743     
 86         chat_bot                  1562       -30        218       
@@ -102,7 +102,7 @@ Rank       Bot                       Rating     Prog       Games
 101        sargon-1ply               1205       -7         7231      
 102        knucklefish               1081       -20        2996      
 103        bobandi                   1066       -14        1057      
-104        CHoMPBoT                  1053       19         1051      
+104        CHoMPBoT                  1053       20         1052      
 105        BelaBot                   912        -45        44        
 106        DeepLLaMA                 823        -60        33        
 107        grandQ_AI                 687        18         1173      
