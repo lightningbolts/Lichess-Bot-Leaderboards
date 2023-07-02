@@ -9,6 +9,13 @@ def display_user_rating(username, type):
     user = lichess.api.user(username)
     return "@" + username + ": " + str(user.get('perfs', {}).get(type, {}).get('rating'))
 
+def get_team(team, type):
+    team_users = lichess.api.users_by_team(team)
+    ratings = []
+    for u in team_users:
+        ratings.append([u['username'], u['perfs'][type]['rating'], u['perfs'][type]['prog'], u['perfs'][type]['games']])
+    print(ratings)
+
 def get_user_rating(username, type):
     user = lichess.api.user(username)
     return [username, user.get('perfs', {}).get(type, {}).get('rating')]
@@ -81,3 +88,5 @@ while True:
     get_bot_ratings_online('racingKings')
     get_bot_ratings_online('threeCheck')
     time.sleep(300)
+
+#print(get_team('leaderboard-of-bots', 'bullet'))
