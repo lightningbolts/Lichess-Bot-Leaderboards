@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
-1          FireFishBOT               2895       -11        401       
+1          FireFishBOT               2895       -8         402       
 2          TorBot                    2894       8          519       
-3          ToromBot                  2882       1          2520      
+3          ToromBot                  2882       1          2521      
 4          YoBot_v2                  2864       8          2884      
 5          caissa-x                  2858       1          3003      
 6          Shineshou90_BOT           2856       4          1370      
@@ -19,7 +19,7 @@ Rank       Bot                       Rating     Prog       Games
 18         ReinforcementTrial        2752       21         71        
 19         EricBot                   2712       -118       53        
 20         AKS-Mantissa              2679       -8         8529      
-21         CodingAdventureBot        2618       1          769       
+21         CodingAdventureBot        2618       1          772       
 22         SaxtonEngine              2564       -16        1827      
 23         expositor                 2558       16         6287      
 24         pawn_git                  2500       -2         1991      
@@ -37,7 +37,7 @@ Rank       Bot                       Rating     Prog       Games
 36         admete_bot                2289       10         4828      
 37         simpleEval                2283       -3         13706     
 38         HistoryExplorer           2244       5          2386      
-39         humanian                  2228       22         11187     
+39         humanian                  2223       16         11188     
 40         honzovy-sachy-2           2195       5          6310      
 41         LunaChessEngine           2177       -2         1205      
 42         GarboBot                  2172       2          8417      
@@ -46,7 +46,7 @@ Rank       Bot                       Rating     Prog       Games
 45         Elmichess                 2112       -41        3458      
 46         MaxtheDog                 2101       -2         3426      
 47         redtail-zero              2084       -14        227       
-48         Boris-Trapsky             2071       -8         27249     
+48         Boris-Trapsky             2072       -2         27250     
 49         Humaia-Strong             2071       0          2295      
 50         LeelaRogue                2034       2          2173      
 51         halcyonbot                2024       12         7421      
@@ -64,9 +64,9 @@ Rank       Bot                       Rating     Prog       Games
 63         FlounderBot               1847       16         476       
 64         baby_eubos                1843       2          6179      
 65         notropis                  1840       13         5448      
-66         big_chingus_01            1814       5          35        
-67         myopic-bot                1802       -11        1268      
-68         honzovy-sachy             1765       4          4586      
+66         myopic-bot                1802       -11        1268      
+67         big_chingus_01            1790       2          36        
+68         honzovy-sachy             1770       4          4587      
 69         Virutor                   1764       10         7059      
 70         Ptit-biscuit              1754       -3         229       
 71         Fisk_Bot                  1734       -9         1474      
@@ -80,14 +80,14 @@ Rank       Bot                       Rating     Prog       Games
 79         ChessChildren             1619       -9         20899     
 80         KnightlessKid             1616       -25        267       
 81         turkjs                    1590       -4         9935      
-82         HardRok                   1570       -11        366       
+82         HardRok                   1579       1          367       
 83         chat_bot                  1569       3          216       
-84         maia5                     1568       30         96642     
+84         maia5                     1563       30         96643     
 85         sargon-4ply               1525       20         1651      
 86         sargon-3ply               1480       11         1596      
 87         RoundMoundOfRebounds      1472       22         981       
 88         turochamp-2ply            1471       10         1428      
-89         maia1                     1443       -6         198267    
+89         maia1                     1436       -7         198269    
 90         monchester                1418       -8         2501      
 91         Humaia                    1369       6          754       
 92         sargon-2ply               1311       26         2687      
