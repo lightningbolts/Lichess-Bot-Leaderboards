@@ -3,7 +3,7 @@ Rank       Bot                       Rating     Prog       Games
 2          RaspFish                  2913       7          44530     
 3          Nikitosikbot              2909       3          19580     
 4          FireFishBOT               2899       -2         351       
-5          TorBot                    2892       -1         5430      
+5          TorBot                    2893       -2         5432      
 6          ResoluteBot               2887       -4         24791     
 7          Karpov_bot                2885       -8         31646     
 8          caissa-test               2879       9          989       
@@ -16,7 +16,7 @@ Rank       Bot                       Rating     Prog       Games
 15         blundar_bot               2805       6          4233      
 16         chessfyBOT                2788       -8         1404      
 17         LazyBot                   2707       18         1388      
-18         CodingAdventureBot        2688       1          695       
+18         CodingAdventureBot        2688       1          696       
 19         Elmichess                 2566       -15        3178      
 20         expositor                 2550       -5         17941     
 21         AKS-Mantissa              2541       7          9514      
@@ -24,7 +24,7 @@ Rank       Bot                       Rating     Prog       Games
 23         SaxtonEngine              2494       6          3401      
 24         Cheng-4                   2412       -7         13130     
 25         pawn_git                  2412       -8         3454      
-26         Weiawaga                  2404       1          14058     
+26         Weiawaga                  2403       1          14060     
 27         catriever                 2376       -10        1352      
 28         misteick_bot              2374       -3         14490     
 29         OpeningsBot               2349       -29        97        
@@ -38,7 +38,7 @@ Rank       Bot                       Rating     Prog       Games
 37         AjedrezChamberi           2275       -4         499       
 38         simpleEval                2275       -11        24030     
 39         HistoryExplorer           2245       0          2270      
-40         honzovy-sachy-2           2160       -33        6561      
+40         honzovy-sachy-2           2156       -28        6564      
 41         matmoi                    2135       4          259       
 42         LazyBotJr                 2131       9          804       
 43         CadabraBot                2121       -13        521       
@@ -67,7 +67,7 @@ Rank       Bot                       Rating     Prog       Games
 66         notropis                  1810       14         3148      
 67         baby_eubos                1792       11         4376      
 68         honzovy-sachy             1777       -6         4654      
-69         melsh_bot                 1767       -9         3316      
+69         melsh_bot                 1769       -2         3317      
 70         simplexitor               1747       -15        2013      
 71         Fisk_Bot                  1740       10         225       
 72         ChessChildren             1739       12         15095     
@@ -84,16 +84,16 @@ Rank       Bot                       Rating     Prog       Games
 83         monchester                1528       10         2151      
 84         sargon-1ply               1508       -3         3862      
 85         RoundMoundOfRebounds      1504       9          993       
-86         sargon-2ply               1461       -24        1818      
+86         sargon-2ply               1465       -24        1819      
 87         turochamp-1ply            1461       -8         1586      
 88         yeoldwiz                  1450       18         791       
 89         OhniBOT                   1440       -133       328       
 90         GeraldBOT                 1426       -7         271       
-91         DeepKalle                 1403       3          69        
+91         DeepKalle                 1401       3          70        
 92         schnecken_bot             1369       9          390       
 93         knucklefish               1364       4          2550      
-94         botTideEval               1344       -7         420       
-95         HulkBot                   1342       -71        1160      
+94         HulkBot                   1342       -71        1160      
+95         botTideEval               1340       -18        421       
 96         CHoMPBoT                  1302       17         631       
 97         bobandi                   1264       9          1023      
 98         DeepLLaMA                 995        -12        51        
