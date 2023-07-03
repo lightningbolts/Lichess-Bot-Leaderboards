@@ -38,7 +38,7 @@ Rank       Bot                       Rating     Prog       Games
 37         honzovy-sachy-2           2181       -5         6336      
 38         eubos                     2173       6          13097     
 39         jangine                   2138       5          2697      
-40         CadabraBot                2134       -9         978       
+40         CadabraBot                2135       -13        979       
 41         GarboBot                  2133       -14        8448      
 42         matmoi                    2126       4          195       
 43         Elmichess                 2115       -42        3459      
@@ -52,10 +52,10 @@ Rank       Bot                       Rating     Prog       Games
 51         BLANK_BOT                 2032       14         4156      
 52         LazyBotJr                 2006       -20        1482      
 53         Zagreus_Engine            1989       0          3654      
-54         Nc3Nc6Bot                 1976       -33        883       
-55         theoden8_uci              1972       -1         3706      
-56         Lynx_BOT                  1958       -9         46351     
-57         michabay05                1952       66         14        
+54         michabay05                1981       96         15        
+55         Nc3Nc6Bot                 1976       -33        883       
+56         theoden8_uci              1972       -1         3706      
+57         Lynx_BOT                  1953       -16        46352     
 58         Trollfish-Bot             1895       13         1092      
 59         zeekat                    1878       2          18323     
 60         BengalBot                 1872       -42        484       
@@ -72,7 +72,7 @@ Rank       Bot                       Rating     Prog       Games
 71         melsh_bot                 1728       -3         1429      
 72         QueensGamBOT              1718       15         2633      
 73         AshNostromo               1713       -3         908       
-74         ELO_1500                  1677       -15        11786     
+74         ELO_1500                  1677       -15        11787     
 75         simplexitor               1663       5          1891      
 76         GeraldBOT                 1642       -63        14        
 77         Jibbby                    1631       13         5145      
@@ -86,9 +86,9 @@ Rank       Bot                       Rating     Prog       Games
 85         sargon-4ply               1527       5          1657      
 86         turochamp-2ply            1479       16         1434      
 87         sargon-3ply               1476       -4         1607      
-88         maia1                     1455       -16        198469    
+88         maia1                     1449       -18        198470    
 89         monchester                1420       -3         2503      
-90         DeepKalle                 1414       -54        26        
+90         DeepKalle                 1419       -31        27        
 91         nilesrogoff_chessbot      1409       -26        12        
 92         Humaia                    1371       -1         755       
 93         sargon-2ply               1350       23         2705      
@@ -97,7 +97,7 @@ Rank       Bot                       Rating     Prog       Games
 96         HulkBot                   1219       17         657       
 97         sargon-1ply               1207       5          7233      
 98         knucklefish               1081       -20        2996      
-99         bobandi                   1065       -2         1059      
+99         bobandi                   1063       -10        1060      
 100        CHoMPBoT                  1042       7          1058      
 101        BelaBot                   912        -45        44        
 102        DeepLLaMA                 823        -60        33        
