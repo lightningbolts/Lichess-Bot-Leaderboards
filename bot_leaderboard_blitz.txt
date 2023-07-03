@@ -15,13 +15,13 @@ Rank       Bot                       Rating     Prog       Games
 14         LazyBot                   2756       3          1977      
 15         ReinforcementTrial        2752       21         71        
 16         AKS-Mantissa              2667       -3         8558      
-17         CodingAdventureBot        2662       1          1046      
-18         expositor                 2570       11         6304      
-19         SaxtonEngine              2570       -2         1846      
+17         CodingAdventureBot        2662       0          1049      
+18         SaxtonEngine              2574       3          1847      
+19         expositor                 2570       11         6304      
 20         pawn_git                  2491       -7         2004      
 21         Weiawaga                  2475       -13        10967     
 22         catriever                 2451       12         524       
-23         OpeningsBot               2449       13         83        
+23         OpeningsBot               2446       5          84        
 24         TuksuBot                  2429       -2         3565      
 25         Cheng-4                   2418       -10        6069      
 26         odonata-bot               2417       0          5719      
@@ -82,7 +82,7 @@ Rank       Bot                       Rating     Prog       Games
 81         sargon-4ply               1527       5          1657      
 82         turochamp-2ply            1483       20         1435      
 83         sargon-3ply               1476       -4         1607      
-84         maia1                     1461       23         198483    
+84         maia1                     1468       21         198484    
 85         monchester                1420       -3         2503      
 86         DeepKalle                 1403       -27        34        
 87         Humaia                    1371       -1         755       
