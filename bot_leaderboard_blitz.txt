@@ -16,7 +16,7 @@ Rank       Bot                       Rating     Prog       Games
 15         LazyBot                   2756       3          1977      
 16         ReinforcementTrial        2752       21         71        
 17         AKS-Mantissa              2667       -3         8558      
-18         CodingAdventureBot        2660       1          1087      
+18         CodingAdventureBot        2660       1          1089      
 19         SaxtonEngine              2574       3          1847      
 20         expositor                 2570       11         6304      
 21         Re-BOT                    2492       302        26        
@@ -39,7 +39,7 @@ Rank       Bot                       Rating     Prog       Games
 38         eubos                     2175       6          13103     
 39         jangine                   2144       17         2701      
 40         GarboBot                  2133       -14        8448      
-41         matmoi                    2121       -1         208       
+41         matmoi                    2124       5          209       
 42         Elmichess                 2115       -42        3459      
 43         CadabraBot                2113       -17        988       
 44         MaxtheDog                 2103       12         3443      
@@ -52,9 +52,9 @@ Rank       Bot                       Rating     Prog       Games
 51         LazyBotJr                 2006       -20        1482      
 52         Zagreus_Engine            1989       -8         3660      
 53         Nc3Nc6Bot                 1984       5          895       
-54         Lynx_BOT                  1969       11         46371     
-55         theoden8_uci              1967       5          3709      
-56         michabay05                1949       64         17        
+54         theoden8_uci              1967       5          3709      
+55         Lynx_BOT                  1965       -4         46372     
+56         michabay05                1958       73         18        
 57         Trollfish-Bot             1911       28         1097      
 58         BengalBot                 1884       -18        487       
 59         zeekat                    1879       -3         18331     
@@ -70,7 +70,7 @@ Rank       Bot                       Rating     Prog       Games
 69         melsh_bot                 1728       -3         1429      
 70         QueensGamBOT              1719       22         2634      
 71         AshNostromo               1711       -4         909       
-72         ELO_1500                  1676       -12        11792     
+72         ELO_1500                  1674       -5         11793     
 73         simplexitor               1663       5          1891      
 74         Jibbby                    1630       3          5154      
 75         ChessChildren             1627       18         20913     
@@ -78,7 +78,7 @@ Rank       Bot                       Rating     Prog       Games
 77         KnightlessKid             1616       -25        267       
 78         maia9                     1608       -8         95714     
 79         turkjs                    1605       3          9950      
-80         maia5                     1579       -3         96777     
+80         maia5                     1576       0          96778     
 81         chat_bot                  1541       -37        220       
 82         sargon-4ply               1527       5          1657      
 83         turochamp-2ply            1480       12         1436      
