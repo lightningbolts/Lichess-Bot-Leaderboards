@@ -4,9 +4,9 @@ Rank       Bot                       Rating     Prog       Games
 3          ToromBot                  2887       7          1614      
 4          YoBot_v2                  2875       2          12459     
 5          RaspFish                  2870       -6         5148      
-6          ReinforcementTrial        2868       -1         4056      
+6          ReinforcementTrial        2869       -1         4057      
 7          FireFishBOT               2862       -5         798       
-8          ArasanX                   2856       -5         4331      
+8          ArasanX                   2856       -4         4332      
 9          Shineshou90_BOT           2856       0          2196      
 10         chessfyBOT                2845       -7         228       
 11         Nikitosik-ai              2844       5          253       
@@ -20,7 +20,7 @@ Rank       Bot                       Rating     Prog       Games
 19         expositor                 2578       4          4200      
 20         SaxtonEngine              2537       11         1184      
 21         catriever                 2535       -10        72        
-22         pawn_git                  2527       10         923       
+22         pawn_git                  2525       10         924       
 23         Weiawaga                  2504       -5         9263      
 24         OldStockfish              2484       -10        427       
 25         misteick_bot              2466       -2         984       
@@ -35,7 +35,7 @@ Rank       Bot                       Rating     Prog       Games
 34         FlamingDragon_9000        2309       -12        1216      
 35         Boris-Trapsky             2306       -6         26897     
 36         simpleEval                2292       6          7160      
-37         honzovy-sachy-2           2270       -3         3386      
+37         honzovy-sachy-2           2270       -1         3387      
 38         eubos                     2215       -10        4052      
 39         MaxtheDog                 2195       -5         455       
 40         Elmichess                 2178       25         1335      
@@ -77,7 +77,7 @@ Rank       Bot                       Rating     Prog       Games
 76         Jibbby                    1664       6          1714      
 77         GeraldBOT                 1661       2          363       
 78         maia9                     1649       1          79839     
-79         maia5                     1632       -3         96053     
+79         maia5                     1630       -10        96054     
 80         yeoldwiz                  1623       8          624       
 81         chat_bot                  1579       -33        146       
 82         sargon-3ply               1576       -6         1066      
