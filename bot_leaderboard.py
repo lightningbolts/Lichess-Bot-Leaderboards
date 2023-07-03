@@ -29,7 +29,6 @@ def get_file_name(type):
 def get_bot_ratings_online(type):
     banned_bots = [
         'caissa-ai',
-        'GHDES',
         'ProteusSF',
         'ProteusSF-lite',
         'ProteusSF-Open',
