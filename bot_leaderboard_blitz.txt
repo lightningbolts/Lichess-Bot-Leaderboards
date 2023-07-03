@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
 1          FishFingersMcGee          2910       -20        49        
-2          FireFishBOT               2890       -2         493       
+2          FireFishBOT               2892       1          494       
 3          ToromBot                  2884       -5         2540      
 4          TorBot                    2882       -13        534       
 5          YoBot_v2                  2865       5          2888      
@@ -18,9 +18,9 @@ Rank       Bot                       Rating     Prog       Games
 17         LazyBot                   2756       3          1977      
 18         ReinforcementTrial        2752       21         71        
 19         AKS-Mantissa              2669       -5         8551      
-20         CodingAdventureBot        2654       5          988       
-21         SaxtonEngine              2570       0          1841      
-22         expositor                 2568       10         6298      
+20         CodingAdventureBot        2654       5          989       
+21         expositor                 2568       10         6298      
+22         SaxtonEngine              2568       -5         1842      
 23         pawn_git                  2496       -7         2000      
 24         Weiawaga                  2476       -19        10966     
 25         catriever                 2452       18         523       
@@ -91,7 +91,7 @@ Rank       Bot                       Rating     Prog       Games
 90         maia1                     1470       16         198462    
 91         monchester                1420       -3         2503      
 92         Humaia                    1371       -1         755       
-93         sargon-2ply               1349       27         2703      
+93         sargon-2ply               1351       21         2704      
 94         schnecken_bot             1270       0          1161      
 95         OhniBOT                   1264       -22        262       
 96         turochamp-1ply            1247       -9         1510      
@@ -99,7 +99,7 @@ Rank       Bot                       Rating     Prog       Games
 98         sargon-1ply               1204       -3         7232      
 99         knucklefish               1081       -20        2996      
 100        bobandi                   1066       -14        1057      
-101        CHoMPBoT                  1052       20         1053      
+101        CHoMPBoT                  1050       19         1054      
 102        BelaBot                   912        -45        44        
 103        DeepLLaMA                 823        -60        33        
 104        grandQ_AI                 687        18         1173      
