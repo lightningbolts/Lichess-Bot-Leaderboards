@@ -23,7 +23,7 @@ Rank       Bot                       Rating     Prog       Games
 22         pawn_git                  2491       -7         2004      
 23         Weiawaga                  2475       -13        10967     
 24         catriever                 2451       12         524       
-25         OpeningsBot               2437       -6         85        
+25         OpeningsBot               2431       -11        86        
 26         TuksuBot                  2429       -2         3565      
 27         Cheng-4                   2418       -10        6069      
 28         odonata-bot               2417       0          5719      
@@ -39,7 +39,7 @@ Rank       Bot                       Rating     Prog       Games
 38         jangine                   2142       11         2699      
 39         GarboBot                  2133       -14        8448      
 40         CadabraBot                2123       -16        985       
-41         matmoi                    2116       1          202       
+41         matmoi                    2120       -2         203       
 42         Elmichess                 2115       -42        3459      
 43         MaxtheDog                 2103       12         3443      
 44         redtail-zero              2084       -14        227       
@@ -51,8 +51,8 @@ Rank       Bot                       Rating     Prog       Games
 50         LazyBotJr                 2006       -20        1482      
 51         Nc3Nc6Bot                 1986       -12        887       
 52         Zagreus_Engine            1986       -4         3656      
-53         michabay05                1981       96         15        
-54         theoden8_uci              1973       8          3708      
+53         theoden8_uci              1973       8          3708      
+54         michabay05                1964       79         16        
 55         Lynx_BOT                  1958       -2         46360     
 56         Trollfish-Bot             1896       19         1094      
 57         zeekat                    1878       0          18326     
@@ -75,8 +75,8 @@ Rank       Bot                       Rating     Prog       Games
 74         Jibbby                    1637       21         5151      
 75         ChessChildren             1627       18         20913     
 76         yeoldwiz                  1627       14         1589      
-77         KnightlessKid             1616       -25        267       
-78         maia9                     1615       5          95710     
+77         maia9                     1625       13         95711     
+78         KnightlessKid             1616       -25        267       
 79         turkjs                    1602       5          9949      
 80         GeraldBOT                 1588       -117       16        
 81         maia5                     1570       -23        96773     
@@ -90,11 +90,11 @@ Rank       Bot                       Rating     Prog       Games
 89         DeepKalle                 1403       -27        34        
 90         Humaia                    1371       -1         755       
 91         sargon-2ply               1350       23         2705      
-92         schnecken_bot             1272       -5         1168      
+92         schnecken_bot             1285       14         1171      
 93         OhniBOT                   1264       -22        262       
 94         turochamp-1ply            1253       -5         1512      
 95         HulkBot                   1219       17         657       
-96         sargon-1ply               1197       -7         7235      
+96         sargon-1ply               1184       -28        7238      
 97         knucklefish               1081       -20        2996      
 98         bobandi                   1063       -10        1060      
 99         CHoMPBoT                  1042       7          1058      
