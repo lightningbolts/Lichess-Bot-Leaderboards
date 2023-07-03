@@ -16,8 +16,8 @@ Rank       Bot                       Rating     Prog       Games
 15         Nikitosik-ai              2780       -4         62        
 16         blundar_bot               2756       -9         722       
 17         ReinforcementTrial        2752       21         71        
-18         CodingAdventureBot        2673       8          1203      
-19         AKS-Mantissa              2669       4          8564      
+18         CodingAdventureBot        2673       8          1205      
+19         AKS-Mantissa              2663       -5         8565      
 20         SaxtonEngine              2556       -16        1856      
 21         expositor                 2554       -18        6310      
 22         pawn_git                  2498       -4         2008      
@@ -32,7 +32,7 @@ Rank       Bot                       Rating     Prog       Games
 31         Pseudo-0                  2377       8          2625      
 32         Phalanx-XXV               2366       14         2366      
 33         FlamingDragon_9000        2323       19         3331      
-34         admete_bot                2321       -3         5019      
+34         admete_bot                2321       -3         5020      
 35         simpleEval                2301       12         13741     
 36         morabandbot               2240       14         112       
 37         Wahoo_Bot                 2218       48         141       
@@ -63,7 +63,7 @@ Rank       Bot                       Rating     Prog       Games
 62         zeekat                    1871       -8         18354     
 63         zulu_bot                  1861       -3         992       
 64         baby_eubos                1858       16         6229      
-65         notropis                  1827       -8         5492      
+65         notropis                  1817       -21        5493      
 66         Hyperopic                 1808       -21        374       
 67         FlounderBot               1802       -15        504       
 68         myopic-bot                1800       -22        1285      
@@ -90,9 +90,9 @@ Rank       Bot                       Rating     Prog       Games
 89         sargon-3ply               1476       -2         1608      
 90         ChamberiAjedrez           1470       -106       321       
 91         RoundMoundOfRebounds      1468       -6         988       
-92         DeepKalle                 1448       20         46        
+92         DeepKalle                 1450       19         47        
 93         monchester                1431       10         2505      
-94         maia1                     1406       -14        198557    
+94         maia1                     1405       -11        198558    
 95         Humaia                    1371       -1         755       
 96         sargon-2ply               1353       18         2706      
 97         schnecken_bot             1275       -1         1180      
@@ -101,7 +101,7 @@ Rank       Bot                       Rating     Prog       Games
 100        HulkBot                   1219       17         657       
 101        sargon-1ply               1187       -20        7244      
 102        knucklefish               1081       -20        2996      
-103        bobandi                   1054       -22        1065      
+103        bobandi                   1052       -24        1066      
 104        CHoMPBoT                  1044       -6         1065      
 105        BelaBot                   912        -45        44        
 106        DeepLLaMA                 823        -60        33        
