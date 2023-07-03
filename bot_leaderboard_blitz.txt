@@ -1,12 +1,12 @@
 Rank       Bot                       Rating     Prog       Games     
-1          FireFishBOT               2893       -6         537       
+1          FireFishBOT               2892       -6         538       
 2          FishFingersMcGee          2889       0          65        
 3          TorBot                    2882       -13        534       
 4          YoBot_v2                  2861       -1         2892      
 5          Shineshou90_BOT           2854       0          1372      
 6          faith_bot                 2844       8          604       
 7          Nikitosikbot              2834       11         5661      
-8          RaspFish                  2827       6          10520     
+8          RaspFish                  2828       11         10521     
 9          chessfyBOT                2819       -12        180       
 10         NikitosikVariantsbot      2819       4          692       
 11         ArasanX                   2815       -13        1329      
@@ -18,7 +18,7 @@ Rank       Bot                       Rating     Prog       Games
 17         ReinforcementTrial        2752       21         71        
 18         EricBot                   2712       -118       53        
 19         AKS-Mantissa              2669       -2         8559      
-20         CodingAdventureBot        2662       2          1097      
+20         CodingAdventureBot        2645       -15        1099      
 21         SaxtonEngine              2574       3          1847      
 22         expositor                 2570       11         6304      
 23         Re-BOT                    2492       302        26        
@@ -34,7 +34,7 @@ Rank       Bot                       Rating     Prog       Games
 33         Pseudo-0                  2385       8          2621      
 34         Phalanx-XXV               2355       2          2363      
 35         FlamingDragon_9000        2323       19         3331      
-36         admete_bot                2322       9          4934      
+36         admete_bot                2321       9          4935      
 37         simpleEval                2301       12         13741     
 38         HistoryExplorer           2236       -9         2390      
 39         honzovy-sachy-2           2187       -10        6342      
@@ -76,8 +76,8 @@ Rank       Bot                       Rating     Prog       Games
 75         ChessChildren             1627       18         20913     
 76         yeoldwiz                  1627       14         1589      
 77         KnightlessKid             1616       -25        267       
-78         maia9                     1609       -4         95718     
-79         turkjs                    1605       3          9950      
+78         turkjs                    1605       3          9950      
+79         maia9                     1601       -15        95719     
 80         maia5                     1556       -9         96783     
 81         chat_bot                  1541       -37        220       
 82         sargon-4ply               1527       5          1657      
@@ -85,8 +85,8 @@ Rank       Bot                       Rating     Prog       Games
 84         sargon-3ply               1476       -4         1607      
 85         ChamberiAjedrez           1470       -106       321       
 86         RoundMoundOfRebounds      1469       6          987       
-87         maia1                     1454       -9         198496    
-88         DeepKalle                 1434       20         37        
+87         maia1                     1457       2          198497    
+88         DeepKalle                 1456       37         38        
 89         monchester                1420       -3         2503      
 90         Humaia                    1371       -1         755       
 91         sargon-2ply               1350       23         2705      
@@ -100,4 +100,4 @@ Rank       Bot                       Rating     Prog       Games
 99         CHoMPBoT                  1040       2          1060      
 100        BelaBot                   912        -45        44        
 101        DeepLLaMA                 823        -60        33        
-102        grandQ_AI                 698        31         1174      
+102        grandQ_AI                 694        27         1176      
