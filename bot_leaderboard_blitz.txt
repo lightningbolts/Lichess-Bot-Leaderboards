@@ -21,7 +21,7 @@ Rank       Bot                       Rating     Prog       Games
 20         Re-BOT                    2702       13         51        
 21         CodingAdventureBot        2660       1          1315      
 22         AKS-Mantissa              2649       -14        8580      
-23         SaxtonEngine              2562       3          1865      
+23         SaxtonEngine              2562       2          1866      
 24         expositor                 2553       -1         6321      
 25         pawn_git                  2495       -1         2011      
 26         Weiawaga                  2477       -5         10982     
@@ -30,7 +30,7 @@ Rank       Bot                       Rating     Prog       Games
 29         TuksuBot                  2431       4          3572      
 30         Cheng-4                   2416       -5         6125      
 31         odonata-bot               2404       -10        5723      
-32         fornax-engine             2396       -12        6204      
+32         fornax-engine             2397       -6         6205      
 33         misteick_bot              2392       -21        5570      
 34         Pseudo-0                  2366       -10        2629      
 35         Phalanx-XXV               2357       -1         2371      
@@ -45,7 +45,7 @@ Rank       Bot                       Rating     Prog       Games
 44         matmoi                    2117       0          236       
 45         Elmichess                 2115       -42        3459      
 46         jangine                   2108       -36        2712      
-47         MaxtheDog                 2088       -8         3464      
+47         MaxtheDog                 2089       -1         3465      
 48         redtail-zero              2084       -14        227       
 49         halcyonbot                2083       6          7526      
 50         Humaia-Strong             2071       0          2295      
@@ -56,7 +56,7 @@ Rank       Bot                       Rating     Prog       Games
 55         Zagreus_Engine            1982       -3         3679      
 56         Nc3Nc6Bot                 1977       -5         916       
 57         theoden8_uci              1976       -1         3718      
-58         Lynx_BOT                  1971       10         46433     
+58         Lynx_BOT                  1970       14         46434     
 59         zeekat                    1896       13         18377     
 60         Trollfish-Bot             1872       -17        1123      
 61         zulu_bot                  1861       -3         992       
@@ -75,11 +75,11 @@ Rank       Bot                       Rating     Prog       Games
 74         ELO_1500                  1685       4          11841     
 75         simplexitor               1670       10         1898      
 76         maia9                     1662       1          95808     
-77         Jibbby                    1634       -4         5178      
+77         Jibbby                    1634       -7         5179      
 78         yeoldwiz                  1627       14         1589      
 79         ChessChildren             1621       -4         20922     
 80         KnightlessKid             1616       -25        267       
-81         dlvc-bot                  1606       -7         636       
+81         dlvc-bot                  1605       -8         637       
 82         GeraldBOT                 1604       -102       20        
 83         turkjs                    1598       -12        9962      
 84         maia5                     1572       -12        96836     
@@ -88,7 +88,7 @@ Rank       Bot                       Rating     Prog       Games
 87         turochamp-2ply            1483       16         1437      
 88         sargon-3ply               1476       -2         1608      
 89         RoundMoundOfRebounds      1458       -15        990       
-90         maia1                     1455       8          198660    
+90         maia1                     1455       6          198663    
 91         monchester                1427       6          2506      
 92         Humaia                    1370       -1         759       
 93         sargon-2ply               1348       8          2708      
