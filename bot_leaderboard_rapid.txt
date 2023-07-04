@@ -3,8 +3,8 @@ Rank       Bot                       Rating     Prog       Games
 2          ToromBot                  2883       2          1624      
 3          FireFishBOT               2880       15         818       
 4          ReinforcementTrial        2873       -5         4112      
-5          YoBot_v2                  2864       1          12506     
-6          RaspFish                  2861       -8         5171      
+5          YoBot_v2                  2864       2          12507     
+6          RaspFish                  2861       -8         5172      
 7          Shineshou90_BOT           2855       -1         2215      
 8          chessfyBOT                2845       -7         228       
 9          Nikitosikbot              2840       2          8361      
@@ -24,10 +24,10 @@ Rank       Bot                       Rating     Prog       Games
 23         TuksuBot                  2388       3          1799      
 24         bot_adario                2383       -1         1177      
 25         fornax-engine             2337       -24        3513      
-26         bekbot                    2324       12         934       
+26         bekbot                    2329       14         935       
 27         admete_bot                2312       2          2851      
 28         FlamingDragon_9000        2309       -12        1216      
-29         simpleEval                2306       8          7177      
+29         simpleEval                2300       -1         7178      
 30         eubos                     2205       -21        4060      
 31         matmoi                    2202       1          198       
 32         MaxtheDog                 2201       -6         458       
@@ -43,7 +43,7 @@ Rank       Bot                       Rating     Prog       Games
 42         Humaia-Strong             2031       11         589       
 43         LazyBotJr                 2007       8          1245      
 44         BLANK_BOT                 1999       -41        1342      
-45         Lynx_BOT                  1988       -1         38787     
+45         Lynx_BOT                  1988       4          38788     
 46         Nc3Nc6Bot                 1973       19         1078      
 47         theoden8_uci              1972       -22        1123      
 48         LeelaRogue                1966       35         2181      
@@ -70,8 +70,8 @@ Rank       Bot                       Rating     Prog       Games
 69         sargon-3ply               1575       -12        1067      
 70         turochamp-2ply            1559       -39        1002      
 71         chat_bot                  1554       -48        151       
-72         maia1                     1547       19         222062    
-73         sargon-4ply               1516       2          514       
+72         maia1                     1540       13         222063    
+73         sargon-4ply               1515       -15        515       
 74         DavidsGuterBot            1501       -5         528       
 75         RoundMoundOfRebounds      1472       19         286       
 76         sargon-2ply               1432       -4         3062      
