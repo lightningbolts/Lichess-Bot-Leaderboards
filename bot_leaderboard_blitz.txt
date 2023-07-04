@@ -10,7 +10,7 @@ Rank       Bot                       Rating     Prog       Games
 9          chessfyBOT                2819       -12        180       
 10         RaspFish                  2818       -1         10545     
 11         ResoluteBot               2807       -18        10832     
-12         ArasanX                   2804       -13        1339      
+12         ArasanX                   2801       -14        1340      
 13         Nikitosik-ai              2780       -4         62        
 14         LazyBot                   2756       3          1977      
 15         blundar_bot               2755       -2         726       
@@ -77,11 +77,11 @@ Rank       Bot                       Rating     Prog       Games
 76         yeoldwiz                  1627       14         1589      
 77         ChessChildren             1621       -4         20922     
 78         turkjs                    1598       -12        9962      
-79         dlvc-bot                  1580       -10        653       
+79         dlvc-bot                  1579       -4         654       
 80         maia5                     1550       -12        96854     
 81         chat_bot                  1541       -37        220       
 82         sargon-4ply               1508       -17        1662      
-83         sargon-3ply               1483       5          1609      
+83         sargon-3ply               1485       8          1610      
 84         turochamp-2ply            1483       16         1437      
 85         DavidsGuterBot            1475       -8         3158      
 86         ChamberiAjedrez           1470       -106       321       
@@ -101,4 +101,4 @@ Rank       Bot                       Rating     Prog       Games
 100        bobandi                   1058       -8         1069      
 101        BelaBot                   912        -45        44        
 102        DeepLLaMA                 823        -60        33        
-103        grandQ_AI                 684        -5         1183      
+103        grandQ_AI                 683        -4         1184      
