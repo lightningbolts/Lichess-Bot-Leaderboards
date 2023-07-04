@@ -2,11 +2,11 @@ Rank       Bot                       Rating     Prog       Games
 1          caissa-x                  2888       -2         2969      
 2          ToromBot                  2883       2          1623      
 3          FireFishBOT               2880       15         818       
-4          ReinforcementTrial        2871       -8         4109      
-5          YoBot_v2                  2865       -5         12502     
-6          RaspFish                  2861       -9         5169      
+4          ReinforcementTrial        2871       -8         4110      
+5          YoBot_v2                  2865       -5         12503     
+6          RaspFish                  2861       -8         5170      
 7          BRAINLEARN11_NNUE         2856       -13        484       
-8          Shineshou90_BOT           2855       -1         2211      
+8          Shineshou90_BOT           2855       -1         2212      
 9          chessfyBOT                2845       -7         228       
 10         faith_bot                 2842       -4         633       
 11         Nikitosikbot              2840       2          8361      
@@ -62,7 +62,7 @@ Rank       Bot                       Rating     Prog       Games
 61         zulu_bot                  1776       3          110       
 62         melsh_bot                 1773       98         144       
 63         AshNostromo               1757       14         1155      
-64         maia9                     1727       34         79960     
+64         maia9                     1735       37         79961     
 65         HulkBot                   1720       -22        395       
 66         turkjs                    1711       8          4886      
 67         simplexitor               1707       6          405       
@@ -78,7 +78,7 @@ Rank       Bot                       Rating     Prog       Games
 77         DavidsGuterBot            1506       -2         527       
 78         RoundMoundOfRebounds      1472       19         286       
 79         sargon-2ply               1432       -4         3062      
-80         Humaia                    1341       -15        1929      
+80         Humaia                    1335       -20        1930      
 81         turochamp-1ply            1331       5          1433      
 82         sargon-1ply               1301       31         7975      
 83         pawnrobot                 1284       -18        502       
@@ -89,4 +89,3 @@ Rank       Bot                       Rating     Prog       Games
 88         bobandi                   932        -4         630       
 89         DeepLLaMA                 841        18         65        
 90         grandQ_AI                 751        -9         1544      
-91         G0thamB0t                 717        -4         232       
