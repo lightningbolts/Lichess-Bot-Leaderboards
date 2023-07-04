@@ -27,7 +27,7 @@ Rank       Bot                       Rating     Prog       Games
 26         TuksuBot                  2433       4          3573      
 27         bot_adario                2397       11         1841      
 28         fornax-engine             2392       -5         6207      
-29         misteick_bot              2374       -16        5586      
+29         misteick_bot              2374       -13        5587      
 30         admete_bot                2326       6          5038      
 31         simpleEval                2324       19         13755     
 32         FlamingDragon_9000        2323       19         3331      
@@ -35,8 +35,8 @@ Rank       Bot                       Rating     Prog       Games
 34         HistoryExplorer           2236       -9         2390      
 35         CadabraBot                2166       14         1035      
 36         eubos                     2158       22         13131     
-37         matmoi                    2137       6          242       
-38         GarboBot                  2129       8          8465      
+37         matmoi                    2142       4          243       
+38         GarboBot                  2123       6          8466      
 39         Elmichess                 2115       -42        3459      
 40         jangine                   2102       -32        2716      
 41         MaxtheDog                 2091       8          3468      
@@ -75,10 +75,10 @@ Rank       Bot                       Rating     Prog       Games
 74         sargon-3ply               1485       -1         1611      
 75         turochamp-2ply            1483       16         1437      
 76         ChamberiAjedrez           1470       -106       321       
-77         DavidsGuterBot            1470       -10        3162      
+77         DavidsGuterBot            1470       -9         3163      
 78         RoundMoundOfRebounds      1455       -12        993       
 79         monchester                1426       1          2507      
-80         maia1                     1415       -13        198704    
+80         maia1                     1422       0          198707    
 81         Humaia                    1370       -1         759       
 82         sargon-2ply               1348       8          2708      
 83         OhniBOT                   1264       -22        262       
