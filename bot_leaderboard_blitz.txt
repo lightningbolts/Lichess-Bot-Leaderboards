@@ -21,7 +21,7 @@ Rank       Bot                       Rating     Prog       Games
 20         MrChessTheBot             2760       3          1276      
 21         LazyBot                   2756       3          1977      
 22         ReinforcementTrial        2752       21         71        
-23         CodingAdventureBot        2650       -1         1514      
+23         CodingAdventureBot        2651       -1         1517      
 24         AKS-Mantissa              2620       -11        8604      
 25         expositor                 2571       16         6331      
 26         SaxtonEngine              2564       3          1886      
@@ -48,11 +48,11 @@ Rank       Bot                       Rating     Prog       Games
 47         WasterNew                 2143       163        28        
 48         Elmichess                 2115       -42        3459      
 49         GarboBot                  2103       -26        8476      
-50         kulubot                   2097       14         943       
-51         jangine                   2092       -17        2724      
+50         jangine                   2092       -17        2724      
+51         kulubot                   2091       13         944       
 52         redtail-zero              2084       -14        227       
-53         MaxtheDog                 2079       -12        3479      
-54         Boris-Trapsky             2075       5          27295     
+53         Boris-Trapsky             2081       17         27296     
+54         MaxtheDog                 2079       -12        3479      
 55         Humaia-Strong             2071       0          2295      
 56         halcyonbot                2067       -11        7563      
 57         BLANK_BOT                 2052       19         4176      
@@ -75,7 +75,7 @@ Rank       Bot                       Rating     Prog       Games
 74         AshNostromo               1709       -19        913       
 75         simplexitor               1691       27         1902      
 76         ELO_1500                  1690       10         11872     
-77         maia9                     1658       15         95927     
+77         maia9                     1659       11         95928     
 78         Jibbby                    1632       -9         5206      
 79         yeoldwiz                  1627       14         1589      
 80         turkjs                    1624       24         9972      
@@ -89,7 +89,7 @@ Rank       Bot                       Rating     Prog       Games
 88         DavidsGuterBot            1475       -4         3167      
 89         sargon-3ply               1474       -7         1617      
 90         ChamberiAjedrez           1470       -106       321       
-91         maia1                     1444       -2         198838    
+91         maia1                     1447       6          198840    
 92         monchester                1426       -1         2509      
 93         Humaia                    1370       -1         759       
 94         sargon-2ply               1343       -1         2710      
