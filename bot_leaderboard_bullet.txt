@@ -18,7 +18,7 @@ Rank       Bot                       Rating     Prog       Games
 17         Viet_BOT                  2746       16         136       
 18         LazyBot                   2707       18         1388      
 19         CodingAdventureBot        2692       3          865       
-20         MrChessTheBot             2624       -2         4356      
+20         MrChessTheBot             2627       -4         4357      
 21         Elmichess                 2566       -15        3178      
 22         AKS-Mantissa              2542       3          9566      
 23         FlamingDragon_9000        2524       -5         10619     
@@ -27,7 +27,7 @@ Rank       Bot                       Rating     Prog       Games
 26         catriever                 2398       22         1362      
 27         pawn_git                  2393       -12        3496      
 28         expositor                 2372       -42        18063     
-29         misteick_bot              2372       -20        14712     
+29         misteick_bot              2370       -22        14714     
 30         OpeningsBot               2368       4          120       
 31         OldStockfish              2367       -2         753       
 32         TuksuBot                  2354       -7         6477      
@@ -41,8 +41,8 @@ Rank       Bot                       Rating     Prog       Games
 40         CadabraBot                2200       35         566       
 41         simpleEval                2200       -9         24084     
 42         Nakshatra3                2188       115        1097      
-43         LunaChessEngine           2179       -6         938       
-44         GeraldBOT                 2157       38         549       
+43         LunaChessEngine           2182       -4         939       
+44         GeraldBOT                 2161       46         550       
 45         LazyBotJr                 2140       30         807       
 46         matmoi                    2124       5          348       
 47         jangine                   2100       -2         2355      
@@ -50,10 +50,10 @@ Rank       Bot                       Rating     Prog       Games
 49         eubos                     2090       -21        11318     
 50         redtail-zero              2083       -2         217       
 51         kulubot                   2063       -6         640       
-52         halcyonbot                2054       20         4138      
+52         halcyonbot                2050       13         4139      
 53         Humaia-Strong             2035       56         1304      
 54         BLANK_BOT                 2026       -11        6563      
-55         MaxtheDog                 2013       1          11971     
+55         MaxtheDog                 2010       1          11972     
 56         Lynx_BOT                  1912       -18        5554      
 57         Trollfish-Bot             1902       -3         2284      
 58         zeekat                    1894       6          16754     
@@ -77,8 +77,8 @@ Rank       Bot                       Rating     Prog       Games
 76         sargon-3ply               1576       -6         1070      
 77         DavidsGuterBot            1575       15         5570      
 78         Humaia                    1571       9          319       
-79         maia1                     1533       26         120138    
-80         monchester                1517       8          2172      
+79         maia1                     1537       21         120139    
+80         monchester                1517       8          2173      
 81         RoundMoundOfRebounds      1506       16         1008      
 82         sargon-2ply               1454       -14        1828      
 83         yeoldwiz                  1450       18         791       
