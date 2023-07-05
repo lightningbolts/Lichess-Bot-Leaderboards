@@ -30,7 +30,7 @@ Rank       Bot                       Rating     Prog       Games
 29         fornax-engine             2351       -7         3518      
 30         bekbot                    2325       -5         947       
 31         FlamingDragon_9000        2309       -12        1216      
-32         admete_bot                2302       -3         2910      
+32         admete_bot                2301       -3         2911      
 33         simpleEval                2293       -11        7183      
 34         LunaChessEngine           2237       -16        913       
 35         eubos                     2214       2          4062      
@@ -74,7 +74,7 @@ Rank       Bot                       Rating     Prog       Games
 73         sargon-3ply               1575       -12        1067      
 74         turochamp-2ply            1561       -17        1006      
 75         chat_bot                  1554       -48        151       
-76         maia1                     1538       -15        222167    
+76         maia1                     1531       -29        222168    
 77         sargon-4ply               1526       -1         517       
 78         DavidsGuterBot            1496       -9         529       
 79         RoundMoundOfRebounds      1475       21         290       
@@ -88,6 +88,6 @@ Rank       Bot                       Rating     Prog       Games
 87         kireevi                   1112       -32        521       
 88         CHoMPBoT                  1089       31         298       
 89         bobandi                   931        1          631       
-90         DeepLLaMA                 841        18         65        
+90         DeepLLaMA                 840        27         66        
 91         grandQ_AI                 751        -9         1544      
 92         G0thamB0t                 717        -4         232       
