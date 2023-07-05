@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ShashChess_MsP            2888       0          2592      
-2          TorBot                    2882       -2         571       
+1          ShashChess_MsP            2894       3          2593      
+2          TorBot                    2877       -7         572       
 3          FireFishBOT               2875       1          714       
 4          FishFingersMcGee          2871       1          111       
 5          ToromBot                  2868       1          2582      
@@ -10,7 +10,7 @@ Rank       Bot                       Rating     Prog       Games
 9          faith_bot                 2839       -1         611       
 10         Nikitosikbot              2836       4          5678      
 11         RaspFish                  2832       7          10568     
-12         ArasanX                   2825       10         1380      
+12         ArasanX                   2825       4          1381      
 13         chessfyBOT                2819       -12        180       
 14         caissa-test               2812       -68        39        
 15         ResoluteBot               2807       -18        10832     
@@ -18,7 +18,7 @@ Rank       Bot                       Rating     Prog       Games
 17         MrChessTheBot             2773       3          1291      
 18         blundar_bot               2757       2          737       
 19         LazyBot                   2756       3          1977      
-20         CodingAdventureBot        2662       1          1687      
+20         CodingAdventureBot        2663       2          1689      
 21         ChessHunterBot            2615       -48        23        
 22         AKS-Mantissa              2610       -1         8626      
 23         expositor                 2574       2          6352      
@@ -34,10 +34,10 @@ Rank       Bot                       Rating     Prog       Games
 33         admete_bot                2392       -5         5122      
 34         fornax-engine             2386       -12        6217      
 35         FlamingDragon_9000        2323       19         3331      
-36         simpleEval                2310       0          13786     
+36         simpleEval                2311       -3         13787     
 37         bekbot                    2302       -10        1245      
 38         princhess_bot             2265       14         1475      
-39         WasterNew                 2225       26         69        
+39         WasterNew                 2224       27         70        
 40         Nakshatra3                2220       -16        1269      
 41         HistoryExplorer           2213       -7         2413      
 42         CadabraBot                2172       40         1105      
@@ -64,11 +64,11 @@ Rank       Bot                       Rating     Prog       Games
 63         myopic-bot                1841       2          1314      
 64         baby_eubos                1839       4          6271      
 65         notropis                  1831       -3         5549      
-66         Hyperopic                 1816       10         381       
+66         Hyperopic                 1814       8          382       
 67         FlounderBot               1785       -3         556       
 68         QueensGamBOT              1752       21         2654      
 69         Fisk_Bot                  1745       16         1484      
-70         melsh_bot                 1731       -1         1460      
+70         melsh_bot                 1733       -3         1461      
 71         AshNostromo               1720       -9         915       
 72         ELO_1500                  1687       7          11911     
 73         simplexitor               1686       19         1908      
