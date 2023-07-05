@@ -35,7 +35,7 @@ Rank       Bot                       Rating     Prog       Games
 34         FlamingDragon_9000        2309       -12        1216      
 35         simpleEval                2290       -10        7189      
 36         eubos                     2219       8          4066      
-37         MaxtheDog                 2219       23         464       
+37         MaxtheDog                 2211       23         465       
 38         HistoryExplorer           2193       -9         908       
 39         Boris-Trapsky             2192       4          26934     
 40         Elmichess                 2169       -16        1339      
@@ -44,7 +44,7 @@ Rank       Bot                       Rating     Prog       Games
 43         matmoi                    2131       -24        227       
 44         CadabraBot                2128       -31        741       
 45         GarboBot                  2126       -6         5759      
-46         halcyonbot                2033       -13        5031      
+46         halcyonbot                2042       1          5032      
 47         Humaia-Strong             2031       11         589       
 48         BLANK_BOT                 2016       10         1351      
 49         LazyBotJr                 2007       8          1245      
@@ -72,7 +72,7 @@ Rank       Bot                       Rating     Prog       Games
 71         HardRok                   1622       -26        297       
 72         sargon-3ply               1584       -2         1068      
 73         turochamp-2ply            1554       -18        1009      
-74         maia1                     1538       -5         222277    
+74         maia1                     1536       -9         222278    
 75         sargon-4ply               1526       0          518       
 76         dlvc-bot                  1517       4          29        
 77         chat_bot                  1507       -84        156       
@@ -85,9 +85,8 @@ Rank       Bot                       Rating     Prog       Games
 84         pawnrobot                 1279       -13        506       
 85         OhniBOT                   1268       11         209       
 86         schnecken_bot             1207       33         120       
-87         kireevi                   1112       -32        521       
-88         CHoMPBoT                  1082       25         300       
-89         bobandi                   926        -4         633       
-90         DeepLLaMA                 854        26         67        
-91         G0thamB0t                 716        -17        233       
-92         grandQ_AI                 715        -37        1552      
+87         CHoMPBoT                  1082       25         300       
+88         bobandi                   926        -4         633       
+89         DeepLLaMA                 854        26         67        
+90         G0thamB0t                 716        -17        233       
+91         grandQ_AI                 715        -37        1552      
