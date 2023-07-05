@@ -27,8 +27,8 @@ Rank       Bot                       Rating     Prog       Games
 26         ChessNoobComp             2406       15         528       
 27         TuksuBot                  2403       16         1805      
 28         bot_adario                2385       3          1181      
-29         fornax-engine             2351       -3         3519      
-30         bekbot                    2316       -7         952       
+29         fornax-engine             2351       -4         3520      
+30         bekbot                    2317       -7         953       
 31         FlamingDragon_9000        2309       -12        1216      
 32         admete_bot                2303       -1         2913      
 33         simpleEval                2291       -18        7186      
@@ -36,8 +36,8 @@ Rank       Bot                       Rating     Prog       Games
 35         eubos                     2216       3          4065      
 36         MaxtheDog                 2212       6          462       
 37         Boris-Trapsky             2187       -2         26927     
-38         Elmichess                 2185       7          1338      
-39         HistoryExplorer           2173       -12        902       
+38         HistoryExplorer           2173       -12        902       
+39         Elmichess                 2169       -16        1339      
 40         matmoi                    2161       -39        215       
 41         CadabraBot                2156       10         736       
 42         jangine                   2150       -11        1494      
@@ -72,7 +72,7 @@ Rank       Bot                       Rating     Prog       Games
 71         sargon-3ply               1575       -12        1067      
 72         turochamp-2ply            1561       -10        1007      
 73         chat_bot                  1554       -48        151       
-74         maia1                     1535       29         222208    
+74         maia1                     1542       34         222209    
 75         sargon-4ply               1526       -1         517       
 76         DavidsGuterBot            1493       -5         532       
 77         RoundMoundOfRebounds      1475       21         290       
@@ -89,3 +89,4 @@ Rank       Bot                       Rating     Prog       Games
 88         DeepLLaMA                 854        26         67        
 89         grandQ_AI                 751        -9         1544      
 90         G0thamB0t                 717        -4         232       
+91         RedFlojo                  473        -5         100       
