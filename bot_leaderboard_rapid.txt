@@ -21,7 +21,7 @@ Rank       Bot                       Rating     Prog       Games
 20         pawn_git                  2543       19         936       
 21         SaxtonEngine              2537       16         1190      
 22         OpeningsBot               2532       141        28        
-23         catriever                 2522       13         117       
+23         catriever                 2523       13         118       
 24         Weiawaga                  2500       -8         9293      
 25         OldStockfish              2485       -6         430       
 26         misteick_bot              2462       -8         1001      
@@ -40,7 +40,7 @@ Rank       Bot                       Rating     Prog       Games
 39         HistoryExplorer           2178       -7         901       
 40         Elmichess                 2174       4          1336      
 41         matmoi                    2163       -35        213       
-42         CadabraBot                2157       26         733       
+42         CadabraBot                2156       20         734       
 43         jangine                   2145       -11        1493      
 44         redtail-zero              2130       35         90        
 45         GarboBot                  2125       -12        5757      
@@ -75,7 +75,7 @@ Rank       Bot                       Rating     Prog       Games
 74         turochamp-2ply            1561       -10        1007      
 75         chat_bot                  1554       -48        151       
 76         sargon-4ply               1526       -1         517       
-77         maia1                     1511       -5         222194    
+77         maia1                     1504       -18        222196    
 78         DavidsGuterBot            1493       -5         532       
 79         RoundMoundOfRebounds      1475       21         290       
 80         sargon-2ply               1420       -21        3066      
@@ -88,6 +88,6 @@ Rank       Bot                       Rating     Prog       Games
 87         kireevi                   1112       -32        521       
 88         CHoMPBoT                  1089       31         298       
 89         bobandi                   931        1          631       
-90         DeepLLaMA                 840        27         66        
+90         DeepLLaMA                 854        26         67        
 91         grandQ_AI                 751        -9         1544      
 92         G0thamB0t                 717        -4         232       
