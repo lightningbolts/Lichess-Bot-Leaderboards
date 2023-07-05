@@ -17,7 +17,7 @@ Rank       Bot                       Rating     Prog       Games
 16         blundar_bot               2764       8          734       
 17         LazyBot                   2756       3          1977      
 18         ReinforcementTrial        2752       21         71        
-19         CodingAdventureBot        2661       1          1626      
+19         CodingAdventureBot        2656       -4         1627      
 20         AKS-Mantissa              2611       -9         8615      
 21         expositor                 2568       -2         6343      
 22         SaxtonEngine              2559       -4         1888      
@@ -53,7 +53,7 @@ Rank       Bot                       Rating     Prog       Games
 52         LazyBotJr                 2006       -14        1484      
 53         theoden8_uci              1987       0          3733      
 54         Lynx_BOT                  1978       -14        46521     
-55         zeekat                    1925       19         18454     
+55         zeekat                    1921       12         18455     
 56         michabay05                1911       34         43        
 57         Trollfish-Bot             1869       16         1154      
 58         zulu_bot                  1861       -3         992       
@@ -68,13 +68,13 @@ Rank       Bot                       Rating     Prog       Games
 67         simplexitor               1693       27         1904      
 68         ELO_1500                  1691       12         11891     
 69         Jibbby                    1671       39         5217      
-70         maia9                     1651       3          96022     
-71         dlvc-bot                  1633       5          732       
+70         maia9                     1655       2          96023     
+71         dlvc-bot                  1637       15         733       
 72         yeoldwiz                  1627       14         1589      
 73         GeraldBOT                 1623       20         31        
 74         turkjs                    1612       7          9977      
 75         chat_bot                  1541       -37        220       
-76         maia5                     1533       -7         96938     
+76         maia5                     1528       -4         96939     
 77         sargon-4ply               1514       -13        1668      
 78         turochamp-2ply            1500       17         1446      
 79         RoundMoundOfRebounds      1494       39         1004      
@@ -82,7 +82,7 @@ Rank       Bot                       Rating     Prog       Games
 81         DavidsGuterBot            1473       0          3172      
 82         ChamberiAjedrez           1470       -106       321       
 83         monchester                1444       18         2520      
-84         maia1                     1438       4          198898    
+84         maia1                     1439       7          198899    
 85         Humaia                    1366       -2         760       
 86         sargon-2ply               1348       -2         2716      
 87         OhniBOT                   1264       -22        262       
@@ -90,10 +90,10 @@ Rank       Bot                       Rating     Prog       Games
 89         pawnrobot                 1227       -21        1730      
 90         sargon-1ply               1217       26         7304      
 91         HulkBot                   1214       12         658       
-92         schnecken_bot             1207       -21        1246      
+92         schnecken_bot             1210       -23        1247      
 93         bobandi                   1081       18         1074      
 94         knucklefish               1081       -20        2996      
-95         CHoMPBoT                  1074       0          1092      
+95         CHoMPBoT                  1070       -3         1093      
 96         BelaBot                   912        -45        44        
 97         DeepLLaMA                 875        5          36        
 98         grandQ_AI                 683        -4         1184      
