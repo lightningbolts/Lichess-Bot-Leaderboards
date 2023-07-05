@@ -1,9 +1,9 @@
 Rank       Bot                       Rating     Prog       Games     
-1          TorBot                    2889       -1         399       
+1          TorBot                    2889       -1         400       
 2          ShashChess_MsP            2886       7          677       
 3          ToromBot                  2881       -8         1630      
 4          FireFishBOT               2877       2          827       
-5          ReinforcementTrial        2872       -3         4152      
+5          ReinforcementTrial        2872       1          4153      
 6          YoBot_v2                  2864       0          12557     
 7          RaspFish                  2862       1          5181      
 8          Shineshou90_BOT           2862       7          2230      
@@ -32,7 +32,7 @@ Rank       Bot                       Rating     Prog       Games
 31         bot_adario                2384       3          1182      
 32         fornax-engine             2355       13         3523      
 33         bekbot                    2321       9          970       
-34         admete_bot                2319       -1         2961      
+34         admete_bot                2319       -1         2962      
 35         princhess_bot             2315       38         917       
 36         FlamingDragon_9000        2309       -12        1216      
 37         simpleEval                2285       -10        7191      
@@ -76,8 +76,8 @@ Rank       Bot                       Rating     Prog       Games
 75         yeoldwiz                  1627       8          627       
 76         sargon-3ply               1578       -8         1069      
 77         turochamp-2ply            1546       -18        1011      
-78         maia1                     1527       -24        222343    
-79         sargon-4ply               1526       1          519       
+78         sargon-4ply               1526       1          519       
+79         maia1                     1524       -21        222344    
 80         chat_bot                  1507       -84        156       
 81         DavidsGuterBot            1489       -19        533       
 82         RoundMoundOfRebounds      1465       14         293       
