@@ -1,8 +1,8 @@
 Rank       Bot                       Rating     Prog       Games     
 1          TorBot                    2890       -1         398       
 2          ToromBot                  2883       -3         1625      
-3          FireFishBOT               2878       8          821       
-4          ReinforcementTrial        2874       -2         4129      
+3          FireFishBOT               2878       8          822       
+4          ReinforcementTrial        2874       0          4130      
 5          RaspFish                  2862       0          5177      
 6          Shineshou90_BOT           2861       6          2226      
 7          chessfyBOT                2845       -7         228       
@@ -21,7 +21,7 @@ Rank       Bot                       Rating     Prog       Games
 20         SaxtonEngine              2541       20         1189      
 21         OpeningsBot               2532       141        28        
 22         catriever                 2520       10         116       
-23         Weiawaga                  2497       -10        9292      
+23         Weiawaga                  2500       -8         9293      
 24         OldStockfish              2481       -12        429       
 25         misteick_bot              2465       1          999       
 26         ChessNoobComp             2402       16         527       
@@ -30,7 +30,7 @@ Rank       Bot                       Rating     Prog       Games
 29         fornax-engine             2351       -7         3518      
 30         bekbot                    2321       -8         948       
 31         FlamingDragon_9000        2309       -12        1216      
-32         admete_bot                2301       -3         2911      
+32         admete_bot                2298       -6         2912      
 33         simpleEval                2293       -11        7183      
 34         LunaChessEngine           2246       4          915       
 35         eubos                     2209       -6         4063      
@@ -56,12 +56,12 @@ Rank       Bot                       Rating     Prog       Games
 55         baby_eubos                1879       -34        745       
 56         myopic-bot                1874       23         219       
 57         Trollfish-Bot             1840       -8         91        
-58         ELO_1500                  1833       -6         2566      
+58         ELO_1500                  1838       3          2567      
 59         notropis                  1823       -25        1921      
 60         FlounderBot               1822       -49        49        
 61         Fisk_Bot                  1813       -19        224       
-62         melsh_bot                 1786       117        145       
-63         zulu_bot                  1776       3          110       
+62         zulu_bot                  1776       3          110       
+63         melsh_bot                 1770       105        146       
 64         AshNostromo               1757       14         1155      
 65         HulkBot                   1720       -22        395       
 66         simplexitor               1712       17         406       
