@@ -1,11 +1,11 @@
 Rank       Bot                       Rating     Prog       Games     
 1          caissa-x                  2959       -5         14483     
-2          BRAINLEARN11_NNUE         2898       -3         4812      
+2          BRAINLEARN11_NNUE         2900       -1         4813      
 3          FireFishBOT               2894       -1         414       
-4          YoBot_v2                  2891       0          16056     
-5          ToromBot                  2889       4          55796     
+4          ToromBot                  2894       9          55797     
+5          YoBot_v2                  2891       0          16056     
 6          ResoluteBot               2887       -4         24791     
-7          RaspFish                  2886       -4         45005     
+7          RaspFish                  2880       -9         45006     
 8          TorBot                    2877       -3         5623      
 9          Nikitosik-ai              2865       2          555       
 10         faith_bot                 2854       -6         2734      
@@ -18,7 +18,7 @@ Rank       Bot                       Rating     Prog       Games
 17         chessfyBOT                2788       -8         1404      
 18         LazyBot                   2707       18         1388      
 19         CodingAdventureBot        2695       1          890       
-20         MrChessTheBot             2635       9          4366      
+20         MrChessTheBot             2633       9          4367      
 21         Elmichess                 2566       -15        3178      
 22         ChessHunterBot            2561       -2         42        
 23         AKS-Mantissa              2536       -8         9582      
@@ -27,7 +27,7 @@ Rank       Bot                       Rating     Prog       Games
 26         Weiawaga                  2405       4          14144     
 27         catriever                 2404       26         1364      
 28         pawn_git                  2398       0          3498      
-29         expositor                 2392       17         18080     
+29         expositor                 2395       17         18081     
 30         OldStockfish              2374       7          759       
 31         OpeningsBot               2370       6          122       
 32         TuksuBot                  2358       -2         6481      
@@ -38,7 +38,7 @@ Rank       Bot                       Rating     Prog       Games
 37         AjedrezChamberi           2275       -4         499       
 38         bekbot                    2260       3          1280      
 39         HistoryExplorer           2235       -2         2286      
-40         GeraldBOT                 2233       -17        600       
+40         GeraldBOT                 2230       -16        601       
 41         CadabraBot                2213       25         571       
 42         simpleEval                2207       2          24091     
 43         Nakshatra3                2188       115        1097      
@@ -48,8 +48,8 @@ Rank       Bot                       Rating     Prog       Games
 47         WasterNew                 2093       56         15        
 48         jangine                   2087       -22        2363      
 49         redtail-zero              2083       -2         219       
-50         eubos                     2076       -16        11328     
-51         kulubot                   2065       12         645       
+50         eubos                     2082       -8         11329     
+51         kulubot                   2060       0          646       
 52         halcyonbot                2037       -8         4146      
 53         Humaia-Strong             2035       56         1304      
 54         BLANK_BOT                 2026       -14        6566      
@@ -72,9 +72,9 @@ Rank       Bot                       Rating     Prog       Games
 71         maia9                     1715       42         59369     
 72         ELO_1500                  1682       2          2797      
 73         Jibbby                    1643       13         2409      
-74         sargon-4ply               1630       -1         1434      
+74         sargon-4ply               1636       6          1435      
 75         maia5                     1624       11         38356     
-76         HardRok                   1618       -24        376       
+76         HardRok                   1612       -23        377       
 77         turochamp-2ply            1595       -32        1326      
 78         sargon-3ply               1579       -5         1073      
 79         DavidsGuterBot            1578       17         5573      
