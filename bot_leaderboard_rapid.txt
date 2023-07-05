@@ -29,7 +29,7 @@ Rank       Bot                       Rating     Prog       Games
 28         bot_adario                2385       3          1181      
 29         fornax-engine             2351       -4         3520      
 30         admete_bot                2310       7          2916      
-31         bekbot                    2310       -16        954       
+31         bekbot                    2310       -16        955       
 32         FlamingDragon_9000        2309       -12        1216      
 33         simpleEval                2300       -6         7188      
 34         LunaChessEngine           2253       10         925       
@@ -42,8 +42,8 @@ Rank       Bot                       Rating     Prog       Games
 41         jangine                   2145       -18        1496      
 42         redtail-zero              2130       35         90        
 43         GarboBot                  2129       -7         5758      
-44         kulubot                   2072       6          421       
-45         halcyonbot                2041       3          5021      
+44         kulubot                   2077       2          422       
+45         halcyonbot                2036       -7         5022      
 46         Humaia-Strong             2031       11         589       
 47         LazyBotJr                 2007       8          1245      
 48         BLANK_BOT                 2004       -25        1348      
@@ -70,7 +70,7 @@ Rank       Bot                       Rating     Prog       Games
 69         maia5                     1602       -36        96290     
 70         sargon-3ply               1575       -12        1067      
 71         turochamp-2ply            1561       -10        1007      
-72         maia1                     1540       8          222226    
+72         maia1                     1542       9          222228    
 73         sargon-4ply               1526       -1         517       
 74         dlvc-bot                  1517       4          29        
 75         chat_bot                  1507       -84        156       
@@ -83,8 +83,9 @@ Rank       Bot                       Rating     Prog       Games
 82         pawnrobot                 1281       -13        505       
 83         OhniBOT                   1268       11         209       
 84         schnecken_bot             1210       32         119       
-85         CHoMPBoT                  1089       31         298       
-86         bobandi                   927        -3         632       
-87         DeepLLaMA                 854        26         67        
-88         G0thamB0t                 716        -17        233       
-89         grandQ_AI                 715        -37        1552      
+85         kireevi                   1112       -32        521       
+86         CHoMPBoT                  1089       31         298       
+87         bobandi                   927        -3         632       
+88         DeepLLaMA                 854        26         67        
+89         G0thamB0t                 716        -17        233       
+90         grandQ_AI                 715        -37        1552      
