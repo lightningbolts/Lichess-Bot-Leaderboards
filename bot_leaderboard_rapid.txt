@@ -26,7 +26,7 @@ Rank       Bot                       Rating     Prog       Games
 25         OpeningsBot               2484       -38        34        
 26         misteick_bot              2467       10         1008      
 27         OldStockfish              2449       -29        437       
-28         odonata-bot               2410       -16        3581      
+28         odonata-bot               2405       -17        3582      
 29         TuksuBot                  2397       10         1809      
 30         bot_adario                2391       14         1185      
 31         fornax-engine             2337       -14        3529      
@@ -44,14 +44,14 @@ Rank       Bot                       Rating     Prog       Games
 43         redtail-zero              2131       12         98        
 44         Nakshatra3                2128       -5         685       
 45         GarboBot                  2127       2          5764      
-46         matmoi                    2115       7          258       
+46         matmoi                    2119       16         259       
 47         halcyonbot                2049       -7         5071      
 48         Humaia-Strong             2031       11         589       
 49         BLANK_BOT                 2009       14         1354      
 50         LazyBotJr                 2007       8          1245      
 51         LeelaRogue                1966       35         2181      
-52         Lynx_BOT                  1953       -13        38845     
-53         zeekat                    1942       18         7543      
+52         Lynx_BOT                  1958       -9         38846     
+53         zeekat                    1939       9          7544      
 54         Zagreus_Engine            1932       -21        1535      
 55         baby_eubos                1874       -39        747       
 56         myopic-bot                1863       -4         225       
@@ -66,7 +66,7 @@ Rank       Bot                       Rating     Prog       Games
 65         HulkBot                   1720       -22        395       
 66         simplexitor               1710       11         410       
 67         turkjs                    1701       -2         4894      
-68         maia9                     1693       21         80150     
+68         maia9                     1689       12         80151     
 69         Jibbby                    1687       19         1748      
 70         HardRok                   1640       11         327       
 71         yeoldwiz                  1627       8          627       
@@ -77,7 +77,7 @@ Rank       Bot                       Rating     Prog       Games
 76         dlvc-bot                  1502       6          30        
 77         DavidsGuterBot            1483       -24        535       
 78         RoundMoundOfRebounds      1478       17         295       
-79         maia1                     1461       -7         222544    
+79         maia1                     1469       7          222545    
 80         chat_bot                  1435       -119       162       
 81         sargon-2ply               1406       -32        3072      
 82         sargon-1ply               1343       16         7996      
@@ -91,4 +91,4 @@ Rank       Bot                       Rating     Prog       Games
 90         bobandi                   935        -3         636       
 91         DeepLLaMA                 854        26         67        
 92         G0thamB0t                 716        -17        233       
-93         grandQ_AI                 698        -44        1557      
+93         grandQ_AI                 696        -37        1558      
