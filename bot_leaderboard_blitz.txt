@@ -16,7 +16,7 @@ Rank       Bot                       Rating     Prog       Games
 15         MrChessTheBot             2765       -5         1296      
 16         blundar_bot               2763       2          740       
 17         LazyBot                   2756       3          1977      
-18         CodingAdventureBot        2632       2          1773      
+18         CodingAdventureBot        2633       3          1775      
 19         AKS-Mantissa              2611       6          8638      
 20         expositor                 2568       0          6357      
 21         SaxtonEngine              2559       -3         1901      
@@ -38,10 +38,10 @@ Rank       Bot                       Rating     Prog       Games
 37         Nakshatra3                2220       -16        1269      
 38         Wahoo_Bot                 2217       38         143       
 39         HistoryExplorer           2199       -12        2417      
-40         CadabraBot                2187       33         1112      
-41         eubos                     2165       8          13193     
-42         matmoi                    2165       -13        295       
-43         kulubot                   2113       40         1005      
+40         CadabraBot                2179       20         1113      
+41         matmoi                    2165       -13        295       
+42         eubos                     2159       -2         13194     
+43         kulubot                   2119       40         1006      
 44         GarboBot                  2109       -9         8492      
 45         redtail-zero              2093       -13        231       
 46         jangine                   2092       11         2740      
@@ -51,7 +51,7 @@ Rank       Bot                       Rating     Prog       Games
 50         MaxtheDog                 2067       -10        3505      
 51         LeelaRogue                2038       9          2177      
 52         BLANK_BOT                 2027       -2         4208      
-53         halcyonbot                2019       -23        7632      
+53         halcyonbot                2027       -8         7633      
 54         LazyBotJr                 2006       -14        1484      
 55         Lynx_BOT                  1938       -8         46599     
 56         Hyperopic                 1925       -28        528       
@@ -70,7 +70,7 @@ Rank       Bot                       Rating     Prog       Games
 69         ELO_1500                  1679       0          11926     
 70         simplexitor               1674       -8         1912      
 71         Jibbby                    1645       -4         5252      
-72         maia9                     1640       10         96107     
+72         maia9                     1644       8          96108     
 73         yeoldwiz                  1632       16         1590      
 74         GeraldBOT                 1623       20         31        
 75         turkjs                    1607       -16        9982      
@@ -96,4 +96,4 @@ Rank       Bot                       Rating     Prog       Games
 95         CHoMPBoT                  1048       -28        1102      
 96         BelaBot                   912        -45        44        
 97         DeepLLaMA                 875        5          36        
-98         grandQ_AI                 707        18         1190      
+98         grandQ_AI                 705        18         1191      
