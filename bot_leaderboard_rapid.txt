@@ -2,8 +2,8 @@ Rank       Bot                       Rating     Prog       Games
 1          caissa-x                  2890       2          2981      
 2          FireFishBOT               2886       8          834       
 3          ShashChess_MsP            2885       2          681       
-4          ReinforcementTrial        2872       4          4179      
-5          YoBot_v2                  2862       -2         12589     
+4          ReinforcementTrial        2871       3          4180      
+5          YoBot_v2                  2867       3          12590     
 6          TheMatrix2025             2861       -2         312       
 7          RaspFish                  2860       -3         5190      
 8          BRAINLEARN11_NNUE         2857       1          504       
@@ -14,10 +14,10 @@ Rank       Bot                       Rating     Prog       Games
 13         Nikitosik-ai              2842       -6         341       
 14         faith_bot                 2837       -1         649       
 15         ArasanX                   2819       -5         4447      
-16         F0rgot                    2810       19         58        
+16         F0rgot                    2812       19         59        
 17         blundar_bot               2799       6          913       
 18         MrChessTheBot             2789       -5         1889      
-19         Hufflewitzw               2784       18         13        
+19         Hufflewitzw               2761       -5         14        
 20         ChessHunterBot            2655       -18        39        
 21         LazyBot                   2618       9          700       
 22         AKS-Mantissa              2617       14         3825      
@@ -38,8 +38,8 @@ Rank       Bot                       Rating     Prog       Games
 37         simpleEval                2301       15         7203      
 38         Wahoo_Bot                 2255       30         37        
 39         eubos                     2217       8          4074      
-40         MaxtheDog                 2209       6          470       
-41         WasterNew                 2197       -3         13        
+40         WasterNew                 2214       14         14        
+41         MaxtheDog                 2209       6          470       
 42         HistoryExplorer           2187       0          911       
 43         Elmichess                 2169       -16        1339      
 44         Boris-Trapsky             2166       -26        26945     
@@ -52,7 +52,7 @@ Rank       Bot                       Rating     Prog       Games
 51         halcyonbot                2055       -1         5066      
 52         Humaia-Strong             2031       11         589       
 53         GeraldBOT                 2024       59         421       
-54         camel_bot                 2022       44         195       
+54         camel_bot                 2019       33         196       
 55         BLANK_BOT                 2013       14         1353      
 56         LazyBotJr                 2007       8          1245      
 57         LeelaRogue                1966       35         2181      
@@ -74,7 +74,7 @@ Rank       Bot                       Rating     Prog       Games
 73         turkjs                    1691       -14        4893      
 74         maia9                     1682       11         80137     
 75         HardRok                   1635       18         324       
-76         maia5                     1628       4          96441     
+76         maia5                     1634       14         96442     
 77         yeoldwiz                  1627       8          627       
 78         sargon-3ply               1585       5          1070      
 79         turochamp-2ply            1534       -21        1014      
@@ -82,8 +82,8 @@ Rank       Bot                       Rating     Prog       Games
 81         dlvc-bot                  1502       6          30        
 82         DavidsGuterBot            1483       -24        535       
 83         RoundMoundOfRebounds      1478       17         295       
-84         chat_bot                  1435       -119       162       
-85         maia1                     1432       -29        222488    
+84         maia1                     1440       -18        222489    
+85         chat_bot                  1435       -119       162       
 86         sargon-2ply               1414       -24        3071      
 87         sargon-1ply               1343       16         7996      
 88         Humaia                    1335       -9         1944      
