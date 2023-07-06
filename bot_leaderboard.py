@@ -36,6 +36,7 @@ def get_bot_ratings_online(type):
         'QalatBotEngine',
         'Vaxim2000',
         'MedipolUniversity',
+        'CodingAdventureBot',
         'MustafaYilmazBot'
     ]
     online_bots = urllib.request.urlopen('https://lichess.org/api/bot/online')
