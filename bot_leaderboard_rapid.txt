@@ -13,10 +13,10 @@ Rank       Bot                       Rating     Prog       Games
 12         faith_bot                 2836       -4         652       
 13         ArasanX                   2816       -2         4451      
 14         F0rgot                    2812       19         59        
-15         blundar_bot               2803       14         915       
+15         blundar_bot               2802       12         916       
 16         NikitosikVariantsbot      2801       -5         743       
 17         MrChessTheBot             2789       -2         1892      
-18         TorBot_v2                 2743       83         18        
+18         TorBot_v2                 2747       87         19        
 19         ChessHunterBot            2650       -14        43        
 20         AKS-Mantissa              2618       10         3828      
 21         LazyBot                   2618       9          700       
@@ -31,7 +31,7 @@ Rank       Bot                       Rating     Prog       Games
 30         TuksuBot                  2397       10         1809      
 31         bot_adario                2392       18         1184      
 32         fornax-engine             2337       -14        3529      
-33         admete_bot                2316       6          3011      
+33         admete_bot                2320       10         3012      
 34         FlamingDragon_9000        2309       -12        1216      
 35         simpleEval                2301       15         7203      
 36         Wahoo_Bot                 2256       32         38        
@@ -40,7 +40,7 @@ Rank       Bot                       Rating     Prog       Games
 39         WasterNew                 2203       3          16        
 40         Boris-Trapsky             2172       -12        26950     
 41         Elmichess                 2169       -16        1339      
-42         CadabraBot                2140       -13        783       
+42         CadabraBot                2137       -13        784       
 43         jangine                   2131       -24        1498      
 44         redtail-zero              2131       12         98        
 45         Nakshatra3                2128       -5         685       
@@ -78,7 +78,7 @@ Rank       Bot                       Rating     Prog       Games
 77         dlvc-bot                  1502       6          30        
 78         DavidsGuterBot            1483       -24        535       
 79         RoundMoundOfRebounds      1478       17         295       
-80         maia1                     1457       9          222537    
+80         maia1                     1457       15         222538    
 81         chat_bot                  1435       -119       162       
 82         sargon-2ply               1414       -24        3071      
 83         sargon-1ply               1343       16         7996      
@@ -91,4 +91,5 @@ Rank       Bot                       Rating     Prog       Games
 90         CHoMPBoT                  1074       5          304       
 91         bobandi                   935        -3         636       
 92         DeepLLaMA                 854        26         67        
-93         grandQ_AI                 702        -49        1555      
+93         G0thamB0t                 716        -17        233       
+94         grandQ_AI                 702        -49        1555      
