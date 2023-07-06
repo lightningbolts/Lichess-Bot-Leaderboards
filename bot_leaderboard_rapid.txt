@@ -3,11 +3,11 @@ Rank       Bot                       Rating     Prog       Games
 2          TorBot                    2887       -5         402       
 3          FireFishBOT               2886       8          834       
 4          ShashChess_MsP            2885       2          681       
-5          ReinforcementTrial        2870       0          4176      
-6          YoBot_v2                  2862       -2         12588     
+5          ReinforcementTrial        2872       2          4177      
+6          YoBot_v2                  2862       -2         12589     
 7          TheMatrix2025             2861       -2         312       
 8          RaspFish                  2860       -3         5190      
-9          BRAINLEARN11_NNUE         2856       1          501       
+9          BRAINLEARN11_NNUE         2856       1          502       
 10         Shineshou90_BOT           2854       -8         2241      
 11         Nikitosikbot              2851       12         8366      
 12         chessfyBOT                2845       -7         228       
@@ -22,7 +22,7 @@ Rank       Bot                       Rating     Prog       Games
 21         LazyBot                   2618       9          700       
 22         AKS-Mantissa              2617       14         3825      
 23         expositor                 2601       0          4230      
-24         pawn_git                  2555       19         943       
+24         pawn_git                  2553       17         944       
 25         catriever                 2511       -6         134       
 26         Weiawaga                  2499       8          9313      
 27         OpeningsBot               2482       8          33        
@@ -33,7 +33,7 @@ Rank       Bot                       Rating     Prog       Games
 32         bot_adario                2392       18         1184      
 33         princhess_bot             2340       35         924       
 34         fornax-engine             2337       -14        3529      
-35         admete_bot                2311       -1         3007      
+35         admete_bot                2311       0          3008      
 36         FlamingDragon_9000        2309       -12        1216      
 37         simpleEval                2301       15         7203      
 38         Wahoo_Bot                 2255       30         37        
@@ -68,10 +68,10 @@ Rank       Bot                       Rating     Prog       Games
 67         HulkBot                   1720       -22        395       
 68         simplexitor               1710       9          409       
 69         turkjs                    1691       -14        4893      
-70         maia9                     1678       30         80129     
+70         maia9                     1672       28         80130     
 71         HardRok                   1630       5          321       
 72         yeoldwiz                  1627       8          627       
-73         maia5                     1613       -13        96432     
+73         maia5                     1626       9          96434     
 74         sargon-3ply               1585       5          1070      
 75         turochamp-2ply            1542       -21        1012      
 76         sargon-4ply               1520       -3         520       
