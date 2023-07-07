@@ -16,7 +16,7 @@ Rank       Bot                       Rating     Prog       Games
 15         Weiawaga                  2243       14         5448      
 16         OldStockfish              2157       -15        22        
 17         TuksuBot                  2136       -15        928       
-18         EmptikBot                 2058       49         42        
+18         EmptikVariantsBot         2127       77         52        
 19         bekbot                    2038       -29        84        
 20         simpleEval                2026       -27        1784      
 21         Boris-Trapsky             2001       9          10233     
@@ -43,8 +43,8 @@ Rank       Bot                       Rating     Prog       Games
 42         maia5                     1620       16         21787     
 43         simplexitor               1606       0          115       
 44         sargon-3ply               1598       -18        715       
-45         maia1                     1584       -15        62294     
-46         yeoldwiz                  1584       -7         303       
+45         yeoldwiz                  1584       -7         303       
+46         maia1                     1582       -17        62295     
 47         Trollfish-Bot             1578       24         21        
 48         chat_bot                  1572       -112       35        
 49         Jibbby                    1571       -1         78        
