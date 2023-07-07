@@ -3,7 +3,7 @@ Rank       Bot                       Rating     Prog       Games
 2          caissa-x                  2895       6          2983      
 3          EmptikBot                 2889       6          388       
 4          FireFishBOT               2883       6          840       
-5          YoBot_v2                  2865       6          12631     
+5          YoBot_v2                  2870       11         12632     
 6          ReinforcementTrial        2862       -4         4206      
 7          RaspFish                  2857       -3         5209      
 8          Nikitosikbot              2853       2          8378      
@@ -12,7 +12,7 @@ Rank       Bot                       Rating     Prog       Games
 11         Shineshou90_BOT           2844       -10        2252      
 12         ArasanX                   2830       3          4481      
 13         Nikitosik-ai              2828       -14        353       
-14         F0rgot                    2810       8          64        
+14         F0rgot                    2804       -1         65        
 15         MrChessTheBot             2797       4          1906      
 16         blundar_bot               2795       -1         921       
 17         ChessHunterBot            2641       -10        51        
@@ -30,9 +30,9 @@ Rank       Bot                       Rating     Prog       Games
 29         TuksuBot                  2394       -5         1813      
 30         fornax-engine             2342       -14        3533      
 31         bekbot                    2327       12         971       
-32         admete_bot                2319       0          3046      
-33         simpleEval                2319       25         7211      
-34         WasterNew                 2224       24         17        
+32         simpleEval                2319       25         7211      
+33         admete_bot                2318       -1         3047      
+34         WasterNew                 2243       43         18        
 35         MaxtheDog                 2194       -21        477       
 36         Nakshatra3                2153       23         690       
 37         Elmichess                 2150       -48        1341      
@@ -41,7 +41,7 @@ Rank       Bot                       Rating     Prog       Games
 40         redtail-zero              2131       12         98        
 41         Sparring_Bot              2129       -36        127       
 42         GarboBot                  2127       2          5764      
-43         CadabraBot                2125       2          803       
+43         CadabraBot                2121       7          804       
 44         matmoi                    2119       21         278       
 45         YourSparringBot           2115       -22        127       
 46         kulubot                   2073       13         447       
