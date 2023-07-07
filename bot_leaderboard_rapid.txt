@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
 1          FireFishBOT               2884       7          838       
-2          ReinforcementTrial        2876       3          4192      
+2          ReinforcementTrial        2877       5          4193      
 3          YoBot_v2                  2861       -5         12610     
 4          RaspFish                  2857       -3         5205      
 5          Nikitosikbot              2851       11         8373      
@@ -18,7 +18,7 @@ Rank       Bot                       Rating     Prog       Games
 17         catriever                 2514       12         137       
 18         Weiawaga                  2490       -7         9325      
 19         OpeningsBot               2478       -18        37        
-20         misteick_bot              2467       10         1008      
+20         misteick_bot              2466       5          1009      
 21         OldStockfish              2454       -27        440       
 22         odonata-bot               2400       -22        3583      
 23         TuksuBot                  2398       10         1810      
@@ -65,11 +65,11 @@ Rank       Bot                       Rating     Prog       Games
 64         Jibbby                    1693       9          1751      
 65         HardRok                   1649       11         334       
 66         yeoldwiz                  1627       8          627       
-67         maia5                     1593       -17        96507     
+67         maia5                     1594       -10        96508     
 68         sargon-3ply               1581       6          1071      
 69         turochamp-2ply            1526       -28        1016      
 70         sargon-4ply               1520       -3         520       
-71         maia1                     1501       -1         222596    
+71         maia1                     1501       -3         222598    
 72         DavidsGuterBot            1483       -24        535       
 73         RoundMoundOfRebounds      1472       -5         296       
 74         chat_bot                  1435       -119       162       
@@ -84,5 +84,4 @@ Rank       Bot                       Rating     Prog       Games
 83         CHoMPBoT                  1074       4          305       
 84         bobandi                   935        -3         636       
 85         DeepLLaMA                 854        26         67        
-86         G0thamB0t                 716        -17        233       
-87         grandQ_AI                 692        -44        1560      
+86         grandQ_AI                 692        -44        1560      
