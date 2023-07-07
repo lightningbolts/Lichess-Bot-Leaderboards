@@ -29,6 +29,8 @@ def get_file_name(type):
 def get_bot_ratings_online(type):
     banned_bots = [
         'caissa-ai',
+        'caissa-test',
+        'caissa-x',
         'ProteusSF',
         'ProteusSF-lite',
         'ProteusSF-Open',
@@ -86,6 +88,6 @@ while True:
     get_bot_ratings_online('kingOfTheHill')
     get_bot_ratings_online('racingKings')
     get_bot_ratings_online('threeCheck')
-    time.sleep(300)
+    time.sleep(60)
 
 #print(get_team('leaderboard-of-bots', 'bullet'))
