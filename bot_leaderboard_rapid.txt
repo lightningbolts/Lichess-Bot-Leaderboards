@@ -2,9 +2,9 @@ Rank       Bot                       Rating     Prog       Games
 1          TorBot                    2901       -1         473       
 2          EmptikVariantsBot         2884       -3         264       
 3          FireFishBOT               2883       -5         843       
-4          pangubot                  2872       13         959       
+4          pangubot                  2872       12         960       
 5          UltimateL                 2868       -7         317       
-6          ReinforcementTrial        2866       1          4212      
+6          ReinforcementTrial        2866       0          4213      
 7          RaspFish                  2864       7          5220      
 8          YoBot_v2                  2862       -7         12649     
 9          EmanPureNN                2857       6          196       
@@ -33,7 +33,7 @@ Rank       Bot                       Rating     Prog       Games
 32         fornax-engine             2344       -5         3535      
 33         simpleEval                2320       19         7214      
 34         bekbot                    2318       -2         979       
-35         admete_bot                2313       -2         3084      
+35         admete_bot                2313       -2         3085      
 36         FlamingDragon_9000        2309       -12        1216      
 37         WasterNew                 2234       34         22        
 38         eubos                     2218       3          4080      
@@ -59,7 +59,7 @@ Rank       Bot                       Rating     Prog       Games
 58         baby_eubos                1871       -12        751       
 59         myopic-bot                1861       -10        227       
 60         notropis                  1835       1          1935      
-61         ELO_1500                  1832       0          2586      
+61         ELO_1500                  1832       -4         2587      
 62         Trollfish-Bot             1829       -1         95        
 63         FlounderBot               1815       -44        52        
 64         Fisk_Bot                  1813       -19        224       
@@ -74,8 +74,8 @@ Rank       Bot                       Rating     Prog       Games
 73         HardRok                   1636       -7         343       
 74         yeoldwiz                  1627       8          627       
 75         sargon-3ply               1576       6          1072      
-76         maia5                     1549       -2         96614     
-77         maia1                     1548       11         222740    
+76         maia5                     1559       12         96615     
+77         maia1                     1554       12         222741    
 78         sargon-4ply               1530       8          521       
 79         turochamp-2ply            1526       -28        1016      
 80         DavidsGuterBot            1495       -12        536       
@@ -88,7 +88,7 @@ Rank       Bot                       Rating     Prog       Games
 87         OhniBOT                   1268       11         209       
 88         schnecken_bot             1183       -27        130       
 89         kireevi                   1104       -27        524       
-90         CHoMPBoT                  1073       4          307       
+90         CHoMPBoT                  1073       -1         308       
 91         bobandi                   933        -4         637       
 92         DeepLLaMA                 852        30         68        
 93         G0thamB0t                 715        -12        235       
