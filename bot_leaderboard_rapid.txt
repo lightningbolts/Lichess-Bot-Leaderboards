@@ -1,5 +1,5 @@
 Rank       Bot                       Rating     Prog       Games     
-1          TorBot                    2903       -3         451       
+1          TorBot                    2901       -3         453       
 2          caissa-x                  2892       5          2985      
 3          EmptikVariantsBot         2885       -3         261       
 4          FireFishBOT               2883       1          842       
@@ -13,7 +13,7 @@ Rank       Bot                       Rating     Prog       Games
 12         chessfyBOT                2845       -7         228       
 13         Shineshou90_BOT           2845       -10        2255      
 14         ResoluteBot               2844       -6         5153      
-15         ArasanX                   2841       9          4486      
+15         ArasanX                   2843       15         4488      
 16         Nikitosik-ai              2824       -19        355       
 17         MrChessTheBot             2797       4          1906      
 18         blundar_bot               2795       -1         921       
@@ -34,7 +34,7 @@ Rank       Bot                       Rating     Prog       Games
 33         fornax-engine             2342       -13        3534      
 34         bekbot                    2324       4          975       
 35         simpleEval                2322       28         7212      
-36         admete_bot                2316       -1         3064      
+36         admete_bot                2316       0          3065      
 37         WasterNew                 2243       43         18        
 38         MaxtheDog                 2196       -23        478       
 39         Nakshatra3                2169       51         692       
@@ -67,16 +67,16 @@ Rank       Bot                       Rating     Prog       Games
 66         AshNostromo               1763       8          1160      
 67         simplexitor               1718       11         413       
 68         HulkBot                   1716       -21        396       
-69         maia9                     1704       16         80246     
-70         turkjs                    1703       -8         4899      
+69         turkjs                    1706       -3         4900      
+70         maia9                     1704       16         80246     
 71         Jibbby                    1689       2          1756      
 72         yeoldwiz                  1627       8          627       
 73         HardRok                   1624       -15        340       
 74         sargon-3ply               1576       6          1072      
-75         maia5                     1549       -20        96584     
-76         maia1                     1530       12         222696    
-77         sargon-4ply               1530       8          521       
-78         turochamp-2ply            1526       -28        1016      
+75         maia5                     1562       5          96586     
+76         sargon-4ply               1530       8          521       
+77         turochamp-2ply            1526       -28        1016      
+78         maia1                     1523       -7         222698    
 79         DavidsGuterBot            1495       -12        536       
 80         RoundMoundOfRebounds      1486       14         297       
 81         sargon-2ply               1395       -28        3075      
