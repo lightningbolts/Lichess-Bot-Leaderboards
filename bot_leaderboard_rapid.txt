@@ -3,9 +3,9 @@ Rank       Bot                       Rating     Prog       Games
 2          FireFishBOT               2883       6          839       
 3          Mate-AI                   2870       2          2375      
 4          ReinforcementTrial        2863       -10        4197      
-5          YoBot_v2                  2861       -1         12617     
+5          YoBot_v2                  2860       -2         12618     
 6          RaspFish                  2857       -2         5207      
-7          Nikitosikbot              2851       5          8374      
+7          Nikitosikbot              2851       5          8375      
 8          chessfyBOT                2845       -7         228       
 9          ResoluteBot               2844       -6         5153      
 10         Shineshou90_BOT           2844       -10        2252      
@@ -63,8 +63,8 @@ Rank       Bot                       Rating     Prog       Games
 62         sargon-3ply               1581       6          1071      
 63         maia5                     1572       -29        96515     
 64         turochamp-2ply            1526       -28        1016      
-65         sargon-4ply               1520       -3         520       
-66         maia1                     1514       7          222624    
+65         maia1                     1520       17         222625    
+66         sargon-4ply               1520       -3         520       
 67         dlvc-bot                  1502       6          30        
 68         DavidsGuterBot            1483       -24        535       
 69         RoundMoundOfRebounds      1472       -5         296       
@@ -78,5 +78,4 @@ Rank       Bot                       Rating     Prog       Games
 77         CHoMPBoT                  1074       4          305       
 78         bobandi                   935        -3         636       
 79         DeepLLaMA                 854        26         67        
-80         G0thamB0t                 715        -12        235       
-81         grandQ_AI                 692        -44        1560      
+80         grandQ_AI                 692        -44        1560      
