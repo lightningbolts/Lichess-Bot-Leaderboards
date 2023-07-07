@@ -1,5 +1,5 @@
 Rank       Bot                       Rating     Prog       Games     
-1          TorBot                    2898       -8         475       
+1          TorBot                    2903       -2         476       
 2          EmptikVariantsBot         2884       -3         264       
 3          FireFishBOT               2883       -5         843       
 4          pangubot                  2872       12         960       
@@ -15,8 +15,8 @@ Rank       Bot                       Rating     Prog       Games
 14         ArasanX                   2841       1          4496      
 15         Nikitosik-ai              2824       -19        355       
 16         F0rgot                    2808       -1         74        
-17         MrChessTheBot             2798       2          1911      
-18         blundar_bot               2795       -1         921       
+17         blundar_bot               2795       -1         921       
+18         MrChessTheBot             2794       2          1912      
 19         LeelaMultiPoss            2791       21         13        
 20         ChessHunterBot            2659       16         57        
 21         LazyBot                   2618       6          702       
@@ -33,7 +33,7 @@ Rank       Bot                       Rating     Prog       Games
 32         fornax-engine             2344       -5         3535      
 33         simpleEval                2320       19         7214      
 34         bekbot                    2317       -3         980       
-35         admete_bot                2312       -2         3089      
+35         admete_bot                2312       -1         3091      
 36         FlamingDragon_9000        2309       -12        1216      
 37         WasterNew                 2234       34         22        
 38         eubos                     2218       3          4080      
@@ -54,13 +54,13 @@ Rank       Bot                       Rating     Prog       Games
 53         BLANK_BOT                 2013       11         1357      
 54         LazyBotJr                 2007       8          1245      
 55         LeelaRogue                1966       35         2181      
-56         Lynx_BOT                  1944       -14        38873     
-57         zeekat                    1941       10         7564      
+56         zeekat                    1945       17         7565      
+57         Lynx_BOT                  1944       -14        38873     
 58         baby_eubos                1871       -12        751       
 59         myopic-bot                1861       -10        227       
 60         notropis                  1835       1          1935      
 61         ELO_1500                  1832       -4         2587      
-62         Trollfish-Bot             1829       -1         95        
+62         Trollfish-Bot             1824       -16        96        
 63         FlounderBot               1815       -44        52        
 64         Fisk_Bot                  1813       -19        224       
 65         melsh_bot                 1798       26         155       
@@ -71,10 +71,10 @@ Rank       Bot                       Rating     Prog       Games
 70         maia9                     1707       19         80265     
 71         turkjs                    1695       -7         4902      
 72         Jibbby                    1689       2          1758      
-73         HardRok                   1636       -7         343       
+73         HardRok                   1637       -8         344       
 74         yeoldwiz                  1627       8          627       
 75         sargon-3ply               1576       6          1072      
-76         maia5                     1557       4          96616     
+76         maia5                     1560       13         96617     
 77         maia1                     1531       -8         222746    
 78         sargon-4ply               1530       8          521       
 79         turochamp-2ply            1526       -28        1016      
@@ -83,7 +83,7 @@ Rank       Bot                       Rating     Prog       Games
 82         chat_bot                  1371       -136       167       
 83         turochamp-1ply            1343       5          1440      
 84         Humaia                    1335       0          1949      
-85         sargon-1ply               1327       -22        8006      
+85         sargon-1ply               1326       -17        8007      
 86         pawnrobot                 1284       0          513       
 87         OhniBOT                   1268       11         209       
 88         schnecken_bot             1183       -27        130       
