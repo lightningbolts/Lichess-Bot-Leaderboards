@@ -21,7 +21,7 @@ Rank       Bot                       Rating     Prog       Games
 20         expositor                 2591       -3         4248      
 21         pawn_git                  2546       -1         962       
 22         OpeningsBot               2493       -29        40        
-23         Weiawaga                  2488       -6         9340      
+23         Weiawaga                  2489       3          9341      
 24         OldStockfish              2471       8          456       
 25         ChessNoobComp             2409       20         529       
 26         bot_adario                2405       16         1194      
@@ -32,11 +32,11 @@ Rank       Bot                       Rating     Prog       Games
 31         bekbot                    2310       -14        986       
 32         simpleEval                2310       0          7219      
 33         FlamingDragon_9000        2309       -12        1216      
-34         admete_bot                2306       -4         3117      
+34         admete_bot                2306       -3         3118      
 35         LunaChessEngine           2250       2          937       
 36         eubos                     2213       3          4082      
 37         MaxtheDog                 2194       -18        482       
-38         HistoryExplorer           2190       9          917       
+38         HistoryExplorer           2189       1          918       
 39         CadabraBot                2159       8          825       
 40         Elmichess                 2150       -48        1341      
 41         Nakshatra3                2145       35         693       
@@ -68,8 +68,8 @@ Rank       Bot                       Rating     Prog       Games
 67         maia9                     1695       13         80297     
 68         yeoldwiz                  1627       8          627       
 69         sargon-3ply               1576       5          1073      
-70         maia1                     1567       7          222789    
-71         maia5                     1567       18         96661     
+70         maia5                     1572       22         96663     
+71         maia1                     1567       7          222789    
 72         turochamp-2ply            1526       -28        1016      
 73         sargon-4ply               1525       13         523       
 74         DavidsGuterBot            1502       -6         537       
