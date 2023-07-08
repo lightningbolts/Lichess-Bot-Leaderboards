@@ -11,7 +11,7 @@ Rank       Bot                       Rating     Prog       Games
 10         chessfyBOT                2845       -7         228       
 11         ResoluteBot               2844       -6         5153      
 12         Shineshou90_BOT           2841       0          2267      
-13         ArasanX                   2837       -3         4526      
+13         ArasanX                   2837       -4         4527      
 14         Nikitosik-ai              2824       -19        355       
 15         MrChessTheBot             2796       1          1924      
 16         blundar_bot               2795       -1         921       
@@ -27,7 +27,7 @@ Rank       Bot                       Rating     Prog       Games
 26         bot_adario                2403       12         1196      
 27         TuksuBot                  2397       -1         1821      
 28         fornax-engine             2345       5          3541      
-29         clueless-bot              2344       11         570       
+29         clueless-bot              2343       9          571       
 30         simpleEval                2312       -4         7221      
 31         FlamingDragon_9000        2309       -12        1216      
 32         bekbot                    2304       -10        989       
@@ -78,7 +78,7 @@ Rank       Bot                       Rating     Prog       Games
 77         ArduChessBot              1596       30         388       
 78         maia5                     1595       -13        96722     
 79         sargon-3ply               1584       9          1078      
-80         maia1                     1544       -11        222893    
+80         maia1                     1545       -3         222895    
 81         turochamp-2ply            1523       -38        1017      
 82         sargon-4ply               1520       3          524       
 83         DavidsGuterBot            1498       -8         538       
@@ -94,8 +94,8 @@ Rank       Bot                       Rating     Prog       Games
 93         schnecken_bot             1185       -20        132       
 94         kireevi                   1104       -27        524       
 95         CHoMPBoT                  1076       1          314       
-96         bobandi                   909        -35        650       
-97         NichtEliasBot             896        -40        12        
-98         DeepLLaMA                 881        44         70        
+96         bobandi                   916        -19        651       
+97         DeepLLaMA                 881        44         70        
+98         NichtEliasBot             867        -69        13        
 99         G0thamB0t                 715        -12        235       
 100        grandQ_AI                 707        -3         1564      
