@@ -2,12 +2,12 @@ Rank       Bot                       Rating     Prog       Games
 1          EmptikVariantsBot         2928       1          2049      
 2          pangubot                  2924       -4         4681      
 3          YoBot_v2                  2892       -7         16139     
-4          TheMatrix2025             2891       -2         6391      
+4          TheMatrix2025             2889       -4         6393      
 5          ResoluteBot               2887       -4         24791     
 6          FireFishBOT               2886       3          496       
 7          Nikitosikbot              2884       -1         19895     
 8          Shineshou90_BOT           2871       1          6815      
-9          RaspFish                  2868       -1         45590     
+9          RaspFish                  2868       -1         45591     
 10         FishFingersMcGee          2862       1          388       
 11         caissa-test               2843       2          1390      
 12         Nikitosik-ai              2822       1          637       
@@ -15,7 +15,7 @@ Rank       Bot                       Rating     Prog       Games
 14         Viet-AI                   2820       -14        129       
 15         LeelaMultiPoss            2805       6          16        
 16         chessfyBOT                2788       -8         1404      
-17         ProteusSF-Godot           2781       19         50        
+17         ProteusSF-Godot           2783       29         51        
 18         nothinBorger              2718       -7         24        
 19         LazyBot                   2707       18         1388      
 20         CodingAdventureBot        2701       2          956       
@@ -90,7 +90,8 @@ Rank       Bot                       Rating     Prog       Games
 89         knucklefish               1364       4          2550      
 90         HulkBot                   1330       -56        1166      
 91         pawnrobot                 1317       -8         3576      
-92         CHoMPBoT                  1276       -3         680       
+92         CHoMPBoT                  1281       4          681       
 93         bobandi                   1236       -1         1052      
-94         DeepLLaMA                 995        -12        51        
-95         grandQ_AI                 805        -44        789       
+94         StupidChessRobot          1203       -82        14        
+95         DeepLLaMA                 995        -12        51        
+96         grandQ_AI                 805        -44        789       
