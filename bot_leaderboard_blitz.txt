@@ -1,10 +1,10 @@
 Rank       Bot                       Rating     Prog       Games     
 1          Viet-AI                   3010       26         45        
-2          ShashChess_MsP            2885       -2         2698      
+2          ShashChess_MsP            2884       -2         2699      
 3          pangubot                  2876       -3         1060      
 4          TheMatrix2025             2872       2          398       
-5          EmanPureNN                2865       -2         1259      
-6          FireFishBOT               2865       3          978       
+5          EmanPureNN                2865       -1         1260      
+6          FireFishBOT               2865       3          980       
 7          YoBot_v2                  2865       -1         2923      
 8          BRAINLEARN11_NNUE         2864       11         3379      
 9          FishFingersMcGee          2862       -1         161       
@@ -87,7 +87,7 @@ Rank       Bot                       Rating     Prog       Games
 86         ChamberiAjedrez           1470       -106       321       
 87         Humaia                    1365       -6         766       
 88         ZE_ROOK                   1364       15         1889      
-89         sargon-2ply               1348       6          2746      
+89         sargon-2ply               1349       8          2747      
 90         StupidChessRobot          1303       -3         33        
 91         OhniBOT                   1294       34         274       
 92         turochamp-1ply            1281       -2         1564      
@@ -97,7 +97,7 @@ Rank       Bot                       Rating     Prog       Games
 96         HulkBot                   1202       -1         660       
 97         knucklefish               1081       -20        2996      
 98         bobandi                   1079       -15        1092      
-99         CHoMPBoT                  1023       -9         1136      
+99         CHoMPBoT                  1022       -10        1137      
 100        BelaBot                   912        -45        44        
 101        DeepLLaMA                 875        5          36        
 102        grandQ_AI                 702        18         1194      
