@@ -32,7 +32,7 @@ Rank       Bot                       Rating     Prog       Games
 31         simpleEval                2312       -4         7221      
 32         FlamingDragon_9000        2309       -12        1216      
 33         bekbot                    2304       -10        989       
-34         admete_bot                2303       0          3189      
+34         admete_bot                2302       -1         3190      
 35         WasterNew                 2283       40         29        
 36         LunaChessEngine           2246       -4         948       
 37         DQN-chess                 2238       1          795       
@@ -50,7 +50,7 @@ Rank       Bot                       Rating     Prog       Games
 49         GarboBot                  2118       -11        5773      
 50         YourSparringBot           2105       -24        136       
 51         kulubot                   2088       15         458       
-52         halcyonbot                2072       -1         5142      
+52         halcyonbot                2072       2          5143      
 53         Humaia-Strong             2031       11         589       
 54         BLANK_BOT                 2014       5          1365      
 55         LazyBotJr                 2007       8          1245      
@@ -62,9 +62,9 @@ Rank       Bot                       Rating     Prog       Games
 61         baby_eubos                1864       -18        753       
 62         myopic-bot                1855       -14        229       
 63         ELO_1500                  1832       -4         2590      
-64         notropis                  1823       -12        1946      
-65         FlounderBot               1815       -44        52        
-66         Fisk_Bot                  1813       -19        224       
+64         FlounderBot               1815       -44        52        
+65         Fisk_Bot                  1813       -19        224       
+66         notropis                  1813       -18        1947      
 67         melsh_bot                 1792       22         157       
 68         zulu_bot                  1776       3          110       
 69         AshNostromo               1775       5          1162      
@@ -76,10 +76,10 @@ Rank       Bot                       Rating     Prog       Games
 75         Jibbby                    1700       11         1771      
 76         yeoldwiz                  1627       8          627       
 77         HardRok                   1607       -37        357       
-78         maia5                     1604       -10        96724     
+78         maia5                     1604       -7         96726     
 79         ArduChessBot              1596       30         388       
 80         sargon-3ply               1584       9          1078      
-81         maia1                     1533       -14        222898    
+81         maia1                     1529       -19        222900    
 82         turochamp-2ply            1523       -38        1017      
 83         sargon-4ply               1520       3          524       
 84         DavidsGuterBot            1498       -8         538       
