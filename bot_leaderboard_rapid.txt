@@ -16,11 +16,11 @@ Rank       Bot                       Rating     Prog       Games
 15         blundar_bot               2795       -1         921       
 16         MrChessTheBot             2795       0          1923      
 17         LazyBot                   2618       6          702       
-18         expositor                 2601       2          4252      
+18         expositor                 2605       10         4253      
 19         AKS-Mantissa              2599       -11        3851      
 20         pawn_git                  2550       0          968       
 21         OpeningsBot               2493       -29        40        
-22         Weiawaga                  2483       0          9346      
+22         Weiawaga                  2479       -3         9347      
 23         OldStockfish              2472       10         459       
 24         odonata-bot               2407       5          3595      
 25         bot_adario                2403       12         1196      
@@ -30,7 +30,7 @@ Rank       Bot                       Rating     Prog       Games
 29         simpleEval                2312       -4         7221      
 30         FlamingDragon_9000        2309       -12        1216      
 31         bekbot                    2308       -15        987       
-32         admete_bot                2304       -2         3175      
+32         admete_bot                2303       -3         3176      
 33         WasterNew                 2283       40         29        
 34         Wahoo_Bot                 2255       25         39        
 35         DQN-chess                 2245       14         789       
@@ -48,10 +48,10 @@ Rank       Bot                       Rating     Prog       Games
 47         matmoi                    2118       6          311       
 48         YourSparringBot           2106       -17        135       
 49         kulubot                   2073       2          456       
-50         halcyonbot                2061       5          5137      
+50         halcyonbot                2066       17         5138      
 51         bcbchess                  2035       -66        287       
 52         Humaia-Strong             2031       11         589       
-53         BLANK_BOT                 2019       6          1364      
+53         BLANK_BOT                 2014       5          1365      
 54         LazyBotJr                 2007       8          1245      
 55         LeelaRogue                1966       35         2181      
 56         zeekat                    1950       -1         7583      
@@ -68,7 +68,7 @@ Rank       Bot                       Rating     Prog       Games
 67         zulu_bot                  1776       3          110       
 68         Demolito_L5               1772       3          191       
 69         AshNostromo               1769       6          1161      
-70         maia9                     1724       -9         80355     
+70         maia9                     1722       -15        80356     
 71         simplexitor               1722       19         414       
 72         HulkBot                   1716       -21        396       
 73         turkjs                    1702       1          4905      
@@ -78,7 +78,7 @@ Rank       Bot                       Rating     Prog       Games
 77         maia5                     1603       11         96719     
 78         ArduChessBot              1596       30         388       
 79         sargon-3ply               1584       9          1078      
-80         maia1                     1556       14         222881    
+80         maia1                     1555       9          222882    
 81         turochamp-2ply            1523       -38        1017      
 82         sargon-4ply               1520       3          524       
 83         DavidsGuterBot            1498       -8         538       
@@ -92,7 +92,8 @@ Rank       Bot                       Rating     Prog       Games
 91         pawnrobot                 1296       16         517       
 92         OhniBOT                   1268       11         209       
 93         schnecken_bot             1185       -20        132       
-94         CHoMPBoT                  1071       -7         313       
-95         bobandi                   900        -26        644       
-96         DeepLLaMA                 868        30         69        
-97         grandQ_AI                 707        -3         1564      
+94         kireevi                   1104       -27        524       
+95         CHoMPBoT                  1071       -7         313       
+96         bobandi                   899        -27        645       
+97         DeepLLaMA                 868        30         69        
+98         grandQ_AI                 707        -3         1564      
