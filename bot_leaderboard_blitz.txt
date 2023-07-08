@@ -38,7 +38,7 @@ Rank       Bot                       Rating     Prog       Games
 37         LunaChessEngine           2236       31         1350      
 38         HistoryExplorer           2213       14         2431      
 39         Nakshatra3                2205       -3         1293      
-40         matmoi                    2185       1          360       
+40         matmoi                    2189       4          361       
 41         DQN-chess                 2180       8          198       
 42         eubos                     2154       0          13265     
 43         CadabraBot                2145       -2         1226      
@@ -52,7 +52,7 @@ Rank       Bot                       Rating     Prog       Games
 51         halcyonbot                2076       -23        7771      
 52         Humaia-Strong             2072       -2         2298      
 53         BLANK_BOT                 2062       -8         4264      
-54         Lumac0                    2062       6          1719      
+54         Lumac0                    2051       -10        1720      
 55         Boris-Trapsky             2035       2          27407     
 56         Sparring_Bot              2013       -30        809       
 57         LeelaRogue                2009       -20        2195      
@@ -90,14 +90,14 @@ Rank       Bot                       Rating     Prog       Games
 89         DavidsGuterBot            1467       -1         3208      
 90         maia1                     1435       -26        199580    
 91         Humaia                    1362       -3         767       
-92         ZE_ROOK                   1354       0          1910      
+92         ZE_ROOK                   1358       1          1911      
 93         sargon-2ply               1352       2          2753      
 94         StupidChessRobot          1335       24         46        
 95         OhniBOT                   1286       29         275       
 96         turochamp-1ply            1277       -10        1566      
 97         pawnrobot                 1235       13         1761      
 98         sargon-1ply               1235       -12        7395      
-99         schnecken_bot             1223       -2         1351      
+99         schnecken_bot             1219       -14        1352      
 100        HulkBot                   1202       -1         660       
 101        knucklefish               1081       -20        2996      
 102        bobandi                   1079       -15        1092      
