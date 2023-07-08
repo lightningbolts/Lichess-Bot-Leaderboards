@@ -3,8 +3,8 @@ Rank       Bot                       Rating     Prog       Games
 2          EmptikVariantsBot         2888       3          273       
 3          FireFishBOT               2884       1          850       
 4          YoBot_v2                  2870       8          12673     
-5          RaspFish                  2860       4          5237      
-6          ReinforcementTrial        2860       1          4249      
+5          ReinforcementTrial        2862       2          4250      
+6          RaspFish                  2860       4          5237      
 7          Nikitosikbot              2854       3          8381      
 8          ttBOT                     2852       15         109       
 9          EmptikBot247              2849       4          82        
@@ -19,7 +19,7 @@ Rank       Bot                       Rating     Prog       Games
 18         LeelaMultiPoss            2785       15         17        
 19         LazyBot                   2618       6          702       
 20         expositor                 2604       13         4255      
-21         AKS-Mantissa              2599       -6         3852      
+21         AKS-Mantissa              2597       -6         3853      
 22         pawn_git                  2550       0          968       
 23         OpeningsBot               2483       -3         42        
 24         Weiawaga                  2479       -3         9347      
@@ -32,7 +32,7 @@ Rank       Bot                       Rating     Prog       Games
 31         simpleEval                2312       -4         7221      
 32         FlamingDragon_9000        2309       -12        1216      
 33         bekbot                    2304       -10        989       
-34         admete_bot                2302       -1         3191      
+34         admete_bot                2302       0          3192      
 35         WasterNew                 2283       40         29        
 36         LunaChessEngine           2248       2          949       
 37         DQN-chess                 2242       -1         797       
@@ -56,7 +56,7 @@ Rank       Bot                       Rating     Prog       Games
 55         LazyBotJr                 2007       8          1245      
 56         LeelaRogue                1966       35         2181      
 57         zeekat                    1949       -8         7585      
-58         Lynx_BOT                  1948       -2         38889     
+58         Lynx_BOT                  1948       -5         38890     
 59         Lumac0                    1933       -30        457       
 60         Trollfish-Bot             1872       44         105       
 61         baby_eubos                1864       -18        753       
@@ -69,7 +69,7 @@ Rank       Bot                       Rating     Prog       Games
 68         zulu_bot                  1776       3          110       
 69         AshNostromo               1775       5          1162      
 70         Demolito_L5               1755       -24        195       
-71         maia9                     1725       -2         80362     
+71         maia9                     1722       -12        80363     
 72         simplexitor               1722       19         414       
 73         HulkBot                   1716       -21        396       
 74         turkjs                    1702       -7         4906      
@@ -81,10 +81,10 @@ Rank       Bot                       Rating     Prog       Games
 80         sargon-3ply               1584       9          1078      
 81         turochamp-2ply            1523       -38        1017      
 82         sargon-4ply               1520       3          524       
-83         maia1                     1514       -21        222902    
+83         maia1                     1508       -33        222903    
 84         DavidsGuterBot            1498       -8         538       
 85         RoundMoundOfRebounds      1482       11         298       
-86         ZE_ROOK                   1433       -11        185       
+86         ZE_ROOK                   1432       -7         186       
 87         sargon-2ply               1388       -5         3087      
 88         turochamp-1ply            1354       18         1441      
 89         chat_bot                  1349       -126       169       
