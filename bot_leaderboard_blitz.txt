@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          Viet-AI                   3010       26         45        
-2          ShashChess_MsP            2885       -3         2695      
-3          pangubot                  2876       -3         1058      
+2          ShashChess_MsP            2885       -3         2696      
+3          pangubot                  2876       0          1059      
 4          TheMatrix2025             2872       2          398       
 5          EmanPureNN                2865       -2         1258      
 6          FireFishBOT               2865       7          977       
@@ -33,9 +33,9 @@ Rank       Bot                       Rating     Prog       Games
 32         fornax-engine             2407       3          6246      
 33         ChessNoobComp             2405       6          1417      
 34         odonata-bot               2389       -14        5737      
-35         admete_bot                2332       3          5380      
+35         admete_bot                2338       8          5381      
 36         FlamingDragon_9000        2323       19         3331      
-37         clueless-bot              2316       -8         2218      
+37         clueless-bot              2311       -17        2219      
 38         bekbot                    2303       -1         1258      
 39         simpleEval                2288       -1         13860     
 40         HistoryExplorer           2226       27         2428      
@@ -70,8 +70,8 @@ Rank       Bot                       Rating     Prog       Games
 69         AshNostromo               1735       25         921       
 70         QueensGamBOT              1726       -5         2674      
 71         melsh_bot                 1707       0          1511      
-72         ELO_1500                  1696       14         12045     
-73         Jibbby                    1696       -13        5310      
+72         Jibbby                    1698       -12        5311      
+73         ELO_1500                  1696       14         12045     
 74         simplexitor               1683       0          1932      
 75         yeoldwiz                  1635       17         1591      
 76         turkjs                    1616       -1         10007     
@@ -88,7 +88,7 @@ Rank       Bot                       Rating     Prog       Games
 87         DavidsGuterBot            1467       3          3206      
 88         ZE_ROOK                   1369       19         1888      
 89         Humaia                    1365       -6         766       
-90         sargon-2ply               1349       17         2745      
+90         sargon-2ply               1348       6          2746      
 91         StupidChessRobot          1303       -3         33        
 92         OhniBOT                   1294       34         274       
 93         turochamp-1ply            1281       -2         1564      
