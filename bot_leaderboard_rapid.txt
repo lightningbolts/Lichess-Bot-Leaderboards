@@ -33,7 +33,7 @@ Rank       Bot                       Rating     Prog       Games
 32         admete_bot                2303       -3         3176      
 33         WasterNew                 2283       40         29        
 34         Wahoo_Bot                 2255       25         39        
-35         DQN-chess                 2245       14         789       
+35         DQN-chess                 2246       12         790       
 36         LunaChessEngine           2241       -8         946       
 37         eubos                     2223       6          4085      
 38         MaxtheDog                 2188       -10        486       
@@ -61,12 +61,12 @@ Rank       Bot                       Rating     Prog       Games
 60         baby_eubos                1864       -18        753       
 61         myopic-bot                1855       -14        229       
 62         ELO_1500                  1832       -4         2590      
-63         notropis                  1820       -14        1943      
+63         notropis                  1819       -12        1944      
 64         FlounderBot               1815       -44        52        
 65         Fisk_Bot                  1813       -19        224       
 66         melsh_bot                 1792       22         157       
 67         zulu_bot                  1776       3          110       
-68         Demolito_L5               1772       3          191       
+68         Demolito_L5               1771       1          192       
 69         AshNostromo               1769       6          1161      
 70         maia9                     1722       -15        80356     
 71         simplexitor               1722       19         414       
@@ -78,7 +78,7 @@ Rank       Bot                       Rating     Prog       Games
 77         maia5                     1603       11         96719     
 78         ArduChessBot              1596       30         388       
 79         sargon-3ply               1584       9          1078      
-80         maia1                     1555       9          222882    
+80         maia1                     1550       11         222883    
 81         turochamp-2ply            1523       -38        1017      
 82         sargon-4ply               1520       3          524       
 83         DavidsGuterBot            1498       -8         538       
@@ -92,8 +92,7 @@ Rank       Bot                       Rating     Prog       Games
 91         pawnrobot                 1296       16         517       
 92         OhniBOT                   1268       11         209       
 93         schnecken_bot             1185       -20        132       
-94         kireevi                   1104       -27        524       
-95         CHoMPBoT                  1071       -7         313       
-96         bobandi                   899        -27        645       
-97         DeepLLaMA                 868        30         69        
-98         grandQ_AI                 707        -3         1564      
+94         CHoMPBoT                  1071       -7         313       
+95         bobandi                   899        -27        645       
+96         DeepLLaMA                 868        30         69        
+97         grandQ_AI                 707        -3         1564      
