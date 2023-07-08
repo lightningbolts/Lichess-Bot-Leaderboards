@@ -1,5 +1,5 @@
 Rank       Bot                       Rating     Prog       Games     
-1          TorBot                    2913       6          513       
+1          TorBot                    2911       5          514       
 2          EmptikVariantsBot         2887       3          275       
 3          FireFishBOT               2883       0          851       
 4          YoBot_v2                  2870       8          12673     
@@ -11,11 +11,11 @@ Rank       Bot                       Rating     Prog       Games
 10         chessfyBOT                2845       -7         228       
 11         ResoluteBot               2844       -6         5153      
 12         Shineshou90_BOT           2841       0          2267      
-13         ArasanX                   2837       -1         4532      
+13         ArasanX                   2838       3          4533      
 14         Nikitosik-ai              2824       -19        355       
 15         blundar_bot               2795       -1         921       
-16         MrChessTheBot             2794       -3         1926      
-17         LeelaChessTest            2791       10         594       
+16         LeelaChessTest            2795       10         595       
+17         MrChessTheBot             2794       -3         1926      
 18         LazyBot                   2618       6          702       
 19         expositor                 2602       14         4256      
 20         AKS-Mantissa              2597       -6         3853      
@@ -29,10 +29,10 @@ Rank       Bot                       Rating     Prog       Games
 28         clueless-bot              2343       9          571       
 29         fornax-engine             2343       0          3543      
 30         FlamingDragon_9000        2309       -12        1216      
-31         admete_bot                2305       4          3207      
+31         admete_bot                2305       4          3208      
 32         simpleEval                2303       -16        7222      
 33         bekbot                    2299       -18        991       
-34         WasterNew                 2283       40         29        
+34         WasterNew                 2282       35         30        
 35         eubos                     2215       5          4089      
 36         HistoryExplorer           2196       9          922       
 37         MaxtheDog                 2195       -1         487       
@@ -75,7 +75,7 @@ Rank       Bot                       Rating     Prog       Games
 74         maia5                     1599       0          96732     
 75         ArduChessBot              1596       30         388       
 76         sargon-3ply               1584       9          1078      
-77         maia1                     1532       -14        222926    
+77         maia1                     1527       -10        222927    
 78         turochamp-2ply            1523       -38        1017      
 79         sargon-4ply               1520       4          525       
 80         DavidsGuterBot            1497       -4         539       
