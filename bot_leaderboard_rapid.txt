@@ -31,7 +31,7 @@ Rank       Bot                       Rating     Prog       Games
 30         simpleEval                2312       -4         7221      
 31         FlamingDragon_9000        2309       -12        1216      
 32         bekbot                    2304       -10        989       
-33         admete_bot                2302       -2         3185      
+33         admete_bot                2302       -1         3187      
 34         WasterNew                 2283       40         29        
 35         LunaChessEngine           2246       -4         948       
 36         DQN-chess                 2230       -15        793       
@@ -72,7 +72,7 @@ Rank       Bot                       Rating     Prog       Games
 71         HulkBot                   1716       -21        396       
 72         maia9                     1716       -16        80360     
 73         turkjs                    1702       -7         4906      
-74         Jibbby                    1700       10         1770      
+74         Jibbby                    1700       11         1771      
 75         yeoldwiz                  1627       8          627       
 76         HardRok                   1606       -34        356       
 77         ArduChessBot              1596       30         388       
@@ -92,10 +92,9 @@ Rank       Bot                       Rating     Prog       Games
 91         pawnrobot                 1296       16         517       
 92         OhniBOT                   1268       11         209       
 93         schnecken_bot             1185       -20        132       
-94         kireevi                   1104       -27        524       
-95         CHoMPBoT                  1076       1          314       
-96         bobandi                   916        -19        651       
-97         DeepLLaMA                 881        44         70        
-98         NichtEliasBot             867        -69        13        
-99         G0thamB0t                 715        -12        235       
-100        grandQ_AI                 707        -3         1564      
+94         CHoMPBoT                  1076       1          314       
+95         bobandi                   916        -19        651       
+96         DeepLLaMA                 891        54         71        
+97         NichtEliasBot             839        -97        14        
+98         G0thamB0t                 715        -12        235       
+99         grandQ_AI                 707        -3         1564      
