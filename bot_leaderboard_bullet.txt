@@ -4,12 +4,12 @@ Rank       Bot                       Rating     Prog       Games
 3          BRAINLEARN11_NNUE         2894       5          4958      
 4          FireFishBOT               2891       5          501       
 5          ResoluteBot               2887       -4         24791     
-6          TheMatrix2025             2887       0          6418      
+6          TheMatrix2025             2887       -1         6419      
 7          YoBot_v2                  2886       -10        16140     
 8          Nikitosikbot              2883       -1         19899     
-9          Shineshou90_BOT           2877       7          6820      
-10         FishFingersMcGee          2863       2          393       
-11         RaspFish                  2863       5          45617     
+9          Shineshou90_BOT           2877       7          6821      
+10         FishFingersMcGee          2863       2          394       
+11         RaspFish                  2863       4          45618     
 12         ShashChess_MsP            2862       50         110       
 13         caissa-test               2843       2          1390      
 14         Nikitosik-ai              2823       9          639       
@@ -24,7 +24,7 @@ Rank       Bot                       Rating     Prog       Games
 23         FlamingDragon_9000        2524       -5         10619     
 24         Elmichess                 2523       -59        3182      
 25         pawn_git                  2427       14         3529      
-26         misteick_bot              2414       16         15041     
+26         misteick_bot              2414       18         15042     
 27         OldStockfish              2389       4          782       
 28         OpeningsBot               2377       -15        151       
 29         Weiawaga                  2377       3          14205     
@@ -39,8 +39,8 @@ Rank       Bot                       Rating     Prog       Games
 38         fornax-engine             2258       -17        6527      
 39         bekbot                    2254       0          1296      
 40         HistoryExplorer           2232       5          2298      
-41         Nakshatra3                2218       30         1108      
-42         simpleEval                2217       19         24144     
+41         simpleEval                2225       25         24146     
+42         Nakshatra3                2218       30         1108      
 43         CadabraBot                2179       -7         616       
 44         LunaChessEngine           2177       -8         948       
 45         LazyBotJr                 2140       30         807       
@@ -50,7 +50,7 @@ Rank       Bot                       Rating     Prog       Games
 49         eubos                     2078       -3         11380     
 50         halcyonbot                2066       16         4217      
 51         redtail-zero              2058       -31        226       
-52         MaxtheDog                 2041       8          12101     
+52         MaxtheDog                 2044       8          12102     
 53         Humaia-Strong             2035       56         1304      
 54         BLANK_BOT                 2024       -10        6599      
 55         Hyperopic                 1975       -20        766       
@@ -58,7 +58,7 @@ Rank       Bot                       Rating     Prog       Games
 57         Lynx_BOT                  1934       1          5618      
 58         zeekat                    1912       2          16884     
 59         michabay05                1881       -20        260       
-60         myopic-bot                1853       -8         1338      
+60         myopic-bot                1850       -15        1339      
 61         QueensGamBOT              1841       2          4623      
 62         notropis                  1822       20         3238      
 63         baby_eubos                1803       10         4503      
@@ -76,9 +76,9 @@ Rank       Bot                       Rating     Prog       Games
 75         sargon-3ply               1595       3          1089      
 76         turochamp-2ply            1577       -12        1346      
 77         Humaia                    1571       9          319       
-78         DavidsGuterBot            1552       -7         5607      
+78         DavidsGuterBot            1557       -5         5609      
 79         monchester                1534       16         2190      
-80         ZE_ROOK                   1481       6          1097      
+80         ZE_ROOK                   1475       2          1098      
 81         turochamp-1ply            1466       18         1608      
 82         sargon-1ply               1451       9          3921      
 83         yeoldwiz                  1450       18         791       
@@ -93,4 +93,4 @@ Rank       Bot                       Rating     Prog       Games
 92         bobandi                   1234       -7         1053      
 93         StupidChessRobot          1173       -112       16        
 94         DeepLLaMA                 995        -12        51        
-95         grandQ_AI                 801        -40        790       
+95         grandQ_AI                 793        -51        792       
