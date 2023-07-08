@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
-1          TorBot                    2902       1          484       
+1          TorBot                    2902       -1         485       
 2          EmptikVariantsBot         2891       6          270       
-3          ShashChess_MsP            2884       2          683       
+3          ShashChess_MsP            2885       -3         684       
 4          FireFishBOT               2883       -1         846       
 5          pangubot                  2871       12         963       
 6          YoBot_v2                  2870       8          12673     
@@ -29,7 +29,7 @@ Rank       Bot                       Rating     Prog       Games
 28         Weiawaga                  2485       0          9342      
 29         OldStockfish              2473       10         458       
 30         ChessNoobComp             2409       20         529       
-31         odonata-bot               2406       1          3593      
+31         odonata-bot               2408       8          3594      
 32         bot_adario                2405       16         1194      
 33         TuksuBot                  2392       -5         1819      
 34         fornax-engine             2353       9          3538      
@@ -44,7 +44,7 @@ Rank       Bot                       Rating     Prog       Games
 43         eubos                     2216       4          4083      
 44         HistoryExplorer           2192       -1         919       
 45         MaxtheDog                 2186       -24        483       
-46         CadabraBot                2157       -7         829       
+46         CadabraBot                2154       -7         830       
 47         Elmichess                 2152       -51        1342      
 48         Nakshatra3                2145       35         693       
 49         redtail-zero              2135       5          101       
@@ -75,9 +75,9 @@ Rank       Bot                       Rating     Prog       Games
 74         turkjs                    1705       6          4903      
 75         Jibbby                    1692       1          1765      
 76         yeoldwiz                  1627       8          627       
-77         maia5                     1580       6          96677     
-78         sargon-3ply               1578       11         1074      
-79         maia1                     1536       -4         222837    
+77         sargon-3ply               1578       11         1074      
+78         maia5                     1573       0          96678     
+79         maia1                     1535       -2         222838    
 80         turochamp-2ply            1526       -28        1016      
 81         sargon-4ply               1525       13         523       
 82         DavidsGuterBot            1502       -6         537       
