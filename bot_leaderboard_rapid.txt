@@ -32,7 +32,7 @@ Rank       Bot                       Rating     Prog       Games
 31         simpleEval                2312       -4         7221      
 32         FlamingDragon_9000        2309       -12        1216      
 33         bekbot                    2304       -10        989       
-34         admete_bot                2302       -1         3190      
+34         admete_bot                2302       -1         3191      
 35         WasterNew                 2283       40         29        
 36         LunaChessEngine           2246       -4         948       
 37         DQN-chess                 2241       2          796       
@@ -70,8 +70,8 @@ Rank       Bot                       Rating     Prog       Games
 69         AshNostromo               1775       5          1162      
 70         Demolito_L5               1755       -24        195       
 71         simplexitor               1722       19         414       
-72         HulkBot                   1716       -21        396       
-73         maia9                     1716       -16        80360     
+72         maia9                     1720       -9         80361     
+73         HulkBot                   1716       -21        396       
 74         turkjs                    1702       -7         4906      
 75         Jibbby                    1700       11         1771      
 76         yeoldwiz                  1627       8          627       
@@ -80,8 +80,8 @@ Rank       Bot                       Rating     Prog       Games
 79         ArduChessBot              1596       30         388       
 80         sargon-3ply               1584       9          1078      
 81         turochamp-2ply            1523       -38        1017      
-82         maia1                     1521       -21        222901    
-83         sargon-4ply               1520       3          524       
+82         sargon-4ply               1520       3          524       
+83         maia1                     1514       -21        222902    
 84         DavidsGuterBot            1498       -8         538       
 85         RoundMoundOfRebounds      1482       11         298       
 86         ZE_ROOK                   1433       -11        185       
