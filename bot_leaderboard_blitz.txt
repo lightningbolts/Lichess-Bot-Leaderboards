@@ -26,7 +26,7 @@ Rank       Bot                       Rating     Prog       Games
 25         Weiawaga                  2519       22         11074     
 26         pawn_git                  2491       2          2062      
 27         AttackFish                2452       -32        19        
-28         OpeningsBot               2450       -22        210       
+28         OpeningsBot               2450       -16        211       
 29         OldStockfish              2441       14         382       
 30         bot_adario                2432       12         1873      
 31         AivanJ10                  2428       110        34        
@@ -60,10 +60,10 @@ Rank       Bot                       Rating     Prog       Games
 59         LeelaRogue                2009       -20        2195      
 60         LazyBotJr                 2006       -14        1484      
 61         Lynx_BOT                  1960       2          46915     
-62         michabay05                1932       4          149       
-63         Hyperopic                 1931       8          960       
-64         zeekat                    1893       18         18728     
-65         myopic-bot                1888       -4         1364      
+62         Hyperopic                 1936       10         961       
+63         michabay05                1932       4          149       
+64         myopic-bot                1888       -4         1364      
+65         zeekat                    1888       14         18729     
 66         baby_eubos                1865       16         6436      
 67         zulu_bot                  1861       -3         992       
 68         Trollfish-Bot             1841       -16        1316      
@@ -94,7 +94,7 @@ Rank       Bot                       Rating     Prog       Games
 93         DavidsGuterBot            1467       10         3213      
 94         RoundMoundOfRebounds      1464       -24        1032      
 95         turochamp-2ply            1453       -31        1479      
-96         maia1                     1380       -27        199793    
+96         maia1                     1387       -22        199795    
 97         Humaia                    1375       7          769       
 98         StupidChessRobot          1358       -19        76        
 99         ZE_ROOK                   1356       -18        1932      
@@ -105,7 +105,7 @@ Rank       Bot                       Rating     Prog       Games
 104        pawnrobot                 1232       5          1770      
 105        schnecken_bot             1218       15         1372      
 106        HulkBot                   1181       -16        662       
-107        bobandi                   1085       -15        1094      
+107        bobandi                   1081       -19        1095      
 108        knucklefish               1074       -23        2999      
 109        CHoMPBoT                  1048       5          1172      
 110        BelaBot                   912        -45        44        
