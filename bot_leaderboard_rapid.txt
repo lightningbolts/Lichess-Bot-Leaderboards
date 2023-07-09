@@ -23,7 +23,7 @@ Rank       Bot                       Rating     Prog       Games
 22         pawn_git                  2544       0          975       
 23         Weiawaga                  2495       12         9357      
 24         OldStockfish              2476       8          461       
-25         OpeningsBot               2474       -13        46        
+25         OpeningsBot               2475       -7         47        
 26         bot_adario                2402       11         1198      
 27         odonata-bot               2400       0          3598      
 28         TuksuBot                  2392       0          1826      
@@ -84,7 +84,7 @@ Rank       Bot                       Rating     Prog       Games
 83         sargon-3ply               1575       -6         1087      
 84         turochamp-2ply            1522       -8         1026      
 85         sargon-4ply               1519       4          526       
-86         maia1                     1506       -42        223120    
+86         maia1                     1501       -42        223122    
 87         DavidsGuterBot            1495       -1         540       
 88         RoundMoundOfRebounds      1481       16         299       
 89         ZE_ROOK                   1431       -14        191       
@@ -98,7 +98,8 @@ Rank       Bot                       Rating     Prog       Games
 97         schnecken_bot             1171       -23        137       
 98         kireevi                   1088       -30        527       
 99         CHoMPBoT                  1049       -20        321       
-100        bobandi                   889        -24        664       
-101        DeepLLaMA                 876        36         77        
-102        G0thamB0t                 715        -12        235       
-103        grandQ_AI                 707        -3         1564      
+100        NichtEliasBot             1014       135        30        
+101        bobandi                   889        -24        664       
+102        DeepLLaMA                 876        36         77        
+103        G0thamB0t                 715        -12        235       
+104        grandQ_AI                 707        -3         1564      
