@@ -10,9 +10,9 @@ Rank       Bot                       Rating     Prog       Games
 9          ShashChess_MsP            2871       4          132       
 10         RaspFish                  2854       -1         45922     
 11         Shineshou90_BOT           2852       7          6977      
-12         Anand_bot                 2843       9          44        
+12         Anand_bot                 2843       9          45        
 13         caissa-test               2843       2          1390      
-14         EmptikBot247              2836       1          1397      
+14         EmptikBot247              2836       0          1398      
 15         Nikitosik-ai              2827       -12        906       
 16         LeelaMultiPoss            2826       27         26        
 17         blundar_bot               2801       0          4427      
@@ -40,7 +40,7 @@ Rank       Bot                       Rating     Prog       Games
 39         AjedrezChamberi           2275       -4         499       
 40         bekbot                    2268       13         1310      
 41         fornax-engine             2264       15         6551      
-42         clueless-bot              2243       17         5505      
+42         clueless-bot              2246       16         5506      
 43         morabandbot               2237       31         363       
 44         HistoryExplorer           2233       -2         2308      
 45         simpleEval                2208       -17        24224     
@@ -53,8 +53,8 @@ Rank       Bot                       Rating     Prog       Games
 52         halcyonbot                2086       -1         4263      
 53         Humaia-Strong             2073       78         1306      
 54         MaxtheDog                 2062       -4         12184     
-55         eubos                     2060       -19        11457     
-56         redtail-zero              2058       -31        226       
+55         redtail-zero              2058       -31        226       
+56         eubos                     2057       -18        11458     
 57         BLANK_BOT                 2012       4          6635      
 58         Hyperopic                 1975       -20        766       
 59         Trollfish-Bot             1931       -2         2495      
@@ -65,7 +65,7 @@ Rank       Bot                       Rating     Prog       Games
 64         FlounderBot               1853       19         1179      
 65         Ptit-biscuit              1849       29         353       
 66         QueensGamBOT              1845       15         4643      
-67         Genetic_Chess_Bot         1840       -22        2072      
+67         Genetic_Chess_Bot         1841       -16        2073      
 68         notropis                  1803       -26        3270      
 69         baby_eubos                1800       2          4542      
 70         ArduChessBot              1773       8          4888      
@@ -89,7 +89,7 @@ Rank       Bot                       Rating     Prog       Games
 88         turochamp-1ply            1465       15         1613      
 89         ZE_ROOK                   1465       -16        1108      
 90         yeoldwiz                  1450       18         791       
-91         sargon-1ply               1448       -19        3935      
+91         sargon-1ply               1447       -17        3936      
 92         sargon-2ply               1441       -3         1853      
 93         StupidChessRobot          1388       64         39        
 94         schnecken_bot             1361       -3         415       
