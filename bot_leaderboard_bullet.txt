@@ -1,13 +1,13 @@
 Rank       Bot                       Rating     Prog       Games     
 1          EmptikBot                 3010       15         2568      
 2          Nikitosikbot              2921       -10        20070     
-3          FireFishBOT               2890       -2         577       
+3          FireFishBOT               2889       -3         579       
 4          YoBot_v2                  2888       6          16184     
 5          ResoluteBot               2887       -4         24791     
 6          UltimateL                 2879       -7         1508      
-7          BRAINLEARN11_NNUE         2875       -8         5072      
+7          BRAINLEARN11_NNUE         2875       -8         5073      
 8          ShashChess_MsP            2871       4          132       
-9          RaspFish                  2856       6          45950     
+9          RaspFish                  2857       7          45951     
 10         Shineshou90_BOT           2853       1          6987      
 11         caissa-test               2843       2          1390      
 12         EmptikBot247              2843       1          1418      
@@ -51,7 +51,7 @@ Rank       Bot                       Rating     Prog       Games
 50         Humaia-Strong             2073       78         1306      
 51         halcyonbot                2072       -19        4267      
 52         MaxtheDog                 2072       6          12188     
-53         eubos                     2065       -16        11459     
+53         eubos                     2067       -11        11460     
 54         redtail-zero              2058       -31        226       
 55         BLANK_BOT                 2016       3          6636      
 56         Ducc0                     1995       84         35        
@@ -62,7 +62,7 @@ Rank       Bot                       Rating     Prog       Games
 61         Lynx_BOT                  1898       8          5659      
 62         zeekat                    1892       2          16966     
 63         myopic-bot                1874       19         1354      
-64         FlounderBot               1855       2          1187      
+64         FlounderBot               1857       2          1188      
 65         QueensGamBOT              1853       25         4645      
 66         Ptit-biscuit              1850       34         354       
 67         Genetic_Chess_Bot         1832       -10        2082      
@@ -70,7 +70,7 @@ Rank       Bot                       Rating     Prog       Games
 69         Demolito_L5               1810       -1         182       
 70         notropis                  1803       -26        3270      
 71         honzovy-sachy             1782       1          4664      
-72         ArduChessBot              1765       4          4893      
+72         ArduChessBot              1763       7          4894      
 73         melsh_bot                 1763       -15        3437      
 74         rudim-bot                 1756       -379       122       
 75         Virutor                   1754       14         6353      
@@ -87,7 +87,7 @@ Rank       Bot                       Rating     Prog       Games
 86         maia5                     1598       10         38428     
 87         Humaia                    1586       2          340       
 88         maia1                     1575       -15        120421    
-89         turochamp-2ply            1566       -14        1355      
+89         turochamp-2ply            1565       -17        1356      
 90         monchester                1541       8          2201      
 91         DavidsGuterBot            1538       -19        5623      
 92         RoundMoundOfRebounds      1493       -16        1049      
@@ -105,4 +105,7 @@ Rank       Bot                       Rating     Prog       Games
 104        OhniBOT                   1236       -14        428       
 105        bobandi                   1231       -10        1057      
 106        DeepLLaMA                 995        -12        51        
-107        grandQ_AI                 793        -51        792       
+107        StupidChess_SuicKing      995        21         1359      
+108        StupidChess_Random        965        -3         2003      
+109        StupidChess_Sprinter      901        -28        1442      
+110        grandQ_AI                 793        -51        792       
