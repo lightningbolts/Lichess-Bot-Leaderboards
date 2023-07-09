@@ -3,7 +3,7 @@ Rank       Bot                       Rating     Prog       Games
 2          caissa-x                  2888       -2         2998      
 3          ShashChess_MsP            2886       0          687       
 4          FireFishBOT               2884       1          857       
-5          YoBot_v2                  2869       2          12676     
+5          YoBot_v2                  2868       1          12677     
 6          BRAINLEARN11_NNUE         2865       8          515       
 7          RaspFish                  2864       -1         5257      
 8          Nikitosikbot              2850       -1         8384      
@@ -18,10 +18,10 @@ Rank       Bot                       Rating     Prog       Games
 17         F0rgot                    2818       11         79        
 18         MrChessTheBot             2806       12         1933      
 19         blundar_bot               2794       -9         926       
-20         LeelaMultiPoss            2775       5          21        
+20         LeelaMultiPoss            2780       10         22        
 21         LazyBot                   2618       6          702       
 22         AKS-Mantissa              2608       9          3861      
-23         expositor                 2593       -11        4264      
+23         expositor                 2590       -17        4265      
 24         pawn_git                  2546       1          974       
 25         Weiawaga                  2488       -1         9354      
 26         OldStockfish              2476       10         460       
@@ -77,9 +77,9 @@ Rank       Bot                       Rating     Prog       Games
 76         maia5                     1624       3          96813     
 77         ArduChessBot              1596       30         388       
 78         sargon-3ply               1579       5          1086      
-79         sargon-4ply               1519       4          526       
-80         turochamp-2ply            1518       -24        1023      
-81         maia1                     1517       -5         223089    
+79         maia1                     1525       3          223091    
+80         sargon-4ply               1519       4          526       
+81         turochamp-2ply            1518       -24        1023      
 82         DavidsGuterBot            1495       -1         540       
 83         RoundMoundOfRebounds      1481       16         299       
 84         ZE_ROOK                   1431       -14        191       
@@ -93,6 +93,6 @@ Rank       Bot                       Rating     Prog       Games
 92         schnecken_bot             1178       -20        135       
 93         kireevi                   1103       -16        526       
 94         CHoMPBoT                  1076       1          314       
-95         DeepLLaMA                 908        61         73        
+95         DeepLLaMA                 907        61         74        
 96         bobandi                   905        -5         661       
 97         grandQ_AI                 707        -3         1564      
