@@ -4,12 +4,12 @@ Rank       Bot                       Rating     Prog       Games
 3          ShashChess_MsP            2886       0          687       
 4          FireFishBOT               2884       1          857       
 5          YoBot_v2                  2869       2          12676     
-6          BRAINLEARN11_NNUE         2865       9          513       
+6          BRAINLEARN11_NNUE         2865       9          514       
 7          RaspFish                  2865       1          5255      
 8          EmanPureNN                2857       -2         205       
 9          Nikitosikbot              2850       -1         8384      
 10         EmptikBot247              2849       5          84        
-11         ReinforcementTrial        2847       -14        4276      
+11         ReinforcementTrial        2847       -11        4277      
 12         chessfyBOT                2845       -7         228       
 13         Shineshou90_BOT           2845       0          2276      
 14         ResoluteBot               2844       -6         5153      
@@ -32,7 +32,7 @@ Rank       Bot                       Rating     Prog       Games
 31         TuksuBot                  2397       4          1825      
 32         clueless-bot              2344       0          578       
 33         fornax-engine             2334       -8         3545      
-34         bekbot                    2318       13         1014      
+34         bekbot                    2319       18         1015      
 35         admete_bot                2310       5          3277      
 36         simpleEval                2310       -10        7225      
 37         FlamingDragon_9000        2309       -12        1216      
@@ -56,7 +56,7 @@ Rank       Bot                       Rating     Prog       Games
 55         LeelaRogue                1964       31         2183      
 56         zeekat                    1951       -1         7605      
 57         Lynx_BOT                  1946       -4         38911     
-58         baby_eubos                1875       -4         756       
+58         baby_eubos                1874       -4         757       
 59         Trollfish-Bot             1873       58         109       
 60         myopic-bot                1855       -15        231       
 61         ELO_1500                  1829       -2         2596      
@@ -73,10 +73,10 @@ Rank       Bot                       Rating     Prog       Games
 72         HulkBot                   1716       -21        396       
 73         simplexitor               1714       3          418       
 74         yeoldwiz                  1627       8          627       
-75         maia5                     1616       5          96807     
+75         maia5                     1612       -3         96808     
 76         ArduChessBot              1596       30         388       
 77         sargon-3ply               1583       5          1085      
-78         turochamp-2ply            1523       -28        1021      
+78         turochamp-2ply            1521       -25        1022      
 79         sargon-4ply               1519       4          526       
 80         maia1                     1516       -8         223085    
 81         DavidsGuterBot            1495       -1         540       
