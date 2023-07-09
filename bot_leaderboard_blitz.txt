@@ -35,7 +35,7 @@ Rank       Bot                       Rating     Prog       Games
 34         clueless-bot              2339       7          2245      
 35         FlamingDragon_9000        2323       19         3331      
 36         bekbot                    2294       -9         1270      
-37         simpleEval                2261       -3         13889     
+37         simpleEval                2259       6          13890     
 38         HistoryExplorer           2222       9          2434      
 39         Nakshatra3                2205       -3         1293      
 40         eubos                     2176       20         13281     
@@ -45,7 +45,7 @@ Rank       Bot                       Rating     Prog       Games
 44         GarboBot                  2110       -5         8521      
 45         Elmichess                 2087       -51        3463      
 46         redtail-zero              2086       0          236       
-47         halcyonbot                2073       2          7791      
+47         halcyonbot                2076       9          7792      
 48         Humaia-Strong             2072       -2         2298      
 49         MaxtheDog                 2072       -38        3566      
 50         BLANK_BOT                 2054       -22        4271      
@@ -82,8 +82,8 @@ Rank       Bot                       Rating     Prog       Games
 81         RoundMoundOfRebounds      1469       -16        1030      
 82         DavidsGuterBot            1467       -1         3208      
 83         turochamp-2ply            1457       -32        1477      
-84         maia1                     1437       -2         199655    
-85         ZE_ROOK                   1370       8          1920      
+84         maia1                     1425       -7         199657    
+85         ZE_ROOK                   1374       20         1921      
 86         StupidChessRobot          1367       50         53        
 87         Humaia                    1362       -3         767       
 88         sargon-2ply               1348       -1         2756      
@@ -91,7 +91,7 @@ Rank       Bot                       Rating     Prog       Games
 90         turochamp-1ply            1268       -19        1568      
 91         sargon-1ply               1237       -3         7397      
 92         pawnrobot                 1229       4          1765      
-93         schnecken_bot             1203       -20        1361      
+93         schnecken_bot             1200       -23        1362      
 94         HulkBot                   1181       -16        662       
 95         knucklefish               1081       -20        2997      
 96         bobandi                   1079       -15        1092      
