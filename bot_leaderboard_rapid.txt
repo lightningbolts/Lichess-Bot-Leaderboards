@@ -8,9 +8,9 @@ Rank       Bot                       Rating     Prog       Games
 7          ProteusSF-Godot           2854       -26        20        
 8          RaspFish                  2851       -14        5265      
 9          EmptikBot247              2848       -1         87        
-10         chessfyBOT                2845       -7         228       
-11         FishFingersMcGee          2845       3          27        
-12         ArasanX                   2844       11         4579      
+10         ArasanX                   2846       13         4580      
+11         chessfyBOT                2845       -7         228       
+12         FishFingersMcGee          2845       3          27        
 13         ResoluteBot               2844       -6         5153      
 14         Nikitosik-ai              2841       1          395       
 15         MrChessTheBot             2799       1          1940      
@@ -20,7 +20,7 @@ Rank       Bot                       Rating     Prog       Games
 19         AKS-Mantissa              2605       9          3865      
 20         expositor                 2594       -1         4273      
 21         pawn_git                  2545       -1         978       
-22         SaxtonEngine              2545       4          1203      
+22         SaxtonEngine              2543       -3         1204      
 23         OldStockfish              2488       16         470       
 24         Weiawaga                  2484       -11        9367      
 25         OpeningsBot               2475       0          58        
@@ -93,7 +93,7 @@ Rank       Bot                       Rating     Prog       Games
 92         OhniBOT                   1263       9          210       
 93         schnecken_bot             1176       -14        138       
 94         kireevi                   1088       -30        527       
-95         CHoMPBoT                  1046       -17        327       
+95         CHoMPBoT                  1044       -23        328       
 96         NichtEliasBot             1014       135        30        
 97         bobandi                   889        -24        664       
 98         DeepLLaMA                 874        20         78        
