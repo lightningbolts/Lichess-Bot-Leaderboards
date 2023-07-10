@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          EmptikBot                 3042       37         2577      
 2          Nikitosikbot              2921       -9         20071     
-3          ToromBot                  2898       10         56021     
+3          ToromBot                  2902       15         56022     
 4          FireFishBOT               2888       -2         584       
 5          ResoluteBot               2887       -4         24791     
 6          YoBot_v2                  2866       -5         16208     
@@ -10,7 +10,7 @@ Rank       Bot                       Rating     Prog       Games
 9          Nikitosik-ai              2837       8          933       
 10         LeelaMultiPoss            2836       -12        52        
 11         ProteusSF-Godot           2834       -14        189       
-12         RaspFish                  2821       -8         46016     
+12         RaspFish                  2817       -12        46017     
 13         blundar_bot               2810       7          4440      
 14         chessfyBOT                2788       -8         1404      
 15         FishFingersMcGee          2784       7          781       
@@ -20,14 +20,14 @@ Rank       Bot                       Rating     Prog       Games
 19         MrChessTheBot             2585       -6         4515      
 20         Elmichess                 2523       -59        3182      
 21         AKS-Mantissa              2521       6          9689      
-22         SaxtonEngine              2476       11         3519      
+22         SaxtonEngine              2481       12         3521      
 23         expositor                 2471       10         18250     
 24         Weiawaga                  2448       4          14270     
 25         OldStockfish              2445       -1         836       
 26         Cheng-4                   2429       12         13142     
 27         pawn_git                  2408       -13        3543      
 28         OpeningsBot               2379       -10        186       
-29         Wahoo_Bot                 2369       22         382       
+29         Wahoo_Bot                 2367       25         383       
 30         TuksuBot                  2351       -10        6518      
 31         Phalanx-XXV               2347       7          3906      
 32         ChessNoobComp             2346       0          9362      
@@ -37,7 +37,7 @@ Rank       Bot                       Rating     Prog       Games
 36         odonata-bot               2296       -9         5862      
 37         Pseudo-0                  2284       -13        3567      
 38         bekbot                    2271       19         1311      
-39         clueless-bot              2270       -4         5552      
+39         clueless-bot              2265       -20        5554      
 40         fornax-engine             2264       15         6551      
 41         simpleEval                2193       0          24232     
 42         honzovy-sachy-2           2154       -10        6590      
@@ -77,7 +77,7 @@ Rank       Bot                       Rating     Prog       Games
 76         maia5                     1617       28         38434     
 77         sargon-4ply               1608       -4         1463      
 78         sargon-3ply               1606       11         1099      
-79         Humaia                    1595       12         357       
+79         Humaia                    1589       -2         358       
 80         maia1                     1572       -22        120423    
 81         turochamp-2ply            1567       -6         1358      
 82         monchester                1539       13         2204      
