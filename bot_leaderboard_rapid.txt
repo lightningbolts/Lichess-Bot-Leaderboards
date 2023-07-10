@@ -1,13 +1,13 @@
 Rank       Bot                       Rating     Prog       Games     
 1          Viet-AI                   2894       -61        22        
-2          TorBot                    2892       -6         561       
+2          TorBot                    2892       -6         562       
 3          EmptikBot                 2889       1          389       
 4          ShashChess_MsP            2885       -1         689       
 5          FireFishBOT               2883       -1         865       
 6          ToromBot                  2880       -3         1636      
 7          UltimateL                 2868       -7         317       
 8          YoBot_v2                  2867       -3         12683     
-9          BRAINLEARN11_NNUE         2865       8          517       
+9          BRAINLEARN11_NNUE         2865       8          518       
 10         Nikitosikbot              2861       11         8397      
 11         ReinforcementTrial        2861       3          4310      
 12         EmanPureNN                2857       -2         205       
@@ -29,7 +29,7 @@ Rank       Bot                       Rating     Prog       Games
 28         expositor                 2595       2          4275      
 29         SaxtonEngine              2547       1          1206      
 30         pawn_git                  2545       -1         978       
-31         OldStockfish              2486       7          474       
+31         OldStockfish              2489       9          475       
 32         Weiawaga                  2483       -9         9376      
 33         OpeningsBot               2471       -4         59        
 34         odonata-bot               2416       10         3604      
@@ -40,7 +40,7 @@ Rank       Bot                       Rating     Prog       Games
 39         clueless-bot              2333       -4         593       
 40         WasterNew                 2331       45         42        
 41         simpleEval                2319       13         7234      
-42         bekbot                    2311       -6         1024      
+42         bekbot                    2308       -10        1025      
 43         eubos                     2229       11         4097      
 44         MaxtheDog                 2188       -3         495       
 45         Nakshatra3                2185       57         697       
@@ -56,7 +56,7 @@ Rank       Bot                       Rating     Prog       Games
 55         CadabraBot                2063       -20        889       
 56         LazyBotJr                 2007       8          1245      
 57         BLANK_BOT                 1989       -30        1375      
-58         Nc3Nc6Bot                 1973       3          1112      
+58         Nc3Nc6Bot                 1974       7          1113      
 59         LeelaRogue                1965       29         2184      
 60         zeekat                    1947       -7         7628      
 61         Lynx_BOT                  1945       15         38940     
@@ -78,10 +78,10 @@ Rank       Bot                       Rating     Prog       Games
 77         HulkBot                   1700       -31        397       
 78         maia9                     1691       -26        80537     
 79         yeoldwiz                  1627       8          627       
-80         maia5                     1610       -36        96946     
-81         ArduChessBot              1596       30         388       
+80         maia5                     1605       -39        96947     
+81         ArduChessBot              1593       38         389       
 82         sargon-3ply               1591       11         1094      
-83         maia1                     1531       13         223392    
+83         maia1                     1530       6          223393    
 84         turochamp-2ply            1522       -4         1027      
 85         sargon-4ply               1519       4          526       
 86         DavidsGuterBot            1494       -1         541       
