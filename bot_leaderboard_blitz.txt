@@ -1,8 +1,8 @@
 Rank       Bot                       Rating     Prog       Games     
 1          Viet-AI                   3000       14         46        
-2          ProteusSF-Godot           2886       -1         90        
-3          FireFishBOT               2884       -6         1248      
-4          ShashChess_MsP            2884       5          2750      
+2          ShashChess_MsP            2887       10         2751      
+3          ProteusSF-Godot           2886       -1         90        
+4          FireFishBOT               2884       -6         1248      
 5          TorBot                    2882       -2         635       
 6          EmptikBot                 2881       11         354       
 7          YoBot_v2                  2875       3          2984      
@@ -19,11 +19,11 @@ Rank       Bot                       Rating     Prog       Games
 18         ArasanX                   2801       7          1477      
 19         Nikitosik-ai              2788       -19        94        
 20         MrChessTheBot             2770       -1         1357      
-21         EmptikBot247              2765       -13        49        
+21         EmptikBot247              2757       -25        50        
 22         LazyBot                   2756       3          1977      
 23         verylowsodium-bot         2750       85         27        
 24         blundar_bot               2747       -21        763       
-25         CodingAdventureBot        2646       1          2512      
+25         CodingAdventureBot        2647       2          2515      
 26         expositor                 2619       -5         6433      
 27         AKS-Mantissa              2615       13         8771      
 28         SaxtonEngine              2561       3          1911      
@@ -70,7 +70,7 @@ Rank       Bot                       Rating     Prog       Games
 69         baby_eubos                1897       18         6479      
 70         myopic-bot                1883       -9         1379      
 71         zulu_bot                  1861       -3         992       
-72         notropis                  1808       -3         5727      
+72         notropis                  1809       5          5728      
 73         Ptit-biscuit              1805       19         262       
 74         Virutor                   1770       15         7101      
 75         FlounderBot               1768       4          685       
@@ -86,7 +86,7 @@ Rank       Bot                       Rating     Prog       Games
 85         ELO_1500                  1656       16         12164     
 86         yeoldwiz                  1638       18         1592      
 87         turkjs                    1635       17         10030     
-88         maia9                     1564       -22        96683     
+88         maia9                     1553       -31        96685     
 89         ArduChessBot              1551       -4         1134      
 90         sargon-4ply               1527       9          1711      
 91         maia5                     1525       -25        97540     
@@ -99,7 +99,7 @@ Rank       Bot                       Rating     Prog       Games
 98         turochamp-2ply            1460       7          1490      
 99         maia1                     1412       17         200061    
 100        Humaia                    1409       43         776       
-101        StupidChessRobot          1373       10         106       
+101        StupidChessRobot          1372       7          107       
 102        sargon-2ply               1355       13         2772      
 103        sargon-1ply               1301       25         7429      
 104        OhniBOT                   1286       29         275       
