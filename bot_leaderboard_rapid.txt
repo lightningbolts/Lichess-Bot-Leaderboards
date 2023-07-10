@@ -7,9 +7,9 @@ Rank       Bot                       Rating     Prog       Games
 6          Nikitosikbot              2855       1          8392      
 7          EmptikBot247              2848       -1         86        
 8          chessfyBOT                2845       -7         228       
-9          Shineshou90_BOT           2845       4          2278      
-10         ResoluteBot               2844       -6         5153      
-11         Nikitosik-ai              2840       -5         385       
+9          ResoluteBot               2844       -6         5153      
+10         Nikitosik-ai              2840       -5         385       
+11         Shineshou90_BOT           2839       -1         2279      
 12         ArasanX                   2836       -11        4571      
 13         MrChessTheBot             2803       8          1938      
 14         AKS-Mantissa              2604       5          3863      
@@ -29,7 +29,7 @@ Rank       Bot                       Rating     Prog       Games
 28         admete_bot                2313       10         3286      
 29         bekbot                    2313       7          1018      
 30         simpleEval                2309       -6         7228      
-31         HackerChessBot            2272       94         27        
+31         HackerChessBot            2296       76         28        
 32         Wahoo_Bot                 2262       -2         42        
 33         honzovy-sachy-2           2248       -9         3403      
 34         MaxtheDog                 2187       -3         492       
@@ -38,12 +38,12 @@ Rank       Bot                       Rating     Prog       Games
 37         jangine                   2120       -10        1515      
 38         Boris-Trapsky             2117       -10        26992     
 39         halcyonbot                2093       -18        5189      
-40         CadabraBot                2092       -7         877       
+40         CadabraBot                2083       -16        878       
 41         Humaia-Strong             2046       4          592       
 42         LeelaRogue                1964       31         2183      
 43         zeekat                    1957       6          7616      
 44         Lynx_BOT                  1932       -14        38921     
-45         Trollfish-Bot             1863       26         111       
+45         Trollfish-Bot             1873       25         112       
 46         myopic-bot                1854       -12        232       
 47         notropis                  1827       14         1958      
 48         ELO_1500                  1822       -5         2600      
@@ -66,7 +66,7 @@ Rank       Bot                       Rating     Prog       Games
 65         sargon-3ply               1582       -2         1089      
 66         turochamp-2ply            1522       -8         1026      
 67         sargon-4ply               1519       4          526       
-68         maia1                     1505       -29        223174    
+68         maia1                     1496       -27        223176    
 69         DavidsGuterBot            1494       -1         541       
 70         RoundMoundOfRebounds      1481       16         299       
 71         sargon-2ply               1386       -7         3097      
@@ -77,6 +77,7 @@ Rank       Bot                       Rating     Prog       Games
 76         OhniBOT                   1263       9          210       
 77         kireevi                   1088       -30        527       
 78         CHoMPBoT                  1044       -25        322       
-79         DeepLLaMA                 876        36         77        
-80         G0thamB0t                 715        -12        235       
-81         grandQ_AI                 707        -3         1564      
+79         bobandi                   889        -24        664       
+80         DeepLLaMA                 876        36         77        
+81         G0thamB0t                 715        -12        235       
+82         grandQ_AI                 707        -3         1564      
