@@ -33,8 +33,8 @@ Rank       Bot                       Rating     Prog       Games
 32         SaxtonEngine              2561       3          1911      
 33         Weiawaga                  2542       23         11093     
 34         pawn_git                  2490       4          2065      
-35         admete_bot                2472       -11        5581      
-36         AttackFish                2472       58         26        
+35         AttackFish                2472       58         26        
+36         admete_bot                2470       -11        5583      
 37         OldStockfish              2445       16         386       
 38         OpeningsBot               2444       0          231       
 39         bot_adario                2435       14         1878      
@@ -84,13 +84,13 @@ Rank       Bot                       Rating     Prog       Games
 83         honzovy-sachy             1744       -18        4626      
 84         AshNostromo               1713       -1         925       
 85         melsh_bot                 1706       -9         1535      
-86         Jibbby                    1683       15         5383      
+86         Jibbby                    1688       24         5384      
 87         simplexitor               1660       -2         1951      
 88         ChessChildren             1658       41         20931     
 89         ELO_1500                  1641       -5         12161     
 90         yeoldwiz                  1638       18         1592      
 91         turkjs                    1630       16         10029     
-92         arny_bot                  1625       -14        16        
+92         arny_bot                  1604       -35        17        
 93         maia9                     1572       -9         96680     
 94         ArduChessBot              1551       -4         1134      
 95         sargon-4ply               1527       9          1711      
@@ -103,7 +103,7 @@ Rank       Bot                       Rating     Prog       Games
 102        DavidsGuterBot            1463       -3         3220      
 103        turochamp-2ply            1463       7          1489      
 104        Humaia                    1409       43         776       
-105        maia1                     1406       7          200025    
+105        maia1                     1399       -9         200026    
 106        StupidChessRobot          1364       0          104       
 107        sargon-2ply               1341       -9         2768      
 108        sargon-1ply               1289       37         7420      
