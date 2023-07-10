@@ -22,7 +22,7 @@ Rank       Bot                       Rating     Prog       Games
 21         LeelaMultiPoss            2791       1          36        
 22         MrChessTheBot             2790       -12        1947      
 23         LazyBot                   2618       6          702       
-24         AKS-Mantissa              2602       1          3869      
+24         AKS-Mantissa              2598       -7         3870      
 25         expositor                 2594       4          4278      
 26         SaxtonEngine              2555       13         1209      
 27         pawn_git                  2542       -7         980       
@@ -40,7 +40,7 @@ Rank       Bot                       Rating     Prog       Games
 39         fornax-engine             2334       -8         3545      
 40         clueless-bot              2333       -4         593       
 41         simpleEval                2324       14         7236      
-42         bekbot                    2311       -2         1028      
+42         bekbot                    2315       2          1029      
 43         FlamingDragon_9000        2309       -12        1216      
 44         honzovy-sachy-2           2242       -20        3407      
 45         eubos                     2229       11         4097      
@@ -62,7 +62,7 @@ Rank       Bot                       Rating     Prog       Games
 61         LeelaRogue                1965       29         2184      
 62         zeekat                    1962       3          7635      
 63         Lynx_BOT                  1940       -4         38948     
-64         Hyperopic                 1894       -8         76        
+64         Hyperopic                 1906       5          78        
 65         baby_eubos                1875       4          762       
 66         myopic-bot                1861       -13        233       
 67         Trollfish-Bot             1859       -14        120       
@@ -70,9 +70,9 @@ Rank       Bot                       Rating     Prog       Games
 69         notropis                  1812       -15        1969      
 70         ELO_1500                  1806       -22        2606      
 71         ChessChildren             1805       5          4284      
-72         Virutor                   1788       -19        3092      
-73         melsh_bot                 1787       3          160       
-74         FlounderBot               1785       -46        58        
+72         FlounderBot               1785       -46        58        
+73         Virutor                   1784       -28        3093      
+74         melsh_bot                 1779       -14        161       
 75         zulu_bot                  1776       3          110       
 76         honzovy-sachy             1772       -2         861       
 77         AshNostromo               1767       10         1167      
@@ -89,8 +89,8 @@ Rank       Bot                       Rating     Prog       Games
 88         sargon-3ply               1591       11         1094      
 89         sargon-4ply               1519       4          526       
 90         turochamp-2ply            1519       -4         1028      
-91         maia1                     1502       -23        223417    
-92         DavidsGuterBot            1494       -1         541       
+91         DavidsGuterBot            1494       -1         541       
+92         maia1                     1492       -38        223419    
 93         RoundMoundOfRebounds      1481       16         299       
 94         sargon-2ply               1387       3          3102      
 95         turochamp-1ply            1354       21         1443      
