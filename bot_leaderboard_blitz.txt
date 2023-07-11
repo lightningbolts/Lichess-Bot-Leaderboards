@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
 1          Viet-AI                   3000       14         46        
-2          FireFishBOT               2883       1          1263      
+2          FireFishBOT               2882       0          1264      
 3          ProteusSF-Godot           2882       -4         100       
 4          TorBot                    2882       -2         635       
 5          EmptikBot                 2881       11         354       
@@ -11,8 +11,8 @@ Rank       Bot                       Rating     Prog       Games
 10         Nikitosikbot              2829       -11        5719      
 11         chessfyBOT                2819       -12        180       
 12         LeelaMultiPoss            2816       75         30        
-13         caissa-test               2812       -68        39        
-14         RaspFish                  2812       -14        10695     
+13         RaspFish                  2813       -7         10696     
+14         caissa-test               2812       -68        39        
 15         ResoluteBot               2807       -18        10832     
 16         ArasanX                   2802       11         1479      
 17         Nikitosik-ai              2788       -19        94        
@@ -45,7 +45,7 @@ Rank       Bot                       Rating     Prog       Games
 44         Nakshatra3                2213       3          1310      
 45         honzovy-sachy-2           2211       9          6383      
 46         eubos                     2164       -21        13329     
-47         jangine                   2159       23         2828      
+47         jangine                   2162       21         2829      
 48         CadabraBot                2146       -18        1307      
 49         matmoi                    2139       8          427       
 50         kulubot                   2116       22         1143      
@@ -61,7 +61,7 @@ Rank       Bot                       Rating     Prog       Games
 60         Hyperopic                 1984       14         1078      
 61         LeelaRogue                1975       -17        2214      
 62         Nc3Nc6Bot                 1971       10         990       
-63         zeekat                    1949       1          18799     
+63         zeekat                    1947       -2         18800     
 64         Lynx_BOT                  1940       1          47012     
 65         michabay05                1905       -18        173       
 66         baby_eubos                1897       1          6483      
@@ -94,7 +94,7 @@ Rank       Bot                       Rating     Prog       Games
 93         turochamp-2ply            1465       19         1491      
 94         DavidsGuterBot            1463       -3         3220      
 95         RoundMoundOfRebounds      1462       -18        1038      
-96         maia1                     1414       -4         200079    
+96         maia1                     1426       14         200081    
 97         Humaia                    1409       43         776       
 98         StupidChessRobot          1361       -11        119       
 99         sargon-2ply               1344       2          2777      
