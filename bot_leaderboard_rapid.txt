@@ -15,10 +15,10 @@ Rank       Bot                       Rating     Prog       Games
 14         MrChessTheBot             2799       9          1958      
 15         blundar_bot               2795       -9         928       
 16         TheYoBots                 2688       62         16        
-17         ChessHunterBot            2660       10         64        
+17         ChessHunterBot            2658       1          65        
 18         LazyBot                   2618       6          702       
 19         AKS-Mantissa              2601       -3         3874      
-20         expositor                 2589       -4         4287      
+20         expositor                 2590       -7         4288      
 21         SaxtonEngine              2561       18         1215      
 22         pawn_git                  2546       0          985       
 23         OldStockfish              2502       10         493       
@@ -33,7 +33,7 @@ Rank       Bot                       Rating     Prog       Games
 32         Pseudo-0                  2376       -3         1017      
 33         fornax-engine             2337       -9         3551      
 34         simpleEval                2326       3          7248      
-35         bekbot                    2324       -4         1049      
+35         bekbot                    2325       -3         1050      
 36         WasterNew                 2318       23         44        
 37         clueless-bot              2316       -24        601       
 38         FlamingDragon_9000        2309       -12        1216      
@@ -68,7 +68,7 @@ Rank       Bot                       Rating     Prog       Games
 67         ChessChildren             1793       -3         4290      
 68         ELO_1500                  1783       -35        2613      
 69         FlounderBot               1783       -32        63        
-70         Virutor                   1780       -30        3096      
+70         Virutor                   1780       -23        3097      
 71         Demolito_L5               1777       -4         238       
 72         zulu_bot                  1776       3          110       
 73         AshNostromo               1764       2          1168      
@@ -101,5 +101,6 @@ Rank       Bot                       Rating     Prog       Games
 100        CHoMPBoT                  1043       -1         339       
 101        NichtEliasBot             1014       66         35        
 102        DeepLLaMA                 863        -18        81        
-103        G0thamB0t                 724        2          238       
-104        grandQ_AI                 707        -3         1564      
+103        bobandi                   857        -12        680       
+104        G0thamB0t                 724        2          238       
+105        grandQ_AI                 707        -3         1564      
