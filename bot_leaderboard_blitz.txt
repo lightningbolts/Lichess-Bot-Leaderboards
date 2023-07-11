@@ -19,10 +19,10 @@ Rank       Bot                       Rating     Prog       Games
 18         LazyBot                   2756       3          1978      
 19         blundar_bot               2747       -21        763       
 20         TRGBot                    2733       18         125       
-21         ChessHunterBot            2660       5          89        
+21         ChessHunterBot            2659       5          90        
 22         CodingAdventureBot        2634       -6         2539      
 23         expositor                 2622       -6         6435      
-24         AKS-Mantissa              2618       6          8783      
+24         AKS-Mantissa              2619       9          8784      
 25         SaxtonEngine              2561       -6         1914      
 26         Weiawaga                  2541       7          11101     
 27         pawn_git                  2495       14         2067      
@@ -41,7 +41,7 @@ Rank       Bot                       Rating     Prog       Games
 40         bekbot                    2273       -16        1294      
 41         clueless-bot              2269       9          2333      
 42         simpleEval                2242       0          13955     
-43         WasterNew                 2229       -8         183       
+43         WasterNew                 2232       -8         184       
 44         honzovy-sachy-2           2216       11         6384      
 45         HistoryExplorer           2211       -23        2449      
 46         Nakshatra3                2211       9          1313      
@@ -53,7 +53,7 @@ Rank       Bot                       Rating     Prog       Games
 52         GarboBot                  2084       -3         8554      
 53         camel_bot                 2071       15         372       
 54         MaxtheDog                 2071       -13        3619      
-55         halcyonbot                2070       28         7917      
+55         halcyonbot                2066       21         7918      
 56         redtail-zero              2061       -29        246       
 57         Humaia-Strong             2058       -13        2307      
 58         BLANK_BOT                 2017       -11        4312      
@@ -111,4 +111,4 @@ Rank       Bot                       Rating     Prog       Games
 110        knucklefish               1063       -25        3005      
 111        BelaBot                   912        -45        44        
 112        DeepLLaMA                 876        53         44        
-113        grandQ_AI                 721        14         1201      
+113        grandQ_AI                 718        14         1203      
