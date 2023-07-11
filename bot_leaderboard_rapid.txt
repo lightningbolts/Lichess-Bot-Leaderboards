@@ -32,8 +32,8 @@ Rank       Bot                       Rating     Prog       Games
 31         Phalanx-XXV               2389       14         790       
 32         Pseudo-0                  2375       -5         1016      
 33         fornax-engine             2335       -15        3550      
-34         bekbot                    2330       9          1046      
-35         simpleEval                2326       3          7248      
+34         simpleEval                2326       3          7248      
+35         bekbot                    2325       3          1047      
 36         WasterNew                 2318       23         44        
 37         clueless-bot              2316       -24        601       
 38         FlamingDragon_9000        2309       -12        1216      
@@ -44,11 +44,11 @@ Rank       Bot                       Rating     Prog       Games
 43         redtail-zero              2160       20         118       
 44         Elmichess                 2158       -50        1343      
 45         matmoi                    2139       5          409       
-46         jangine                   2126       12         1530      
+46         jangine                   2131       17         1531      
 47         Boris-Trapsky             2123       0          27031     
 48         GarboBot                  2102       -18        5791      
-49         halcyonbot                2100       -12        5238      
-50         CadabraBot                2096       26         921       
+49         CadabraBot                2096       26         921       
+50         halcyonbot                2095       -12        5239      
 51         kulubot                   2093       1          476       
 52         Humaia-Strong             2088       27         597       
 53         camel_bot                 2066       9          237       
@@ -62,7 +62,7 @@ Rank       Bot                       Rating     Prog       Games
 61         baby_eubos                1879       4          771       
 62         michabay05                1865       -58        14        
 63         myopic-bot                1863       -8         234       
-64         Trollfish-Bot             1847       -12        127       
+64         Trollfish-Bot             1852       -14        128       
 65         Fisk_Bot                  1813       -19        224       
 66         notropis                  1806       -5         1983      
 67         ChessChildren             1793       -3         4290      
@@ -83,7 +83,7 @@ Rank       Bot                       Rating     Prog       Games
 82         maia5                     1626       -9         97021     
 83         ArduChessBot              1590       23         390       
 84         sargon-3ply               1577       -2         1097      
-85         maia1                     1527       25         223610    
+85         maia1                     1525       16         223611    
 86         turochamp-2ply            1516       -4         1029      
 87         sargon-4ply               1497       -29        530       
 88         DavidsGuterBot            1493       -1         542       
