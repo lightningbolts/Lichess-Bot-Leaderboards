@@ -67,8 +67,8 @@ Rank       Bot                       Rating     Prog       Games
 66         notropis                  1812       4          1981      
 67         ChessChildren             1787       -10        4289      
 68         Demolito_L5               1786       14         235       
-69         FlounderBot               1783       -32        63        
-70         ELO_1500                  1782       -40        2612      
+69         ELO_1500                  1783       -35        2613      
+70         FlounderBot               1783       -32        63        
 71         Virutor                   1780       -30        3096      
 72         zulu_bot                  1776       3          110       
 73         AshNostromo               1764       2          1168      
@@ -81,8 +81,8 @@ Rank       Bot                       Rating     Prog       Games
 80         Jibbby                    1709       -18        1803      
 81         simplexitor               1706       -4         421       
 82         HulkBot                   1700       -31        397       
-83         maia5                     1630       -24        97014     
-84         yeoldwiz                  1627       8          627       
+83         yeoldwiz                  1627       8          627       
+84         maia5                     1623       -24        97015     
 85         ArduChessBot              1590       23         390       
 86         sargon-3ply               1580       -3         1096      
 87         turochamp-2ply            1516       -4         1029      
@@ -90,7 +90,7 @@ Rank       Bot                       Rating     Prog       Games
 89         DavidsGuterBot            1493       -1         542       
 90         maia1                     1481       -8         223583    
 91         RoundMoundOfRebounds      1477       3          302       
-92         sargon-2ply               1377       -15        3103      
+92         sargon-2ply               1376       -15        3104      
 93         turochamp-1ply            1354       21         1443      
 94         Humaia                    1325       -15        1959      
 95         sargon-1ply               1307       -12        8031      
@@ -103,5 +103,4 @@ Rank       Bot                       Rating     Prog       Games
 102        NichtEliasBot             1014       66         35        
 103        DeepLLaMA                 863        -5         80        
 104        bobandi                   857        -12        680       
-105        G0thamB0t                 724        2          238       
-106        grandQ_AI                 707        -3         1564      
+105        grandQ_AI                 707        -3         1564      
