@@ -7,7 +7,7 @@ Rank       Bot                       Rating     Prog       Games
 6          ToromBot                  2876       -4         1642      
 7          YoBot_v2                  2871       2          12686     
 8          Nikitosikbot              2861       11         8397      
-9          ReinforcementTrial        2857       -4         4322      
+9          ReinforcementTrial        2859       -2         4323      
 10         EmptikBot247              2848       0          92        
 11         ArasanX                   2846       4          4606      
 12         chessfyBOT                2845       -7         228       
@@ -20,7 +20,7 @@ Rank       Bot                       Rating     Prog       Games
 19         blundar_bot               2795       -9         928       
 20         MrChessTheBot             2795       -4         1951      
 21         LazyBot                   2618       6          702       
-22         AKS-Mantissa              2598       -7         3870      
+22         AKS-Mantissa              2596       -10        3871      
 23         expositor                 2594       -5         4279      
 24         SaxtonEngine              2555       13         1209      
 25         pawn_git                  2543       -5         983       
@@ -38,7 +38,7 @@ Rank       Bot                       Rating     Prog       Games
 37         fornax-engine             2334       -11        3547      
 38         clueless-bot              2333       -4         593       
 39         simpleEval                2328       19         7240      
-40         bekbot                    2321       10         1034      
+40         bekbot                    2321       10         1035      
 41         FlamingDragon_9000        2309       -12        1216      
 42         honzovy-sachy-2           2234       -20        3410      
 43         eubos                     2229       11         4097      
@@ -79,7 +79,7 @@ Rank       Bot                       Rating     Prog       Games
 78         turkjs                    1712       8          4914      
 79         simplexitor               1709       -1         420       
 80         HulkBot                   1700       -31        397       
-81         maia9                     1694       -2         80571     
+81         maia9                     1694       -8         80572     
 82         yeoldwiz                  1627       8          627       
 83         maia5                     1624       1          96977     
 84         ArduChessBot              1593       38         389       
@@ -88,7 +88,7 @@ Rank       Bot                       Rating     Prog       Games
 87         turochamp-2ply            1519       -4         1028      
 88         DavidsGuterBot            1493       -1         542       
 89         RoundMoundOfRebounds      1481       16         299       
-90         maia1                     1458       25         223465    
+90         maia1                     1456       27         223466    
 91         sargon-2ply               1387       3          3102      
 92         turochamp-1ply            1354       21         1443      
 93         Humaia                    1325       -15        1959      
@@ -97,10 +97,9 @@ Rank       Bot                       Rating     Prog       Games
 96         pawnrobot                 1300       19         525       
 97         OhniBOT                   1263       9          210       
 98         schnecken_bot             1195       17         146       
-99         kireevi                   1085       -29        529       
-100        CHoMPBoT                  1046       0          338       
-101        NichtEliasBot             1019       87         34        
-102        DeepLLaMA                 863        -5         80        
-103        bobandi                   857        -12        680       
-104        G0thamB0t                 724        2          238       
-105        grandQ_AI                 707        -3         1564      
+99         CHoMPBoT                  1046       0          338       
+100        NichtEliasBot             1019       87         34        
+101        DeepLLaMA                 863        -5         80        
+102        bobandi                   857        -12        680       
+103        G0thamB0t                 724        2          238       
+104        grandQ_AI                 707        -3         1564      
