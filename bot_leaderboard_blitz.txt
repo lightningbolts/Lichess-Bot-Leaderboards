@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          Viet-AI                   3000       14         46        
-2          ProteusSF-Godot           2887       2          140       
-3          FireFishBOT               2879       7          1300      
+2          ProteusSF-Godot           2887       2          141       
+3          FireFishBOT               2879       5          1301      
 4          YoBot_v2                  2877       1          3003      
 5          ToromBot                  2872       2          2610      
 6          FishFingersMcGee          2831       -4         237       
@@ -42,8 +42,8 @@ Rank       Bot                       Rating     Prog       Games
 41         WasterNew                 2232       -8         184       
 42         simpleEval                2231       -9         13957     
 43         honzovy-sachy-2           2216       11         6384      
-44         HistoryExplorer           2211       -23        2449      
-45         Nakshatra3                2211       9          1313      
+44         Nakshatra3                2213       12         1314      
+45         HistoryExplorer           2211       -23        2449      
 46         DQN-chess                 2180       8          198       
 47         eubos                     2175       4          13338     
 48         jangine                   2164       35         2832      
@@ -63,7 +63,7 @@ Rank       Bot                       Rating     Prog       Games
 62         LeelaRogue                1975       -17        2214      
 63         Nc3Nc6Bot                 1965       13         996       
 64         zeekat                    1926       -21        18811     
-65         Lynx_BOT                  1920       -8         47040     
+65         Lynx_BOT                  1918       -12        47041     
 66         baby_eubos                1912       15         6494      
 67         michabay05                1906       -10        177       
 68         myopic-bot                1873       -17        1391      
@@ -72,7 +72,7 @@ Rank       Bot                       Rating     Prog       Games
 71         FlounderBot               1789       16         697       
 72         Genetic_Chess_Bot         1784       -26        1042      
 73         Virutor                   1757       12         7104      
-74         Trollfish-Bot             1751       -21        1359      
+74         Trollfish-Bot             1752       -21        1360      
 75         Fisk_Bot                  1745       16         1484      
 76         honzovy-sachy             1737       -12        4635      
 77         AshNostromo               1713       -1         925       
@@ -97,10 +97,10 @@ Rank       Bot                       Rating     Prog       Games
 96         DavidsGuterBot            1455       -9         3225      
 97         maia1                     1445       -2         200127    
 98         Humaia                    1398       36         778       
-99         StupidChessRobot          1365       -4         126       
+99         StupidChessRobot          1363       -4         127       
 100        sargon-2ply               1344       4          2778      
 101        sargon-1ply               1297       17         7430      
-102        turochamp-1ply            1278       10         1579      
+102        turochamp-1ply            1273       5          1581      
 103        OhniBOT                   1265       14         277       
 104        pawnrobot                 1232       -2         1777      
 105        schnecken_bot             1199       -5         1394      
