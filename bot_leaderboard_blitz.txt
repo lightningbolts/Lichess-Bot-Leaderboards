@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          Viet-AI                   3000       14         46        
-2          ProteusSF-Godot           2886       2          126       
-3          YoBot_v2                  2876       1          2995      
+2          ProteusSF-Godot           2885       -4         127       
+3          YoBot_v2                  2876       1          2996      
 4          FireFishBOT               2874       -3         1290      
 5          FishFingersMcGee          2834       2          233       
 6          Shineshou90_BOT           2832       1          1447      
@@ -25,7 +25,7 @@ Rank       Bot                       Rating     Prog       Games
 24         Weiawaga                  2546       16         11100     
 25         pawn_git                  2495       14         2067      
 26         OldStockfish              2445       16         386       
-27         OpeningsBot               2443       -4         241       
+27         OpeningsBot               2445       1          242       
 28         bot_adario                2442       5          1883      
 29         admete_bot                2438       5          5653      
 30         TuksuBot                  2417       3          3635      
@@ -47,7 +47,7 @@ Rank       Bot                       Rating     Prog       Games
 46         jangine                   2156       21         2831      
 47         matmoi                    2151       11         434       
 48         CadabraBot                2146       -1         1315      
-49         tha_kojiro                2104       -26        484       
+49         tha_kojiro                2102       -30        485       
 50         Elmichess                 2087       -51        3463      
 51         GarboBot                  2084       -3         8554      
 52         MaxtheDog                 2071       -13        3619      
@@ -68,7 +68,7 @@ Rank       Bot                       Rating     Prog       Games
 67         zulu_bot                  1861       -3         992       
 68         Ptit-biscuit              1824       21         265       
 69         notropis                  1819       11         5738      
-70         FlounderBot               1788       19         694       
+70         FlounderBot               1789       18         695       
 71         Genetic_Chess_Bot         1784       -26        1042      
 72         Virutor                   1762       13         7103      
 73         Trollfish-Bot             1758       -13        1358      
@@ -89,7 +89,7 @@ Rank       Bot                       Rating     Prog       Games
 88         maia5                     1510       11         97573     
 89         chat_bot                  1500       -81        224       
 90         sargon-3ply               1492       0          1647      
-91         monchester                1474       -18        2565      
+91         monchester                1472       -22        2566      
 92         ChamberiAjedrez           1470       -106       321       
 93         turochamp-2ply            1465       19         1491      
 94         RoundMoundOfRebounds      1461       -17        1039      
