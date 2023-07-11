@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          Viet-AI                   2894       -61        22        
-2          ProteusSF-Godot           2880       22         33        
-3          FireFishBOT               2878       -4         877       
+2          FireFishBOT               2878       -4         877       
+3          ProteusSF-Godot           2875       16         34        
 4          ToromBot                  2874       -5         1644      
 5          YoBot_v2                  2870       3          12691     
 6          ReinforcementTrial        2861       3          4338      
@@ -14,14 +14,14 @@ Rank       Bot                       Rating     Prog       Games
 13         Shineshou90_BOT           2837       -8         2289      
 14         MrChessTheBot             2799       9          1958      
 15         blundar_bot               2795       -9         928       
-16         TheYoBots                 2699       72         17        
+16         TheYoBots                 2710       84         18        
 17         ChessHunterBot            2658       1          65        
 18         LazyBot                   2618       6          702       
 19         AKS-Mantissa              2601       -3         3874      
 20         expositor                 2590       -7         4288      
 21         SaxtonEngine              2561       18         1215      
 22         pawn_git                  2546       0          985       
-23         OldStockfish              2502       10         493       
+23         OldStockfish              2503       10         494       
 24         Weiawaga                  2459       -17        9388      
 25         odonata-bot               2414       6          3607      
 26         OpeningsBot               2412       -62        65        
@@ -85,7 +85,7 @@ Rank       Bot                       Rating     Prog       Games
 84         ArduChessBot              1587       21         391       
 85         sargon-3ply               1577       -2         1097      
 86         turochamp-2ply            1516       -4         1029      
-87         maia1                     1510       -11        223625    
+87         maia1                     1515       -14        223626    
 88         sargon-4ply               1497       -29        530       
 89         DavidsGuterBot            1493       -1         542       
 90         RoundMoundOfRebounds      1477       3          302       
