@@ -11,7 +11,7 @@ Rank       Bot                       Rating     Prog       Games
 10         caissa-test               2812       -68        39        
 11         RaspFish                  2807       -3         10703     
 12         ResoluteBot               2807       -18        10832     
-13         ArasanX                   2803       4          1485      
+13         ArasanX                   2797       -4         1486      
 14         Nikitosik-ai              2788       -19        94        
 15         verylowsodium-bot         2779       -11        55        
 16         MrChessTheBot             2777       -1         1364      
@@ -27,8 +27,8 @@ Rank       Bot                       Rating     Prog       Games
 26         AttackFish                2472       58         26        
 27         OldStockfish              2446       18         389       
 28         bot_adario                2443       8          1885      
-29         admete_bot                2433       -3         5669      
-30         HackerChessBot            2432       220        22        
+29         HackerChessBot            2432       220        22        
+30         admete_bot                2431       -4         5671      
 31         OpeningsBot               2430       -17        250       
 32         TuksuBot                  2418       2          3637      
 33         Cheng-4                   2416       -3         6130      
@@ -56,8 +56,8 @@ Rank       Bot                       Rating     Prog       Games
 55         halcyonbot                2068       23         7922      
 56         redtail-zero              2061       -29        246       
 57         Humaia-Strong             2055       -35        2312      
-58         BLANK_BOT                 2018       -15        4313      
-59         Boris-Trapsky             2018       -4         27453     
+58         Boris-Trapsky             2020       -2         27454     
+59         BLANK_BOT                 2018       -15        4313      
 60         LazyBotJr                 2006       -14        1484      
 61         Hyperopic                 1984       14         1078      
 62         LeelaRogue                1975       -17        2214      
@@ -70,9 +70,9 @@ Rank       Bot                       Rating     Prog       Games
 69         zulu_bot                  1861       -3         992       
 70         notropis                  1828       7          5743      
 71         Ptit-biscuit              1824       21         265       
-72         FlounderBot               1784       13         699       
-73         Genetic_Chess_Bot         1784       -26        1042      
-74         Trollfish-Bot             1762       -4         1363      
+72         Genetic_Chess_Bot         1784       -26        1042      
+73         FlounderBot               1778       1          700       
+74         Trollfish-Bot             1768       3          1364      
 75         Virutor                   1758       7          7105      
 76         Demolito_L5               1751       -1         342       
 77         Fisk_Bot                  1745       16         1484      
@@ -80,10 +80,10 @@ Rank       Bot                       Rating     Prog       Games
 79         AshNostromo               1713       -1         925       
 80         QueensGamBOT              1702       -19        2692      
 81         melsh_bot                 1685       -18        1544      
-82         Jibbby                    1681       3          5390      
-83         ChessChildren             1672       42         20937     
+82         ChessChildren             1681       50         20938     
+83         Jibbby                    1675       -4         5391      
 84         simplexitor               1666       15         1959      
-85         ELO_1500                  1658       -12        12184     
+85         ELO_1500                  1664       -5         12185     
 86         yeoldwiz                  1638       18         1592      
 87         turkjs                    1632       21         10036     
 88         maia9                     1573       -1         96755     
