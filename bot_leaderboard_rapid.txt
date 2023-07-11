@@ -1,5 +1,5 @@
 Rank       Bot                       Rating     Prog       Games     
-1          TorBot                    2898       7          592       
+1          TorBot                    2894       3          593       
 2          Viet-AI                   2894       -61        22        
 3          EmptikVariantsBot         2886       -4         278       
 4          FireFishBOT               2880       -2         870       
@@ -20,7 +20,7 @@ Rank       Bot                       Rating     Prog       Games
 19         MrChessTheBot             2796       -4         1952      
 20         blundar_bot               2795       -9         928       
 21         LazyBot                   2618       6          702       
-22         AKS-Mantissa              2594       -14        3872      
+22         AKS-Mantissa              2598       -8         3873      
 23         expositor                 2593       -8         4280      
 24         SaxtonEngine              2560       13         1210      
 25         pawn_git                  2543       -5         983       
@@ -56,10 +56,10 @@ Rank       Bot                       Rating     Prog       Games
 55         LazyBotJr                 2007       8          1245      
 56         BLANK_BOT                 1989       -12        1383      
 57         Nc3Nc6Bot                 1970       -8         1129      
-58         LeelaRogue                1965       29         2184      
-59         Hyperopic                 1954       6          130       
-60         zeekat                    1954       -3         7645      
-61         Lynx_BOT                  1934       -8         38958     
+58         Hyperopic                 1965       16         132       
+59         LeelaRogue                1965       29         2184      
+60         zeekat                    1948       -14        7646      
+61         Lynx_BOT                  1929       -11        38959     
 62         baby_eubos                1874       -4         769       
 63         myopic-bot                1863       -8         234       
 64         Trollfish-Bot             1855       -11        125       
@@ -88,7 +88,7 @@ Rank       Bot                       Rating     Prog       Games
 87         turochamp-2ply            1519       -4         1028      
 88         DavidsGuterBot            1493       -1         542       
 89         RoundMoundOfRebounds      1478       3          301       
-90         maia1                     1451       -9         223487    
+90         maia1                     1446       -19        223488    
 91         sargon-2ply               1387       3          3102      
 92         turochamp-1ply            1354       21         1443      
 93         Humaia                    1325       -15        1959      
