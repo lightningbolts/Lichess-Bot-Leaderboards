@@ -23,10 +23,10 @@ Rank       Bot                       Rating     Prog       Games
 22         SaxtonEngine              2557       -2         1912      
 23         Weiawaga                  2546       16         11100     
 24         pawn_git                  2497       11         2066      
-25         OpeningsBot               2447       -2         239       
+25         OpeningsBot               2450       -1         240       
 26         OldStockfish              2445       16         386       
 27         bot_adario                2442       5          1883      
-28         admete_bot                2435       -6         5640      
+28         admete_bot                2434       -7         5641      
 29         Cheng-4                   2424       5          6129      
 30         TuksuBot                  2417       3          3635      
 31         ChessNoobComp             2401       1          1425      
@@ -40,7 +40,7 @@ Rank       Bot                       Rating     Prog       Games
 39         simpleEval                2247       9          13954     
 40         Nakshatra3                2220       21         1312      
 41         honzovy-sachy-2           2216       11         6384      
-42         HistoryExplorer           2213       -16        2448      
+42         HistoryExplorer           2211       -23        2449      
 43         DQN-chess                 2180       8          198       
 44         eubos                     2177       -1         13335     
 45         jangine                   2162       27         2830      
@@ -92,7 +92,7 @@ Rank       Bot                       Rating     Prog       Games
 91         turochamp-2ply            1465       19         1491      
 92         RoundMoundOfRebounds      1461       -17        1039      
 93         DavidsGuterBot            1458       -9         3223      
-94         maia1                     1448       16         200118    
+94         maia1                     1457       27         200119    
 95         Humaia                    1398       36         778       
 96         StupidChessRobot          1366       -2         122       
 97         sargon-2ply               1344       4          2778      
