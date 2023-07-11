@@ -58,7 +58,7 @@ Rank       Bot                       Rating     Prog       Games
 57         Hyperopic                 1959       6          137       
 58         zeekat                    1951       -4         7661      
 59         Nc3Nc6Bot                 1949       -8         1149      
-60         Lynx_BOT                  1935       5          38966     
+60         Lynx_BOT                  1935       4          38967     
 61         baby_eubos                1879       4          771       
 62         michabay05                1865       -58        14        
 63         myopic-bot                1863       -8         234       
@@ -84,8 +84,8 @@ Rank       Bot                       Rating     Prog       Games
 83         maia5                     1604       -26        97025     
 84         ArduChessBot              1587       21         391       
 85         sargon-3ply               1577       -2         1097      
-86         maia1                     1516       2          223624    
-87         turochamp-2ply            1516       -4         1029      
+86         turochamp-2ply            1516       -4         1029      
+87         maia1                     1510       -11        223625    
 88         sargon-4ply               1497       -29        530       
 89         DavidsGuterBot            1493       -1         542       
 90         RoundMoundOfRebounds      1477       3          302       
@@ -101,6 +101,5 @@ Rank       Bot                       Rating     Prog       Games
 100        CHoMPBoT                  1043       -1         339       
 101        NichtEliasBot             1014       66         35        
 102        DeepLLaMA                 863        -18        81        
-103        bobandi                   857        -12        680       
-104        G0thamB0t                 724        2          238       
-105        grandQ_AI                 707        -3         1564      
+103        G0thamB0t                 724        2          238       
+104        grandQ_AI                 707        -3         1564      
