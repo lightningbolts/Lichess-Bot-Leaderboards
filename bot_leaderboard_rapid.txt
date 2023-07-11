@@ -22,7 +22,7 @@ Rank       Bot                       Rating     Prog       Games
 21         SaxtonEngine              2559       14         1214      
 22         pawn_git                  2546       0          985       
 23         OldStockfish              2502       12         491       
-24         Weiawaga                  2456       -25        9386      
+24         Weiawaga                  2460       -23        9387      
 25         OpeningsBot               2443       -30        64        
 26         odonata-bot               2414       6          3607      
 27         TuksuBot                  2410       14         1833      
@@ -32,8 +32,8 @@ Rank       Bot                       Rating     Prog       Games
 31         admete_bot                2394       3          3362      
 32         Phalanx-XXV               2389       14         790       
 33         Pseudo-0                  2375       -5         1016      
-34         fornax-engine             2339       -14        3549      
-35         WasterNew                 2338       42         43        
+34         WasterNew                 2338       42         43        
+35         fornax-engine             2335       -15        3550      
 36         bekbot                    2330       16         1041      
 37         simpleEval                2326       2          7247      
 38         clueless-bot              2311       -35        599       
@@ -58,8 +58,8 @@ Rank       Bot                       Rating     Prog       Games
 57         BLANK_BOT                 1991       -6         1384      
 58         LeelaRogue                1973       23         2188      
 59         Hyperopic                 1959       6          137       
-60         zeekat                    1955       0          7653      
-61         Nc3Nc6Bot                 1954       -6         1144      
+60         Nc3Nc6Bot                 1954       -6         1144      
+61         zeekat                    1954       5          7654      
 62         Lynx_BOT                  1937       -2         38964     
 63         baby_eubos                1879       4          771       
 64         michabay05                1865       -58        14        
@@ -88,7 +88,7 @@ Rank       Bot                       Rating     Prog       Games
 87         ArduChessBot              1590       23         390       
 88         sargon-3ply               1580       -3         1096      
 89         turochamp-2ply            1519       -4         1028      
-90         maia1                     1506       6          223562    
+90         maia1                     1517       18         223564    
 91         sargon-4ply               1498       -28        529       
 92         DavidsGuterBot            1493       -1         542       
 93         RoundMoundOfRebounds      1478       3          301       
