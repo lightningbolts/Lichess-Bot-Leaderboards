@@ -5,7 +5,7 @@ Rank       Bot                       Rating     Prog       Games
 4          ToromBot                  2874       -5         1644      
 5          YoBot_v2                  2870       3          12691     
 6          ReinforcementTrial        2861       3          4338      
-7          ArasanX                   2854       6          4622      
+7          ArasanX                   2855       10         4623      
 8          EmptikBot247              2848       0          92        
 9          RaspFish                  2848       -9         5274      
 10         chessfyBOT                2845       -7         228       
@@ -30,11 +30,11 @@ Rank       Bot                       Rating     Prog       Games
 29         bot_adario                2407       5          1209      
 30         Cheng-4                   2404       -7         2886      
 31         admete_bot                2398       9          3365      
-32         Phalanx-XXV               2389       14         790       
+32         Phalanx-XXV               2388       10         791       
 33         Pseudo-0                  2376       -3         1017      
 34         fornax-engine             2337       -9         3551      
-35         simpleEval                2326       3          7248      
-36         bekbot                    2325       -4         1051      
+35         bekbot                    2326       -4         1052      
+36         simpleEval                2326       3          7248      
 37         WasterNew                 2318       23         44        
 38         clueless-bot              2316       -24        601       
 39         FlamingDragon_9000        2309       -12        1216      
@@ -83,7 +83,7 @@ Rank       Bot                       Rating     Prog       Games
 82         simplexitor               1705       -14        423       
 83         HulkBot                   1700       -31        397       
 84         yeoldwiz                  1627       8          627       
-85         maia5                     1601       -31        97028     
+85         maia5                     1610       -15        97029     
 86         ArduChessBot              1587       21         391       
 87         sargon-3ply               1577       -2         1097      
 88         maia1                     1531       7          223634    
