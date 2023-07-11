@@ -28,7 +28,7 @@ Rank       Bot                       Rating     Prog       Games
 27         OpeningsBot               2443       -30        64        
 28         odonata-bot               2414       6          3607      
 29         TuksuBot                  2410       14         1833      
-30         Cheng-4                   2409       10         2877      
+30         Cheng-4                   2408       -2         2878      
 31         bot_adario                2404       0          1206      
 32         admete_bot                2395       3          3361      
 33         Phalanx-XXV               2389       14         790       
@@ -44,13 +44,13 @@ Rank       Bot                       Rating     Prog       Games
 43         honzovy-sachy-2           2234       -20        3410      
 44         eubos                     2227       5          4098      
 45         HistoryExplorer           2197       5          930       
-46         MaxtheDog                 2183       -14        500       
+46         MaxtheDog                 2187       -3         501       
 47         Elmichess                 2158       -50        1343      
 48         redtail-zero              2155       14         117       
 49         jangine                   2126       12         1530      
 50         matmoi                    2126       -12        402       
 51         Boris-Trapsky             2121       -3         27028     
-52         halcyonbot                2112       -12        5227      
+52         halcyonbot                2107       -15        5228      
 53         GarboBot                  2102       -18        5791      
 54         CadabraBot                2092       18         919       
 55         Humaia-Strong             2088       27         597       
@@ -80,8 +80,8 @@ Rank       Bot                       Rating     Prog       Games
 79         turkjs                    1710       1          4915      
 80         Jibbby                    1709       -18        1803      
 81         simplexitor               1709       -1         420       
-82         HulkBot                   1700       -31        397       
-83         maia9                     1696       -4         80581     
+82         maia9                     1703       8          80582     
+83         HulkBot                   1700       -31        397       
 84         maia5                     1632       19         96995     
 85         yeoldwiz                  1627       8          627       
 86         ArduChessBot              1590       23         390       
@@ -89,7 +89,7 @@ Rank       Bot                       Rating     Prog       Games
 88         turochamp-2ply            1519       -4         1028      
 89         sargon-4ply               1498       -28        529       
 90         DavidsGuterBot            1493       -1         542       
-91         maia1                     1483       -6         223539    
+91         maia1                     1479       -5         223540    
 92         RoundMoundOfRebounds      1478       3          301       
 93         sargon-2ply               1377       -15        3103      
 94         turochamp-1ply            1354       21         1443      
