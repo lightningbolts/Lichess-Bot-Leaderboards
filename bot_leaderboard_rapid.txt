@@ -32,11 +32,11 @@ Rank       Bot                       Rating     Prog       Games
 31         admete_bot                2395       3          3361      
 32         Phalanx-XXV               2389       14         790       
 33         Pseudo-0                  2375       -5         1016      
-34         WasterNew                 2338       42         43        
-35         fornax-engine             2333       -16        3548      
+34         fornax-engine             2339       -14        3549      
+35         WasterNew                 2338       42         43        
 36         bekbot                    2330       16         1041      
 37         simpleEval                2324       0          7246      
-38         clueless-bot              2322       -21        597       
+38         clueless-bot              2316       -30        598       
 39         FlamingDragon_9000        2309       -12        1216      
 40         DQN-chess                 2261       24         805       
 41         Nakshatra3                2243       82         705       
@@ -86,8 +86,8 @@ Rank       Bot                       Rating     Prog       Games
 85         ArduChessBot              1590       23         390       
 86         sargon-3ply               1580       -3         1096      
 87         turochamp-2ply            1519       -4         1028      
-88         sargon-4ply               1498       -28        529       
-89         maia1                     1496       19         223543    
+88         maia1                     1504       14         223545    
+89         sargon-4ply               1498       -28        529       
 90         DavidsGuterBot            1493       -1         542       
 91         RoundMoundOfRebounds      1478       3          301       
 92         sargon-2ply               1377       -15        3103      
