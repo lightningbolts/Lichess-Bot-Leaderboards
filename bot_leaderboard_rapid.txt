@@ -10,10 +10,10 @@ Rank       Bot                       Rating     Prog       Games
 9          ArasanX                   2855       10         4624      
 10         EmptikBot247              2848       0          92        
 11         RaspFish                  2848       -9         5274      
-12         Nikitosik-ai              2847       7          396       
+12         Nikitosik-ai              2847       7          397       
 13         chessfyBOT                2845       -7         228       
 14         Shineshou90_BOT           2837       -8         2289      
-15         FishFingersMcGee          2832       -22        44        
+15         FishFingersMcGee          2832       -19        45        
 16         LeelaMultiPoss            2804       25         42        
 17         MrChessTheBot             2799       9          1958      
 18         blundar_bot               2795       -9         928       
@@ -22,7 +22,7 @@ Rank       Bot                       Rating     Prog       Games
 21         expositor                 2590       -7         4288      
 22         SaxtonEngine              2561       18         1215      
 23         pawn_git                  2546       0          985       
-24         OldStockfish              2505       9          496       
+24         OldStockfish              2506       9          497       
 25         Weiawaga                  2461       -11        9389      
 26         odonata-bot               2414       6          3607      
 27         OpeningsBot               2412       -62        65        
@@ -56,14 +56,14 @@ Rank       Bot                       Rating     Prog       Games
 55         BLANK_BOT                 1984       6          1388      
 56         LeelaRogue                1973       23         2188      
 57         Hyperopic                 1959       6          137       
-58         zeekat                    1956       5          7663      
+58         zeekat                    1954       -1         7664      
 59         Lynx_BOT                  1934       0          38969     
 60         baby_eubos                1879       4          771       
 61         myopic-bot                1867       1          235       
 62         michabay05                1865       -58        14        
 63         Trollfish-Bot             1852       -14        128       
 64         Fisk_Bot                  1813       -19        224       
-65         notropis                  1806       -5         1983      
+65         notropis                  1808       -8         1984      
 66         ChessChildren             1793       -3         4290      
 67         FlounderBot               1783       -32        63        
 68         ELO_1500                  1781       -30        2614      
@@ -83,7 +83,7 @@ Rank       Bot                       Rating     Prog       Games
 82         maia5                     1612       8          97036     
 83         ArduChessBot              1587       21         391       
 84         sargon-3ply               1577       -2         1097      
-85         maia1                     1526       -5         223645    
+85         maia1                     1520       -8         223646    
 86         turochamp-2ply            1516       -4         1029      
 87         sargon-4ply               1497       -29        530       
 88         DavidsGuterBot            1493       -1         542       
@@ -97,7 +97,7 @@ Rank       Bot                       Rating     Prog       Games
 96         OhniBOT                   1263       9          210       
 97         schnecken_bot             1184       -1         151       
 98         kireevi                   1085       -29        529       
-99         CHoMPBoT                  1043       -1         339       
+99         CHoMPBoT                  1042       -1         340       
 100        NichtEliasBot             1014       66         35        
 101        DeepLLaMA                 863        -18        81        
 102        G0thamB0t                 724        2          238       
