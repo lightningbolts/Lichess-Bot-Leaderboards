@@ -30,10 +30,10 @@ Rank       Bot                       Rating     Prog       Games
 29         admete_bot                2394       3          3362      
 30         Phalanx-XXV               2389       14         790       
 31         Pseudo-0                  2375       -5         1016      
-32         WasterNew                 2338       42         43        
-33         fornax-engine             2335       -15        3550      
-34         bekbot                    2328       13         1042      
-35         simpleEval                2326       2          7247      
+32         fornax-engine             2335       -15        3550      
+33         bekbot                    2328       13         1042      
+34         simpleEval                2326       2          7247      
+35         WasterNew                 2318       23         44        
 36         clueless-bot              2311       -35        599       
 37         FlamingDragon_9000        2309       -12        1216      
 38         DQN-chess                 2250       8          808       
@@ -48,9 +48,9 @@ Rank       Bot                       Rating     Prog       Games
 47         Boris-Trapsky             2123       2          27029     
 48         halcyonbot                2113       -7         5230      
 49         GarboBot                  2102       -18        5791      
-50         CadabraBot                2092       18         919       
+50         CadabraBot                2101       23         920       
 51         Humaia-Strong             2088       27         597       
-52         camel_bot                 2056       -5         230       
+52         camel_bot                 2052       -10        231       
 53         LazyBotJr                 2007       8          1245      
 54         BLANK_BOT                 1991       -6         1384      
 55         LeelaRogue                1973       23         2188      
@@ -66,8 +66,8 @@ Rank       Bot                       Rating     Prog       Games
 65         notropis                  1813       1          1980      
 66         ELO_1500                  1788       -34        2611      
 67         ChessChildren             1787       -10        4289      
-68         Demolito_L5               1780       16         234       
-69         FlounderBot               1778       -41        62        
+68         FlounderBot               1783       -32        63        
+69         Demolito_L5               1780       16         234       
 70         Virutor                   1776       -40        3095      
 71         zulu_bot                  1776       3          110       
 72         AshNostromo               1764       2          1168      
@@ -78,8 +78,8 @@ Rank       Bot                       Rating     Prog       Games
 77         turkjs                    1710       1          4915      
 78         Jibbby                    1709       -18        1803      
 79         simplexitor               1706       -4         421       
-80         HulkBot                   1700       -31        397       
-81         maia9                     1700       -6         80585     
+80         maia9                     1704       -6         80587     
+81         HulkBot                   1700       -31        397       
 82         maia5                     1642       5          97005     
 83         yeoldwiz                  1627       8          627       
 84         ArduChessBot              1590       23         390       
@@ -100,6 +100,5 @@ Rank       Bot                       Rating     Prog       Games
 99         CHoMPBoT                  1043       -1         339       
 100        NichtEliasBot             1014       66         35        
 101        DeepLLaMA                 863        -5         80        
-102        bobandi                   857        -12        680       
-103        G0thamB0t                 724        2          238       
-104        grandQ_AI                 707        -3         1564      
+102        G0thamB0t                 724        2          238       
+103        grandQ_AI                 707        -3         1564      
