@@ -1,8 +1,8 @@
 Rank       Bot                       Rating     Prog       Games     
 1          Viet-AI                   2894       -61        22        
 2          TorBot                    2892       -3         605       
-3          FireFishBOT               2880       1          874       
-4          ProteusSF-Godot           2880       22         33        
+3          ProteusSF-Godot           2880       22         33        
+4          FireFishBOT               2879       -4         875       
 5          YoBot_v2                  2870       2          12690     
 6          ReinforcementTrial        2855       -4         4334      
 7          RaspFish                  2848       -9         5274      
@@ -39,7 +39,7 @@ Rank       Bot                       Rating     Prog       Games
 38         clueless-bot              2316       -24        601       
 39         FlamingDragon_9000        2309       -12        1216      
 40         Nakshatra3                2251       76         706       
-41         DQN-chess                 2246       -4         810       
+41         DQN-chess                 2247       -5         811       
 42         honzovy-sachy-2           2246       -5         3412      
 43         eubos                     2221       6          4100      
 44         HistoryExplorer           2198       -1         931       
@@ -66,7 +66,7 @@ Rank       Bot                       Rating     Prog       Games
 65         myopic-bot                1863       -8         234       
 66         Trollfish-Bot             1847       -12        127       
 67         Fisk_Bot                  1813       -19        224       
-68         notropis                  1813       1          1980      
+68         notropis                  1812       4          1981      
 69         ChessChildren             1787       -10        4289      
 70         Demolito_L5               1786       14         235       
 71         FlounderBot               1783       -32        63        
@@ -90,7 +90,7 @@ Rank       Bot                       Rating     Prog       Games
 89         turochamp-2ply            1519       -4         1028      
 90         sargon-4ply               1498       -28        529       
 91         DavidsGuterBot            1493       -1         542       
-92         maia1                     1485       -32        223575    
+92         maia1                     1478       -29        223577    
 93         RoundMoundOfRebounds      1478       3          301       
 94         sargon-2ply               1377       -15        3103      
 95         turochamp-1ply            1354       21         1443      
