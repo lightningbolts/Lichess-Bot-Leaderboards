@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ProteusSF-Godot           2886       1          122       
-2          FireFishBOT               2876       -2         1285      
+1          ProteusSF-Godot           2886       2          123       
+2          FireFishBOT               2876       -2         1286      
 3          YoBot_v2                  2876       2          2993      
 4          FishFingersMcGee          2834       2          233       
 5          Shineshou90_BOT           2832       1          1447      
@@ -17,7 +17,7 @@ Rank       Bot                       Rating     Prog       Games
 16         LazyBot                   2756       3          1978      
 17         blundar_bot               2747       -21        763       
 18         ChessHunterBot            2661       -9         84        
-19         CodingAdventureBot        2640       -7         2528      
+19         CodingAdventureBot        2634       -13        2530      
 20         expositor                 2619       -5         6433      
 21         AKS-Mantissa              2613       5          8779      
 22         SaxtonEngine              2559       -4         1913      
@@ -26,7 +26,7 @@ Rank       Bot                       Rating     Prog       Games
 25         OldStockfish              2445       16         386       
 26         OpeningsBot               2443       -4         241       
 27         bot_adario                2442       5          1883      
-28         admete_bot                2430       -6         5647      
+28         admete_bot                2429       -7         5648      
 29         Cheng-4                   2424       5          6129      
 30         TuksuBot                  2417       3          3635      
 31         ChessNoobComp             2408       6          1427      
@@ -41,12 +41,12 @@ Rank       Bot                       Rating     Prog       Games
 40         Nakshatra3                2220       21         1312      
 41         honzovy-sachy-2           2216       11         6384      
 42         HistoryExplorer           2211       -23        2449      
-43         DQN-chess                 2180       8          198       
-44         eubos                     2177       -1         13335     
+43         eubos                     2182       8          13336     
+44         DQN-chess                 2180       8          198       
 45         matmoi                    2160       23         433       
 46         jangine                   2156       21         2831      
 47         CadabraBot                2146       -1         1315      
-48         tha_kojiro                2112       -16        483       
+48         tha_kojiro                2104       -26        484       
 49         Elmichess                 2087       -51        3463      
 50         GarboBot                  2084       -3         8554      
 51         MaxtheDog                 2071       -13        3619      
@@ -91,8 +91,8 @@ Rank       Bot                       Rating     Prog       Games
 90         ChamberiAjedrez           1470       -106       321       
 91         turochamp-2ply            1465       19         1491      
 92         RoundMoundOfRebounds      1461       -17        1039      
-93         DavidsGuterBot            1456       -11        3224      
-94         maia1                     1454       19         200120    
+93         maia1                     1457       17         200121    
+94         DavidsGuterBot            1456       -11        3224      
 95         Humaia                    1398       36         778       
 96         StupidChessRobot          1368       -2         123       
 97         sargon-2ply               1344       4          2778      
@@ -108,4 +108,4 @@ Rank       Bot                       Rating     Prog       Games
 107        knucklefish               1063       -25        3005      
 108        BelaBot                   912        -45        44        
 109        DeepLLaMA                 876        53         44        
-110        grandQ_AI                 701        -4         1197      
+110        grandQ_AI                 699        -4         1198      
