@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          EmptikBot                 2881       11         354       
-2          ProteusSF-Godot           2880       -2         215       
-3          YoBot_v2                  2869       0          3055      
+2          ProteusSF-Godot           2879       -3         216       
+3          YoBot_v2                  2870       1          3056      
 4          FishFingersMcGee          2835       4          248       
 5          LeelaMultiPoss            2832       5          53        
 6          RaspFish                  2822       4          10724     
@@ -71,12 +71,12 @@ Rank       Bot                       Rating     Prog       Games
 70         ChessChildren             1686       -8         20958     
 71         dlvc-bot                  1681       11         1148      
 72         ELO_1500                  1665       6          12240     
-73         maia9                     1638       4          96850     
-74         yeoldwiz                  1638       18         1592      
+73         yeoldwiz                  1638       18         1592      
+74         maia9                     1637       -4         96851     
 75         turkjs                    1607       -25        10047     
 76         ArduChessBot              1550       4          1139      
 77         sargon-4ply               1523       -4         1722      
-78         maia5                     1501       -25        97681     
+78         maia5                     1514       -8         97683     
 79         chat_bot                  1500       -81        224       
 80         sargon-3ply               1485       -3         1649      
 81         ChamberiAjedrez           1470       -106       321       
@@ -84,7 +84,7 @@ Rank       Bot                       Rating     Prog       Games
 83         turochamp-2ply            1453       3          1496      
 84         RoundMoundOfRebounds      1450       -14        1043      
 85         DavidsGuterBot            1442       -10        3237      
-86         maia1                     1440       7          200282    
+86         maia1                     1433       11         200284    
 87         Humaia                    1430       -19        801       
 88         StupidChessRobot          1386       7          171       
 89         sargon-2ply               1330       -22        2785      
@@ -94,8 +94,8 @@ Rank       Bot                       Rating     Prog       Games
 93         OhniBOT                   1209       -71        281       
 94         schnecken_bot             1202       -9         1409      
 95         HulkBot                   1175       -40        664       
-96         NichtEliasBot             1149       -28        16        
-97         CHoMPBoT                  1066       -10        1204      
+96         NichtEliasBot             1143       -34        17        
+97         CHoMPBoT                  1067       -8         1205      
 98         knucklefish               1052       -25        3009      
 99         BelaBot                   912        -45        44        
 100        DeepLLaMA                 890        23         50        
