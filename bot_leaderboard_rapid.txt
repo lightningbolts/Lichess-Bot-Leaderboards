@@ -1,16 +1,16 @@
 Rank       Bot                       Rating     Prog       Games     
-1          TorBot                    2894       -1         612       
-2          Viet-AI                   2894       -61        22        
+1          Viet-AI                   2894       -61        22        
+2          TorBot                    2891       -3         613       
 3          ProteusSF-Godot           2889       14         46        
 4          ShashChess_MsP            2885       1          693       
 5          ToromBot                  2877       -1         1651      
 6          YoBot_v2                  2868       -3         12695     
 7          UltimateL                 2864       -10        320       
-8          ReinforcementTrial        2863       -1         4358      
+8          ReinforcementTrial        2863       -1         4359      
 9          Nikitosikbot              2862       12         8400      
 10         BRAINLEARN11_NNUE         2855       -10        526       
 11         ArasanX                   2854       -4         4646      
-12         Nikitosik-ai              2852       4          439       
+12         Nikitosik-ai              2852       4          440       
 13         RaspFish                  2849       -2         5278      
 14         chessfyBOT                2845       -7         228       
 15         ResoluteBot               2844       -6         5153      
@@ -77,7 +77,7 @@ Rank       Bot                       Rating     Prog       Games
 76         maia5                     1583       1          97064     
 77         ArduChessBot              1581       8          392       
 78         sargon-3ply               1577       -2         1097      
-79         maia1                     1573       1          223733    
+79         maia1                     1571       -5         223734    
 80         turochamp-2ply            1522       -7         1030      
 81         sargon-4ply               1497       -29        530       
 82         DavidsGuterBot            1481       -12        543       
@@ -94,4 +94,5 @@ Rank       Bot                       Rating     Prog       Games
 93         CHoMPBoT                  1040       -2         341       
 94         NichtEliasBot             1029       48         37        
 95         DeepLLaMA                 863        -28        82        
-96         grandQ_AI                 705        10         1570      
+96         G0thamB0t                 721        2          240       
+97         grandQ_AI                 705        10         1570      
