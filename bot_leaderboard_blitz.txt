@@ -13,7 +13,7 @@ Rank       Bot                       Rating     Prog       Games
 12         caissa-test               2812       -68        39        
 13         ResoluteBot               2807       -18        10832     
 14         ArasanX                   2800       -7         1495      
-15         MrChessTheBot             2796       10         1392      
+15         MrChessTheBot             2796       4          1395      
 16         Nikitosik-ai              2788       -19        94        
 17         EmptikBot247              2768       -3         51        
 18         LazyBot                   2756       3          1978      
@@ -42,9 +42,9 @@ Rank       Bot                       Rating     Prog       Games
 41         WasterNew                 2224       -5         194       
 42         simpleEval                2216       -31        13965     
 43         HistoryExplorer           2214       -8         2455      
-44         jangine                   2166       24         2835      
+44         jangine                   2172       22         2836      
 45         CadabraBot                2152       -6         1329      
-46         matmoi                    2147       5          457       
+46         matmoi                    2142       6          458       
 47         eubos                     2138       -33        13352     
 48         halcyonbot                2109       22         7953      
 49         GarboBot                  2095       11         8561      
@@ -95,9 +95,9 @@ Rank       Bot                       Rating     Prog       Games
 94         DavidsGuterBot            1448       -15        3231      
 95         Humaia                    1440       25         791       
 96         maia1                     1388       -50        200210    
-97         StupidChessRobot          1379       16         151       
+97         StupidChessRobot          1372       10         152       
 98         sargon-2ply               1336       -19        2783      
-99         sargon-1ply               1293       10         7438      
+99         sargon-1ply               1300       8          7439      
 100        turochamp-1ply            1276       0          1587      
 101        OhniBOT                   1265       14         277       
 102        pawnrobot                 1234       8          1783      
