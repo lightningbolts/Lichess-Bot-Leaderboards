@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Godot           2900       27         50        
 2          Viet-AI                   2894       -61        22        
-3          TorBot                    2889       -6         621       
+3          TorBot                    2891       -3         622       
 4          ShashChess_MsP            2885       -1         697       
 5          ToromBot                  2877       -1         1651      
 6          YoBot_v2                  2868       -3         12695     
@@ -14,7 +14,7 @@ Rank       Bot                       Rating     Prog       Games
 13         chessfyBOT                2845       -7         228       
 14         ResoluteBot               2844       -6         5153      
 15         blundar_bot               2795       -10        929       
-16         ChessHunterBot            2662       12         66        
+16         ChessHunterBot            2659       4          67        
 17         LazyBot                   2618       6          702       
 18         AKS-Mantissa              2599       -3         3880      
 19         expositor                 2586       -9         4292      
@@ -74,9 +74,9 @@ Rank       Bot                       Rating     Prog       Games
 73         simplexitor               1705       -14        423       
 74         HulkBot                   1685       -40        399       
 75         yeoldwiz                  1627       8          627       
-76         maia5                     1592       3          97074     
-77         sargon-3ply               1577       -2         1097      
-78         maia1                     1574       15         223747    
+76         maia1                     1600       33         223754    
+77         maia5                     1592       3          97074     
+78         sargon-3ply               1577       -2         1097      
 79         ArduChessBot              1569       -13        394       
 80         turochamp-2ply            1522       -7         1030      
 81         sargon-4ply               1497       -29        530       
@@ -89,8 +89,10 @@ Rank       Bot                       Rating     Prog       Games
 88         chat_bot                  1297       -41        184       
 89         sargon-1ply               1297       -20        8034      
 90         OhniBOT                   1249       -19        211       
-91         CHoMPBoT                  1034       -3         344       
-92         NichtEliasBot             1029       48         37        
-93         DeepLLaMA                 863        -28        82        
-94         G0thamB0t                 721        2          240       
-95         grandQ_AI                 705        10         1570      
+91         schnecken_bot             1181       -15        152       
+92         kireevi                   1085       -29        529       
+93         CHoMPBoT                  1034       -3         344       
+94         NichtEliasBot             1029       48         37        
+95         DeepLLaMA                 863        -28        82        
+96         G0thamB0t                 721        2          240       
+97         grandQ_AI                 705        10         1570      
