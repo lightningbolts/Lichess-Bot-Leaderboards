@@ -2,8 +2,8 @@ Rank       Bot                       Rating     Prog       Games
 1          EmptikBot                 2889       1          389       
 2          ProteusSF-Godot           2889       16         52        
 3          YoBot_v2                  2868       -4         12696     
-4          Nikitosik-ai              2867       -6         464       
-5          ReinforcementTrial        2862       -1         4367      
+4          ReinforcementTrial        2864       1          4368      
+5          Nikitosik-ai              2863       -8         465       
 6          EmptikBot247              2854       6          96        
 7          RaspFish                  2851       6          5282      
 8          chessfyBOT                2845       -7         228       
@@ -18,14 +18,14 @@ Rank       Bot                       Rating     Prog       Games
 17         AKS-Mantissa              2600       4          3882      
 18         expositor                 2586       -3         4295      
 19         SaxtonEngine              2564       7          1223      
-20         pawn_git                  2540       -2         991       
-21         OldStockfish              2504       0          506       
+20         pawn_git                  2545       4          992       
+21         OldStockfish              2503       -2         507       
 22         Weiawaga                  2461       2          9399      
 23         OpeningsBot               2439       -3         72        
 24         bot_adario                2413       7          1211      
 25         Cheng-4                   2412       2          2887      
 26         odonata-bot               2410       5          3610      
-27         admete_bot                2402       -9         3396      
+27         admete_bot                2401       -9         3397      
 28         TuksuBot                  2401       8          1838      
 29         Phalanx-XXV               2394       17         793       
 30         Pseudo-0                  2371       -10        1019      
@@ -50,7 +50,7 @@ Rank       Bot                       Rating     Prog       Games
 49         LazyBotJr                 2007       8          1245      
 50         LeelaRogue                1973       23         2188      
 51         Hyperopic                 1959       6          137       
-52         Lynx_BOT                  1948       8          38994     
+52         Lynx_BOT                  1952       11         38995     
 53         zeekat                    1946       -3         7683      
 54         baby_eubos                1878       3          774       
 55         myopic-bot                1864       0          237       
@@ -63,7 +63,7 @@ Rank       Bot                       Rating     Prog       Games
 62         FlounderBot               1782       -25        65        
 63         zulu_bot                  1776       3          110       
 64         Virutor                   1774       -32        3098      
-65         honzovy-sachy             1772       -9         867       
+65         honzovy-sachy             1769       -8         868       
 66         Ptit-biscuit              1766       80         32        
 67         melsh_bot                 1758       -55        164       
 68         maia9                     1721       -21        80687     
@@ -72,8 +72,8 @@ Rank       Bot                       Rating     Prog       Games
 71         HulkBot                   1685       -40        399       
 72         dlvc-bot                  1657       23         55        
 73         yeoldwiz                  1627       8          627       
-74         maia1                     1596       -17        223813    
-75         maia5                     1591       13         97101     
+74         maia5                     1599       14         97102     
+75         maia1                     1588       -23        223816    
 76         sargon-3ply               1577       -2         1097      
 77         ArduChessBot              1569       -13        394       
 78         turochamp-2ply            1522       -7         1030      
