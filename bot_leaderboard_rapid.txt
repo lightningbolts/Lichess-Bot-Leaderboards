@@ -5,7 +5,7 @@ Rank       Bot                       Rating     Prog       Games
 4          ToromBot                  2877       1          1653      
 5          YoBot_v2                  2874       3          12697     
 6          Nikitosik-ai              2864       -4         478       
-7          ReinforcementTrial        2861       -2         4371      
+7          ReinforcementTrial        2863       4          4372      
 8          EmptikBot247              2854       6          96        
 9          RaspFish                  2852       6          5283      
 10         chessfyBOT                2845       -7         228       
@@ -18,7 +18,7 @@ Rank       Bot                       Rating     Prog       Games
 17         LazyBot                   2618       6          702       
 18         AKS-Mantissa              2599       5          3883      
 19         expositor                 2591       1          4299      
-20         SaxtonEngine              2564       5          1225      
+20         SaxtonEngine              2562       1          1226      
 21         pawn_git                  2540       -3         994       
 22         Weiawaga                  2470       18         9403      
 23         OpeningsBot               2437       -6         73        
@@ -26,7 +26,7 @@ Rank       Bot                       Rating     Prog       Games
 25         Cheng-4                   2412       2          2887      
 26         odonata-bot               2405       -5         3611      
 27         TuksuBot                  2400       5          1839      
-28         admete_bot                2395       -3         3414      
+28         admete_bot                2394       -3         3415      
 29         Phalanx-XXV               2394       17         793       
 30         Pseudo-0                  2371       -10        1019      
 31         fornax-engine             2340       -3         3554      
@@ -70,10 +70,10 @@ Rank       Bot                       Rating     Prog       Games
 69         simplexitor               1705       -14        423       
 70         HulkBot                   1685       -40        399       
 71         yeoldwiz                  1627       8          627       
-72         maia5                     1598       -10        97125     
+72         maia5                     1610       9          97127     
 73         sargon-3ply               1583       1          1100      
 74         ArduChessBot              1569       -13        394       
-75         maia1                     1532       -21        223859    
+75         maia1                     1525       -31        223860    
 76         turochamp-2ply            1517       -9         1031      
 77         sargon-4ply               1497       -29        530       
 78         DavidsGuterBot            1478       -11        544       
