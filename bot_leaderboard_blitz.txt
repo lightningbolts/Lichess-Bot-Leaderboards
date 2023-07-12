@@ -31,7 +31,7 @@ Rank       Bot                       Rating     Prog       Games
 30         OpeningsBot               2447       19         264       
 31         bot_adario                2435       -9         1892      
 32         TuksuBot                  2418       0          3643      
-33         Cheng-4                   2411       -1         6153      
+33         Cheng-4                   2411       0          6154      
 34         odonata-bot               2388       14         5772      
 35         fornax-engine             2376       -12        6270      
 36         Phalanx-XXV               2372       8          2396      
@@ -75,7 +75,7 @@ Rank       Bot                       Rating     Prog       Games
 74         melsh_bot                 1711       6          1561      
 75         ChessChildren             1692       -3         20954     
 76         Jibbby                    1672       10         5413      
-77         ELO_1500                  1646       -3         12224     
+77         ELO_1500                  1648       1          12225     
 78         yeoldwiz                  1638       18         1592      
 79         maia9                     1621       -12        96818     
 80         turkjs                    1616       -23        10043     
@@ -91,7 +91,7 @@ Rank       Bot                       Rating     Prog       Games
 90         DavidsGuterBot            1444       -12        3235      
 91         Humaia                    1439       -1         799       
 92         maia1                     1414       14         200230    
-93         StupidChessRobot          1380       8          158       
+93         StupidChessRobot          1378       2          159       
 94         sargon-2ply               1330       -22        2785      
 95         sargon-1ply               1310       21         7443      
 96         turochamp-1ply            1276       0          1587      
@@ -100,8 +100,9 @@ Rank       Bot                       Rating     Prog       Games
 99         schnecken_bot             1199       1          1401      
 100        HulkBot                   1181       -16        663       
 101        NichtEliasBot             1162       -15        14        
-102        CHoMPBoT                  1067       -10        1203      
-103        knucklefish               1053       -28        3008      
-104        BelaBot                   912        -45        44        
-105        DeepLLaMA                 890        15         48        
-106        grandQ_AI                 717        14         1204      
+102        bobandi                   1071       -13        1101      
+103        CHoMPBoT                  1067       -10        1203      
+104        knucklefish               1053       -28        3008      
+105        BelaBot                   912        -45        44        
+106        DeepLLaMA                 890        15         48        
+107        grandQ_AI                 717        14         1204      
