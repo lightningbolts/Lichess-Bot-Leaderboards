@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
 1          Viet-AI                   3000       14         46        
-2          ShashChess_MsP            2891       1          2772      
+2          ShashChess_MsP            2889       -1         2773      
 3          ProteusSF-Godot           2884       -6         193       
 4          BRAINLEARN11_NNUE         2875       8          3409      
 5          ToromBot                  2873       -5         2629      
@@ -15,7 +15,7 @@ Rank       Bot                       Rating     Prog       Games
 14         caissa-test               2812       -68        39        
 15         ResoluteBot               2807       -18        10832     
 16         ArasanX                   2798       5          1499      
-17         Nikitosik-ai              2783       -13        97        
+17         Nikitosik-ai              2785       -11        98        
 18         verylowsodium-bot         2768       13         91        
 19         LazyBot                   2756       3          1978      
 20         blundar_bot               2752       -9         767       
@@ -38,13 +38,13 @@ Rank       Bot                       Rating     Prog       Games
 37         Pseudo-0                  2364       -15        2652      
 38         clueless-bot              2322       20         2364      
 39         bekbot                    2282       0          1313      
-40         LunaChessEngine           2240       7          1375      
+40         LunaChessEngine           2240       13         1376      
 41         honzovy-sachy-2           2224       3          6396      
-42         Nakshatra3                2224       -1         1333      
+42         Nakshatra3                2224       -5         1334      
 43         WasterNew                 2224       -5         194       
 44         simpleEval                2223       -3         13972     
 45         CadabraBot                2154       7          1341      
-46         jangine                   2148       -21        2845      
+46         jangine                   2146       -20        2846      
 47         matmoi                    2140       -2         469       
 48         GarboBot                  2105       27         8569      
 49         Elmichess                 2087       -51        3463      
@@ -53,8 +53,8 @@ Rank       Bot                       Rating     Prog       Games
 52         redtail-zero              2056       -26        249       
 53         Humaia-Strong             2053       6          2328      
 54         LazyBotJr                 2021       8          1500      
-55         Hyperopic                 1984       14         1078      
-56         WilliamEngine             1984       -5         295       
+55         WilliamEngine             1986       -6         296       
+56         Hyperopic                 1984       14         1078      
 57         zeekat                    1977       -5         18879     
 58         LeelaRogue                1975       -17        2214      
 59         Lynx_BOT                  1925       7          47115     
@@ -78,7 +78,7 @@ Rank       Bot                       Rating     Prog       Games
 77         maia9                     1616       -25        96820     
 78         turkjs                    1615       -26        10044     
 79         ArduChessBot              1555       15         1138      
-80         maia5                     1532       2          97654     
+80         maia5                     1537       13         97655     
 81         sargon-4ply               1530       4          1720      
 82         chat_bot                  1500       -81        224       
 83         sargon-3ply               1485       -3         1649      
@@ -87,7 +87,7 @@ Rank       Bot                       Rating     Prog       Games
 86         turochamp-2ply            1452       1          1495      
 87         RoundMoundOfRebounds      1450       -14        1043      
 88         DavidsGuterBot            1443       -12        3236      
-89         maia1                     1438       30         200242    
+89         maia1                     1438       23         200243    
 90         Humaia                    1430       -19        801       
 91         StupidChessRobot          1377       -2         162       
 92         sargon-2ply               1330       -22        2785      
