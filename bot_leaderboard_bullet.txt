@@ -6,9 +6,9 @@ Rank       Bot                       Rating     Prog       Games
 5          Nikitosikbot              2887       -4         20201     
 6          ResoluteBot               2887       -4         24791     
 7          YoBot_v2                  2880       7          16374     
-8          EmptikBot247              2852       -3         1770      
+8          EmptikBot247              2852       -8         1771      
 9          caissa-test               2843       2          1390      
-10         FishFingersMcGee          2832       6          1141      
+10         FishFingersMcGee          2833       7          1142      
 11         RaspFish                  2826       6          46523     
 12         LeelaMultiPoss            2822       6          126       
 13         Shineshou90_BOT           2820       -11        7130      
@@ -37,7 +37,7 @@ Rank       Bot                       Rating     Prog       Games
 36         Pseudo-0                  2289       4          3627      
 37         Nakshatra3                2263       45         1134      
 38         fornax-engine             2252       -20        6615      
-39         bekbot                    2240       8          1361      
+39         bekbot                    2240       8          1362      
 40         WasterNew                 2217       9          109       
 41         HistoryExplorer           2212       -8         2325      
 42         simpleEval                2212       22         24350     
@@ -59,12 +59,12 @@ Rank       Bot                       Rating     Prog       Games
 58         MaxtheDog                 1954       -15        12355     
 59         YourSparringBot           1912       -9         283       
 60         Lynx_BOT                  1892       6          5732      
-61         michabay05                1891       -16        512       
-62         myopic-bot                1887       21         1392      
+61         myopic-bot                1887       21         1392      
+62         michabay05                1885       -16        513       
 63         zeekat                    1883       -18        17133     
 64         Ptit-biscuit              1853       10         414       
-65         notropis                  1844       9          3330      
-66         FlounderBot               1842       4          1442      
+65         FlounderBot               1848       13         1443      
+66         notropis                  1844       9          3330      
 67         QueensGamBOT              1836       -14        4668      
 68         baby_eubos                1800       12         4614      
 69         rudim-bot                 1789       -47        130       
@@ -90,7 +90,7 @@ Rank       Bot                       Rating     Prog       Games
 89         monchester                1526       -1         2233      
 90         turochamp-1ply            1477       3          1631      
 91         yeoldwiz                  1450       18         791       
-92         RoundMoundOfRebounds      1449       -44        1068      
+92         RoundMoundOfRebounds      1449       -43        1069      
 93         StupidChessRobot          1447       -15        88        
 94         sargon-2ply               1438       0          1868      
 95         sargon-1ply               1430       -20        3949      
@@ -101,6 +101,7 @@ Rank       Bot                       Rating     Prog       Games
 100        OhniBOT                   1303       43         482       
 101        pawnrobot                 1293       -4         3606      
 102        CHoMPBoT                  1252       -15        702       
-103        NichtEliasBot             1220       -14        21        
-104        DeepLLaMA                 1131       138        58        
-105        grandQ_AI                 812        19         807       
+103        bobandi                   1238       7          1065      
+104        NichtEliasBot             1220       -14        21        
+105        DeepLLaMA                 1131       138        58        
+106        grandQ_AI                 812        19         807       
