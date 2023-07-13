@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
-1          TorBot                    2906       -1         672       
+1          TorBot                    2905       -1         673       
 2          EmptikBot                 2889       1          389       
-3          ProteusSF-Godot           2885       -10        60        
+3          ProteusSF-Godot           2886       -14        61        
 4          ToromBot                  2875       3          1660      
 5          YoBot_v2                  2874       3          12697     
 6          ReinforcementTrial        2866       1          4380      
@@ -22,7 +22,7 @@ Rank       Bot                       Rating     Prog       Games
 21         expositor                 2592       6          4306      
 22         SaxtonEngine              2566       3          1231      
 23         pawn_git                  2537       -9         996       
-24         Weiawaga                  2480       20         9411      
+24         Weiawaga                  2483       20         9412      
 25         OpeningsBot               2444       32         78        
 26         bot_adario                2417       12         1214      
 27         Cheng-4                   2409       3          2891      
@@ -32,7 +32,7 @@ Rank       Bot                       Rating     Prog       Games
 31         Pseudo-0                  2371       -10        1019      
 32         fornax-engine             2339       0          3560      
 33         simpleEval                2324       0          7257      
-34         clueless-bot              2318       2          609       
+34         clueless-bot              2315       4          610       
 35         bekbot                    2313       5          1080      
 36         FlamingDragon_9000        2309       -12        1216      
 37         Nakshatra3                2287       29         718       
@@ -78,7 +78,7 @@ Rank       Bot                       Rating     Prog       Games
 77         maia5                     1610       20         97150     
 78         sargon-3ply               1583       1          1100      
 79         ArduChessBot              1569       -13        394       
-80         maia1                     1550       18         223928    
+80         maia1                     1542       19         223929    
 81         turochamp-2ply            1517       -9         1031      
 82         sargon-4ply               1497       -29        530       
 83         DavidsGuterBot            1478       -11        544       
