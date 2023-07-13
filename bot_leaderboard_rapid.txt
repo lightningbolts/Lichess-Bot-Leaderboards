@@ -52,8 +52,8 @@ Rank       Bot                       Rating     Prog       Games
 51         Hyperopic                 1959       6          137       
 52         Lynx_BOT                  1953       15         39030     
 53         Nc3Nc6Bot                 1949       10         1165      
-54         zeekat                    1931       -27        7717      
-55         Zagreus_Engine            1921       -19        1544      
+54         zeekat                    1930       -24        7718      
+55         Zagreus_Engine            1921       -15        1545      
 56         baby_eubos                1880       -1         776       
 57         myopic-bot                1870       12         239       
 58         Trollfish-Bot             1863       11         134       
@@ -69,7 +69,7 @@ Rank       Bot                       Rating     Prog       Games
 68         melsh_bot                 1768       -38        167       
 69         dlvc-bot                  1759       102        66        
 70         honzovy-sachy             1755       -17        872       
-71         maia9                     1732       -19        80790     
+71         maia9                     1726       -29        80791     
 72         turkjs                    1704       -15        4922      
 73         simplexitor               1692       -23        427       
 74         HulkBot                   1685       -40        399       
@@ -77,7 +77,7 @@ Rank       Bot                       Rating     Prog       Games
 76         maia5                     1577       -20        97246     
 77         sargon-3ply               1577       -14        1105      
 78         ArduChessBot              1569       -13        394       
-79         maia1                     1537       -7         224086    
+79         maia1                     1538       -7         224087    
 80         turochamp-2ply            1516       -7         1032      
 81         sargon-4ply               1495       -35        532       
 82         DavidsGuterBot            1477       -11        545       
@@ -94,6 +94,5 @@ Rank       Bot                       Rating     Prog       Games
 93         NichtEliasBot             1028       36         39        
 94         CHoMPBoT                  1026       -17        350       
 95         DeepLLaMA                 859        -49        84        
-96         bobandi                   857        -12        680       
-97         G0thamB0t                 727        3          249       
-98         grandQ_AI                 708        1          1575      
+96         G0thamB0t                 727        3          249       
+97         grandQ_AI                 708        1          1575      
