@@ -8,8 +8,8 @@ Rank       Bot                       Rating     Prog       Games
 7          RaspFish                  2851       -1         5294      
 8          Nikitosik-ai              2849       -13        502       
 9          chessfyBOT                2845       -7         228       
-10         ResoluteBot               2844       -6         5153      
-11         ArasanX                   2843       2          4695      
+10         ArasanX                   2844       1          4696      
+11         ResoluteBot               2844       -6         5153      
 12         Shineshou90_BOT           2843       4          2299      
 13         FishFingersMcGee          2842       12         65        
 14         LeelaMultiPoss            2805       18         76        
@@ -25,7 +25,7 @@ Rank       Bot                       Rating     Prog       Games
 24         OpeningsBot               2445       8          84        
 25         bot_adario                2415       12         1216      
 26         Cheng-4                   2403       -7         2903      
-27         TuksuBot                  2402       -8         1842      
+27         TuksuBot                  2401       -10        1843      
 28         Phalanx-XXV               2389       4          797       
 29         Pseudo-0                  2377       0          1021      
 30         fornax-engine             2338       3          3561      
@@ -71,10 +71,10 @@ Rank       Bot                       Rating     Prog       Games
 70         simplexitor               1698       -24        425       
 71         HulkBot                   1685       -40        399       
 72         yeoldwiz                  1627       8          627       
-73         maia5                     1608       2          97215     
+73         maia5                     1605       4          97216     
 74         sargon-3ply               1580       -4         1104      
 75         ArduChessBot              1569       -13        394       
-76         maia1                     1551       -3         224019    
+76         maia1                     1548       3          224020    
 77         turochamp-2ply            1516       -7         1032      
 78         sargon-4ply               1497       -29        530       
 79         DavidsGuterBot            1477       -11        545       
@@ -91,5 +91,4 @@ Rank       Bot                       Rating     Prog       Games
 90         NichtEliasBot             1028       36         39        
 91         CHoMPBoT                  1027       -19        349       
 92         DeepLLaMA                 859        -49        84        
-93         G0thamB0t                 735        19         244       
-94         grandQ_AI                 708        1          1575      
+93         grandQ_AI                 708        1          1575      
