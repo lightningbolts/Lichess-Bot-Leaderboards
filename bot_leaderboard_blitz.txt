@@ -1,8 +1,8 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ProteusSF-Godot           2899       15         296       
-2          YoBot_v2                  2869       -4         3091      
+1          ProteusSF-Godot           2898       9          297       
+2          YoBot_v2                  2869       -4         3092      
 3          EmptikVariantsBot         2856       2          492       
-4          chessbot2880              2846       4          257       
+4          chessbot2880              2839       2          258       
 5          LeelaMultiPoss            2833       -2         61        
 6          FishFingersMcGee          2831       -4         274       
 7          Shineshou90_BOT           2827       -1         1460      
@@ -24,7 +24,7 @@ Rank       Bot                       Rating     Prog       Games
 23         AivanJ10                  2522       125        41        
 24         Weiawaga                  2522       9          11127     
 25         pawn_git                  2515       18         2077      
-26         Dr4x0n                    2463       225        27        
+26         Dr4x0n                    2477       215        28        
 27         bot_adario                2454       4          1908      
 28         OpeningsBot               2453       -4         296       
 29         Cheng-4                   2409       -9         6228      
@@ -34,11 +34,11 @@ Rank       Bot                       Rating     Prog       Games
 33         Pseudo-0                  2346       -11        2668      
 34         FlamingDragon_9000        2323       19         3331      
 35         bekbot                    2275       -17        1336      
-36         HistoryExplorer           2233       11         2470      
-37         simpleEval                2233       13         14002     
+36         HistoryExplorer           2237       15         2471      
+37         simpleEval                2233       11         14003     
 38         Nakshatra3                2232       17         1355      
 39         honzovy-sachy-2           2203       -21        6418      
-40         eubos                     2138       -4         13379     
+40         eubos                     2134       -4         13380     
 41         jangine                   2133       -15        2864      
 42         GarboBot                  2131       13         8589      
 43         matmoi                    2123       -2         507       
@@ -63,7 +63,7 @@ Rank       Bot                       Rating     Prog       Games
 62         notropis                  1793       -20        5793      
 63         Trollfish-Bot             1768       -1         1409      
 64         QueensGamBOT              1751       45         2707      
-65         Virutor                   1749       -4         7131      
+65         Virutor                   1750       -4         7132      
 66         Fisk_Bot                  1745       16         1484      
 67         dlvc-bot                  1744       -16        1217      
 68         melsh_bot                 1738       31         1577      
@@ -73,7 +73,7 @@ Rank       Bot                       Rating     Prog       Games
 72         ELO_1500                  1681       4          12287     
 73         yeoldwiz                  1638       18         1592      
 74         turkjs                    1603       -11        10052     
-75         maia9                     1587       -11        96915     
+75         maia9                     1583       -21        96916     
 76         maia5                     1554       -22        97816     
 77         ArduChessBot              1537       -18        1149      
 78         sargon-4ply               1535       -2         1726      
@@ -84,7 +84,7 @@ Rank       Bot                       Rating     Prog       Games
 83         turochamp-2ply            1453       3          1496      
 84         DavidsGuterBot            1450       7          3245      
 85         RoundMoundOfRebounds      1441       -24        1048      
-86         maia1                     1436       -38        200531    
+86         maia1                     1433       -42        200532    
 87         Humaia                    1418       -29        803       
 88         StupidChessRobot          1380       16         206       
 89         sargon-2ply               1320       -24        2790      
