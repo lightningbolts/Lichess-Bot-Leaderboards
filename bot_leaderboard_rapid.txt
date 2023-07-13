@@ -3,7 +3,7 @@ Rank       Bot                       Rating     Prog       Games
 2          ProteusSF-Godot           2881       -4         78        
 3          YoBot_v2                  2876       6          12702     
 4          ToromBot                  2875       3          1661      
-5          ReinforcementTrial        2869       1          4398      
+5          ReinforcementTrial        2868       0          4399      
 6          TheMatrix2025             2863       2          319       
 7          Nikitosikbot              2862       7          8401      
 8          EmptikBot247              2854       6          97        
@@ -11,8 +11,8 @@ Rank       Bot                       Rating     Prog       Games
 10         Nikitosik-ai              2849       -13        503       
 11         chessfyBOT                2845       -7         228       
 12         ResoluteBot               2844       -6         5153      
-13         ArasanX                   2843       -2         4702      
-14         FishFingersMcGee          2843       12         66        
+13         ArasanX                   2843       -4         4703      
+14         FishFingersMcGee          2843       4          67        
 15         Shineshou90_BOT           2843       6          2300      
 16         MrChessTheBot             2799       9          1958      
 17         blundar_bot               2790       -5         939       
@@ -39,13 +39,13 @@ Rank       Bot                       Rating     Prog       Games
 38         LunaChessEngine           2243       2          974       
 39         honzovy-sachy-2           2234       -6         3440      
 40         eubos                     2220       -9         4108      
-41         HistoryExplorer           2212       26         936       
-42         MaxtheDog                 2166       0          517       
-43         Elmichess                 2160       -20        1348      
+41         HistoryExplorer           2211       27         937       
+42         Elmichess                 2160       -20        1348      
+43         MaxtheDog                 2159       -10        518       
 44         redtail-zero              2159       12         125       
 45         jangine                   2138       -1         1546      
-46         GarboBot                  2132       13         5809      
-47         matmoi                    2128       8          458       
+46         matmoi                    2134       5          459       
+47         GarboBot                  2132       13         5809      
 48         Humaia-Strong             2088       27         597       
 49         YourSparringBot           2083       -21        145       
 50         halcyonbot                2060       -6         5308      
@@ -95,7 +95,7 @@ Rank       Bot                       Rating     Prog       Games
 94         schnecken_bot             1174       -27        155       
 95         kireevi                   1083       -30        530       
 96         NichtEliasBot             1028       36         39        
-97         CHoMPBoT                  1027       -19        349       
+97         CHoMPBoT                  1026       -17        350       
 98         DeepLLaMA                 859        -49        84        
 99         G0thamB0t                 727        3          249       
 100        grandQ_AI                 708        1          1575      
