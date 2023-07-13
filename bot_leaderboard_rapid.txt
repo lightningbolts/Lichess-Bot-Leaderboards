@@ -24,7 +24,7 @@ Rank       Bot                       Rating     Prog       Games
 23         Weiawaga                  2480       0          9422      
 24         OpeningsBot               2445       8          84        
 25         bot_adario                2415       12         1216      
-26         Cheng-4                   2406       -6         2898      
+26         Cheng-4                   2405       -6         2899      
 27         TuksuBot                  2401       -2         1841      
 28         Phalanx-XXV               2389       4          797       
 29         Pseudo-0                  2377       0          1021      
@@ -34,7 +34,7 @@ Rank       Bot                       Rating     Prog       Games
 33         FlamingDragon_9000        2309       -12        1216      
 34         WasterNew                 2298       -34        52        
 35         Nakshatra3                2288       25         721       
-36         DQN-chess                 2260       10         833       
+36         DQN-chess                 2260       12         834       
 37         honzovy-sachy-2           2230       -21        3438      
 38         eubos                     2222       -8         4107      
 39         HistoryExplorer           2217       30         935       
@@ -65,8 +65,8 @@ Rank       Bot                       Rating     Prog       Games
 64         FlounderBot               1781       -27        66        
 65         Ptit-biscuit              1775       110        33        
 66         melsh_bot                 1774       -25        166       
-67         Virutor                   1774       -28        3099      
-68         maia9                     1772       11         80748     
+67         Virutor                   1773       -23        3100      
+68         maia9                     1768       7          80749     
 69         dlvc-bot                  1763       106        65        
 70         honzovy-sachy             1760       -16        871       
 71         turkjs                    1704       -15        4922      
@@ -89,8 +89,9 @@ Rank       Bot                       Rating     Prog       Games
 88         sargon-1ply               1272       -24        8046      
 89         OhniBOT                   1222       -50        215       
 90         schnecken_bot             1181       -15        152       
-91         CHoMPBoT                  1028       -19        348       
-92         NichtEliasBot             1028       36         39        
-93         DeepLLaMA                 859        -49        84        
-94         G0thamB0t                 735        19         244       
-95         grandQ_AI                 708        1          1575      
+91         kireevi                   1083       -30        530       
+92         CHoMPBoT                  1028       -19        348       
+93         NichtEliasBot             1028       36         39        
+94         DeepLLaMA                 859        -49        84        
+95         G0thamB0t                 735        19         244       
+96         grandQ_AI                 708        1          1575      
