@@ -1,9 +1,9 @@
 Rank       Bot                       Rating     Prog       Games     
 1          EmptikVariantsBot         2886       -4         278       
 2          ProteusSF-Godot           2881       -4         78        
-3          ReinforcementTrial        2876       10         4396      
-4          YoBot_v2                  2876       6          12702     
-5          ToromBot                  2875       3          1661      
+3          YoBot_v2                  2876       6          12702     
+4          ToromBot                  2875       3          1661      
+5          ReinforcementTrial        2873       7          4397      
 6          TheMatrix2025             2863       2          319       
 7          Nikitosikbot              2862       7          8401      
 8          EmptikBot247              2854       6          97        
@@ -18,7 +18,7 @@ Rank       Bot                       Rating     Prog       Games
 17         TheYoBots                 2723       96         19        
 18         ChessHunterBot            2632       -4         90        
 19         LazyBot                   2618       6          702       
-20         AKS-Mantissa              2604       5          3894      
+20         AKS-Mantissa              2608       11         3895      
 21         expositor                 2596       9          4314      
 22         SaxtonEngine              2556       -2         1239      
 23         pawn_git                  2542       0          1001      
@@ -75,10 +75,10 @@ Rank       Bot                       Rating     Prog       Games
 74         simplexitor               1696       -18        426       
 75         HulkBot                   1685       -40        399       
 76         yeoldwiz                  1627       8          627       
-77         maia5                     1611       2          97230     
+77         maia5                     1610       -9         97232     
 78         sargon-3ply               1577       -14        1105      
 79         ArduChessBot              1569       -13        394       
-80         maia1                     1527       -19        224060    
+80         maia1                     1534       -8         224062    
 81         turochamp-2ply            1516       -7         1032      
 82         sargon-4ply               1496       -24        531       
 83         DavidsGuterBot            1477       -11        545       
@@ -88,7 +88,7 @@ Rank       Bot                       Rating     Prog       Games
 87         pawnrobot                 1321       24         531       
 88         Humaia                    1310       -18        1969      
 89         chat_bot                  1305       -31        185       
-90         sargon-1ply               1269       -7         8056      
+90         sargon-1ply               1286       0          8060      
 91         OhniBOT                   1222       -50        215       
 92         schnecken_bot             1174       -27        155       
 93         kireevi                   1083       -30        530       
