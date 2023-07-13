@@ -1,12 +1,12 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ToromBot                  2914       1          56586     
-2          ProteusSF-Godot           2889       1          416       
+1          ToromBot                  2913       -5         56587     
+2          ProteusSF-Godot           2894       6          417       
 3          ResoluteBot               2887       -4         24791     
 4          YoBot_v2                  2879       -2         16388     
-5          FishFingersMcGee          2845       14         1193      
-6          EmptikBot247              2844       -6         1790      
-7          caissa-test               2843       2          1390      
-8          RaspFish                  2842       -3         46567     
+5          FishFingersMcGee          2846       12         1194      
+6          caissa-test               2843       2          1390      
+7          RaspFish                  2842       -8         46569     
+8          EmptikBot247              2839       -11        1791      
 9          Shineshou90_BOT           2822       0          7148      
 10         LeelaMultiPoss            2819       3          127       
 11         Nikitosik-ai              2819       -1         1053      
@@ -72,7 +72,7 @@ Rank       Bot                       Rating     Prog       Games
 71         ELO_1500                  1651       -24        2887      
 72         dlvc-bot                  1626       25         151       
 73         sargon-3ply               1605       -2         1121      
-74         sargon-4ply               1591       -17        1474      
+74         sargon-4ply               1594       -12        1475      
 75         DavidsGuterBot            1586       15         5677      
 76         Humaia                    1579       -10        369       
 77         turochamp-2ply            1571       -1         1370      
@@ -84,7 +84,7 @@ Rank       Bot                       Rating     Prog       Games
 83         yeoldwiz                  1450       18         791       
 84         sargon-2ply               1438       0          1868      
 85         sargon-1ply               1430       -20        3949      
-86         botTideEval               1416       9          597       
+86         botTideEval               1413       3          598       
 87         HulkBot                   1356       22         1172      
 88         schnecken_bot             1346       -45        420       
 89         knucklefish               1318       -3         2579      
