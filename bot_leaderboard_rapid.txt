@@ -28,9 +28,9 @@ Rank       Bot                       Rating     Prog       Games
 27         Phalanx-XXV               2389       12         795       
 28         Pseudo-0                  2372       -4         1020      
 29         fornax-engine             2338       3          3561      
-30         simpleEval                2321       -5         7258      
-31         FlamingDragon_9000        2309       -12        1216      
-32         bekbot                    2308       -8         1089      
+30         simpleEval                2323       2          7260      
+31         bekbot                    2309       -7         1090      
+32         FlamingDragon_9000        2309       -12        1216      
 33         Nakshatra3                2288       25         721       
 34         honzovy-sachy-2           2242       -6         3436      
 35         eubos                     2229       2          4106      
@@ -51,7 +51,7 @@ Rank       Bot                       Rating     Prog       Games
 50         Hyperopic                 1959       6          137       
 51         zeekat                    1951       4          7701      
 52         Nc3Nc6Bot                 1949       -8         1149      
-53         Lynx_BOT                  1931       -11        39014     
+53         Lynx_BOT                  1930       -8         39015     
 54         Zagreus_Engine            1920       -20        1541      
 55         baby_eubos                1878       3          774       
 56         myopic-bot                1869       7          238       
@@ -63,7 +63,7 @@ Rank       Bot                       Rating     Prog       Games
 62         ChessChildren             1786       -8         4298      
 63         FlounderBot               1782       -25        65        
 64         Ptit-biscuit              1775       110        33        
-65         Virutor                   1774       -32        3098      
+65         Virutor                   1774       -28        3099      
 66         maia9                     1769       19         80742     
 67         dlvc-bot                  1766       120        64        
 68         honzovy-sachy             1760       -16        871       
@@ -92,5 +92,6 @@ Rank       Bot                       Rating     Prog       Games
 91         CHoMPBoT                  1032       -15        345       
 92         NichtEliasBot             1028       36         39        
 93         DeepLLaMA                 859        -49        84        
-94         G0thamB0t                 735        19         244       
-95         grandQ_AI                 704        12         1571      
+94         bobandi                   857        -12        680       
+95         G0thamB0t                 735        19         244       
+96         grandQ_AI                 704        12         1571      
