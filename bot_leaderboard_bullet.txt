@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ToromBot                  2896       -4         56799     
+1          ToromBot                  2896       -2         56800     
 2          ResoluteBot               2887       -4         24791     
-3          ProteusSF-Godot           2881       0          486       
+3          ProteusSF-Godot           2881       0          487       
 4          DaniilDubovBot            2880       23         28        
 5          Nikitosikbot              2877       6          20313     
 6          TheMatrix2025             2876       5          6523      
@@ -33,13 +33,13 @@ Rank       Bot                       Rating     Prog       Games
 32         Pseudo-0                  2279       -7         3639      
 33         AjedrezChamberi           2275       -4         499       
 34         fornax-engine             2261       -11        6635      
-35         KhepriChess               2246       24         484       
+35         KhepriChess               2253       20         485       
 36         bekbot                    2236       -6         1383      
 37         simpleEval                2232       10         24383     
 38         Nakshatra3                2221       -6         1156      
 39         HistoryExplorer           2214       5          2331      
 40         WasterNew                 2209       -1         111       
-41         LunaChessEngine           2186       -15        1051      
+41         LunaChessEngine           2181       -12        1052      
 42         GarboBot                  2180       -3         9247      
 43         honzovy-sachy-2           2175       -9         6666      
 44         LazyBotJr                 2143       42         811       
@@ -50,7 +50,7 @@ Rank       Bot                       Rating     Prog       Games
 49         redtail-zero              2069       11         259       
 50         eubos                     2065       -14        11576     
 51         BLANK_BOT                 2055       47         6696      
-52         WilliamEngine             2025       0          52        
+52         WilliamEngine             2027       7          53        
 53         MaxtheDog                 2006       34         12416     
 54         Trollfish-Bot             1996       0          2718      
 55         Hyperopic                 1975       -20        766       
@@ -76,7 +76,7 @@ Rank       Bot                       Rating     Prog       Games
 75         ChessChildren             1727       24         15153     
 76         maia1                     1693       15         120737    
 77         turkjs                    1660       -9         19019     
-78         ELO_1500                  1643       -4         2899      
+78         ELO_1500                  1642       -7         2900      
 79         dlvc-bot                  1627       20         154       
 80         sargon-3ply               1606       -2         1125      
 81         Humaia                    1602       13         388       
@@ -89,8 +89,8 @@ Rank       Bot                       Rating     Prog       Games
 88         StupidChessRobot          1469       7          104       
 89         RoundMoundOfRebounds      1457       -27        1074      
 90         yeoldwiz                  1450       18         791       
-91         sargon-1ply               1437       -2         3967      
-92         sargon-2ply               1437       3          1870      
+91         sargon-2ply               1437       3          1870      
+92         sargon-1ply               1435       -9         3968      
 93         botTideEval               1407       -14        605       
 94         HulkBot                   1356       22         1172      
 95         schnecken_bot             1340       -29        424       
@@ -100,4 +100,4 @@ Rank       Bot                       Rating     Prog       Games
 99         CHoMPBoT                  1250       -5         705       
 100        NichtEliasBot             1220       -14        21        
 101        DeepLLaMA                 1119       97         60        
-102        grandQ_AI                 812        19         807       
+102        grandQ_AI                 817        24         808       
