@@ -1,9 +1,9 @@
 Rank       Bot                       Rating     Prog       Games     
-1          TheMatrix2029             2932       -6         3805      
-2          ToromBot                  2889       2          56913     
+1          Anand_bot                 2918       -4         362       
+2          ToromBot                  2889       2          56915     
 3          ResoluteBot               2887       -4         24791     
-4          BRAINLEARN11_NNUE         2885       -2         5193      
-5          ProteusSF-Godot           2884       4          506       
+4          ProteusSF-Godot           2884       4          508       
+5          BRAINLEARN11_NNUE         2883       -2         5194      
 6          YoBot_v2                  2881       3          16461     
 7          LeelaMultiPoss            2876       13         180       
 8          ShashChess_MsP            2871       3          184       
@@ -12,9 +12,9 @@ Rank       Bot                       Rating     Prog       Games
 11         Nikitosik-ai              2843       9          1214      
 12         CodingAdventureBot        2825       2          1502      
 13         ZomevBot                  2809       -2         175       
-14         chessfyBOT                2788       -8         1404      
-15         RaspFish                  2788       8          46906     
-16         blundar_bot               2786       -7         4579      
+14         RaspFish                  2790       8          46907     
+15         blundar_bot               2788       -6         4580      
+16         chessfyBOT                2788       -8         1404      
 17         FishFingersMcGee          2784       -10        1395      
 18         Shineshou90_BOT           2784       -17        7336      
 19         LazyBot                   2707       18         1388      
@@ -49,7 +49,7 @@ Rank       Bot                       Rating     Prog       Games
 48         halcyonbot                2073       -9         4418      
 49         redtail-zero              2069       11         259       
 50         eubos                     2068       2          11590     
-51         BLANK_BOT                 2049       41         6700      
+51         BLANK_BOT                 2058       43         6701      
 52         uochess                   2037       20         73        
 53         MaxtheDog                 2018       7          12439     
 54         Hyperopic                 1975       -20        766       
@@ -67,8 +67,8 @@ Rank       Bot                       Rating     Prog       Games
 66         QueensGamBOT              1777       -33        4689      
 67         honzovy-sachy             1776       14         4714      
 68         baby_eubos                1769       -22        4657      
-69         Depth1Bot                 1752       -16        61        
-70         ArduChessBot              1748       13         5038      
+69         Depth1Bot                 1752       -7         62        
+70         ArduChessBot              1748       19         5039      
 71         melsh_bot                 1748       -7         3544      
 72         Fisk_Bot                  1740       10         225       
 73         Virutor                   1739       -12        6396      
@@ -76,7 +76,7 @@ Rank       Bot                       Rating     Prog       Games
 75         simplexitor               1728       20         2096      
 76         maia9                     1727       -12        59748     
 77         turkjs                    1666       -6         19022     
-78         maia1                     1664       -29        120765    
+78         maia1                     1654       -42        120766    
 79         ELO_1500                  1647       3          2910      
 80         dlvc-bot                  1627       20         154       
 81         sargon-4ply               1611       17         1486      
