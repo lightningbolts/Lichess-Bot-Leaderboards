@@ -40,7 +40,7 @@ Rank       Bot                       Rating     Prog       Games
 39         LunaChessEngine           2249       1          1442      
 40         HistoryExplorer           2247       17         2477      
 41         honzovy-sachy-2           2214       1          6426      
-42         eubos                     2144       -1         13395     
+42         eubos                     2147       6          13396     
 43         GarboBot                  2144       26         8592      
 44         matmoi                    2124       -4         522       
 45         jangine                   2113       -20        2870      
@@ -57,7 +57,7 @@ Rank       Bot                       Rating     Prog       Games
 56         LeelaRogue                1975       -17        2214      
 57         michabay05                1946       10         216       
 58         Nc3Nc6Bot                 1940       13         1025      
-59         Lynx_BOT                  1927       3          47239     
+59         Lynx_BOT                  1924       1          47240     
 60         myopic-bot                1898       12         1420      
 61         baby_eubos                1857       -21        6577      
 62         Ptit-biscuit              1847       8          303       
@@ -90,15 +90,15 @@ Rank       Bot                       Rating     Prog       Games
 89         maia1                     1431       11         200682    
 90         Humaia                    1418       -29        803       
 91         StupidChessRobot          1393       13         219       
-92         sargon-1ply               1333       29         7484      
-93         sargon-2ply               1320       -18        2793      
+92         sargon-2ply               1337       6          2795      
+93         sargon-1ply               1335       27         7485      
 94         turochamp-1ply            1265       -7         1596      
 95         pawnrobot                 1260       32         1793      
 96         OhniBOT                   1209       -71        281       
 97         schnecken_bot             1178       -17        1437      
 98         HulkBot                   1175       -40        664       
 99         NichtEliasBot             1139       -38        20        
-100        CHoMPBoT                  1058       -8         1228      
+100        CHoMPBoT                  1056       -13        1229      
 101        knucklefish               1039       -20        3017      
 102        BelaBot                   912        -45        44        
 103        DeepLLaMA                 893        17         54        
