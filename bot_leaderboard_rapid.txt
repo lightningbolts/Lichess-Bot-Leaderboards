@@ -19,7 +19,7 @@ Rank       Bot                       Rating     Prog       Games
 18         ChessHunterBot            2641       7          100       
 19         LazyBot                   2618       6          702       
 20         AKS-Mantissa              2603       -5         3897      
-21         expositor                 2597       0          4327      
+21         expositor                 2597       -8         4328      
 22         pawn_git                  2541       1          1005      
 23         Weiawaga                  2476       2          9439      
 24         OpeningsBot               2448       16         86        
@@ -75,8 +75,8 @@ Rank       Bot                       Rating     Prog       Games
 74         yeoldwiz                  1637       24         630       
 75         maia1                     1582       10         224283    
 76         sargon-3ply               1577       -14        1105      
-77         ArduChessBot              1569       -13        394       
-78         maia5                     1567       -26        97307     
+77         maia5                     1573       -24        97308     
+78         ArduChessBot              1569       -13        394       
 79         turochamp-2ply            1516       -5         1033      
 80         sargon-4ply               1493       -32        534       
 81         DavidsGuterBot            1474       -21        547       
