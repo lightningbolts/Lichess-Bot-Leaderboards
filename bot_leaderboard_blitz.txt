@@ -10,7 +10,7 @@ Rank       Bot                       Rating     Prog       Games
 9          caissa-test               2812       -68        39        
 10         ArasanX                   2801       1          1511      
 11         Nikitosik-ai              2800       12         106       
-12         MrChessTheBot             2784       -5         1419      
+12         MrChessTheBot             2784       -1         1420      
 13         blundar_bot               2762       10         778       
 14         LazyBot                   2756       2          1981      
 15         TRGBot                    2740       17         127       
@@ -52,7 +52,7 @@ Rank       Bot                       Rating     Prog       Games
 51         Hyperopic                 1984       14         1078      
 52         Humaia-Strong             1978       -60        2348      
 53         LeelaRogue                1975       -17        2214      
-54         Lynx_BOT                  1952       13         47270     
+54         Lynx_BOT                  1952       12         47271     
 55         michabay05                1928       -20        222       
 56         myopic-bot                1904       2          1432      
 57         baby_eubos                1867       3          6592      
@@ -67,13 +67,13 @@ Rank       Bot                       Rating     Prog       Games
 66         Fisk_Bot                  1745       16         1484      
 67         dlvc-bot                  1736       -20        1226      
 68         melsh_bot                 1720       -14        1591      
-69         simplexitor               1684       -6         1981      
-70         Depth1Bot                 1683       -88        21        
+69         Depth1Bot                 1697       -74        22        
+70         simplexitor               1684       -6         1981      
 71         ChessChildren             1677       -14        20978     
 72         ELO_1500                  1669       -10        12335     
 73         yeoldwiz                  1638       18         1592      
-74         maia9                     1623       9          96987     
-75         turkjs                    1592       -22        10059     
+74         maia9                     1619       -2         96988     
+75         turkjs                    1588       -22        10060     
 76         ArduChessBot              1534       -9         1152      
 77         sargon-4ply               1526       -5         1734      
 78         sargon-3ply               1501       9          1658      
@@ -85,7 +85,7 @@ Rank       Bot                       Rating     Prog       Games
 84         DavidsGuterBot            1443       -8         3250      
 85         RoundMoundOfRebounds      1434       -28        1049      
 86         Humaia                    1418       -29        803       
-87         maia5                     1408       -14        97902     
+87         maia5                     1402       -19        97903     
 88         StupidChessRobot          1386       2          229       
 89         sargon-1ply               1333       21         7486      
 90         sargon-2ply               1315       -5         2804      
