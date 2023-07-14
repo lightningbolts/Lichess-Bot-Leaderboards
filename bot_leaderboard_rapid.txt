@@ -1,8 +1,8 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ProteusSF-Godot           2886       4          86        
-2          ShashChess_MsP            2884       -2         698       
+1          ShashChess_MsP            2890       4          699       
+2          ProteusSF-Godot           2886       4          86        
 3          ToromBot                  2874       -3         1663      
-4          ReinforcementTrial        2872       5          4429      
+4          ReinforcementTrial        2866       -1         4430      
 5          YoBot_v2                  2866       -12        12711     
 6          TheMatrix2025             2862       1          324       
 7          ArasanX                   2850       7          4734      
@@ -42,7 +42,7 @@ Rank       Bot                       Rating     Prog       Games
 41         Elmichess                 2161       -24        1349      
 42         redtail-zero              2159       12         125       
 43         MaxtheDog                 2139       -21        524       
-44         GarboBot                  2132       4          5813      
+44         GarboBot                  2135       14         5814      
 45         jangine                   2126       -18        1550      
 46         matmoi                    2124       14         485       
 47         kulubot                   2093       0          478       
@@ -50,7 +50,7 @@ Rank       Bot                       Rating     Prog       Games
 49         LazyBotJr                 2013       8          1247      
 50         BLANK_BOT                 1981       -3         1399      
 51         LeelaRogue                1973       23         2188      
-52         Lynx_BOT                  1963       5          39058     
+52         Lynx_BOT                  1960       3          39059     
 53         Hyperopic                 1959       6          137       
 54         zeekat                    1940       9          7728      
 55         Zagreus_Engine            1929       8          1552      
@@ -73,9 +73,9 @@ Rank       Bot                       Rating     Prog       Games
 72         HulkBot                   1680       -40        400       
 73         maia9                     1649       -19        80834     
 74         yeoldwiz                  1637       24         630       
-75         maia5                     1597       14         97338     
+75         maia5                     1603       15         97339     
 76         sargon-3ply               1573       -4         1108      
-77         maia1                     1572       27         224341    
+77         maia1                     1566       28         224342    
 78         ArduChessBot              1562       -18        395       
 79         turochamp-2ply            1516       -5         1033      
 80         sargon-4ply               1507       -13        535       
