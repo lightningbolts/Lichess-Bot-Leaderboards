@@ -2,7 +2,7 @@ Rank       Bot                       Rating     Prog       Games
 1          ToromBot                  2893       1          56743     
 2          ResoluteBot               2887       -4         24791     
 3          ProteusSF-Godot           2882       -6         469       
-4          Viet-AI                   2877       11         370       
+4          Viet-AI                   2879       9          373       
 5          YoBot_v2                  2877       -5         16433     
 6          LeelaMultiPoss            2876       13         180       
 7          Nikitosikbot              2876       6          20311     
@@ -10,8 +10,8 @@ Rank       Bot                       Rating     Prog       Games
 9          Shineshou90_BOT           2867       -5         7267      
 10         caissa-test               2843       2          1390      
 11         Nikitosik-ai              2828       3          1171      
-12         RaspFish                  2823       -5         46791     
-13         EmptikBot247              2822       -5         1919      
+12         RaspFish                  2823       -5         46792     
+13         EmptikBot247              2822       -5         1920      
 14         FishFingersMcGee          2816       -2         1312      
 15         CodingAdventureBot        2811       1          1459      
 16         blundar_bot               2802       -9         4541      
@@ -24,7 +24,7 @@ Rank       Bot                       Rating     Prog       Games
 23         AKS-Mantissa              2530       7          9785      
 24         FlamingDragon_9000        2524       -5         10619     
 25         Elmichess                 2497       -86        3184      
-26         Weiawaga                  2471       -15        14381     
+26         Weiawaga                  2470       -19        14382     
 27         Cheng-4                   2431       4          13163     
 28         pawn_git                  2429       4          3590      
 29         Phalanx-XXV               2371       18         3935      
@@ -32,8 +32,8 @@ Rank       Bot                       Rating     Prog       Games
 31         OpeningsBot               2363       -11        244       
 32         TuksuBot                  2343       -9         6541      
 33         requinBOT                 2303       -18        232       
-34         Pseudo-0                  2285       2          3632      
-35         fornax-engine             2265       3          6629      
+34         Pseudo-0                  2284       -8         3633      
+35         fornax-engine             2265       3          6630      
 36         KhepriChess               2257       26         478       
 37         bekbot                    2230       -7         1382      
 38         simpleEval                2222       -8         24372     
@@ -51,11 +51,11 @@ Rank       Bot                       Rating     Prog       Games
 50         WilliamEngine             2021       2          50        
 51         BLANK_BOT                 2008       1          6688      
 52         Trollfish-Bot             1996       -18        2707      
-53         MaxtheDog                 1987       0          12409     
+53         MaxtheDog                 1992       10         12410     
 54         Hyperopic                 1975       -20        766       
 55         Nc3Nc6Bot                 1961       29         744       
 56         Zagreus_Engine            1921       23         2655      
-57         michabay05                1911       22         561       
+57         michabay05                1906       12         562       
 58         myopic-bot                1903       -3         1408      
 59         zeekat                    1901       2          17194     
 60         FlounderBot               1856       5          1537      
@@ -69,9 +69,9 @@ Rank       Bot                       Rating     Prog       Games
 68         honzovy-sachy             1759       9          4708      
 69         maia9                     1758       1          59715     
 70         melsh_bot                 1751       9          3532      
-71         Virutor                   1750       8          6390      
-72         Fisk_Bot                  1740       10         225       
-73         ArduChessBot              1734       -5         5021      
+71         Virutor                   1744       5          6391      
+72         ArduChessBot              1740       -4         5022      
+73         Fisk_Bot                  1740       10         225       
 74         simplexitor               1727       14         2094      
 75         ChessChildren             1718       6          15151     
 76         maia1                     1681       17         120722    
