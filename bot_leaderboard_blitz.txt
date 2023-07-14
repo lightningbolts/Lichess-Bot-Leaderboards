@@ -15,10 +15,10 @@ Rank       Bot                       Rating     Prog       Games
 14         MrChessTheBot             2784       -1         1420      
 15         blundar_bot               2762       10         778       
 16         LazyBot                   2756       1          1982      
-17         ChessHunterBot            2654       -2         183       
+17         ChessHunterBot            2655       -5         184       
 18         CodingAdventureBot        2635       1          2742      
 19         AKS-Mantissa              2630       -9         8862      
-20         TheYoBots                 2595       84         15        
+20         TheYoBots                 2606       95         16        
 21         expositor                 2594       10         6487      
 22         pawn_git                  2514       5          2082      
 23         Weiawaga                  2508       -20        11140     
@@ -32,7 +32,7 @@ Rank       Bot                       Rating     Prog       Games
 31         FlamingDragon_9000        2323       19         3331      
 32         KhepriChess               2299       39         1116      
 33         simpleEval                2277       22         14066     
-34         bekbot                    2269       -8         1355      
+34         bekbot                    2268       -4         1356      
 35         Nakshatra3                2265       18         1369      
 36         WasterNew                 2241       18         227       
 37         LunaChessEngine           2214       -18        1466      
@@ -80,8 +80,8 @@ Rank       Bot                       Rating     Prog       Games
 79         sargon-3ply               1501       9          1658      
 80         chat_bot                  1500       -81        225       
 81         ChamberiAjedrez           1470       -106       321       
-82         monchester                1459       -5         2579      
-83         maia1                     1456       -5         200773    
+82         maia1                     1461       -9         200774    
+83         monchester                1459       -5         2579      
 84         turochamp-2ply            1450       -9         1497      
 85         DavidsGuterBot            1443       -8         3250      
 86         RoundMoundOfRebounds      1431       -30        1050      
