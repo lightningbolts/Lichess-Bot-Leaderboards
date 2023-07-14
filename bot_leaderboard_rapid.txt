@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ShashChess_MsP            2884       -2         698       
 2          ProteusSF-Godot           2882       -1         85        
-3          ReinforcementTrial        2870       0          4427      
+3          ReinforcementTrial        2872       4          4428      
 4          YoBot_v2                  2866       -12        12711     
 5          TheMatrix2025             2862       1          324       
 6          RaspFish                  2849       -4         5297      
@@ -18,7 +18,7 @@ Rank       Bot                       Rating     Prog       Games
 17         TheYoBots                 2738       112        21        
 18         ChessHunterBot            2640       5          102       
 19         LazyBot                   2618       6          702       
-20         AKS-Mantissa              2601       -6         3899      
+20         AKS-Mantissa              2599       -5         3900      
 21         expositor                 2592       -3         4332      
 22         pawn_git                  2541       1          1005      
 23         Weiawaga                  2480       11         9441      
@@ -71,7 +71,7 @@ Rank       Bot                       Rating     Prog       Games
 70         turkjs                    1711       -1         4927      
 71         simplexitor               1688       -25        429       
 72         HulkBot                   1680       -40        400       
-73         maia9                     1660       -6         80832     
+73         maia9                     1654       -8         80833     
 74         yeoldwiz                  1637       24         630       
 75         maia5                     1598       17         97334     
 76         sargon-3ply               1573       -4         1108      
@@ -85,9 +85,9 @@ Rank       Bot                       Rating     Prog       Games
 84         sargon-2ply               1391       21         3138      
 85         chat_bot                  1350       53         195       
 86         pawnrobot                 1313       12         534       
-87         sargon-1ply               1292       19         8068      
+87         sargon-1ply               1295       17         8069      
 88         OhniBOT                   1265       -3         220       
-89         schnecken_bot             1167       -28        158       
+89         schnecken_bot             1165       -27        159       
 90         kireevi                   1083       -29        531       
 91         CHoMPBoT                  1066       37         366       
 92         NichtEliasBot             1028       36         39        
