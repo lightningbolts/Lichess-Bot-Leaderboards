@@ -21,7 +21,7 @@ Rank       Bot                       Rating     Prog       Games
 20         pawn_git                  2541       1          1005      
 21         Weiawaga                  2476       2          9439      
 22         OpeningsBot               2454       24         87        
-23         Cheng-4                   2448       44         2912      
+23         Cheng-4                   2448       45         2913      
 24         bot_adario                2417       4          1222      
 25         TuksuBot                  2404       -6         1845      
 26         Phalanx-XXV               2390       9          800       
@@ -31,7 +31,7 @@ Rank       Bot                       Rating     Prog       Games
 30         FlamingDragon_9000        2309       -12        1216      
 31         Nakshatra3                2307       7          731       
 32         WasterNew                 2306       -12        55        
-33         bekbot                    2299       6          1120      
+33         bekbot                    2300       7          1121      
 34         KhepriChess               2268       21         422       
 35         DQN-chess                 2267       17         837       
 36         honzovy-sachy-2           2241       0          3444      
@@ -44,13 +44,13 @@ Rank       Bot                       Rating     Prog       Games
 43         GarboBot                  2132       4          5813      
 44         matmoi                    2101       -22        481       
 45         Humaia-Strong             2088       27         597       
-46         halcyonbot                2079       -4         5332      
+46         halcyonbot                2077       -10        5333      
 47         LazyBotJr                 2013       8          1247      
 48         BLANK_BOT                 1983       -5         1398      
 49         LeelaRogue                1973       23         2188      
-50         Lynx_BOT                  1960       -3         39053     
-51         Hyperopic                 1959       6          137       
-52         zeekat                    1934       -5         7724      
+50         Hyperopic                 1959       6          137       
+51         Lynx_BOT                  1959       -6         39054     
+52         zeekat                    1939       7          7726      
 53         Zagreus_Engine            1925       9          1551      
 54         baby_eubos                1881       7          778       
 55         myopic-bot                1874       19         240       
@@ -62,8 +62,8 @@ Rank       Bot                       Rating     Prog       Games
 61         ELO_1500                  1798       15         2629      
 62         FlounderBot               1789       -11        67        
 63         ChessChildren             1779       -14        4301      
-64         Virutor                   1765       -23        3103      
-65         melsh_bot                 1762       -30        168       
+64         melsh_bot                 1762       -30        168       
+65         Virutor                   1762       -22        3104      
 66         dlvc-bot                  1754       79         67        
 67         honzovy-sachy             1754       -14        873       
 68         turkjs                    1711       -1         4927      
