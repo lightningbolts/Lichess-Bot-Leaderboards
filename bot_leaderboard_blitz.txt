@@ -1,8 +1,8 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ProteusSF-Godot           2886       -10        315       
+1          ProteusSF-Godot           2885       -7         316       
 2          TheMatrix2025             2872       0          411       
 3          ToromBot                  2865       -8         2672      
-4          YoBot_v2                  2858       0          3114      
+4          YoBot_v2                  2858       1          3115      
 5          FishFingersMcGee          2834       5          283       
 6          RaspFish                  2822       1          10728     
 7          Shineshou90_BOT           2820       -7         1467      
@@ -29,12 +29,12 @@ Rank       Bot                       Rating     Prog       Games
 28         fornax-engine             2392       3          6291      
 29         Pseudo-0                  2345       6          2681      
 30         FlamingDragon_9000        2323       19         3331      
-31         KhepriChess               2294       30         1115      
+31         KhepriChess               2299       39         1116      
 32         simpleEval                2276       21         14064     
 33         bekbot                    2269       -8         1355      
 34         Nakshatra3                2265       18         1369      
 35         WasterNew                 2238       10         226       
-36         LunaChessEngine           2223       -9         1464      
+36         LunaChessEngine           2218       -19        1465      
 37         honzovy-sachy-2           2200       -12        6433      
 38         DQN-chess                 2180       8          198       
 39         GarboBot                  2156       15         8602      
@@ -69,8 +69,8 @@ Rank       Bot                       Rating     Prog       Games
 68         melsh_bot                 1719       -13        1592      
 69         simplexitor               1684       -6         1981      
 70         ChessChildren             1683       -5         20979     
-71         ELO_1500                  1678       -1         12338     
-72         Depth1Bot                 1656       -51        24        
+71         ELO_1500                  1683       7          12339     
+72         Depth1Bot                 1649       -43        26        
 73         yeoldwiz                  1638       18         1592      
 74         maia9                     1623       -10        96991     
 75         turkjs                    1592       -15        10061     
@@ -80,8 +80,8 @@ Rank       Bot                       Rating     Prog       Games
 79         chat_bot                  1500       -81        225       
 80         ChamberiAjedrez           1470       -106       321       
 81         monchester                1459       -5         2579      
-82         maia1                     1458       -5         200757    
-83         turochamp-2ply            1453       3          1496      
+82         maia1                     1454       -11        200758    
+83         turochamp-2ply            1450       -9         1497      
 84         DavidsGuterBot            1443       -8         3250      
 85         RoundMoundOfRebounds      1434       -28        1049      
 86         Humaia                    1418       -29        803       
