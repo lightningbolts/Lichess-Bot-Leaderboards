@@ -8,9 +8,9 @@ Rank       Bot                       Rating     Prog       Games
 7          CodingAdventureBot        2825       2          1502      
 8          Shineshou90_BOT           2793       9          7346      
 9          FishFingersMcGee          2790       8          1402      
-10         RaspFish                  2789       3          46923     
-11         chessfyBOT                2788       -8         1404      
-12         blundar_bot               2766       -16        4597      
+10         chessfyBOT                2788       -8         1404      
+11         RaspFish                  2788       2          46924     
+12         blundar_bot               2766       -11        4598      
 13         LazyBot                   2707       18         1388      
 14         expositor                 2552       -5         18431     
 15         MrChessTheBot             2550       -16        4616      
@@ -48,13 +48,13 @@ Rank       Bot                       Rating     Prog       Games
 47         BLANK_BOT                 2054       25         6703      
 48         MaxtheDog                 2017       -5         12446     
 49         Hyperopic                 1975       -20        766       
-50         Trollfish-Bot             1936       0          2748      
-51         Zagreus_Engine            1936       22         2665      
+50         Zagreus_Engine            1940       19         2666      
+51         Trollfish-Bot             1936       0          2748      
 52         zeekat                    1934       22         17232     
 53         michabay05                1916       -6         606       
 54         myopic-bot                1880       -19        1424      
 55         Lynx_BOT                  1860       -7         5769      
-56         FlounderBot               1850       -7         1588      
+56         FlounderBot               1845       -10        1589      
 57         notropis                  1833       7          3369      
 58         yowCapablanca             1824       -120       46        
 59         Ptit-biscuit              1818       -6         442       
@@ -94,5 +94,4 @@ Rank       Bot                       Rating     Prog       Games
 93         CHoMPBoT                  1247       -5         706       
 94         NichtEliasBot             1220       -14        21        
 95         DeepLLaMA                 1119       97         60        
-96         BetaTree                  1096       -12        15        
-97         grandQ_AI                 815        22         809       
+96         grandQ_AI                 815        22         809       
