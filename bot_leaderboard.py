@@ -38,6 +38,7 @@ def get_bot_ratings_online(type):
         'MedipolUniversity',
         'MustafaYilmazBot'
         'Viet-AI'
+        'RexherBot'
     ]
     online_bots = urllib.request.urlopen('https://lichess.org/api/bot/online')
     user_arr = []
