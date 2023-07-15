@@ -31,9 +31,9 @@ Rank       Bot                       Rating     Prog       Games
 30         fornax-engine             2333       -3         3564      
 31         WasterNew                 2314       17         60        
 32         FlamingDragon_9000        2309       -12        1216      
-33         bekbot                    2298       -1         1130      
-34         Nakshatra3                2297       14         734       
-35         KhepriChess               2261       3          431       
+33         Nakshatra3                2297       14         734       
+34         bekbot                    2291       -8         1131      
+35         KhepriChess               2268       6          432       
 36         LunaChessEngine           2250       10         997       
 37         honzovy-sachy-2           2226       -5         3448      
 38         eubos                     2209       -17        4110      
@@ -64,13 +64,13 @@ Rank       Bot                       Rating     Prog       Games
 63         ChessChildren             1778       -10        4302      
 64         melsh_bot                 1762       -30        168       
 65         Virutor                   1762       -22        3104      
-66         maia9                     1758       25         80892     
+66         maia9                     1752       15         80893     
 67         honzovy-sachy             1751       -14        874       
 68         dlvc-bot                  1748       76         68        
 69         turkjs                    1711       -1         4927      
-70         maia5                     1685       -17        97406     
-71         simplexitor               1684       -27        430       
-72         HulkBot                   1680       -40        400       
+70         simplexitor               1684       -27        430       
+71         HulkBot                   1680       -40        400       
+72         maia5                     1680       -29        97407     
 73         yeoldwiz                  1637       24         630       
 74         sargon-3ply               1573       -4         1108      
 75         ArduChessBot              1562       -18        395       
@@ -90,4 +90,5 @@ Rank       Bot                       Rating     Prog       Games
 89         CHoMPBoT                  1063       36         367       
 90         NichtEliasBot             1028       36         39        
 91         DeepLLaMA                 859        -49        84        
-92         grandQ_AI                 721        15         1579      
+92         G0thamB0t                 721        1          253       
+93         grandQ_AI                 721        15         1579      
