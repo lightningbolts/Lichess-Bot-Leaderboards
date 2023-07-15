@@ -32,9 +32,9 @@ Rank       Bot                       Rating     Prog       Games
 31         WasterNew                 2322       26         61        
 32         FlamingDragon_9000        2309       -12        1216      
 33         Nakshatra3                2293       5          735       
-34         bekbot                    2290       -10        1132      
+34         bekbot                    2291       0          1133      
 35         KhepriChess               2269       -3         434       
-36         LunaChessEngine           2249       15         1000      
+36         LunaChessEngine           2253       23         1001      
 37         honzovy-sachy-2           2221       -13        3450      
 38         eubos                     2209       -17        4110      
 39         Elmichess                 2161       -24        1349      
@@ -42,12 +42,12 @@ Rank       Bot                       Rating     Prog       Games
 41         GarboBot                  2143       28         5815      
 42         jangine                   2131       -6         1551      
 43         MaxtheDog                 2126       -32        526       
-44         matmoi                    2121       12         493       
-45         halcyonbot                2096       15         5352      
+44         matmoi                    2118       5          494       
+45         halcyonbot                2088       3          5353      
 46         LazyBotJr                 2013       8          1247      
 47         BLANK_BOT                 1973       1          1401      
 48         LeelaRogue                1973       23         2188      
-49         Lynx_BOT                  1960       1          39065     
+49         Lynx_BOT                  1968       14         39066     
 50         Hyperopic                 1959       6          137       
 51         zeekat                    1937       -3         7739      
 52         Zagreus_Engine            1924       6          1557      
@@ -60,7 +60,7 @@ Rank       Bot                       Rating     Prog       Games
 59         Fisk_Bot                  1813       -19        224       
 60         ELO_1500                  1797       9          2631      
 61         FlounderBot               1784       -7         68        
-62         ChessChildren             1778       -10        4302      
+62         ChessChildren             1778       -16        4303      
 63         melsh_bot                 1762       -30        168       
 64         Virutor                   1762       -22        3104      
 65         honzovy-sachy             1751       -14        874       
@@ -73,7 +73,7 @@ Rank       Bot                       Rating     Prog       Games
 72         yeoldwiz                  1637       24         630       
 73         sargon-3ply               1573       -4         1108      
 74         ArduChessBot              1562       -18        395       
-75         maia1                     1543       51         224445    
+75         maia1                     1548       49         224446    
 76         turochamp-2ply            1516       -5         1033      
 77         sargon-4ply               1507       -13        535       
 78         DavidsGuterBot            1474       -21        547       
