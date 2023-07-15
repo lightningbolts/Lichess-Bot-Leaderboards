@@ -1,9 +1,9 @@
 Rank       Bot                       Rating     Prog       Games     
 1          YellowFlash_v2            2901       -9         25        
-2          ProteusSF-Godot           2873       -2         377       
+2          ProteusSF-Godot           2872       -3         378       
 3          ToromBot                  2869       2          2701      
 4          YoBot_v2                  2868       2          3141      
-5          FishFingersMcGee          2829       -1         291       
+5          FishFingersMcGee          2829       -5         292       
 6          RaspFish                  2823       -1         10732     
 7          Shineshou90_BOT           2822       -5         1469      
 8          chessfyBOT                2819       -12        180       
@@ -11,7 +11,7 @@ Rank       Bot                       Rating     Prog       Games
 10         ResoluteBot               2807       -18        10832     
 11         Nikitosik-ai              2801       18         108       
 12         ArasanX                   2799       -4         1519      
-13         MrChessTheBot             2775       -16        1426      
+13         MrChessTheBot             2777       -15        1427      
 14         EmptikBot247              2771       19         56        
 15         blundar_bot               2764       14         779       
 16         LazyBot                   2756       1          1982      
@@ -21,7 +21,7 @@ Rank       Bot                       Rating     Prog       Games
 20         expositor                 2588       -5         6497      
 21         pawn_git                  2520       -1         2085      
 22         Weiawaga                  2504       -7         11148     
-23         OpeningsBot               2478       28         337       
+23         OpeningsBot               2476       20         338       
 24         bot_adario                2450       -3         1917      
 25         admete_bot                2414       -47        5737      
 26         Cheng-4                   2402       -6         6240      
@@ -35,9 +35,9 @@ Rank       Bot                       Rating     Prog       Games
 34         KhepriChess               2300       10         1132      
 35         HistoryExplorer           2265       26         2484      
 36         bekbot                    2263       -2         1362      
-37         simpleEval                2260       -20        14081     
+37         simpleEval                2260       -17        14082     
 38         Nakshatra3                2259       -2         1376      
-39         LunaChessEngine           2215       -7         1492      
+39         LunaChessEngine           2216       0          1493      
 40         honzovy-sachy-2           2199       -1         6444      
 41         eubos                     2166       7          13427     
 42         GarboBot                  2151       2          8612      
@@ -79,11 +79,11 @@ Rank       Bot                       Rating     Prog       Games
 78         sargon-4ply               1521       -14        1737      
 79         chat_bot                  1500       -81        225       
 80         sargon-3ply               1500       19         1662      
-81         maia5                     1460       32         97945     
+81         maia5                     1467       40         97946     
 82         monchester                1458       -3         2582      
 83         turochamp-2ply            1447       -13        1501      
 84         DavidsGuterBot            1446       -7         3254      
-85         maia1                     1430       8          200871    
+85         maia1                     1428       12         200872    
 86         RoundMoundOfRebounds      1427       -23        1054      
 87         StupidChessRobot          1369       9          246       
 88         sargon-1ply               1326       4          7492      
