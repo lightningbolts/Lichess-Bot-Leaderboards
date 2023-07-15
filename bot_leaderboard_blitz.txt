@@ -20,9 +20,9 @@ Rank       Bot                       Rating     Prog       Games
 19         expositor                 2588       -8         6500      
 20         pawn_git                  2520       -1         2085      
 21         Weiawaga                  2514       6          11151     
-22         OpeningsBot               2468       6          340       
+22         OpeningsBot               2458       -4         341       
 23         bot_adario                2455       1          1918      
-24         admete_bot                2419       -36        5738      
+24         admete_bot                2420       -33        5739      
 25         Cheng-4                   2402       -10        6241      
 26         TuksuBot                  2395       -3         3662      
 27         Phalanx-XXV               2392       -3         2422      
@@ -31,13 +31,13 @@ Rank       Bot                       Rating     Prog       Games
 30         Pseudo-0                  2346       13         2683      
 31         clueless-bot              2345       -19        2423      
 32         FlamingDragon_9000        2323       19         3331      
-33         KhepriChess               2300       10         1132      
+33         KhepriChess               2299       3          1133      
 34         bekbot                    2263       -2         1362      
-35         HistoryExplorer           2261       12         2486      
+35         HistoryExplorer           2262       18         2487      
 36         simpleEval                2260       -11        14084     
 37         Nakshatra3                2259       -2         1376      
 38         honzovy-sachy-2           2200       4          6446      
-39         eubos                     2168       2          13430     
+39         eubos                     2178       7          13431     
 40         GarboBot                  2151       2          8612      
 41         matmoi                    2128       -5         550       
 42         jangine                   2127       10         2882      
@@ -49,7 +49,7 @@ Rank       Bot                       Rating     Prog       Games
 48         LazyBotJr                 2022       8          1502      
 49         Hyperopic                 1984       14         1078      
 50         LeelaRogue                1975       -17        2214      
-51         zeekat                    1972       -3         19076     
+51         zeekat                    1971       -6         19077     
 52         Lynx_BOT                  1935       9          47329     
 53         michabay05                1907       -22        234       
 54         Zagreus_Engine            1900       61         3749      
@@ -70,7 +70,7 @@ Rank       Bot                       Rating     Prog       Games
 69         simplexitor               1672       -15        1986      
 70         Depth1Bot                 1669       14         50        
 71         yeoldwiz                  1638       18         1592      
-72         maia9                     1624       21         97055     
+72         maia9                     1620       12         97056     
 73         turkjs                    1589       -17        10065     
 74         ArduChessBot              1546       4          1159      
 75         sargon-4ply               1521       -14        1737      
