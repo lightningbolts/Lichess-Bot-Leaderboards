@@ -37,7 +37,7 @@ Rank       Bot                       Rating     Prog       Games
 36         Pseudo-0                  2285       -3         3660      
 37         KhepriChess               2238       -1         507       
 38         Nakshatra3                2238       9          1169      
-39         simpleEval                2234       -9         24423     
+39         simpleEval                2238       0          24424     
 40         HistoryExplorer           2227       9          2339      
 41         bekbot                    2219       -8         1399      
 42         honzovy-sachy-2           2187       -20        6692      
@@ -58,7 +58,7 @@ Rank       Bot                       Rating     Prog       Games
 57         myopic-bot                1924       15         1442      
 58         michabay05                1885       -5         649       
 59         Lynx_BOT                  1872       13         5797      
-60         FlounderBot               1855       -14        1662      
+60         FlounderBot               1859       -11        1663      
 61         Demolito_L5               1826       -14        249       
 62         Ptit-biscuit              1815       -15        459       
 63         honzovy-sachy             1791       14         4730      
@@ -66,7 +66,7 @@ Rank       Bot                       Rating     Prog       Games
 65         QueensGamBOT              1786       1          4702      
 66         melsh_bot                 1769       14         3570      
 67         Depth1Bot                 1765       -10        111       
-68         Virutor                   1760       12         6410      
+68         Virutor                   1755       11         6411      
 69         baby_eubos                1746       -29        4682      
 70         Fisk_Bot                  1740       10         225       
 71         maia9                     1740       14         59777     
@@ -90,8 +90,8 @@ Rank       Bot                       Rating     Prog       Games
 89         StupidChessRobot          1466       -2         121       
 90         yeoldwiz                  1450       18         791       
 91         ZE_ROOK                   1447       -24        1113      
-92         sargon-1ply               1427       -38        3995      
-93         botTideEval               1378       -19        705       
+92         sargon-1ply               1432       -30        3996      
+93         botTideEval               1373       -17        706       
 94         HulkBot                   1344       17         1173      
 95         OhniBOT                   1303       43         482       
 96         pawnrobot                 1302       -2         3631      
