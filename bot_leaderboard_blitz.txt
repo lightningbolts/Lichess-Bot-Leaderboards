@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ProteusSF-Godot           2880       -3         344       
+1          ProteusSF-Godot           2880       -3         345       
 2          ToromBot                  2868       3          2685      
-3          YoBot_v2                  2866       8          3127      
+3          YoBot_v2                  2866       8          3128      
 4          LeelaMultiPoss            2840       7          71        
 5          DaniilDubovBot            2828       87         25        
 6          FishFingersMcGee          2826       -6         288       
@@ -16,7 +16,7 @@ Rank       Bot                       Rating     Prog       Games
 15         blundar_bot               2764       14         779       
 16         LazyBot                   2756       1          1982      
 17         ChessHunterBot            2666       20         200       
-18         CodingAdventureBot        2638       3          2754      
+18         CodingAdventureBot        2638       3          2755      
 19         AKS-Mantissa              2632       1          8875      
 20         expositor                 2585       0          6495      
 21         pawn_git                  2520       -1         2085      
@@ -83,8 +83,8 @@ Rank       Bot                       Rating     Prog       Games
 82         monchester                1459       -1         2581      
 83         maia5                     1447       9          97938     
 84         DavidsGuterBot            1446       -7         3254      
-85         turochamp-2ply            1444       -10        1499      
-86         maia1                     1433       25         200844    
+85         turochamp-2ply            1445       -18        1500      
+86         maia1                     1430       17         200845    
 87         RoundMoundOfRebounds      1428       -24        1053      
 88         StupidChessRobot          1372       -5         242       
 89         sargon-1ply               1328       21         7488      
@@ -95,7 +95,7 @@ Rank       Bot                       Rating     Prog       Games
 94         schnecken_bot             1181       -10        1441      
 95         HulkBot                   1173       -51        665       
 96         NichtEliasBot             1129       -48        22        
-97         CHoMPBoT                  1060       -3         1235      
+97         CHoMPBoT                  1058       -3         1236      
 98         knucklefish               1038       -15        3018      
 99         BelaBot                   912        -45        44        
 100        DeepLLaMA                 884        -14        57        
