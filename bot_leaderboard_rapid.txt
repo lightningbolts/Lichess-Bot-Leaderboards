@@ -1,13 +1,13 @@
 Rank       Bot                       Rating     Prog       Games     
-1          TorBot                    2902       3          740       
-2          ProteusSF-Godot           2881       -3         102       
+1          TorBot                    2902       4          741       
+2          ProteusSF-Godot           2880       -4         103       
 3          ToromBot                  2874       -2         1679      
 4          YoBot_v2                  2869       0          12731     
 5          Nikitosikbot              2859       -3         8413      
 6          ReinforcementTrial        2858       0          4481      
 7          FishFingersMcGee          2852       2          94        
 8          RaspFish                  2849       2          5325      
-9          Shineshou90_BOT           2846       2          2324      
+9          Shineshou90_BOT           2847       3          2325      
 10         chessfyBOT                2845       -7         228       
 11         ResoluteBot               2844       -6         5153      
 12         Nikitosik-ai              2831       -12        529       
@@ -15,10 +15,10 @@ Rank       Bot                       Rating     Prog       Games
 14         MrChessTheBot             2816       10         1989      
 15         LeelaMultiPoss            2814       7          110       
 16         blundar_bot               2797       1          954       
-17         ChessHunterBot            2637       1          126       
+17         ChessHunterBot            2643       9          127       
 18         LazyBot                   2618       6          702       
 19         expositor                 2616       12         4349      
-20         AKS-Mantissa              2605       2          3909      
+20         AKS-Mantissa              2599       -2         3910      
 21         SaxtonEngine              2556       0          1250      
 22         pawn_git                  2532       -8         1017      
 23         Weiawaga                  2483       -17        9467      
@@ -30,7 +30,7 @@ Rank       Bot                       Rating     Prog       Games
 29         odonata-bot               2397       -8         3622      
 30         Phalanx-XXV               2396       6          807       
 31         Pseudo-0                  2388       1          1036      
-32         simpleEval                2347       2          7287      
+32         simpleEval                2347       -4         7288      
 33         fornax-engine             2341       11         3569      
 34         WasterNew                 2321       30         62        
 35         clueless-bot              2317       28         632       
@@ -85,7 +85,7 @@ Rank       Bot                       Rating     Prog       Games
 84         turochamp-2ply            1516       -5         1033      
 85         sargon-4ply               1514       -6         536       
 86         DavidsGuterBot            1470       -25        551       
-87         maia1                     1459       -7         224698    
+87         maia1                     1463       5          224699    
 88         ZE_ROOK                   1433       1          194       
 89         turochamp-1ply            1420       -6         1498      
 90         sargon-2ply               1401       27         3145      
