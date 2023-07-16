@@ -2,7 +2,7 @@ Rank       Bot                       Rating     Prog       Games
 1          TorBot                    2912       -1         708       
 2          ToromBot                  2875       0          1673      
 3          YoBot_v2                  2870       5          12727     
-4          ReinforcementTrial        2862       6          4469      
+4          ReinforcementTrial        2858       2          4470      
 5          FishFingersMcGee          2849       -2         82        
 6          RaspFish                  2846       -4         5313      
 7          chessfyBOT                2845       -7         228       
@@ -14,8 +14,8 @@ Rank       Bot                       Rating     Prog       Games
 13         MrChessTheBot             2802       -3         1979      
 14         blundar_bot               2794       3          951       
 15         ChessHunterBot            2642       1          120       
-16         LazyBot                   2618       6          702       
-17         expositor                 2617       20         4345      
+16         expositor                 2620       15         4346      
+17         LazyBot                   2618       6          702       
 18         AKS-Mantissa              2606       -2         3907      
 19         SaxtonEngine              2547       -11        1246      
 20         pawn_git                  2534       -3         1015      
@@ -76,7 +76,7 @@ Rank       Bot                       Rating     Prog       Games
 75         ArduChessBot              1560       -15        396       
 76         turochamp-2ply            1516       -5         1033      
 77         sargon-4ply               1514       -6         536       
-78         maia1                     1497       -14        224614    
+78         maia1                     1502       -14        224615    
 79         DavidsGuterBot            1473       -28        548       
 80         RoundMoundOfRebounds      1456       -25        310       
 81         ZE_ROOK                   1433       1          194       
