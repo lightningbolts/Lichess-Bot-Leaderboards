@@ -15,7 +15,7 @@ Rank       Bot                       Rating     Prog       Games
 14         chessfyBOT                2845       -7         228       
 15         ResoluteBot               2844       -6         5153      
 16         Nikitosik-ai              2830       -13        530       
-17         ArasanX                   2824       -6         4796      
+17         ArasanX                   2825       0          4797      
 18         MrChessTheBot             2821       17         1993      
 19         NikitosikVariantsbot      2799       -8         745       
 20         blundar_bot               2798       1          955       
@@ -25,11 +25,11 @@ Rank       Bot                       Rating     Prog       Games
 24         AKS-Mantissa              2603       6          3912      
 25         SaxtonEngine              2556       0          1250      
 26         pawn_git                  2529       -10        1019      
-27         Weiawaga                  2488       -3         9470      
+27         Weiawaga                  2487       -3         9471      
 28         Cheng-4                   2469       5          2929      
-29         OpeningsBot               2437       -17        98        
+29         OpeningsBot               2442       -10        99        
 30         bot_adario                2417       -2         1231      
-31         TuksuBot                  2407       3          1856      
+31         TuksuBot                  2406       3          1857      
 32         admete_bot                2398       19         3444      
 33         odonata-bot               2397       -8         3622      
 34         Phalanx-XXV               2396       6          807       
@@ -41,7 +41,7 @@ Rank       Bot                       Rating     Prog       Games
 40         FlamingDragon_9000        2309       -12        1216      
 41         bekbot                    2291       0          1133      
 42         Nakshatra3                2279       -15        751       
-43         KhepriChess               2263       -5         460       
+43         KhepriChess               2260       -7         461       
 44         FataliiBot                2257       25         2412      
 45         honzovy-sachy-2           2220       -1         3460      
 46         HistoryExplorer           2216       3          945       
@@ -87,7 +87,7 @@ Rank       Bot                       Rating     Prog       Games
 86         ArduChessBot              1553       -44        398       
 87         turochamp-2ply            1516       -5         1033      
 88         sargon-4ply               1514       -6         536       
-89         maia1                     1502       29         224734    
+89         maia1                     1511       13         224737    
 90         DavidsGuterBot            1470       -25        551       
 91         ZE_ROOK                   1433       1          194       
 92         turochamp-1ply            1420       -6         1498      
@@ -96,10 +96,10 @@ Rank       Bot                       Rating     Prog       Games
 95         pawnrobot                 1323       2          542       
 96         OhniBOT                   1269       19         222       
 97         sargon-1ply               1237       21         8106      
-98         schnecken_bot             1163       -26        160       
+98         schnecken_bot             1161       -25        161       
 99         kireevi                   1076       -27        537       
 100        CHoMPBoT                  1058       9          374       
 101        NichtEliasBot             1028       36         39        
 102        DeepLLaMA                 855        -52        85        
-103        grandQ_AI                 747        37         1584      
+103        grandQ_AI                 747        39         1586      
 104        G0thamB0t                 721        2          254       
