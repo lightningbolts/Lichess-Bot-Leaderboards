@@ -8,7 +8,7 @@ Rank       Bot                       Rating     Prog       Games
 7          caissa-test               2843       2          1390      
 8          Nikitosik-ai              2821       4          1310      
 9          Shineshou90_BOT           2805       6          7415      
-10         RaspFish                  2797       -8         47169     
+10         RaspFish                  2798       -7         47170     
 11         chessfyBOT                2788       -8         1404      
 12         blundar_bot               2782       -1         4655      
 13         FishFingersMcGee          2763       18         1624      
@@ -21,7 +21,7 @@ Rank       Bot                       Rating     Prog       Games
 20         Elmichess                 2497       -86        3184      
 21         SaxtonEngine              2488       -5         3626      
 22         Weiawaga                  2479       15         14438     
-23         Cheng-4                   2427       -14        13186     
+23         Cheng-4                   2425       -14        13187     
 24         pawn_git                  2424       6          3609      
 25         bot_adario                2393       22         2232      
 26         admete_bot                2374       4          5529      
@@ -55,7 +55,7 @@ Rank       Bot                       Rating     Prog       Games
 54         myopic-bot                1916       12         1448      
 55         Lynx_BOT                  1895       28         5803      
 56         michabay05                1871       -28        656       
-57         FlounderBot               1854       -2         1685      
+57         FlounderBot               1856       2          1686      
 58         Demolito_L5               1821       -4         259       
 59         Ptit-biscuit              1820       -12        462       
 60         honzovy-sachy             1797       17         4734      
@@ -78,8 +78,8 @@ Rank       Bot                       Rating     Prog       Games
 77         turochamp-2ply            1576       -11        1386      
 78         DavidsGuterBot            1571       3          5730      
 79         maia1                     1552       -9         120873    
-80         maia5                     1522       -10        38595     
-81         DeepKalle                 1517       -3         258       
+80         maia5                     1521       -3         38596     
+81         DeepKalle                 1520       -5         259       
 82         monchester                1510       2          2253      
 83         RoundMoundOfRebounds      1504       27         1098      
 84         turochamp-1ply            1474       19         1655      
@@ -88,11 +88,11 @@ Rank       Bot                       Rating     Prog       Games
 87         yeoldwiz                  1450       18         791       
 88         sargon-2ply               1446       -24        1903      
 89         sargon-1ply               1432       -26        3997      
-90         botTideEval               1381       8          717       
+90         botTideEval               1374       -3         718       
 91         HulkBot                   1344       17         1173      
 92         OhniBOT                   1303       43         482       
 93         pawnrobot                 1297       -13        3632      
-94         knucklefish               1273       -26        2594      
+94         knucklefish               1278       -7         2596      
 95         CHoMPBoT                  1259       12         717       
 96         NichtEliasBot             1220       -14        21        
 97         DeepLLaMA                 1119       97         60        
