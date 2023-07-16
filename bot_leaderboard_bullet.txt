@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          YellowFlash_v2            2940       1          708       
 2          RexherBot                 2924       -14        93        
-3          ToromBot                  2896       -11        57160     
+3          ToromBot                  2894       -5         57162     
 4          TorBot                    2888       7          5867      
 5          ResoluteBot               2887       -4         24791     
 6          YoBot_v2                  2879       16         16533     
@@ -10,7 +10,7 @@ Rank       Bot                       Rating     Prog       Games
 9          caissa-test               2843       2          1390      
 10         CodingAdventureBot        2827       1          1515      
 11         Nikitosik-ai              2824       3          1345      
-12         RaspFish                  2812       8          47237     
+12         RaspFish                  2815       9          47239     
 13         Shineshou90_BOT           2794       5          7440      
 14         chessfyBOT                2788       -8         1404      
 15         FishFingersMcGee          2784       6          1645      
@@ -34,9 +34,9 @@ Rank       Bot                       Rating     Prog       Games
 33         clueless-bot              2316       20         6100      
 34         AjedrezChamberi           2315       36         511       
 35         fornax-engine             2308       1          6704      
-36         requinBOT                 2303       -18        232       
-37         odonata-bot               2302       5          5949      
-38         Pseudo-0                  2282       5          3664      
+36         odonata-bot               2305       8          5950      
+37         requinBOT                 2303       -18        232       
+38         Pseudo-0                  2286       3          3665      
 39         HistoryExplorer           2233       19         2342      
 40         KhepriChess               2233       -3         516       
 41         simpleEval                2230       -9         24437     
@@ -47,7 +47,7 @@ Rank       Bot                       Rating     Prog       Games
 46         FataliiBot                2179       -7         5432      
 47         GarboBot                  2173       7          9273      
 48         LazyBotJr                 2165       9          833       
-49         matmoi                    2149       -1         770       
+49         matmoi                    2142       1          772       
 50         jangine                   2125       10         2507      
 51         kulubot                   2109       8          758       
 52         halcyonbot                2106       -10        4469      
@@ -57,13 +57,13 @@ Rank       Bot                       Rating     Prog       Games
 56         Zagreus_Engine            1980       6          2713      
 57         Hyperopic                 1975       -20        766       
 58         BLANK_BOT                 1959       -11        6737      
-59         Trollfish-Bot             1958       -3         2834      
+59         Trollfish-Bot             1951       -11        2835      
 60         zeekat                    1935       -7         17343     
-61         LTChessBot                1907       18         161       
+61         LTChessBot                1914       20         162       
 62         myopic-bot                1906       -9         1456      
 63         Lynx_BOT                  1896       19         5812      
 64         michabay05                1893       10         673       
-65         FlounderBot               1829       -23        1716      
+65         FlounderBot               1828       -23        1717      
 66         Demolito_L5               1817       -8         265       
 67         Ptit-biscuit              1810       -6         469       
 68         RosyBot                   1803       -110       30        
@@ -72,7 +72,7 @@ Rank       Bot                       Rating     Prog       Games
 71         honzovy-sachy             1793       1          4737      
 72         rudim-bot                 1789       -47        130       
 73         melsh_bot                 1774       10         3578      
-74         Virutor                   1763       10         6424      
+74         Virutor                   1764       5          6425      
 75         baby_eubos                1741       -5         4695      
 76         Fisk_Bot                  1740       10         225       
 77         ArduChessBot              1728       3          5105      
