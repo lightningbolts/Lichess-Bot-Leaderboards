@@ -1,9 +1,9 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Godot           2875       -3         438       
 2          ToromBot                  2873       5          2719      
-3          LeelaMultiPoss            2867       6          113       
-4          TorBot                    2867       -1         662       
-5          EmptikBotEman             2859       11         23        
+3          ttBOT                     2871       -8         452       
+4          LeelaMultiPoss            2867       6          113       
+5          TorBot                    2867       -1         662       
 6          YoBot_v2                  2859       -5         3165      
 7          Nikitosikbot              2833       4          5750      
 8          FishFingersMcGee          2827       -1         312       
@@ -24,7 +24,7 @@ Rank       Bot                       Rating     Prog       Games
 23         SaxtonEngine              2537       -24        1941      
 24         Weiawaga                  2528       -8         11174     
 25         pawn_git                  2499       -15        2093      
-26         OpeningsBot               2458       -14        375       
+26         OpeningsBot               2450       -26        376       
 27         bot_adario                2448       -7         1929      
 28         admete_bot                2434       -4         5758      
 29         odonata-bot               2405       32         5795      
@@ -38,8 +38,8 @@ Rank       Bot                       Rating     Prog       Games
 37         simpleEval                2288       9          14109     
 38         Nakshatra3                2279       19         1406      
 39         HistoryExplorer           2276       20         2493      
-40         bekbot                    2263       -2         1362      
-41         FataliiBot                2255       12         6183      
+40         FataliiBot                2264       24         6184      
+41         bekbot                    2263       -2         1362      
 42         WasterNew                 2241       -3         234       
 43         KhepriChess               2236       -5         1183      
 44         morabandbot               2207       5          150       
@@ -92,10 +92,10 @@ Rank       Bot                       Rating     Prog       Games
 91         ChamberiAjedrez           1470       -106       321       
 92         monchester                1455       -4         2583      
 93         turochamp-2ply            1444       -12        1514      
-94         maia5                     1417       -3         98039     
+94         maia5                     1419       -7         98040     
 95         ZE_ROOK                   1415       39         1980      
-96         StupidChessRobot          1359       -14        258       
-97         maia1                     1347       -20        201190    
+96         maia1                     1364       -2         201194    
+97         StupidChessRobot          1359       -14        258       
 98         sargon-2ply               1338       12         2838      
 99         sargon-1ply               1300       -36        7516      
 100        pawnrobot                 1265       14         1821      
