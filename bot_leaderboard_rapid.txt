@@ -30,7 +30,7 @@ Rank       Bot                       Rating     Prog       Games
 29         bot_adario                2416       -2         1232      
 30         TuksuBot                  2406       3          1857      
 31         odonata-bot               2397       -8         3622      
-32         admete_bot                2396       16         3445      
+32         admete_bot                2396       16         3446      
 33         Phalanx-XXV               2396       6          807       
 34         Pseudo-0                  2388       1          1036      
 35         fornax-engine             2341       11         3569      
@@ -55,7 +55,7 @@ Rank       Bot                       Rating     Prog       Games
 54         BLANK_BOT                 1972       -7         1404      
 55         Hyperopic                 1959       6          137       
 56         zeekat                    1953       9          7768      
-57         Zagreus_Engine            1938       14         1571      
+57         Zagreus_Engine            1943       24         1572      
 58         Lynx_BOT                  1930       -7         39127     
 59         baby_eubos                1892       13         782       
 60         myopic-bot                1885       18         246       
@@ -75,7 +75,7 @@ Rank       Bot                       Rating     Prog       Games
 74         melsh_bot                 1750       -22        173       
 75         Demolito_L5               1748       -23        285       
 76         turkjs                    1747       18         4941      
-77         maia9                     1737       -1         81114     
+77         maia9                     1737       -1         81116     
 78         simplexitor               1684       -21        434       
 79         HulkBot                   1680       -40        400       
 80         yeoldwiz                  1637       24         630       
@@ -86,9 +86,9 @@ Rank       Bot                       Rating     Prog       Games
 85         turochamp-2ply            1516       -5         1033      
 86         sargon-4ply               1508       -11        537       
 87         DavidsGuterBot            1470       -25        551       
-88         maia1                     1437       14         224795    
-89         sargon-2ply               1434       43         3149      
-90         ZE_ROOK                   1433       1          194       
+88         sargon-2ply               1434       43         3149      
+89         ZE_ROOK                   1433       1          194       
+90         maia1                     1430       -10        224797    
 91         turochamp-1ply            1423       -3         1499      
 92         chat_bot                  1347       42         196       
 93         pawnrobot                 1323       10         543       
