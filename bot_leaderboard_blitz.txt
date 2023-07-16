@@ -29,7 +29,7 @@ Rank       Bot                       Rating     Prog       Games
 28         OpeningsBot               2455       -12        382       
 29         bot_adario                2450       -6         1930      
 30         admete_bot                2422       -3         5770      
-31         Cheng-4                   2412       -1         6280      
+31         Cheng-4                   2411       -7         6281      
 32         odonata-bot               2411       30         5797      
 33         Phalanx-XXV               2403       11         2433      
 34         TuksuBot                  2395       6          3675      
@@ -44,13 +44,13 @@ Rank       Bot                       Rating     Prog       Games
 43         KhepriChess               2252       23         1192      
 44         honzovy-sachy-2           2188       -1         6462      
 45         eubos                     2177       9          13476     
-46         GarboBot                  2129       -6         8632      
+46         GarboBot                  2133       4          8633      
 47         jangine                   2119       16         2908      
-48         matmoi                    2119       14         603       
+48         matmoi                    2112       11         604       
 49         halcyonbot                2098       -13        8169      
 50         Elmichess                 2091       -48        3465      
-51         redtail-zero              2062       22         270       
-52         MaxtheDog                 2058       -3         3719      
+51         redtail-zero              2069       29         271       
+52         MaxtheDog                 2054       -4         3720      
 53         uochess                   2031       29         37        
 54         LazyBotJr                 2022       8          1502      
 55         BLANK_BOT                 2013       -29        4359      
@@ -79,8 +79,8 @@ Rank       Bot                       Rating     Prog       Games
 78         ELO_1500                  1700       4          12460     
 79         simplexitor               1677       2          2003      
 80         ChessChildren             1647       -5         21050     
-81         maia9                     1638       10         97258     
-82         yeoldwiz                  1638       18         1592      
+81         yeoldwiz                  1638       18         1592      
+82         maia9                     1631       7          97259     
 83         turkjs                    1571       -15        10080     
 84         ArduChessBot              1535       -16        1168      
 85         sargon-4ply               1535       17         1750      
