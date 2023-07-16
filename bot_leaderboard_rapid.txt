@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
-1          TorBot                    2908       -5         712       
-2          ProteusSF-Godot           2884       3          90        
+1          TorBot                    2908       -9         713       
+2          ProteusSF-Godot           2884       3          91        
 3          ToromBot                  2874       2          1676      
 4          YoBot_v2                  2869       5          12729     
 5          ReinforcementTrial        2858       -1         4474      
@@ -10,7 +10,7 @@ Rank       Bot                       Rating     Prog       Games
 9          Shineshou90_BOT           2845       -1         2320      
 10         ResoluteBot               2844       -6         5153      
 11         Nikitosik-ai              2834       -8         522       
-12         ArasanX                   2822       -2         4775      
+12         ArasanX                   2823       -2         4776      
 13         MrChessTheBot             2811       -2         1983      
 14         LeelaMultiPoss            2805       0          98        
 15         blundar_bot               2794       3          951       
@@ -25,8 +25,8 @@ Rank       Bot                       Rating     Prog       Games
 24         OpeningsBot               2446       1          95        
 25         bot_adario                2417       -2         1231      
 26         TuksuBot                  2409       8          1854      
-27         odonata-bot               2398       -12        3621      
-28         admete_bot                2397       12         3441      
+27         admete_bot                2397       12         3441      
+28         odonata-bot               2397       -8         3622      
 29         Phalanx-XXV               2396       6          807       
 30         Pseudo-0                  2389       3          1034      
 31         simpleEval                2346       7          7284      
@@ -91,6 +91,6 @@ Rank       Bot                       Rating     Prog       Games
 90         kireevi                   1076       -27        537       
 91         CHoMPBoT                  1062       20         372       
 92         NichtEliasBot             1028       36         39        
-93         DeepLLaMA                 859        -49        84        
+93         DeepLLaMA                 855        -52        85        
 94         G0thamB0t                 721        2          254       
 95         grandQ_AI                 721        16         1581      
