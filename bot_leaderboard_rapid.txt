@@ -1,5 +1,5 @@
 Rank       Bot                       Rating     Prog       Games     
-1          TorBot                    2897       -5         752       
+1          TorBot                    2896       -5         753       
 2          EmptikVariantsBot         2886       -4         278       
 3          ProteusSF-Godot           2879       -3         107       
 4          ToromBot                  2873       -3         1680      
@@ -13,7 +13,7 @@ Rank       Bot                       Rating     Prog       Games
 12         BRAINLEARN11_NNUE         2849       -6         537       
 13         Shineshou90_BOT           2849       5          2327      
 14         chessfyBOT                2845       -7         228       
-15         RaspFish                  2844       -2         5328      
+15         RaspFish                  2845       -2         5329      
 16         ResoluteBot               2844       -6         5153      
 17         Nikitosik-ai              2830       -13        530       
 18         ArasanX                   2825       0          4797      
@@ -26,7 +26,7 @@ Rank       Bot                       Rating     Prog       Games
 25         AKS-Mantissa              2603       6          3912      
 26         SaxtonEngine              2556       0          1250      
 27         pawn_git                  2529       -10        1019      
-28         Weiawaga                  2487       -3         9471      
+28         Weiawaga                  2489       0          9472      
 29         Cheng-4                   2469       5          2929      
 30         OpeningsBot               2442       -10        99        
 31         bot_adario                2417       -2         1231      
@@ -43,7 +43,7 @@ Rank       Bot                       Rating     Prog       Games
 42         bekbot                    2291       0          1133      
 43         Nakshatra3                2279       -15        751       
 44         KhepriChess               2260       -7         461       
-45         FataliiBot                2257       25         2412      
+45         FataliiBot                2254       15         2413      
 46         honzovy-sachy-2           2220       -1         3460      
 47         HistoryExplorer           2216       3          945       
 48         eubos                     2183       -26        4121      
@@ -79,7 +79,7 @@ Rank       Bot                       Rating     Prog       Games
 78         dlvc-bot                  1758       35         71        
 79         turkjs                    1743       19         4940      
 80         melsh_bot                 1740       -39        172       
-81         maia9                     1699       7          81082     
+81         maia9                     1699       14         81083     
 82         simplexitor               1685       -22        433       
 83         HulkBot                   1680       -40        400       
 84         yeoldwiz                  1637       24         630       
@@ -88,7 +88,7 @@ Rank       Bot                       Rating     Prog       Games
 87         ArduChessBot              1553       -44        398       
 88         turochamp-2ply            1516       -5         1033      
 89         sargon-4ply               1514       -6         536       
-90         maia1                     1503       8          224740    
+90         maia1                     1500       11         224741    
 91         DavidsGuterBot            1470       -25        551       
 92         ZE_ROOK                   1433       1          194       
 93         turochamp-1ply            1420       -6         1498      
@@ -102,5 +102,5 @@ Rank       Bot                       Rating     Prog       Games
 101        CHoMPBoT                  1058       9          374       
 102        NichtEliasBot             1028       36         39        
 103        DeepLLaMA                 855        -52        85        
-104        grandQ_AI                 747        23         1587      
+104        grandQ_AI                 747        24         1588      
 105        G0thamB0t                 721        2          254       
