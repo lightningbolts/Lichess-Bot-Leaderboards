@@ -1,5 +1,5 @@
 Rank       Bot                       Rating     Prog       Games     
-1          TorBot                    2890       -2         762       
+1          TorBot                    2889       -8         763       
 2          EmptikVariantsBot         2886       -4         278       
 3          ProteusSF-Godot           2880       -1         108       
 4          YoBot_v2                  2868       1          12734     
@@ -11,7 +11,7 @@ Rank       Bot                       Rating     Prog       Games
 10         BRAINLEARN11_NNUE         2849       -4         538       
 11         chessfyBOT                2845       -7         228       
 12         ResoluteBot               2844       -6         5153      
-13         RaspFish                  2841       -12        5331      
+13         RaspFish                  2841       -12        5332      
 14         ArasanX                   2831       5          4802      
 15         Nikitosik-ai              2830       -13        530       
 16         MrChessTheBot             2821       17         1993      
@@ -75,7 +75,7 @@ Rank       Bot                       Rating     Prog       Games
 74         melsh_bot                 1750       -22        173       
 75         Demolito_L5               1749       -28        284       
 76         turkjs                    1747       18         4941      
-77         maia9                     1719       26         81100     
+77         maia9                     1732       48         81102     
 78         simplexitor               1684       -21        434       
 79         HulkBot                   1680       -40        400       
 80         yeoldwiz                  1637       24         630       
@@ -86,8 +86,8 @@ Rank       Bot                       Rating     Prog       Games
 85         turochamp-2ply            1516       -5         1033      
 86         sargon-4ply               1508       -11        537       
 87         DavidsGuterBot            1470       -25        551       
-88         maia1                     1434       -10        224776    
-89         sargon-2ply               1434       43         3149      
+88         sargon-2ply               1434       43         3149      
+89         maia1                     1433       -7         224779    
 90         ZE_ROOK                   1433       1          194       
 91         turochamp-1ply            1423       -3         1499      
 92         chat_bot                  1347       42         196       
