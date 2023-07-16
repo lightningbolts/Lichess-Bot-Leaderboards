@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          YellowFlash_v2            2940       1          708       
-2          RexherBot                 2925       -19        91        
-3          ToromBot                  2898       -15        57156     
+2          RexherBot                 2924       -14        93        
+3          ToromBot                  2899       -11        57158     
 4          TorBot                    2888       7          5867      
 5          ResoluteBot               2887       -4         24791     
 6          LeelaMultiPoss            2878       -6         221       
@@ -19,11 +19,11 @@ Rank       Bot                       Rating     Prog       Games
 18         MrChessTheBot             2581       12         4698      
 19         AKS-Mantissa              2552       -10        9842      
 20         expositor                 2539       -13        18488     
-21         ChessHunterBot            2529       -7         131       
+21         ChessHunterBot            2533       -1         132       
 22         FlamingDragon_9000        2524       -5         10619     
 23         SaxtonEngine              2501       11         3633      
 24         Elmichess                 2497       -86        3184      
-25         Weiawaga                  2458       -26        14446     
+25         Weiawaga                  2453       -30        14447     
 26         Cheng-4                   2435       -2         13192     
 27         pawn_git                  2423       6          3611      
 28         bot_adario                2392       14         2234      
@@ -58,7 +58,7 @@ Rank       Bot                       Rating     Prog       Games
 57         BLANK_BOT                 1959       -11        6737      
 58         Trollfish-Bot             1958       -3         2834      
 59         zeekat                    1935       -7         17343     
-60         LTChessBot                1902       23         157       
+60         LTChessBot                1906       26         158       
 61         myopic-bot                1900       -18        1455      
 62         Lynx_BOT                  1896       19         5812      
 63         michabay05                1893       10         673       
@@ -72,11 +72,11 @@ Rank       Bot                       Rating     Prog       Games
 71         rudim-bot                 1789       -47        130       
 72         melsh_bot                 1774       10         3578      
 73         Virutor                   1763       10         6424      
-74         baby_eubos                1745       -4         4694      
+74         baby_eubos                1741       -5         4695      
 75         Fisk_Bot                  1740       10         225       
-76         maia9                     1731       -6         59789     
-77         ArduChessBot              1729       12         5103      
-78         ChessChildren             1727       -14        15177     
+76         ArduChessBot              1729       12         5103      
+77         ChessChildren             1727       -14        15177     
+78         maia9                     1727       -2         59790     
 79         piglet_engine             1716       -26        38        
 80         simplexitor               1713       -2         2101      
 81         ELO_1500                  1690       11         2941      
@@ -89,7 +89,7 @@ Rank       Bot                       Rating     Prog       Games
 88         turochamp-1ply            1549       36         1686      
 89         maia5                     1538       16         38606     
 90         monchester                1510       2          2253      
-91         DeepKalle                 1504       -8         282       
+91         DeepKalle                 1507       -4         283       
 92         maia1                     1501       -26        120897    
 93         ZE_ROOK                   1483       29         1125      
 94         StupidChessRobot          1466       -2         121       
