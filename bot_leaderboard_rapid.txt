@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
-1          TorBot                    2889       -2         772       
-2          EmptikVariantsBot         2886       -4         278       
+1          EmptikVariantsBot         2886       -4         278       
+2          TorBot                    2885       -5         773       
 3          ProteusSF-Godot           2880       -1         110       
 4          YoBot_v2                  2867       1          12735     
 5          ReinforcementTrial        2864       7          4488      
@@ -17,11 +17,11 @@ Rank       Bot                       Rating     Prog       Games
 16         LeelaMultiPoss            2814       7          110       
 17         MrChessTheBot             2813       -1         1997      
 18         blundar_bot               2796       2          958       
-19         ChessHunterBot            2640       -2         131       
+19         ChessHunterBot            2644       3          132       
 20         expositor                 2618       2          4354      
 21         LazyBot                   2618       6          702       
 22         AKS-Mantissa              2601       3          3913      
-23         SaxtonEngine              2550       -1         1252      
+23         SaxtonEngine              2549       2          1253      
 24         pawn_git                  2527       -10        1020      
 25         Weiawaga                  2494       10         9475      
 26         Cheng-4                   2468       1          2930      
@@ -86,7 +86,7 @@ Rank       Bot                       Rating     Prog       Games
 85         ZE_ROOK                   1433       1          194       
 86         sargon-2ply               1431       36         3150      
 87         turochamp-1ply            1423       -3         1499      
-88         maia1                     1413       -13        224810    
+88         maia1                     1417       -5         224811    
 89         chat_bot                  1347       42         196       
 90         pawnrobot                 1323       10         543       
 91         OhniBOT                   1284       31         224       
