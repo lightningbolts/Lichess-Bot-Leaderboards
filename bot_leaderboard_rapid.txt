@@ -16,11 +16,11 @@ Rank       Bot                       Rating     Prog       Games
 15         LeelaMultiPoss            2820       6          119       
 16         MrChessTheBot             2811       -5         2000      
 17         blundar_bot               2796       2          958       
-18         ChessHunterBot            2641       2          133       
+18         ChessHunterBot            2646       10         134       
 19         expositor                 2619       2          4356      
 20         LazyBot                   2618       6          702       
 21         AKS-Mantissa              2608       9          3915      
-22         SaxtonEngine              2547       2          1254      
+22         SaxtonEngine              2543       -1         1255      
 23         pawn_git                  2531       -11        1021      
 24         Weiawaga                  2506       24         9478      
 25         Cheng-4                   2465       -2         2934      
@@ -29,7 +29,7 @@ Rank       Bot                       Rating     Prog       Games
 28         TuksuBot                  2402       -3         1858      
 29         odonata-bot               2401       -5         3623      
 30         Phalanx-XXV               2395       6          808       
-31         admete_bot                2393       -4         3452      
+31         admete_bot                2393       -5         3453      
 32         Pseudo-0                  2388       2          1038      
 33         fornax-engine             2339       0          3571      
 34         simpleEval                2339       -8         7297      
@@ -54,7 +54,7 @@ Rank       Bot                       Rating     Prog       Games
 53         Hyperopic                 1959       6          137       
 54         zeekat                    1956       3          7772      
 55         Zagreus_Engine            1940       29         1573      
-56         Lynx_BOT                  1923       -13        39132     
+56         Lynx_BOT                  1922       -14        39133     
 57         baby_eubos                1892       13         782       
 58         myopic-bot                1885       18         246       
 59         Trollfish-Bot             1875       20         136       
@@ -69,10 +69,10 @@ Rank       Bot                       Rating     Prog       Games
 68         zulu_bot                  1776       3          110       
 69         FlounderBot               1774       -9         74        
 70         honzovy-sachy             1770       -2         878       
-71         dlvc-bot                  1758       35         71        
-72         maia9                     1756       3          81137     
-73         melsh_bot                 1750       -22        173       
-74         turkjs                    1748       16         4944      
+71         maia9                     1762       3          81138     
+72         dlvc-bot                  1758       35         71        
+73         turkjs                    1752       16         4945      
+74         melsh_bot                 1750       -22        173       
 75         Demolito_L5               1733       -32        291       
 76         HulkBot                   1680       -40        400       
 77         simplexitor               1680       -23        435       
@@ -82,8 +82,8 @@ Rank       Bot                       Rating     Prog       Games
 81         ArduChessBot              1553       -44        398       
 82         turochamp-2ply            1516       -5         1033      
 83         sargon-4ply               1508       -11        537       
-84         maia1                     1472       13         224849    
-85         DavidsGuterBot            1470       -25        551       
+84         DavidsGuterBot            1470       -25        551       
+85         maia1                     1467       1          224850    
 86         ZE_ROOK                   1441       16         195       
 87         sargon-2ply               1431       36         3150      
 88         turochamp-1ply            1418       -11        1500      
