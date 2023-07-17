@@ -35,11 +35,11 @@ Rank       Bot                       Rating     Prog       Games
 34         fornax-engine             2374       8          6321      
 35         Pseudo-0                  2366       20         2695      
 36         FlamingDragon_9000        2323       19         3331      
-37         Nakshatra3                2292       16         1419      
+37         Nakshatra3                2291       12         1420      
 38         simpleEval                2289       8          14116     
 39         FataliiBot                2268       3          6198      
 40         bekbot                    2263       -2         1362      
-41         KhepriChess               2256       -4         1208      
+41         KhepriChess               2257       -7         1209      
 42         honzovy-sachy-2           2190       -7         6470      
 43         DQN-chess                 2180       8          198       
 44         eubos                     2157       -11        13496     
@@ -54,8 +54,8 @@ Rank       Bot                       Rating     Prog       Games
 53         LazyBotJr                 2022       8          1502      
 54         BLANK_BOT                 1993       -21        4366      
 55         Hyperopic                 1984       14         1078      
-56         Zagreus_Engine            1980       28         3801      
-57         zeekat                    1980       2          19246     
+56         zeekat                    1983       9          19248     
+57         Zagreus_Engine            1980       20         3802      
 58         LeelaRogue                1974       -8         2216      
 59         michabay05                1940       0          278       
 60         Nc3Nc6Bot                 1907       -18        1039      
@@ -83,7 +83,7 @@ Rank       Bot                       Rating     Prog       Games
 82         maia9                     1617       -7         97327     
 83         turkjs                    1574       -16        10082     
 84         HardRok                   1571       8          587       
-85         maia5                     1544       13         98135     
+85         maia5                     1538       14         98136     
 86         ArduChessBot              1532       -14        1170      
 87         sargon-4ply               1525       8          1753      
 88         chat_bot                  1500       -81        225       
@@ -94,7 +94,7 @@ Rank       Bot                       Rating     Prog       Games
 93         RoundMoundOfRebounds      1455       19         1066      
 94         turochamp-2ply            1450       -5         1519      
 95         TuroBot                   1429       118        4920      
-96         maia1                     1412       22         201400    
+96         maia1                     1419       32         201403    
 97         StupidChessRobot          1359       -14        258       
 98         sargon-2ply               1317       -19        2851      
 99         ZE_ROOK                   1313       -33        2033      
