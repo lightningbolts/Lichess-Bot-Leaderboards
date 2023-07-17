@@ -1,5 +1,5 @@
 Rank       Bot                       Rating     Prog       Games     
-1          BRAINLEARN11_NNUE         2900       1          5296      
+1          BRAINLEARN11_NNUE         2902       3          5297      
 2          ToromBot                  2900       5          57447     
 3          EmanPureNN                2890       -4         4103      
 4          ResoluteBot               2887       -4         24791     
@@ -21,7 +21,7 @@ Rank       Bot                       Rating     Prog       Games
 20         MrChessTheBot             2577       -38        4762      
 21         expositor                 2547       7          18520     
 22         ChessHunterBot            2537       1          145       
-23         AKS-Mantissa              2528       -17        9865      
+23         AKS-Mantissa              2527       -17        9866      
 24         FlamingDragon_9000        2524       -5         10619     
 25         SaxtonEngine              2518       16         3643      
 26         Elmichess                 2497       -86        3184      
@@ -52,7 +52,7 @@ Rank       Bot                       Rating     Prog       Games
 51         matmoi                    2135       8          837       
 52         kulubot                   2113       -9         783       
 53         redtail-zero              2095       7          295       
-54         eubos                     2072       -15        11682     
+54         eubos                     2075       -10        11683     
 55         halcyonbot                2052       -5         4523      
 56         WilliamEngine             2046       3          67        
 57         MaxtheDog                 2011       13         12607     
@@ -65,7 +65,7 @@ Rank       Bot                       Rating     Prog       Games
 64         Lynx_BOT                  1921       21         5856      
 65         myopic-bot                1908       3          1473      
 66         michabay05                1889       38         761       
-67         FlounderBot               1868       21         1816      
+67         FlounderBot               1865       14         1817      
 68         likeawizard-bot           1844       -78        468       
 69         Ptit-biscuit              1820       -3         492       
 70         notropis                  1808       -16        3411      
@@ -108,6 +108,7 @@ Rank       Bot                       Rating     Prog       Games
 107        schnecken_bot             1301       -24        444       
 108        pawnrobot                 1279       -24        3683      
 109        NichtEliasBot             1256       22         22        
-110        CHoMPBoT                  1238       -11        733       
-111        DeepLLaMA                 1141       86         65        
-112        grandQ_AI                 830        2          835       
+110        bobandi                   1238       7          1065      
+111        CHoMPBoT                  1238       -11        733       
+112        DeepLLaMA                 1141       86         65        
+113        grandQ_AI                 830        2          835       
