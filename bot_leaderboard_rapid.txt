@@ -32,7 +32,7 @@ Rank       Bot                       Rating     Prog       Games
 31         Phalanx-XXV               2400       10         813       
 32         TuksuBot                  2400       -8         1862      
 33         Pseudo-0                  2389       2          1039      
-34         admete_bot                2350       -4         3552      
+34         admete_bot                2349       -5         3553      
 35         simpleEval                2345       5          7310      
 36         fornax-engine             2338       0          3572      
 37         WasterNew                 2324       24         64        
@@ -58,7 +58,7 @@ Rank       Bot                       Rating     Prog       Games
 57         WilliamEngine             1962       -28        19        
 58         zeekat                    1962       9          7786      
 59         Hyperopic                 1959       6          137       
-60         Nc3Nc6Bot                 1934       -19        1196      
+60         Nc3Nc6Bot                 1936       -26        1197      
 61         Zagreus_Engine            1922       -20        1583      
 62         Lynx_BOT                  1921       1          39157     
 63         myopic-bot                1897       29         249       
@@ -79,11 +79,11 @@ Rank       Bot                       Rating     Prog       Games
 78         Demolito_L5               1763       24         309       
 79         dlvc-bot                  1756       -15        74        
 80         melsh_bot                 1749       -12        174       
-81         turkjs                    1733       -11        4957      
+81         turkjs                    1741       0          4959      
 82         maia9                     1725       2          81235     
 83         HulkBot                   1680       -40        400       
 84         simplexitor               1675       -23        436       
-85         maia5                     1643       7          97856     
+85         maia5                     1646       9          97858     
 86         yeoldwiz                  1637       16         634       
 87         HardRok                   1595       -7         387       
 88         sargon-3ply               1581       8          1119      
@@ -106,4 +106,3 @@ Rank       Bot                       Rating     Prog       Games
 105        NichtEliasBot             1028       36         39        
 106        DeepLLaMA                 855        -52        85        
 107        grandQ_AI                 746        25         1592      
-108        G0thamB0t                 721        2          254       
