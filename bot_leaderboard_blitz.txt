@@ -23,8 +23,8 @@ Rank       Bot                       Rating     Prog       Games
 22         SaxtonEngine              2553       14         1950      
 23         Weiawaga                  2524       -11        11189     
 24         pawn_git                  2508       -1         2099      
-25         bot_adario                2459       10         1935      
-26         timecat                   2448       -12        29        
+25         bot_adario                2458       10         1936      
+26         timecat                   2448       -12        30        
 27         OpeningsBot               2430       -18        396       
 28         odonata-bot               2414       34         5799      
 29         admete_bot                2405       -7         5863      
@@ -34,12 +34,12 @@ Rank       Bot                       Rating     Prog       Games
 33         fornax-engine             2378       11         6322      
 34         Pseudo-0                  2364       16         2696      
 35         FlamingDragon_9000        2323       19         3331      
-36         Wahoo_Bot                 2298       34         194       
+36         Wahoo_Bot                 2304       42         195       
 37         simpleEval                2285       1          14118     
 38         bekbot                    2263       -2         1362      
 39         FataliiBot                2263       2          6202      
 40         KhepriChess               2259       -6         1211      
-41         HistoryExplorer           2255       -19        2503      
+41         HistoryExplorer           2250       -26        2504      
 42         honzovy-sachy-2           2192       4          6473      
 43         DQN-chess                 2180       8          198       
 44         eubos                     2165       -7         13502     
@@ -80,9 +80,9 @@ Rank       Bot                       Rating     Prog       Games
 79         KnightlessKid             1641       -12        268       
 80         ChessChildren             1639       -6         21055     
 81         yeoldwiz                  1638       14         1599      
-82         maia9                     1615       -9         97344     
-83         turkjs                    1572       -13        10083     
-84         HardRok                   1571       4          591       
+82         maia9                     1608       -12        97346     
+83         HardRok                   1575       12         592       
+84         turkjs                    1572       -13        10083     
 85         maia5                     1533       -9         98148     
 86         ArduChessBot              1532       -14        1170      
 87         sargon-4ply               1525       8          1753      
@@ -91,7 +91,7 @@ Rank       Bot                       Rating     Prog       Games
 90         ChamberiAjedrez           1470       -106       321       
 91         DavidsGuterBot            1470       5          3272      
 92         monchester                1455       -4         2583      
-93         RoundMoundOfRebounds      1455       19         1066      
+93         RoundMoundOfRebounds      1451       14         1067      
 94         turochamp-2ply            1450       -5         1519      
 95         maia1                     1421       -8         201428    
 96         StupidChessRobot          1359       -14        258       
