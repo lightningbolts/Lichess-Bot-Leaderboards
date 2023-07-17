@@ -29,13 +29,13 @@ Rank       Bot                       Rating     Prog       Games
 28         odonata-bot               2402       1          3624      
 29         Phalanx-XXV               2400       10         811       
 30         Pseudo-0                  2389       2          1039      
-31         admete_bot                2366       -6         3513      
+31         admete_bot                2366       -5         3514      
 32         simpleEval                2343       4          7307      
 33         fornax-engine             2338       0          3572      
 34         clueless-bot              2318       15         638       
 35         FlamingDragon_9000        2309       -12        1216      
 36         bekbot                    2291       0          1133      
-37         KhepriChess               2279       9          475       
+37         KhepriChess               2282       16         476       
 38         Nakshatra3                2267       -25        756       
 39         DQN-chess                 2266       11         842       
 40         FataliiBot                2261       7          2418      
@@ -48,8 +48,8 @@ Rank       Bot                       Rating     Prog       Games
 47         GarboBot                  2140       4          5825      
 48         MaxtheDog                 2132       -22        532       
 49         matmoi                    2116       -17        546       
-50         halcyonbot                2095       5          5437      
-51         kulubot                   2093       4          482       
+50         kulubot                   2093       4          482       
+51         halcyonbot                2092       -5         5438      
 52         LazyBotJr                 2013       8          1247      
 53         LeelaRogue                1974       23         2189      
 54         BLANK_BOT                 1965       -16        1407      
@@ -79,7 +79,7 @@ Rank       Bot                       Rating     Prog       Games
 78         turkjs                    1735       -8         4951      
 79         HulkBot                   1680       -40        400       
 80         simplexitor               1680       -23        435       
-81         maia5                     1663       -31        97781     
+81         maia5                     1663       -27        97784     
 82         yeoldwiz                  1637       16         634       
 83         HardRok                   1587       -29        385       
 84         sargon-3ply               1581       8          1119      
