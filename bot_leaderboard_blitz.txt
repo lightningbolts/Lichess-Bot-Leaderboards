@@ -1,5 +1,5 @@
 Rank       Bot                       Rating     Prog       Games     
-1          TorBot                    2886       8          708       
+1          TorBot                    2885       8          709       
 2          ProteusSF-Godot           2875       -2         445       
 3          ToromBot                  2873       5          2721      
 4          LeelaMultiPoss            2867       6          114       
@@ -7,8 +7,8 @@ Rank       Bot                       Rating     Prog       Games
 6          TheMatrix2029             2863       1          1653      
 7          Anand_bot                 2847       12         14        
 8          RexherBot                 2833       -72        19        
-9          Nikitosikbot              2828       -4         5758      
-10         FishFingersMcGee          2827       0          321       
+9          FishFingersMcGee          2828       1          322       
+10         Nikitosikbot              2828       -4         5758      
 11         RaspFish                  2820       -5         10747     
 12         chessfyBOT                2819       -12        180       
 13         Shineshou90_BOT           2819       -8         1487      
@@ -29,7 +29,7 @@ Rank       Bot                       Rating     Prog       Games
 28         timecat                   2440       -38        23        
 29         OpeningsBot               2439       -16        394       
 30         odonata-bot               2414       34         5799      
-31         admete_bot                2412       -6         5848      
+31         admete_bot                2413       -3         5850      
 32         Phalanx-XXV               2400       6          2439      
 33         TuksuBot                  2399       12         3678      
 34         Cheng-4                   2394       -6         6312      
@@ -43,7 +43,7 @@ Rank       Bot                       Rating     Prog       Games
 42         KhepriChess               2255       -8         1206      
 43         honzovy-sachy-2           2190       -7         6470      
 44         DQN-chess                 2180       8          198       
-45         eubos                     2164       8          13494     
+45         eubos                     2162       1          13495     
 46         matmoi                    2138       5          627       
 47         GarboBot                  2125       -10        8639      
 48         jangine                   2111       -5         2917      
@@ -95,11 +95,11 @@ Rank       Bot                       Rating     Prog       Games
 94         RoundMoundOfRebounds      1455       19         1066      
 95         turochamp-2ply            1450       -5         1519      
 96         TuroBot                   1429       118        4920      
-97         maia1                     1395       -23        201381    
+97         maia1                     1391       -9         201384    
 98         StupidChessRobot          1359       -14        258       
 99         sargon-2ply               1317       -20        2850      
 100        ZE_ROOK                   1313       -33        2033      
-101        NichtEliasBot             1311       24         134       
+101        NichtEliasBot             1309       23         135       
 102        sargon-1ply               1277       -3         7533      
 103        turochamp-1ply            1271       8          1616      
 104        schnecken_bot             1248       36         1484      
