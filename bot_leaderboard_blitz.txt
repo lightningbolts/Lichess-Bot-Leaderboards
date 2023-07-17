@@ -27,7 +27,7 @@ Rank       Bot                       Rating     Prog       Games
 26         pawn_git                  2508       -1         2099      
 27         bot_adario                2459       10         1935      
 28         OpeningsBot               2444       -6         390       
-29         admete_bot                2419       -5         5791      
+29         admete_bot                2418       -5         5793      
 30         odonata-bot               2414       34         5799      
 31         Phalanx-XXV               2396       8          2437      
 32         TuksuBot                  2396       10         3677      
@@ -43,7 +43,7 @@ Rank       Bot                       Rating     Prog       Games
 42         KhepriChess               2256       1          1204      
 43         HistoryExplorer           2253       -8         2499      
 44         honzovy-sachy-2           2200       14         6467      
-45         eubos                     2169       -3         13490     
+45         eubos                     2172       0          13491     
 46         matmoi                    2136       17         620       
 47         GarboBot                  2125       -10        8639      
 48         jangine                   2104       -15        2913      
@@ -55,10 +55,10 @@ Rank       Bot                       Rating     Prog       Games
 54         LazyBotJr                 2022       8          1502      
 55         BLANK_BOT                 2002       -18        4364      
 56         Hyperopic                 1984       14         1078      
-57         zeekat                    1978       0          19235     
-58         Zagreus_Engine            1977       27         3799      
-59         LeelaRogue                1974       -8         2216      
-60         michabay05                1939       3          271       
+57         Zagreus_Engine            1977       27         3799      
+58         LeelaRogue                1974       -8         2216      
+59         zeekat                    1974       -14        19237     
+60         michabay05                1939       10         272       
 61         Nc3Nc6Bot                 1913       -16        1038      
 62         Lynx_BOT                  1893       4          47495     
 63         myopic-bot                1882       -12        1477      
