@@ -13,8 +13,8 @@ Rank       Bot                       Rating     Prog       Games
 12         chessfyBOT                2845       -7         228       
 13         RaspFish                  2844       -10        5335      
 14         ResoluteBot               2844       -6         5153      
-15         ArasanX                   2832       4          4810      
-16         Nikitosik-ai              2832       -2         533       
+15         ArasanX                   2832       3          4811      
+16         Nikitosik-ai              2832       -4         534       
 17         LeelaMultiPoss            2817       2          113       
 18         MrChessTheBot             2815       0          1999      
 19         blundar_bot               2796       2          958       
@@ -85,11 +85,11 @@ Rank       Bot                       Rating     Prog       Games
 84         sargon-4ply               1508       -11        537       
 85         DavidsGuterBot            1470       -25        551       
 86         ZE_ROOK                   1433       1          194       
-87         sargon-2ply               1431       36         3150      
-88         maia1                     1425       7          224833    
+87         maia1                     1432       7          224834    
+88         sargon-2ply               1431       36         3150      
 89         turochamp-1ply            1423       -3         1499      
 90         chat_bot                  1347       42         196       
-91         pawnrobot                 1318       9          545       
+91         pawnrobot                 1316       12         546       
 92         OhniBOT                   1284       31         224       
 93         sargon-1ply               1248       22         8111      
 94         schnecken_bot             1167       -12        164       
@@ -98,4 +98,3 @@ Rank       Bot                       Rating     Prog       Games
 97         NichtEliasBot             1028       36         39        
 98         DeepLLaMA                 855        -52        85        
 99         grandQ_AI                 746        25         1592      
-100        G0thamB0t                 721        2          254       
