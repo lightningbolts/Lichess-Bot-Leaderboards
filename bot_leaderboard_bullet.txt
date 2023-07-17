@@ -4,7 +4,7 @@ Rank       Bot                       Rating     Prog       Games
 3          Anand_bot                 2903       -10        386       
 4          ResoluteBot               2887       -4         24791     
 5          LeelaMultiPoss            2886       9          241       
-6          ProteusSF-Godot           2868       -14        588       
+6          ProteusSF-Godot           2866       -13        590       
 7          ToromBot                  2865       -7         57287     
 8          YoBot_v2                  2865       -7         16570     
 9          Nikitosikbot              2864       -7         20408     
@@ -12,7 +12,7 @@ Rank       Bot                       Rating     Prog       Games
 11         CodingAdventureBot        2828       0          1531      
 12         FishFingersMcGee          2826       4          1687      
 13         Nikitosik-ai              2819       -1         1380      
-14         RaspFish                  2810       2          47375     
+14         RaspFish                  2812       3          47377     
 15         Shineshou90_BOT           2792       2          7465      
 16         blundar_bot               2788       9          4711      
 17         chessfyBOT                2788       -8         1404      
@@ -34,7 +34,7 @@ Rank       Bot                       Rating     Prog       Games
 33         TuksuBot                  2350       13         6554      
 34         odonata-bot               2336       38         5958      
 35         clueless-bot              2331       9          6114      
-36         fornax-engine             2320       11         6710      
+36         fornax-engine             2321       9          6711      
 37         Pseudo-0                  2306       24         3672      
 38         requinBOT                 2303       -18        232       
 39         simpleEval                2247       16         24444     
@@ -56,9 +56,9 @@ Rank       Bot                       Rating     Prog       Games
 55         BLANK_BOT                 1965       -4         6738      
 56         Zagreus_Engine            1959       -12        2736      
 57         Trollfish-Bot             1944       4          2872      
-58         zeekat                    1920       3          17382     
+58         zeekat                    1925       7          17384     
 59         myopic-bot                1918       18         1466      
-60         Lynx_BOT                  1891       -5         5827      
+60         Lynx_BOT                  1886       -11        5828      
 61         michabay05                1869       -21        712       
 62         FlounderBot               1866       7          1775      
 63         QueensGamBOT              1820       22         4718      
@@ -71,11 +71,11 @@ Rank       Bot                       Rating     Prog       Games
 70         Fisk_Bot                  1740       10         225       
 71         baby_eubos                1739       7          4714      
 72         piglet_engine             1729       -8         46        
-73         rudim-bot                 1721       -23        136       
-74         ArduChessBot              1710       -7         5134      
-75         ELO_1500                  1710       10         2955      
-76         ChessChildren             1708       -9         15186     
-77         maia9                     1707       -18        59802     
+73         maia9                     1727       5          59804     
+74         rudim-bot                 1721       -23        136       
+75         ArduChessBot              1710       -7         5134      
+76         ELO_1500                  1710       10         2955      
+77         ChessChildren             1708       -9         15186     
 78         simplexitor               1702       -21        2109      
 79         turkjs                    1663       -18        19052     
 80         dlvc-bot                  1639       16         160       
@@ -98,7 +98,7 @@ Rank       Bot                       Rating     Prog       Games
 97         schnecken_bot             1331       -10        434       
 98         pawnrobot                 1325       24         3657      
 99         OhniBOT                   1303       43         482       
-100        knucklefish               1299       28         2604      
+100        knucklefish               1302       22         2608      
 101        NichtEliasBot             1256       22         22        
 102        CHoMPBoT                  1242       -6         732       
 103        DeepLLaMA                 1141       86         65        
