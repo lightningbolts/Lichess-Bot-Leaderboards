@@ -11,7 +11,7 @@ Rank       Bot                       Rating     Prog       Games
 10         ResoluteBot               2844       -6         5153      
 11         ArasanX                   2843       6          4842      
 12         faith_bot                 2835       -6         653       
-13         Nikitosik-ai              2830       -2         544       
+13         Nikitosik-ai              2830       -2         545       
 14         LeelaMultiPoss            2825       5          128       
 15         MrChessTheBot             2813       -3         2005      
 16         blundar_bot               2799       3          960       
@@ -52,7 +52,7 @@ Rank       Bot                       Rating     Prog       Games
 51         zeekat                    1966       11         7784      
 52         BLANK_BOT                 1965       -16        1407      
 53         Hyperopic                 1959       6          137       
-54         Nc3Nc6Bot                 1953       12         1190      
+54         Nc3Nc6Bot                 1953       9          1191      
 55         Zagreus_Engine            1921       -17        1582      
 56         Lynx_BOT                  1917       6          39156     
 57         myopic-bot                1897       29         249       
@@ -84,7 +84,7 @@ Rank       Bot                       Rating     Prog       Games
 83         ArduChessBot              1563       -30        400       
 84         turochamp-2ply            1515       -3         1034      
 85         sargon-4ply               1508       -11        537       
-86         maia1                     1493       25         224964    
+86         maia1                     1491       22         224965    
 87         DavidsGuterBot            1471       -10        554       
 88         RoundMoundOfRebounds      1455       -24        311       
 89         ZE_ROOK                   1434       -21        214       
@@ -95,8 +95,8 @@ Rank       Bot                       Rating     Prog       Games
 94         OhniBOT                   1273       23         228       
 95         sargon-1ply               1233       -9         8118      
 96         schnecken_bot             1171       10         172       
-97         kireevi                   1076       -27        537       
-98         CHoMPBoT                  1067       4          378       
+97         CHoMPBoT                  1076       17         379       
+98         kireevi                   1076       -27        537       
 99         NichtEliasBot             1028       36         39        
 100        DeepLLaMA                 855        -52        85        
 101        grandQ_AI                 746        25         1592      
