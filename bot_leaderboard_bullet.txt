@@ -79,7 +79,7 @@ Rank       Bot                       Rating     Prog       Games
 78         piglet_engine             1729       2          53        
 79         ArduChessBot              1724       17         5160      
 80         rudim-bot                 1721       -23        136       
-81         maia9                     1717       -8         59841     
+81         maia9                     1718       3          59842     
 82         ChessChildren             1714       6          15197     
 83         ELO_1500                  1712       7          2967      
 84         simplexitor               1712       3          2117      
@@ -107,6 +107,7 @@ Rank       Bot                       Rating     Prog       Games
 106        schnecken_bot             1301       -24        444       
 107        pawnrobot                 1279       -24        3683      
 108        NichtEliasBot             1256       22         22        
-109        CHoMPBoT                  1238       -11        733       
-110        DeepLLaMA                 1141       86         65        
-111        grandQ_AI                 830        2          835       
+109        bobandi                   1238       7          1065      
+110        CHoMPBoT                  1238       -11        733       
+111        DeepLLaMA                 1141       86         65        
+112        grandQ_AI                 830        2          835       
