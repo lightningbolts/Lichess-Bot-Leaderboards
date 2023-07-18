@@ -15,10 +15,10 @@ Rank       Bot                       Rating     Prog       Games
 14         Nikitosik-ai              2825       -7         548       
 15         MrChessTheBot             2814       3          2006      
 16         blundar_bot               2802       7          963       
-17         ChessHunterBot            2660       10         148       
+17         ChessHunterBot            2654       -1         149       
 18         expositor                 2630       12         4365      
 19         LazyBot                   2618       6          702       
-20         AKS-Mantissa              2601       -3         3929      
+20         AKS-Mantissa              2608       9          3930      
 21         SaxtonEngine              2544       -4         1258      
 22         pawn_git                  2533       -2         1025      
 23         Weiawaga                  2510       1          9493      
@@ -32,7 +32,7 @@ Rank       Bot                       Rating     Prog       Games
 31         Pseudo-0                  2389       2          1039      
 32         simpleEval                2345       5          7310      
 33         fornax-engine             2338       0          3572      
-34         admete_bot                2330       -1         3592      
+34         admete_bot                2330       0          3593      
 35         FlamingDragon_9000        2309       -12        1216      
 36         bekbot                    2291       0          1133      
 37         FataliiBot                2273       19         2424      
@@ -84,7 +84,7 @@ Rank       Bot                       Rating     Prog       Games
 83         turochamp-2ply            1515       -3         1034      
 84         sargon-4ply               1506       -15        538       
 85         DavidsGuterBot            1470       -8         555       
-86         maia1                     1465       9          225037    
+86         maia1                     1463       3          225038    
 87         RoundMoundOfRebounds      1463       -14        313       
 88         sargon-2ply               1419       -15        3160      
 89         turochamp-1ply            1418       -11        1500      
