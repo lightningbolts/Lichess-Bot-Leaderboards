@@ -32,7 +32,7 @@ Rank       Bot                       Rating     Prog       Games
 31         Pseudo-0                  2389       2          1039      
 32         simpleEval                2345       5          7310      
 33         fornax-engine             2338       0          3572      
-34         admete_bot                2332       -12        3577      
+34         admete_bot                2332       -6         3578      
 35         FlamingDragon_9000        2309       -12        1216      
 36         bekbot                    2291       0          1133      
 37         FataliiBot                2273       19         2424      
@@ -59,8 +59,8 @@ Rank       Bot                       Rating     Prog       Games
 58         requinBOT                 1901       -2         113       
 59         baby_eubos                1900       19         789       
 60         Trollfish-Bot             1888       35         139       
-61         ELO_1500                  1860       53         2647      
-62         Ptit-biscuit              1855       62         45        
+61         Ptit-biscuit              1855       62         45        
+62         ELO_1500                  1853       44         2648      
 63         likeawizard-bot           1849       -33        220       
 64         michabay05                1849       -17        25        
 65         notropis                  1849       16         2028      
@@ -70,8 +70,8 @@ Rank       Bot                       Rating     Prog       Games
 69         FlounderBot               1776       -5         77        
 70         zulu_bot                  1776       3          110       
 71         Virutor                   1773       -7         3108      
-72         honzovy-sachy             1770       10         882       
-73         Demolito_L5               1765       -4         314       
+72         Demolito_L5               1772       8          315       
+73         honzovy-sachy             1770       10         882       
 74         dlvc-bot                  1756       -15        74        
 75         melsh_bot                 1742       -16        175       
 76         turkjs                    1740       0          4961      
@@ -79,7 +79,7 @@ Rank       Bot                       Rating     Prog       Games
 78         HulkBot                   1680       -40        400       
 79         simplexitor               1677       -19        437       
 80         yeoldwiz                  1637       16         634       
-81         maia5                     1627       -6         97894     
+81         maia5                     1620       -5         97895     
 82         HardRok                   1597       -10        388       
 83         sargon-3ply               1579       7          1120      
 84         ArduChessBot              1563       -30        400       
@@ -95,9 +95,11 @@ Rank       Bot                       Rating     Prog       Games
 94         pawnrobot                 1323       5          556       
 95         OhniBOT                   1258       -14        230       
 96         schnecken_bot             1180       22         173       
-97         sargon-1ply               1170       -26        8137      
+97         sargon-1ply               1163       -30        8138      
 98         CHoMPBoT                  1096       31         382       
-99         NichtEliasBot             1028       36         39        
-100        DeepLLaMA                 855        -52        85        
-101        grandQ_AI                 746        25         1592      
-102        G0thamB0t                 721        2          254       
+99         kireevi                   1076       -27        537       
+100        NichtEliasBot             1028       36         39        
+101        bobandi                   857        -12        680       
+102        DeepLLaMA                 855        -52        85        
+103        grandQ_AI                 746        25         1592      
+104        G0thamB0t                 721        2          254       
