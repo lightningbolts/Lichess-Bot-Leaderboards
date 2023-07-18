@@ -31,8 +31,8 @@ Rank       Bot                       Rating     Prog       Games
 30         Phalanx-XXV               2395       1          815       
 31         Pseudo-0                  2389       2          1039      
 32         simpleEval                2345       5          7310      
-33         admete_bot                2338       -10        3568      
-34         fornax-engine             2338       0          3572      
+33         fornax-engine             2338       0          3572      
+34         admete_bot                2337       -10        3569      
 35         WasterNew                 2324       24         64        
 36         FlamingDragon_9000        2309       -12        1216      
 37         Anduril_Engine            2305       86         29        
@@ -81,7 +81,7 @@ Rank       Bot                       Rating     Prog       Games
 80         HulkBot                   1680       -40        400       
 81         simplexitor               1677       -19        437       
 82         yeoldwiz                  1637       16         634       
-83         maia5                     1629       -14        97874     
+83         maia5                     1634       -2         97875     
 84         HardRok                   1597       -10        388       
 85         sargon-3ply               1579       7          1120      
 86         ArduChessBot              1563       -30        400       
@@ -99,7 +99,8 @@ Rank       Bot                       Rating     Prog       Games
 98         sargon-1ply               1231       -15        8120      
 99         schnecken_bot             1180       22         173       
 100        CHoMPBoT                  1096       31         382       
-101        NichtEliasBot             1028       36         39        
-102        DeepLLaMA                 855        -52        85        
-103        grandQ_AI                 746        25         1592      
-104        G0thamB0t                 721        2          254       
+101        kireevi                   1076       -27        537       
+102        NichtEliasBot             1028       36         39        
+103        DeepLLaMA                 855        -52        85        
+104        grandQ_AI                 746        25         1592      
+105        G0thamB0t                 721        2          254       
