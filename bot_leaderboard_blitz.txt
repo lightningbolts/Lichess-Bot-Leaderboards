@@ -1,5 +1,5 @@
 Rank       Bot                       Rating     Prog       Games     
-1          TorBot                    2885       -3         783       
+1          TorBot                    2887       0          784       
 2          ProteusSF-Godot           2876       1          455       
 3          ToromBot                  2873       -1         2722      
 4          TheMatrix2025             2870       -8         431       
@@ -25,7 +25,7 @@ Rank       Bot                       Rating     Prog       Games
 24         CodingAdventureBot        2637       -3         2860      
 25         AKS-Mantissa              2628       3          8958      
 26         expositor                 2602       1          6559      
-27         SaxtonEngine              2552       1          1962      
+27         SaxtonEngine              2550       0          1963      
 28         Weiawaga                  2513       -11        11198     
 29         pawn_git                  2506       1          2103      
 30         bot_adario                2460       10         1941      
@@ -63,7 +63,7 @@ Rank       Bot                       Rating     Prog       Games
 62         Zagreus_Engine            1967       -13        3816      
 63         zeekat                    1955       2          19292     
 64         michabay05                1920       -16        290       
-65         Lynx_BOT                  1893       -4         47583     
+65         Lynx_BOT                  1894       4          47584     
 66         myopic-bot                1891       10         1492      
 67         Nc3Nc6Bot                 1875       -8         1063      
 68         zulu_bot                  1861       -3         992       
@@ -71,10 +71,10 @@ Rank       Bot                       Rating     Prog       Games
 70         Ptit-biscuit              1846       7          360       
 71         FlounderBot               1823       1          898       
 72         baby_eubos                1814       -6         6741      
-73         Demolito_L5               1801       6          498       
-74         RosyBot                   1799       11         134       
+73         RosyBot                   1805       21         135       
+74         Demolito_L5               1801       6          498       
 75         notropis                  1791       -12        5878      
-76         Trollfish-Bot             1787       0          1511      
+76         Trollfish-Bot             1782       -8         1512      
 77         Fisk_Bot                  1745       16         1484      
 78         QueensGamBOT              1737       -19        2768      
 79         honzovy-sachy             1724       1          4732      
@@ -90,7 +90,7 @@ Rank       Bot                       Rating     Prog       Games
 89         ChessChildren             1635       -15        21059     
 90         maia9                     1625       2          97413     
 91         turkjs                    1564       -10        10087     
-92         maia5                     1542       -6         98186     
+92         maia5                     1546       4          98187     
 93         sargon-4ply               1535       11         1758      
 94         ArduChessBot              1532       -9         1174      
 95         maia1                     1514       -27        201563    
@@ -109,11 +109,11 @@ Rank       Bot                       Rating     Prog       Games
 108        turochamp-1ply            1284       23         1620      
 109        sargon-1ply               1274       3          7543      
 110        schnecken_bot             1259       11         1495      
-111        pawnrobot                 1235       -19        1852      
+111        pawnrobot                 1229       -19        1853      
 112        OhniBOT                   1219       -67        286       
 113        HulkBot                   1161       -62        666       
 114        CHoMPBoT                  1139       26         1319      
-115        knucklefish               997        -10        3037      
+115        knucklefish               997        -10        3038      
 116        BelaBot                   912        -45        44        
 117        DeepLLaMA                 883        -7         61        
 118        grandQ_AI                 726        27         1209      
