@@ -34,7 +34,7 @@ Rank       Bot                       Rating     Prog       Games
 33         Pseudo-0                  2388       2          1040      
 34         simpleEval                2342       1          7315      
 35         fornax-engine             2341       7          3573      
-36         admete_bot                2323       -3         3616      
+36         admete_bot                2326       0          3617      
 37         FlamingDragon_9000        2309       -12        1216      
 38         bekbot                    2291       0          1133      
 39         FataliiBot                2276       25         2425      
@@ -45,7 +45,7 @@ Rank       Bot                       Rating     Prog       Games
 44         Elmichess                 2158       -2         1359      
 45         GarboBot                  2142       7          5831      
 46         MaxtheDog                 2136       -7         534       
-47         matmoi                    2130       4          571       
+47         matmoi                    2127       -2         572       
 48         jangine                   2120       -29        1569      
 49         kulubot                   2098       11         492       
 50         halcyonbot                2063       -24        5466      
@@ -57,7 +57,7 @@ Rank       Bot                       Rating     Prog       Games
 56         zeekat                    1951       -11        7797      
 57         Nc3Nc6Bot                 1937       1          1209      
 58         Zagreus_Engine            1924       -4         1589      
-59         requinBOT                 1916       -9         120       
+59         requinBOT                 1922       14         121       
 60         Lynx_BOT                  1910       -3         39170     
 61         myopic-bot                1904       34         250       
 62         baby_eubos                1897       19         790       
@@ -82,14 +82,14 @@ Rank       Bot                       Rating     Prog       Games
 81         HulkBot                   1680       -40        400       
 82         simplexitor               1677       -16        439       
 83         yeoldwiz                  1637       16         634       
-84         maia5                     1611       -3         97920     
+84         maia5                     1614       -10        97922     
 85         sargon-3ply               1579       7          1120      
 86         ArduChessBot              1560       -30        401       
 87         turochamp-2ply            1514       -12        1035      
 88         sargon-4ply               1506       -15        538       
-89         DavidsGuterBot            1470       -8         555       
-90         RoundMoundOfRebounds      1463       -14        313       
-91         maia1                     1459       -9         225073    
+89         maia1                     1475       8          225075    
+90         DavidsGuterBot            1470       -8         555       
+91         RoundMoundOfRebounds      1463       -14        313       
 92         sargon-2ply               1419       -15        3160      
 93         turochamp-1ply            1418       -11        1500      
 94         ZE_ROOK                   1412       -22        221       
