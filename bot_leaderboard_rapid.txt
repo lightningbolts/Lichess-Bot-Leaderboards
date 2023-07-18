@@ -32,7 +32,7 @@ Rank       Bot                       Rating     Prog       Games
 31         Pseudo-0                  2389       2          1039      
 32         simpleEval                2346       6          7311      
 33         fornax-engine             2341       7          3573      
-34         admete_bot                2328       0          3599      
+34         admete_bot                2328       0          3600      
 35         FlamingDragon_9000        2309       -12        1216      
 36         bekbot                    2291       0          1133      
 37         FataliiBot                2276       25         2425      
@@ -79,13 +79,13 @@ Rank       Bot                       Rating     Prog       Games
 78         HulkBot                   1680       -40        400       
 79         simplexitor               1677       -16        439       
 80         yeoldwiz                  1637       16         634       
-81         maia5                     1619       6          97910     
+81         maia5                     1624       14         97911     
 82         sargon-3ply               1579       7          1120      
 83         ArduChessBot              1563       -30        400       
 84         turochamp-2ply            1515       -3         1034      
 85         sargon-4ply               1506       -15        538       
-86         maia1                     1471       10         225047    
-87         DavidsGuterBot            1470       -8         555       
+86         DavidsGuterBot            1470       -8         555       
+87         maia1                     1467       2          225048    
 88         RoundMoundOfRebounds      1463       -14        313       
 89         sargon-2ply               1419       -15        3160      
 90         turochamp-1ply            1418       -11        1500      
@@ -96,8 +96,8 @@ Rank       Bot                       Rating     Prog       Games
 95         schnecken_bot             1180       22         173       
 96         sargon-1ply               1152       -25        8145      
 97         CHoMPBoT                  1096       34         383       
-98         NichtEliasBot             1028       36         39        
-99         bobandi                   857        -12        680       
+98         kireevi                   1073       -15        538       
+99         NichtEliasBot             1028       36         39        
 100        DeepLLaMA                 855        -52        85        
 101        grandQ_AI                 746        25         1592      
 102        G0thamB0t                 721        2          254       
