@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          VariantsONTop             2986       12         144       
 2          Nikitosikbot              2900       16         20540     
-3          ToromBot                  2897       0          57575     
+3          ToromBot                  2896       -1         57576     
 4          ResoluteBot               2887       -4         24791     
 5          YoBot_v2                  2886       19         16641     
 6          TorBot                    2885       -2         5879      
@@ -11,7 +11,7 @@ Rank       Bot                       Rating     Prog       Games
 10         CodingAdventureBot        2842       1          1626      
 11         faith_bot                 2823       -5         2828      
 12         FishFingersMcGee          2819       -5         1778      
-13         RaspFish                  2803       -5         47654     
+13         RaspFish                  2804       -6         47655     
 14         chessfyBOT                2788       -8         1404      
 15         Nikitosik-ai              2788       3          1454      
 16         blundar_bot               2777       -1         4754      
@@ -48,7 +48,7 @@ Rank       Bot                       Rating     Prog       Games
 47         LazyBotJr                 2165       6          835       
 48         jangine                   2146       -2         2539      
 49         matmoi                    2143       13         874       
-50         eubos                     2114       20         11724     
+50         eubos                     2116       19         11725     
 51         redtail-zero              2088       -9         304       
 52         halcyonbot                2083       -14        4556      
 53         Humaia-Strong             2073       78         1306      
@@ -58,11 +58,11 @@ Rank       Bot                       Rating     Prog       Games
 57         Trollfish-Bot             1969       -6         2976      
 58         Hyperopic                 1968       -6         787       
 59         zeekat                    1936       6          17490     
-60         michabay05                1920       25         805       
+60         michabay05                1926       25         806       
 61         myopic-bot                1909       2          1489      
-62         FlounderBot               1896       9          1888      
-63         Lynx_BOT                  1885       0          5883      
-64         Ptit-biscuit              1848       22         502       
+62         FlounderBot               1895       7          1889      
+63         Lynx_BOT                  1880       -9         5884      
+64         Ptit-biscuit              1847       28         504       
 65         likeawizard-bot           1824       -27        506       
 66         notropis                  1807       -7         3435      
 67         honzovy-sachy             1782       5          4773      
@@ -92,11 +92,11 @@ Rank       Bot                       Rating     Prog       Games
 91         RoundMoundOfRebounds      1539       17         1118      
 92         monchester                1512       8          2258      
 93         sargon-2ply               1497       29         1953      
-94         ZE_ROOK                   1492       11         1193      
+94         ZE_ROOK                   1496       16         1194      
 95         StupidChessRobot          1466       -2         121       
 96         yeoldwiz                  1450       18         791       
 97         sargon-1ply               1438       -25        4043      
-98         botTideEval               1372       14         814       
+98         botTideEval               1368       14         815       
 99         knucklefish               1337       -27        2640      
 100        HulkBot                   1335       7          1174      
 101        OhniBOT                   1303       43         482       
