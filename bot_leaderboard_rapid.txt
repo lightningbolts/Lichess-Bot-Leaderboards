@@ -33,7 +33,7 @@ Rank       Bot                       Rating     Prog       Games
 32         Pseudo-0                  2388       2          1040      
 33         simpleEval                2351       3          7319      
 34         fornax-engine             2342       8          3574      
-35         admete_bot                2318       -1         3649      
+35         admete_bot                2319       0          3650      
 36         FlamingDragon_9000        2309       -12        1216      
 37         WasterNew                 2306       0          66        
 38         bekbot                    2291       0          1133      
@@ -48,16 +48,16 @@ Rank       Bot                       Rating     Prog       Games
 47         MaxtheDog                 2139       13         537       
 48         matmoi                    2134       -2         579       
 49         jangine                   2120       -29        1569      
-50         Boris-Trapsky             2117       -7         27032     
-51         Humaia-Strong             2088       27         597       
-52         halcyonbot                2086       15         5475      
+50         Boris-Trapsky             2110       -15        27033     
+51         halcyonbot                2092       24         5476      
+52         Humaia-Strong             2088       27         597       
 53         LazyBotJr                 2013       16         1249      
 54         BLANK_BOT                 1986       9          1411      
 55         LeelaRogue                1978       27         2190      
 56         requinBOT                 1969       57         129       
 57         WilliamEngine             1962       -28        19        
 58         Hyperopic                 1959       6          137       
-59         zeekat                    1952       6          7804      
+59         zeekat                    1950       0          7805      
 60         LeaMoreau                 1949       73         64        
 61         Zagreus_Engine            1927       -2         1591      
 62         Nc3Nc6Bot                 1924       -20        1218      
@@ -76,7 +76,7 @@ Rank       Bot                       Rating     Prog       Games
 75         zulu_bot                  1776       3          110       
 76         honzovy-sachy             1774       20         884       
 77         Virutor                   1760       -13        3111      
-78         maia9                     1757       -3         81296     
+78         maia9                     1752       -2         81297     
 79         dlvc-bot                  1751       -15        75        
 80         melsh_bot                 1743       -25        178       
 81         turkjs                    1735       0          4962      
@@ -84,7 +84,7 @@ Rank       Bot                       Rating     Prog       Games
 83         HulkBot                   1680       -40        400       
 84         yeoldwiz                  1637       16         634       
 85         maia5                     1633       -20        97973     
-86         maia1                     1591       -9         225267    
+86         maia1                     1593       -1         225271    
 87         HardRok                   1586       -5         391       
 88         sargon-3ply               1579       7          1120      
 89         ArduChessBot              1560       -30        401       
@@ -98,7 +98,7 @@ Rank       Bot                       Rating     Prog       Games
 97         turochamp-1ply            1411       -11        1501      
 98         chat_bot                  1347       42         196       
 99         Humaia                    1329       -7         1988      
-100        pawnrobot                 1319       0          560       
+100        pawnrobot                 1313       -4         561       
 101        OhniBOT                   1245       -27        234       
 102        schnecken_bot             1188       25         177       
 103        sargon-1ply               1152       -25        8145      
