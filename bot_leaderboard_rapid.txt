@@ -31,8 +31,8 @@ Rank       Bot                       Rating     Prog       Games
 30         Phalanx-XXV               2395       1          815       
 31         Pseudo-0                  2389       2          1039      
 32         simpleEval                2346       6          7311      
-33         fornax-engine             2338       0          3572      
-34         admete_bot                2328       -1         3598      
+33         fornax-engine             2341       7          3573      
+34         admete_bot                2328       0          3599      
 35         FlamingDragon_9000        2309       -12        1216      
 36         bekbot                    2291       0          1133      
 37         FataliiBot                2276       25         2425      
@@ -41,7 +41,7 @@ Rank       Bot                       Rating     Prog       Games
 40         eubos                     2180       -14        4126      
 41         Elmichess                 2158       -2         1359      
 42         redtail-zero              2156       -14        141       
-43         matmoi                    2144       22         566       
+43         matmoi                    2141       16         567       
 44         GarboBot                  2139       3          5830      
 45         MaxtheDog                 2136       -7         534       
 46         jangine                   2120       -22        1567      
@@ -51,7 +51,7 @@ Rank       Bot                       Rating     Prog       Games
 50         BLANK_BOT                 1973       -4         1408      
 51         WilliamEngine             1962       -28        19        
 52         Hyperopic                 1959       6          137       
-53         Nc3Nc6Bot                 1947       3          1205      
+53         Nc3Nc6Bot                 1947       10         1206      
 54         zeekat                    1947       -19        7795      
 55         requinBOT                 1941       17         116       
 56         Zagreus_Engine            1922       -15        1586      
@@ -65,7 +65,7 @@ Rank       Bot                       Rating     Prog       Games
 64         likeawizard-bot           1845       -30        221       
 65         notropis                  1838       -5         2030      
 66         Fisk_Bot                  1813       -19        224       
-67         RosyBot                   1794       -153       24        
+67         RosyBot                   1808       -104       25        
 68         ChessChildren             1779       -6         4316      
 69         Demolito_L5               1778       19         321       
 70         FlounderBot               1776       -5         77        
@@ -73,8 +73,8 @@ Rank       Bot                       Rating     Prog       Games
 72         Virutor                   1773       -7         3108      
 73         honzovy-sachy             1766       11         883       
 74         dlvc-bot                  1756       -15        74        
-75         turkjs                    1740       0          4961      
-76         melsh_bot                 1737       -20        176       
+75         melsh_bot                 1737       -20        176       
+76         turkjs                    1735       0          4962      
 77         maia9                     1720       -9         81254     
 78         HulkBot                   1680       -40        400       
 79         simplexitor               1677       -16        439       
@@ -91,7 +91,7 @@ Rank       Bot                       Rating     Prog       Games
 90         turochamp-1ply            1418       -11        1500      
 91         ZE_ROOK                   1415       -23        218       
 92         chat_bot                  1347       42         196       
-93         pawnrobot                 1323       5          556       
+93         pawnrobot                 1323       7          557       
 94         OhniBOT                   1258       -14        230       
 95         schnecken_bot             1180       22         173       
 96         sargon-1ply               1152       -25        8145      
