@@ -15,9 +15,9 @@ Rank       Bot                       Rating     Prog       Games
 14         ArasanX                   2784       -18        1545      
 15         blundar_bot               2765       -8         801       
 16         LazyBot                   2756       0          1985      
-17         ChessHunterBot            2684       2          297       
+17         ChessHunterBot            2683       -1         298       
 18         CodingAdventureBot        2640       1          2855      
-19         AKS-Mantissa              2627       3          8956      
+19         AKS-Mantissa              2628       1          8957      
 20         expositor                 2601       -2         6548      
 21         SaxtonEngine              2553       14         1950      
 22         Weiawaga                  2522       -6         11193     
@@ -27,8 +27,8 @@ Rank       Bot                       Rating     Prog       Games
 26         odonata-bot               2414       34         5799      
 27         Phalanx-XXV               2401       6          2440      
 28         TuksuBot                  2392       9          3680      
-29         admete_bot                2391       -5         5880      
-30         Cheng-4                   2391       6          6353      
+29         Cheng-4                   2391       6          6353      
+30         admete_bot                2390       -5         5882      
 31         fornax-engine             2385       15         6325      
 32         Pseudo-0                  2364       16         2696      
 33         FlamingDragon_9000        2323       19         3331      
@@ -73,7 +73,7 @@ Rank       Bot                       Rating     Prog       Games
 72         RosyBot                   1773       -11        97        
 73         QueensGamBOT              1760       18         2761      
 74         Fisk_Bot                  1745       16         1484      
-75         ELO_1500                  1725       -3         12512     
+75         ELO_1500                  1725       -6         12513     
 76         honzovy-sachy             1722       -11        4724      
 77         Virutor                   1716       -20        7187      
 78         dlvc-bot                  1712       -24        1237      
@@ -88,9 +88,9 @@ Rank       Bot                       Rating     Prog       Games
 87         turkjs                    1569       -13        10085     
 88         sargon-4ply               1534       13         1754      
 89         ArduChessBot              1532       -14        1170      
-90         maia5                     1530       0          98160     
+90         maia5                     1526       -8         98161     
 91         chat_bot                  1500       -81        225       
-92         maia1                     1488       22         201487    
+92         maia1                     1491       21         201488    
 93         sargon-3ply               1488       5          1678      
 94         DavidsGuterBot            1467       0          3274      
 95         monchester                1455       -4         2583      
@@ -103,11 +103,11 @@ Rank       Bot                       Rating     Prog       Games
 102        turochamp-1ply            1277       18         1617      
 103        sargon-1ply               1266       -4         7536      
 104        schnecken_bot             1262       36         1489      
-105        pawnrobot                 1250       14         1843      
+105        pawnrobot                 1246       5          1844      
 106        OhniBOT                   1219       -67        286       
 107        HulkBot                   1161       -62        666       
 108        CHoMPBoT                  1125       14         1311      
-109        knucklefish               1005       -10        3034      
+109        knucklefish               1005       -3         3035      
 110        BelaBot                   912        -45        44        
 111        DeepLLaMA                 883        -7         61        
 112        grandQ_AI                 726        27         1209      
