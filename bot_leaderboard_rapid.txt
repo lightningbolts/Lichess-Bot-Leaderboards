@@ -25,7 +25,7 @@ Rank       Bot                       Rating     Prog       Games
 24         AKS-Mantissa              2603       2          3933      
 25         SaxtonEngine              2542       -11        1259      
 26         pawn_git                  2535       3          1028      
-27         Weiawaga                  2504       -1         9494      
+27         Weiawaga                  2507       6          9495      
 28         Cheng-4                   2474       15         2970      
 29         OpeningsBot               2438       -8         106       
 30         bot_adario                2409       -2         1236      
@@ -35,12 +35,12 @@ Rank       Bot                       Rating     Prog       Games
 34         Pseudo-0                  2388       2          1040      
 35         simpleEval                2343       1          7316      
 36         fornax-engine             2341       7          3573      
-37         WasterNew                 2324       24         64        
-38         admete_bot                2323       -1         3623      
+37         admete_bot                2323       -1         3624      
+38         WasterNew                 2320       11         65        
 39         FlamingDragon_9000        2309       -12        1216      
 40         bekbot                    2291       0          1133      
-41         FataliiBot                2276       25         2425      
-42         KhepriChess               2270       -6         491       
+41         FataliiBot                2277       22         2426      
+42         KhepriChess               2263       -14        492       
 43         HistoryExplorer           2223       16         952       
 44         honzovy-sachy-2           2208       -2         3477      
 45         eubos                     2185       -13        4127      
@@ -58,7 +58,7 @@ Rank       Bot                       Rating     Prog       Games
 57         LeelaRogue                1978       27         2190      
 58         WilliamEngine             1962       -28        19        
 59         Hyperopic                 1959       6          137       
-60         zeekat                    1955       -4         7798      
+60         zeekat                    1958       0          7799      
 61         LeaMoreau                 1949       73         64        
 62         Nc3Nc6Bot                 1936       -5         1213      
 63         Zagreus_Engine            1922       -9         1590      
@@ -81,7 +81,7 @@ Rank       Bot                       Rating     Prog       Games
 80         ChessChildren             1773       -20        4317      
 81         Virutor                   1763       -11        3110      
 82         dlvc-bot                  1756       -15        74        
-83         melsh_bot                 1748       -26        177       
+83         melsh_bot                 1743       -25        178       
 84         maia9                     1736       4          81261     
 85         turkjs                    1735       0          4962      
 86         simplexitor               1681       -7         440       
@@ -91,7 +91,7 @@ Rank       Bot                       Rating     Prog       Games
 90         HardRok                   1592       -12        389       
 91         sargon-3ply               1579       7          1120      
 92         ArduChessBot              1560       -30        401       
-93         maia1                     1534       26         225104    
+93         maia1                     1535       20         225106    
 94         turochamp-2ply            1514       -12        1035      
 95         sargon-4ply               1506       -15        538       
 96         DavidsGuterBot            1469       -8         556       
