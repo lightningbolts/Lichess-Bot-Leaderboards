@@ -1,5 +1,5 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ToromBot                  2880       6          1686      
+1          TorBot                    2885       -1         782       
 2          ProteusSF-Godot           2874       -5         123       
 3          TheMatrix2025             2866       4          332       
 4          YoBot_v2                  2863       -3         12749     
@@ -32,7 +32,7 @@ Rank       Bot                       Rating     Prog       Games
 31         Pseudo-0                  2389       2          1039      
 32         simpleEval                2346       5          7313      
 33         fornax-engine             2341       7          3573      
-34         admete_bot                2327       -3         3603      
+34         admete_bot                2327       -3         3604      
 35         FlamingDragon_9000        2309       -12        1216      
 36         bekbot                    2291       0          1133      
 37         FataliiBot                2276       25         2425      
@@ -41,8 +41,8 @@ Rank       Bot                       Rating     Prog       Games
 40         eubos                     2180       -14        4126      
 41         Elmichess                 2158       -2         1359      
 42         redtail-zero              2156       -14        141       
-43         matmoi                    2141       16         567       
-44         GarboBot                  2139       3          5830      
+43         GarboBot                  2142       7          5831      
+44         matmoi                    2141       16         567       
 45         MaxtheDog                 2136       -7         534       
 46         jangine                   2120       -22        1567      
 47         halcyonbot                2068       -16        5465      
@@ -51,8 +51,8 @@ Rank       Bot                       Rating     Prog       Games
 50         LeelaRogue                1974       23         2189      
 51         WilliamEngine             1962       -28        19        
 52         Hyperopic                 1959       6          137       
-53         Nc3Nc6Bot                 1947       10         1206      
-54         zeekat                    1947       -19        7795      
+53         zeekat                    1947       -19        7795      
+54         Nc3Nc6Bot                 1944       10         1207      
 55         Zagreus_Engine            1917       -14        1587      
 56         Lynx_BOT                  1911       -9         39169     
 57         requinBOT                 1907       -37        117       
@@ -85,7 +85,7 @@ Rank       Bot                       Rating     Prog       Games
 84         sargon-4ply               1506       -15        538       
 85         DavidsGuterBot            1470       -8         555       
 86         RoundMoundOfRebounds      1463       -14        313       
-87         maia1                     1453       -12        225055    
+87         maia1                     1459       -12        225056    
 88         sargon-2ply               1419       -15        3160      
 89         turochamp-1ply            1418       -11        1500      
 90         ZE_ROOK                   1418       -20        219       
