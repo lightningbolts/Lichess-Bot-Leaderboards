@@ -33,7 +33,7 @@ Rank       Bot                       Rating     Prog       Games
 32         bekbot                    2291       0          1133      
 33         FataliiBot                2282       15         2432      
 34         KhepriChess               2255       -5         504       
-35         HistoryExplorer           2211       -5         955       
+35         HistoryExplorer           2215       -1         956       
 36         honzovy-sachy-2           2205       -3         3481      
 37         eubos                     2196       15         4131      
 38         Elmichess                 2162       10         1364      
@@ -43,7 +43,7 @@ Rank       Bot                       Rating     Prog       Games
 42         jangine                   2120       -29        1569      
 43         Boris-Trapsky             2113       -16        27036     
 44         matmoi                    2111       -20        588       
-45         halcyonbot                2094       7          5489      
+45         halcyonbot                2090       2          5490      
 46         Humaia-Strong             2088       27         597       
 47         LazyBotJr                 2013       16         1249      
 48         requinBOT                 2002       25         137       
@@ -76,7 +76,7 @@ Rank       Bot                       Rating     Prog       Games
 75         yeoldwiz                  1637       16         634       
 76         sargon-3ply               1579       7          1120      
 77         ArduChessBot              1558       -29        402       
-78         maia1                     1552       7          225381    
+78         maia1                     1541       6          225382    
 79         turochamp-2ply            1508       -17        1036      
 80         sargon-4ply               1496       -10        539       
 81         TuroBot                   1477       113        3301      
@@ -93,6 +93,6 @@ Rank       Bot                       Rating     Prog       Games
 92         CHoMPBoT                  1091       34         388       
 93         kireevi                   1073       -15        538       
 94         NichtEliasBot             1027       19         40        
-95         DeepLLaMA                 855        -40        86        
+95         DeepLLaMA                 855        -29        87        
 96         grandQ_AI                 735        -12        1597      
 97         G0thamB0t                 721        2          254       
