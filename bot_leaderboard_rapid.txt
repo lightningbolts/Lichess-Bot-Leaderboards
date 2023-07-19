@@ -26,7 +26,7 @@ Rank       Bot                       Rating     Prog       Games
 25         Pseudo-0                  2387       -3         1043      
 26         simpleEval                2346       0          7322      
 27         fornax-engine             2339       -4         3578      
-28         admete_bot                2322       -3         3705      
+28         admete_bot                2321       -3         3706      
 29         bekbot                    2284       -9         1134      
 30         FataliiBot                2262       -11        2435      
 31         KhepriChess               2260       2          512       
@@ -37,11 +37,11 @@ Rank       Bot                       Rating     Prog       Games
 36         redtail-zero              2143       -12        147       
 37         MaxtheDog                 2139       13         537       
 38         matmoi                    2132       -6         595       
-39         Boris-Trapsky             2117       -6         27040     
+39         Boris-Trapsky             2111       -12        27041     
 40         jangine                   2108       -39        1571      
-41         halcyonbot                2091       6          5498      
-42         Humaia-Strong             2088       27         597       
-43         kulubot                   2085       -12        497       
+41         kulubot                   2092       -6         498       
+42         halcyonbot                2091       6          5498      
+43         Humaia-Strong             2088       27         597       
 44         requinBOT                 2022       54         142       
 45         LazyBotJr                 2006       2          1250      
 46         BLANK_BOT                 1987       20         1417      
@@ -70,7 +70,7 @@ Rank       Bot                       Rating     Prog       Games
 69         maia9                     1732       -26        81364     
 70         turkjs                    1730       -3         4966      
 71         HulkBot                   1680       -40        400       
-72         maia5                     1657       -3         98038     
+72         maia5                     1651       -2         98039     
 73         yeoldwiz                  1637       16         634       
 74         HardRok                   1595       16         395       
 75         sargon-3ply               1579       7          1120      
