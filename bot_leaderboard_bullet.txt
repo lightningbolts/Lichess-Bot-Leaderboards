@@ -1,5 +1,5 @@
 Rank       Bot                       Rating     Prog       Games     
-1          VariantsONTop             3006       12         166       
+1          VariantsONTop             3001       6          170       
 2          Nikitosikbot              2900       16         20540     
 3          TorBot                    2889       3          5881      
 4          ResoluteBot               2887       -4         24791     
@@ -10,12 +10,12 @@ Rank       Bot                       Rating     Prog       Games
 9          RigorousMoron             2858       -9         43        
 10         caissa-test               2843       2          1390      
 11         CodingAdventureBot        2842       1          1626      
-12         RaspFish                  2821       -11        47713     
+12         RaspFish                  2826       -5         47717     
 13         FishFingersMcGee          2819       -5         1778      
-14         Nikitosik-ai              2801       -2         1507      
+14         Nikitosik-ai              2801       2          1508      
 15         blundar_bot               2789       12         4767      
 16         chessfyBOT                2788       -8         1404      
-17         Shineshou90_BOT           2773       2          7541      
+17         Shineshou90_BOT           2774       8          7542      
 18         LazyBot                   2707       17         1391      
 19         MrChessTheBot             2587       1          4797      
 20         ChessHunterBot            2540       7          147       
@@ -31,10 +31,10 @@ Rank       Bot                       Rating     Prog       Games
 30         TuksuBot                  2374       25         6564      
 31         Phalanx-XXV               2362       4          3973      
 32         OpeningsBot               2358       9          301       
-33         admete_bot                2328       -3         5645      
+33         admete_bot                2328       -3         5646      
 34         fornax-engine             2322       -2         6723      
 35         Pseudo-0                  2316       17         3681      
-36         simpleEval                2263       4          24477     
+36         simpleEval                2266       6          24478     
 37         KhepriChess               2231       9          554       
 38         bekbot                    2219       -8         1399      
 39         FataliiBot                2215       7          5464      
@@ -55,8 +55,8 @@ Rank       Bot                       Rating     Prog       Games
 54         zeekat                    1928       -4         17495     
 55         Trollfish-Bot             1921       -54        2991      
 56         myopic-bot                1918       14         1492      
-57         michabay05                1915       -5         816       
-58         FlounderBot               1914       10         1906      
+57         FlounderBot               1915       12         1907      
+58         michabay05                1915       -5         816       
 59         Lynx_BOT                  1865       -33        5887      
 60         Ptit-biscuit              1854       31         505       
 61         likeawizard-bot           1819       -12        514       
@@ -70,7 +70,7 @@ Rank       Bot                       Rating     Prog       Games
 69         simplexitor               1718       1          2129      
 70         piglet_engine             1717       2          74        
 71         ELO_1500                  1710       14         2985      
-72         ArduChessBot              1703       -3         5193      
+72         ArduChessBot              1703       -9         5194      
 73         maia9                     1702       -21        59930     
 74         ChessChildren             1699       -15        15208     
 75         turkjs                    1656       -2         19067     
@@ -82,7 +82,7 @@ Rank       Bot                       Rating     Prog       Games
 81         sargon-4ply               1595       -20        1513      
 82         sargon-3ply               1588       -13        1157      
 83         RoundMoundOfRebounds      1559       28         1123      
-84         DavidsGuterBot            1545       -27        5782      
+84         DavidsGuterBot            1543       -27        5783      
 85         maia1                     1534       -14        121093    
 86         turochamp-1ply            1532       -16        1702      
 87         monchester                1522       22         2259      
