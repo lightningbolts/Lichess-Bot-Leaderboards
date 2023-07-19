@@ -6,8 +6,8 @@ Rank       Bot                       Rating     Prog       Games
 5          EmanPureNN                2865       9          214       
 6          TheMatrix2025             2865       3          336       
 7          ReinforcementTrial        2862       3          4572      
-8          ToromLc0                  2860       7          92        
-9          BabyUltimate              2855       0          88        
+8          BabyUltimate              2855       0          88        
+9          ToromLc0                  2854       1          93        
 10         ArasanX                   2851       4          4907      
 11         chessfyBOT                2845       -7         228       
 12         ResoluteBot               2844       -6         5153      
@@ -76,14 +76,14 @@ Rank       Bot                       Rating     Prog       Games
 75         HulkBot                   1680       -40        400       
 76         yeoldwiz                  1637       16         634       
 77         maia5                     1623       5          98084     
-78         HardRok                   1590       -7         399       
+78         HardRok                   1594       2          400       
 79         sargon-3ply               1585       8          1121      
 80         maia1                     1567       11         225476    
 81         ArduChessBot              1558       -29        402       
 82         turochamp-2ply            1514       -9         1037      
 83         sargon-4ply               1502       4          540       
-84         TuroBot                   1477       113        3301      
-85         DavidsGuterBot            1464       -12        557       
+84         DavidsGuterBot            1464       -12        557       
+85         TuroBot                   1464       126        3302      
 86         RoundMoundOfRebounds      1462       -12        314       
 87         ZE_ROOK                   1440       33         236       
 88         sargon-2ply               1415       -7         3164      
@@ -99,4 +99,3 @@ Rank       Bot                       Rating     Prog       Games
 98         NichtEliasBot             1027       19         40        
 99         DeepLLaMA                 855        -21        88        
 100        grandQ_AI                 735        -12        1597      
-101        G0thamB0t                 721        2          254       
