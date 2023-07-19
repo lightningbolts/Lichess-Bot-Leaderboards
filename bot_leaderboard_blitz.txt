@@ -1,11 +1,11 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Godot           2880       -2         476       
 2          TheMatrix2025             2874       -4         435       
-3          TorBot                    2872       11         938       
-4          YoBot_v2                  2864       2          3206      
-5          VariantsTop               2859       -5         77        
-6          RaspFish                  2833       9          10778     
-7          Nikitosikbot              2828       1          5780      
+3          TorBot                    2874       11         939       
+4          VariantsTop               2866       2          78        
+5          YoBot_v2                  2864       2          3206      
+6          Nikitosikbot              2828       1          5780      
+7          RaspFish                  2828       2          10779     
 8          chessfyBOT                2819       -12        180       
 9          caissa-test               2812       -68        39        
 10         ResoluteBot               2807       -18        10832     
@@ -17,7 +17,7 @@ Rank       Bot                       Rating     Prog       Games
 16         kayrakropro_BOT           2754       49         40        
 17         Hien-Vinh_Bot2            2688       44         15        
 18         CodingAdventureBot        2639       1          2876      
-19         SaxtonEngine              2539       -12        2014      
+19         SaxtonEngine              2538       -11        2015      
 20         pawn_git                  2502       -6         2110      
 21         Weiawaga                  2499       -7         11220     
 22         bot_adario                2472       12         1948      
@@ -28,7 +28,7 @@ Rank       Bot                       Rating     Prog       Games
 27         ChessNoobComp             2394       -2         1431      
 28         fornax-engine             2388       14         6332      
 29         Pseudo-0                  2373       7          2709      
-30         admete_bot                2369       0          6065      
+30         admete_bot                2368       0          6067      
 31         TuksuBot                  2367       -25        3691      
 32         simpleEval                2304       19         14133     
 33         KhepriChess               2268       12         1254      
@@ -85,7 +85,7 @@ Rank       Bot                       Rating     Prog       Games
 84         chat_bot                  1470       -99        227       
 85         RoundMoundOfRebounds      1464       6          1086      
 86         turochamp-2ply            1452       5          1529      
-87         maia1                     1446       -27        201789    
+87         maia1                     1442       -22        201790    
 88         TuroBot                   1432       3          4931      
 89         Humaia                    1409       -25        811       
 90         StupidChessRobot          1371       7          270       
