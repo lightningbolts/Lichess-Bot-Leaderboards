@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ProteusSF-Godot           2881       5          471       
-2          TorBot                    2872       3          870       
+1          ProteusSF-Godot           2881       5          472       
+2          TorBot                    2872       -1         871       
 3          ToromBot                  2871       -2         2728      
 4          TheMatrix2025             2869       -9         433       
 5          YoBot_v2                  2865       -2         3203      
@@ -57,7 +57,7 @@ Rank       Bot                       Rating     Prog       Games
 56         requinBOT                 1931       -13        81        
 57         zeekat                    1922       -15        19336     
 58         michabay05                1914       -15        310       
-59         Lynx_BOT                  1885       6          47648     
+59         Lynx_BOT                  1888       8          47649     
 60         myopic-bot                1885       -8         1498      
 61         zulu_bot                  1861       -3         992       
 62         likeawizard-bot           1855       -5         1338      
@@ -71,8 +71,8 @@ Rank       Bot                       Rating     Prog       Games
 70         simplexitor               1732       40         2034      
 71         QueensGamBOT              1727       -32        2770      
 72         ELO_1500                  1718       3          12564     
-73         Virutor                   1701       -32        7192      
-74         melsh_bot                 1699       -1         1654      
+73         melsh_bot                 1699       -1         1654      
+74         Virutor                   1698       -31        7193      
 75         dlvc-bot                  1689       -29        1247      
 76         piglet_engine             1646       -4         15        
 77         KnightlessKid             1641       -12        268       
@@ -106,4 +106,4 @@ Rank       Bot                       Rating     Prog       Games
 105        knucklefish               1119       122        3049      
 106        BelaBot                   912        -45        44        
 107        DeepLLaMA                 883        -7         61        
-108        grandQ_AI                 726        27         1209      
+108        grandQ_AI                 726        19         1210      
