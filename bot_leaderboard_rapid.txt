@@ -2,7 +2,7 @@ Rank       Bot                       Rating     Prog       Games
 1          TorBot                    2885       -1         782       
 2          ProteusSF-Godot           2879       4          130       
 3          ToromBot                  2879       5          1688      
-4          YoBot_v2                  2869       6          12760     
+4          YoBot_v2                  2868       5          12761     
 5          FishFingersMcGee          2859       6          127       
 6          ReinforcementTrial        2858       3          4548      
 7          Shineshou90_BOT           2846       -6         2352      
@@ -14,7 +14,7 @@ Rank       Bot                       Rating     Prog       Games
 13         faith_bot                 2837       0          661       
 14         Nikitosik-ai              2826       9          563       
 15         MrChessTheBot             2811       -4         2010      
-16         blundar_bot               2805       6          967       
+16         blundar_bot               2806       11         968       
 17         ChessHunterBot            2647       -15        153       
 18         expositor                 2639       11         4370      
 19         LazyBot                   2618       6          702       
@@ -55,9 +55,9 @@ Rank       Bot                       Rating     Prog       Games
 54         Hyperopic                 1959       6          137       
 55         LeaMoreau                 1949       73         64        
 56         Zagreus_Engine            1928       0          1596      
-57         Lynx_BOT                  1915       4          39182     
-58         myopic-bot                1900       20         252       
-59         baby_eubos                1897       5          793       
+57         Lynx_BOT                  1909       -2         39183     
+58         baby_eubos                1903       16         794       
+59         myopic-bot                1900       20         252       
 60         likeawizard-bot           1897       48         231       
 61         Trollfish-Bot             1893       30         145       
 62         Ptit-biscuit              1869       22         48        
@@ -78,8 +78,8 @@ Rank       Bot                       Rating     Prog       Games
 77         HulkBot                   1680       -40        400       
 78         maia5                     1667       17         97994     
 79         yeoldwiz                  1637       16         634       
-80         maia1                     1595       34         225337    
-81         HardRok                   1590       -2         392       
+80         HardRok                   1590       -2         392       
+81         maia1                     1583       21         225339    
 82         sargon-3ply               1579       7          1120      
 83         ArduChessBot              1558       -29        402       
 84         turochamp-2ply            1508       -17        1036      
@@ -99,5 +99,5 @@ Rank       Bot                       Rating     Prog       Games
 98         kireevi                   1073       -15        538       
 99         NichtEliasBot             1028       36         39        
 100        DeepLLaMA                 855        -40        86        
-101        grandQ_AI                 739        -8         1595      
+101        grandQ_AI                 737        -10        1596      
 102        G0thamB0t                 721        2          254       
