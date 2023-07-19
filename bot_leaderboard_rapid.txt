@@ -4,9 +4,9 @@ Rank       Bot                       Rating     Prog       Games
 3          ToromBot                  2878       4          1690      
 4          YoBot_v2                  2866       4          12763     
 5          TheMatrix2025             2865       3          334       
-6          ReinforcementTrial        2860       1          4560      
-7          TorBot_v2                 2860       6          66        
-8          FishFingersMcGee          2859       6          128       
+6          TorBot_v2                 2860       6          66        
+7          FishFingersMcGee          2859       6          128       
+8          ReinforcementTrial        2859       -1         4561      
 9          ArasanX                   2848       7          4897      
 10         Shineshou90_BOT           2846       -6         2352      
 11         chessfyBOT                2845       -7         228       
@@ -14,7 +14,7 @@ Rank       Bot                       Rating     Prog       Games
 13         Nikitosikbot              2841       -13        8433      
 14         RaspFish                  2841       -3         5346      
 15         Nikitosik-ai              2826       8          564       
-16         MrChessTheBot             2812       1          2011      
+16         MrChessTheBot             2813       2          2012      
 17         blundar_bot               2807       9          970       
 18         ChessHunterBot            2640       -20        156       
 19         expositor                 2640       14         4372      
@@ -78,7 +78,7 @@ Rank       Bot                       Rating     Prog       Games
 77         yeoldwiz                  1637       16         634       
 78         sargon-3ply               1579       7          1120      
 79         ArduChessBot              1558       -29        402       
-80         maia1                     1535       -9         225387    
+80         maia1                     1539       -7         225388    
 81         turochamp-2ply            1508       -17        1036      
 82         sargon-4ply               1496       -10        539       
 83         TuroBot                   1477       113        3301      
