@@ -25,11 +25,11 @@ Rank       Bot                       Rating     Prog       Games
 24         Phalanx-XXV               2398       4          820       
 25         Pseudo-0                  2387       -3         1043      
 26         simpleEval                2352       6          7324      
-27         fornax-engine             2339       -4         3578      
+27         fornax-engine             2340       -2         3579      
 28         admete_bot                2321       -2         3711      
 29         WasterNew                 2311       10         67        
 30         bekbot                    2284       -9         1134      
-31         DQN-chess                 2270       2          856       
+31         DQN-chess                 2272       0          857       
 32         FataliiBot                2262       -14        2436      
 33         KhepriChess               2260       2          512       
 34         eubos                     2208       33         4133      
@@ -45,11 +45,11 @@ Rank       Bot                       Rating     Prog       Games
 44         kulubot                   2098       -5         500       
 45         halcyonbot                2095       5          5501      
 46         Humaia-Strong             2088       27         597       
-47         requinBOT                 2021       16         145       
+47         requinBOT                 2018       20         146       
 48         LazyBotJr                 2006       2          1250      
 49         BLANK_BOT                 1982       17         1418      
 50         LeelaRogue                1976       10         2192      
-51         zeekat                    1967       10         7828      
+51         zeekat                    1965       3          7829      
 52         Hyperopic                 1959       6          137       
 53         Lynx_BOT                  1942       27         39200     
 54         Zagreus_Engine            1921       -10        1603      
@@ -74,7 +74,7 @@ Rank       Bot                       Rating     Prog       Games
 73         maia9                     1722       -29        81386     
 74         HulkBot                   1680       -40        400       
 75         yeoldwiz                  1637       16         634       
-76         maia5                     1614       3          98072     
+76         maia5                     1618       7          98073     
 77         HardRok                   1595       4          397       
 78         sargon-3ply               1579       7          1120      
 79         ArduChessBot              1558       -29        402       
