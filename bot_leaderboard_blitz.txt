@@ -1,11 +1,11 @@
 Rank       Bot                       Rating     Prog       Games     
-1          BabyUltimate              2891       16         294       
-2          ProteusSF-Godot           2880       -2         476       
-3          TheMatrix2025             2874       -4         435       
-4          TorBot                    2869       -7         915       
-5          YoBot_v2                  2864       2          3206      
-6          RaspFish                  2833       9          10778     
-7          FishFingersMcGee          2832       4          341       
+1          ProteusSF-Godot           2880       -2         476       
+2          TheMatrix2025             2874       -4         435       
+3          TorBot                    2865       -1         916       
+4          YoBot_v2                  2864       2          3206      
+5          RaspFish                  2833       9          10778     
+6          FishFingersMcGee          2832       4          341       
+7          Nikitosikbot              2828       1          5780      
 8          TorBot_v2                 2826       10         73        
 9          chessfyBOT                2819       -12        180       
 10         caissa-test               2812       -68        39        
@@ -16,7 +16,7 @@ Rank       Bot                       Rating     Prog       Games
 15         blundar_bot               2776       11         812       
 16         LazyBot                   2756       0          1985      
 17         CodingAdventureBot        2639       1          2873      
-18         SaxtonEngine              2542       -1         1991      
+18         SaxtonEngine              2546       5          1992      
 19         pawn_git                  2502       -6         2110      
 20         Weiawaga                  2495       -6         11214     
 21         bot_adario                2472       12         1948      
@@ -28,7 +28,7 @@ Rank       Bot                       Rating     Prog       Games
 27         fornax-engine             2388       14         6332      
 28         Pseudo-0                  2373       7          2709      
 29         TuksuBot                  2370       -29        3690      
-30         admete_bot                2365       -3         6048      
+30         admete_bot                2365       -3         6049      
 31         simpleEval                2295       12         14130     
 32         KhepriChess               2264       -1         1253      
 33         HistoryExplorer           2262       11         2513      
@@ -87,7 +87,7 @@ Rank       Bot                       Rating     Prog       Games
 86         RoundMoundOfRebounds      1464       6          1086      
 87         turochamp-2ply            1452       5          1529      
 88         TuroBot                   1432       3          4931      
-89         Humaia                    1410       -43        806       
+89         Humaia                    1415       -33        807       
 90         StupidChessRobot          1366       6          268       
 91         ZE_ROOK                   1322       -1         2080      
 92         sargon-2ply               1319       -12        2865      
