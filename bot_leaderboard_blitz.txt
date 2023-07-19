@@ -30,7 +30,7 @@ Rank       Bot                       Rating     Prog       Games
 29         Pseudo-0                  2368       5          2710      
 30         TuksuBot                  2367       -27        3692      
 31         admete_bot                2365       -3         6078      
-32         simpleEval                2311       19         14139     
+32         simpleEval                2312       20         14140     
 33         bekbot                    2277       17         1372      
 34         beatrijs-bot              2271       95         35        
 35         KhepriChess               2268       8          1258      
@@ -40,12 +40,12 @@ Rank       Bot                       Rating     Prog       Games
 39         DQN-chess                 2180       8          198       
 40         eubos                     2164       -4         13562     
 41         honzovy-sachy-2           2148       -23        6505      
-42         matmoi                    2127       -21        693       
-43         GarboBot                  2120       2          8674      
+42         GarboBot                  2120       2          8674      
+43         matmoi                    2120       -25        694       
 44         jangine                   2115       -2         2943      
 45         halcyonbot                2106       -20        8299      
-46         Elmichess                 2084       -44        3466      
-47         kulubot                   2084       23         1205      
+46         kulubot                   2091       26         1206      
+47         Elmichess                 2084       -44        3466      
 48         MaxtheDog                 2071       12         3792      
 49         redtail-zero              2059       -3         279       
 50         Hyperopic                 2042       10         1150      
@@ -79,7 +79,7 @@ Rank       Bot                       Rating     Prog       Games
 78         ChessChildren             1660       16         21076     
 79         KnightlessKid             1641       -12        268       
 80         yeoldwiz                  1638       14         1599      
-81         maia9                     1623       -12        97499     
+81         maia9                     1619       -12        97501     
 82         HardRok                   1570       -9         610       
 83         maia5                     1561       3          98267     
 84         turkjs                    1561       -8         10096     
@@ -90,7 +90,7 @@ Rank       Bot                       Rating     Prog       Games
 89         ChamberiAjedrez           1470       -106       321       
 90         chat_bot                  1470       -99        227       
 91         RoundMoundOfRebounds      1463       4          1087      
-92         maia1                     1452       -6         201838    
+92         maia1                     1455       -7         201839    
 93         turochamp-2ply            1452       5          1529      
 94         TuroBot                   1432       3          4931      
 95         Humaia                    1409       -25        811       
