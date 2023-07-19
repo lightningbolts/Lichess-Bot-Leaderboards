@@ -31,7 +31,7 @@ Rank       Bot                       Rating     Prog       Games
 30         TuksuBot                  2374       25         6564      
 31         Phalanx-XXV               2362       4          3973      
 32         OpeningsBot               2356       2          300       
-33         admete_bot                2335       -3         5617      
+33         admete_bot                2335       -3         5619      
 34         fornax-engine             2329       8          6722      
 35         Pseudo-0                  2316       17         3681      
 36         simpleEval                2257       1          24475     
@@ -52,7 +52,7 @@ Rank       Bot                       Rating     Prog       Games
 51         BLANK_BOT                 1981       12         6776      
 52         Zagreus_Engine            1969       -17        2783      
 53         Hyperopic                 1968       -6         787       
-54         Trollfish-Bot             1959       -14        2985      
+54         Trollfish-Bot             1950       -25        2986      
 55         michabay05                1928       16         813       
 56         zeekat                    1928       -3         17493     
 57         myopic-bot                1918       14         1492      
@@ -68,10 +68,10 @@ Rank       Bot                       Rating     Prog       Games
 67         Fisk_Bot                  1740       10         225       
 68         melsh_bot                 1726       -1         3637      
 69         simplexitor               1718       1          2129      
-70         maia9                     1705       -15        59929     
-71         ArduChessBot              1703       -3         5193      
-72         piglet_engine             1701       -26        72        
-73         ELO_1500                  1700       0          2983      
+70         ELO_1500                  1710       13         2984      
+71         maia9                     1705       -15        59929     
+72         ArduChessBot              1703       -3         5193      
+73         piglet_engine             1701       -26        72        
 74         ChessChildren             1699       -15        15208     
 75         turkjs                    1656       -2         19067     
 76         rudim-bot                 1650       -149       142       
