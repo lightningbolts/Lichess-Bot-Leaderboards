@@ -20,7 +20,7 @@ Rank       Bot                       Rating     Prog       Games
 19         pawn_git                  2508       5          2119      
 20         Weiawaga                  2502       6          11240     
 21         bot_adario                2484       23         1953      
-22         OpeningsBot               2424       2          454       
+22         OpeningsBot               2427       7          455       
 23         odonata-bot               2404       -1         5806      
 24         fornax-engine             2395       14         6339      
 25         TuksuBot                  2380       3          3706      
@@ -30,7 +30,7 @@ Rank       Bot                       Rating     Prog       Games
 29         simpleEval                2323       0          14162     
 30         bekbot                    2280       5          1382      
 31         KhepriChess               2258       0          1284      
-32         FataliiBot                2239       5          6242      
+32         FataliiBot                2236       6          6243      
 33         WasterNew                 2231       11         280       
 34         eubos                     2166       -3         13609     
 35         matmoi                    2156       6          735       
@@ -46,14 +46,14 @@ Rank       Bot                       Rating     Prog       Games
 45         BLANK_BOT                 2024       17         4413      
 46         LazyBotJr                 2008       -13        1511      
 47         LeaMoreau                 1998       -6         45        
-48         Humaia-Strong             1978       -60        2348      
-49         LeelaRogue                1977       -7         2217      
+48         LeelaRogue                1981       -5         2219      
+49         Humaia-Strong             1978       -60        2348      
 50         Zagreus_Engine            1974       -15        3870      
 51         zeekat                    1968       18         19440     
-52         michabay05                1885       -33        339       
-53         Lynx_BOT                  1884       -11        47745     
+52         Lynx_BOT                  1884       -11        47745     
+53         michabay05                1878       -44        340       
 54         myopic-bot                1868       8          1520      
-55         likeawizard-bot           1849       29         1476      
+55         likeawizard-bot           1855       30         1477      
 56         Ptit-biscuit              1840       -21        407       
 57         FlounderBot               1823       11         996       
 58         notropis                  1800       8          5934      
@@ -86,7 +86,7 @@ Rank       Bot                       Rating     Prog       Games
 85         Humaia                    1416       -6         813       
 86         StupidChessRobot          1404       8          323       
 87         ZE_ROOK                   1367       26         2097      
-88         maia1                     1361       16         202182    
+88         maia1                     1353       0          202183    
 89         sargon-2ply               1307       -12        2876      
 90         turochamp-1ply            1268       -15        1630      
 91         sargon-1ply               1265       9          7576      
