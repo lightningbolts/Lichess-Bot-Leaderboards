@@ -39,7 +39,7 @@ Rank       Bot                       Rating     Prog       Games
 38         HistoryExplorer           2220       2          2361      
 39         honzovy-sachy-2           2207       -6         6763      
 40         LazyBotJr                 2165       6          835       
-41         matmoi                    2160       5          910       
+41         matmoi                    2152       -6         911       
 42         GarboBot                  2148       -19        9317      
 43         requinBOT                 2147       -56        249       
 44         jangine                   2142       -11        2549      
@@ -55,7 +55,7 @@ Rank       Bot                       Rating     Prog       Games
 54         myopic-bot                1909       0          1500      
 55         michabay05                1906       -6         871       
 56         zeekat                    1904       9          17534     
-57         FlounderBot               1898       1          1976      
+57         FlounderBot               1899       1          1977      
 58         Lynx_BOT                  1890       9          5907      
 59         Ptit-biscuit              1864       7          523       
 60         likeawizard-bot           1833       15         546       
@@ -72,7 +72,7 @@ Rank       Bot                       Rating     Prog       Games
 71         piglet_engine             1728       18         94        
 72         ELO_1500                  1721       3          2998      
 73         ChessChildren             1683       -20        15214     
-74         HardRok                   1672       11         513       
+74         HardRok                   1672       9          514       
 75         rudim-bot                 1650       -149       142       
 76         dlvc-bot                  1643       15         166       
 77         turkjs                    1623       -17        19102     
@@ -83,7 +83,7 @@ Rank       Bot                       Rating     Prog       Games
 82         sargon-3ply               1590       -2         1159      
 83         maia1                     1589       18         121144    
 84         RoundMoundOfRebounds      1576       37         1129      
-85         DavidsGuterBot            1546       -7         5788      
+85         DavidsGuterBot            1544       -8         5789      
 86         monchester                1527       27         2262      
 87         turochamp-1ply            1515       -25        1710      
 88         sargon-2ply               1478       -27        1963      
@@ -98,6 +98,5 @@ Rank       Bot                       Rating     Prog       Games
 97         knucklefish               1302       -14        2662      
 98         schnecken_bot             1300       30         480       
 99         pawnrobot                 1260       -13        3698      
-100        bobandi                   1238       7          1065      
-101        DeepLLaMA                 1141       86         65        
-102        grandQ_AI                 834        -5         836       
+100        DeepLLaMA                 1140       62         66        
+101        grandQ_AI                 834        -5         836       
