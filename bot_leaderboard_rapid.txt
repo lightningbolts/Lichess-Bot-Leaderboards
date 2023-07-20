@@ -4,7 +4,7 @@ Rank       Bot                       Rating     Prog       Games
 3          ToromBot                  2878       4          1690      
 4          YoBot_v2                  2870       1          12770     
 5          TheMatrix2025             2869       7          339       
-6          ReinforcementTrial        2865       3          4583      
+6          ReinforcementTrial        2865       1          4584      
 7          ArasanX                   2863       11         4922      
 8          chessfyBOT                2845       -7         228       
 9          ResoluteBot               2844       -6         5153      
@@ -12,7 +12,7 @@ Rank       Bot                       Rating     Prog       Games
 11         RaspFish                  2841       -4         5353      
 12         LeelaMultiPoss            2826       5          158       
 13         Nikitosik-ai              2826       8          565       
-14         MrChessTheBot             2823       12         2021      
+14         MrChessTheBot             2823       11         2022      
 15         blundar_bot               2807       7          972       
 16         Hien-Vinh_Bot2            2769       15         21        
 17         LazyBot                   2619       3          706       
@@ -52,7 +52,7 @@ Rank       Bot                       Rating     Prog       Games
 51         LeelaRogue                1976       10         2192      
 52         LeaMoreau                 1967       86         66        
 53         zeekat                    1956       -7         7843      
-54         Lynx_BOT                  1940       -2         39211     
+54         Lynx_BOT                  1942       0          39212     
 55         myopic-bot                1920       34         258       
 56         baby_eubos                1915       18         798       
 57         Zagreus_Engine            1914       -14        1607      
@@ -91,8 +91,8 @@ Rank       Bot                       Rating     Prog       Games
 90         pawnrobot                 1312       -11        567       
 91         OhniBOT                   1229       -35        237       
 92         schnecken_bot             1204       17         186       
-93         sargon-1ply               1104       -19        8182      
-94         CHoMPBoT                  1098       22         390       
+93         CHoMPBoT                  1098       22         390       
+94         sargon-1ply               1097       -24        8184      
 95         kireevi                   1073       -15        538       
 96         DeepLLaMA                 855        -21        88        
 97         grandQ_AI                 743        -5         1599      
