@@ -39,8 +39,8 @@ Rank       Bot                       Rating     Prog       Games
 38         Elmichess                 2164       6          1370      
 39         GarboBot                  2155       -1         5852      
 40         redtail-zero              2139       -22        154       
-41         Boris-Trapsky             2136       7          27069     
-42         MaxtheDog                 2135       20         540       
+41         MaxtheDog                 2135       20         540       
+42         Boris-Trapsky             2133       10         27070     
 43         jangine                   2114       -12        1577      
 44         matmoi                    2092       -20        634       
 45         halcyonbot                2090       10         5538      
@@ -69,13 +69,13 @@ Rank       Bot                       Rating     Prog       Games
 68         turkjs                    1715       -15        4977      
 69         simplexitor               1677       -7         441       
 70         HulkBot                   1676       -34        401       
-71         maia9                     1674       -20        81491     
+71         maia9                     1670       -27        81492     
 72         yeoldwiz                  1637       16         634       
 73         maia5                     1634       4          98232     
 74         sargon-3ply               1584       2          1122      
 75         HardRok                   1573       -14        413       
 76         ArduChessBot              1556       -25        403       
-77         maia1                     1537       -3         225686    
+77         maia1                     1537       6          225688    
 78         sargon-4ply               1505       10         543       
 79         turochamp-2ply            1504       -18        1038      
 80         DavidsGuterBot            1465       -5         562       
@@ -88,7 +88,7 @@ Rank       Bot                       Rating     Prog       Games
 87         pawnrobot                 1326       0          569       
 88         OhniBOT                   1228       -16        258       
 89         schnecken_bot             1197       10         192       
-90         sargon-1ply               1146       37         8205      
+90         sargon-1ply               1140       22         8206      
 91         kireevi                   1100       17         541       
 92         CHoMPBoT                  1090       3          397       
 93         DeepLLaMA                 855        -21        88        
