@@ -3,7 +3,7 @@ Rank       Bot                       Rating     Prog       Games
 2          ProteusSF-Godot           2878       3          132       
 3          ToromBot                  2877       4          1692      
 4          YoBot_v2                  2877       11         12775     
-5          ArasanX                   2864       10         4929      
+5          ArasanX                   2864       5          4930      
 6          ReinforcementTrial        2853       -12        4595      
 7          chessfyBOT                2845       -7         228       
 8          ResoluteBot               2844       -6         5153      
@@ -30,7 +30,7 @@ Rank       Bot                       Rating     Prog       Games
 29         Pseudo-0                  2374       -15        1050      
 30         simpleEval                2351       -10        7341      
 31         fornax-engine             2345       4          3580      
-32         admete_bot                2325       4          3730      
+32         admete_bot                2324       4          3731      
 33         clueless-bot              2318       15         638       
 34         WasterNew                 2316       10         68        
 35         FlamingDragon_9000        2309       -12        1216      
@@ -75,7 +75,7 @@ Rank       Bot                       Rating     Prog       Games
 74         melsh_bot                 1743       -25        178       
 75         dlvc-bot                  1742       -21        76        
 76         turkjs                    1719       -7         4976      
-77         maia9                     1688       -9         81448     
+77         maia9                     1693       -6         81449     
 78         simplexitor               1681       -7         440       
 79         HulkBot                   1676       -34        401       
 80         yeoldwiz                  1637       16         634       
@@ -94,10 +94,12 @@ Rank       Bot                       Rating     Prog       Games
 93         chat_bot                  1347       42         196       
 94         Humaia                    1331       -21        2004      
 95         pawnrobot                 1312       -11        567       
-96         OhniBOT                   1234       -11        245       
+96         OhniBOT                   1230       -9         246       
 97         schnecken_bot             1202       11         187       
 98         CHoMPBoT                  1089       -7         393       
 99         sargon-1ply               1085       -38        8189      
-100        DeepLLaMA                 855        -21        88        
-101        grandQ_AI                 742        -4         1600      
-102        G0thamB0t                 721        2          254       
+100        kireevi                   1073       -15        538       
+101        bobandi                   857        -12        680       
+102        DeepLLaMA                 855        -21        88        
+103        grandQ_AI                 742        -4         1600      
+104        G0thamB0t                 721        2          254       
