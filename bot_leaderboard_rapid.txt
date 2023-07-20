@@ -2,7 +2,7 @@ Rank       Bot                       Rating     Prog       Games
 1          ProteusSF-Godot           2878       3          132       
 2          ToromBot                  2877       4          1692      
 3          YoBot_v2                  2875       4          12777     
-4          ArasanX                   2858       -5         4934      
+4          ArasanX                   2858       -6         4935      
 5          ReinforcementTrial        2853       -6         4598      
 6          chessfyBOT                2845       -7         228       
 7          ResoluteBot               2844       -6         5153      
@@ -31,7 +31,7 @@ Rank       Bot                       Rating     Prog       Games
 30         fornax-engine             2345       4          3580      
 31         admete_bot                2328       2          3733      
 32         WasterNew                 2316       10         68        
-33         clueless-bot              2315       7          639       
+33         clueless-bot              2314       6          640       
 34         FlamingDragon_9000        2309       -12        1216      
 35         KhepriChess               2295       25         536       
 36         bekbot                    2280       -13        1140      
@@ -82,7 +82,7 @@ Rank       Bot                       Rating     Prog       Games
 81         maia5                     1595       -3         98183     
 82         HardRok                   1593       -2         404       
 83         sargon-3ply               1585       8          1121      
-84         maia1                     1581       11         225582    
+84         maia1                     1578       13         225585    
 85         ArduChessBot              1558       -29        402       
 86         turochamp-2ply            1504       -18        1038      
 87         sargon-4ply               1495       -1         542       
@@ -99,7 +99,7 @@ Rank       Bot                       Rating     Prog       Games
 98         schnecken_bot             1206       18         188       
 99         kireevi                   1100       17         541       
 100        CHoMPBoT                  1094       1          395       
-101        sargon-1ply               1084       -33        8190      
+101        sargon-1ply               1084       -26        8191      
 102        DeepLLaMA                 855        -21        88        
 103        grandQ_AI                 742        -4         1600      
 104        G0thamB0t                 721        2          254       
