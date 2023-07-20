@@ -88,7 +88,7 @@ Rank       Bot                       Rating     Prog       Games
 87         ZE_ROOK                   1470       0          1224      
 88         StupidChessRobot          1463       16         145       
 89         yeoldwiz                  1450       18         791       
-90         CHoMPBoT                  1443       43         779       
+90         CHoMPBoT                  1436       22         783       
 91         sargon-1ply               1427       -12        4053      
 92         HulkBot                   1335       7          1174      
 93         botTideEval               1328       -30        890       
@@ -96,5 +96,6 @@ Rank       Bot                       Rating     Prog       Games
 95         knucklefish               1302       -14        2662      
 96         schnecken_bot             1300       30         480       
 97         pawnrobot                 1260       -13        3698      
-98         DeepLLaMA                 1141       86         65        
-99         grandQ_AI                 834        -5         836       
+98         bobandi                   1238       7          1065      
+99         DeepLLaMA                 1141       86         65        
+100        grandQ_AI                 834        -5         836       
