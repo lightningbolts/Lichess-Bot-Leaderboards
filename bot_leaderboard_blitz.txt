@@ -6,8 +6,8 @@ Rank       Bot                       Rating     Prog       Games
 5          ToromBot                  2868       -3         2737      
 6          YoBot_v2                  2859       -3         3211      
 7          Nikitosikbot              2828       1          5780      
-8          RaspFish                  2820       -13        10788     
-9          chessfyBOT                2819       -12        180       
+8          chessfyBOT                2819       -12        180       
+9          RaspFish                  2818       -15        10789     
 10         caissa-test               2812       -68        39        
 11         ResoluteBot               2807       -18        10832     
 12         Nikitosik-ai              2804       -1         153       
@@ -15,7 +15,7 @@ Rank       Bot                       Rating     Prog       Games
 14         blundar_bot               2769       -5         822       
 15         LazyBot                   2756       0          1985      
 16         MrChessTheBot             2756       -2         1483      
-17         Hien-Vinh_Bot2            2699       36         23        
+17         Hien-Vinh_Bot2            2706       48         24        
 18         CodingAdventureBot        2642       3          2888      
 19         SaxtonEngine              2541       1          2021      
 20         pawn_git                  2502       -4         2114      
@@ -43,8 +43,8 @@ Rank       Bot                       Rating     Prog       Games
 42         halcyonbot                2107       2          8318      
 43         Elmichess                 2080       -42        3468      
 44         redtail-zero              2063       0          280       
-45         MaxtheDog                 2061       -2         3800      
-46         kulubot                   2055       -35        1219      
+45         kulubot                   2061       -30        1220      
+46         MaxtheDog                 2055       -15        3801      
 47         Boris-Trapsky             2039       8          27487     
 48         BLANK_BOT                 2012       23         4403      
 49         LazyBotJr                 2008       -13        1511      
@@ -85,7 +85,7 @@ Rank       Bot                       Rating     Prog       Games
 84         RoundMoundOfRebounds      1467       9          1088      
 85         DavidsGuterBot            1464       -8         3299      
 86         turochamp-2ply            1461       4          1534      
-87         maia1                     1457       3          201994    
+87         maia1                     1452       1          201995    
 88         monchester                1446       -13        2590      
 89         Humaia                    1410       -20        812       
 90         StupidChessRobot          1400       2          296       
