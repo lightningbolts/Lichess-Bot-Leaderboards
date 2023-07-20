@@ -41,10 +41,10 @@ Rank       Bot                       Rating     Prog       Games
 40         honzovy-sachy-2           2183       -23        3489      
 41         GarboBot                  2168       17         5847      
 42         Elmichess                 2163       7          1368      
-43         redtail-zero              2149       -7         152       
+43         redtail-zero              2143       -19        153       
 44         MaxtheDog                 2133       12         538       
 45         Boris-Trapsky             2128       0          27062     
-46         matmoi                    2113       -20        614       
+46         matmoi                    2119       -19        615       
 47         jangine                   2108       -18        1576      
 48         halcyonbot                2089       -1         5523      
 49         Humaia-Strong             2088       27         597       
@@ -79,7 +79,7 @@ Rank       Bot                       Rating     Prog       Games
 78         simplexitor               1681       -7         440       
 79         HulkBot                   1676       -34        401       
 80         yeoldwiz                  1637       16         634       
-81         maia5                     1602       8          98167     
+81         maia5                     1611       25         98169     
 82         sargon-3ply               1585       8          1121      
 83         maia1                     1566       11         225550    
 84         ArduChessBot              1558       -29        402       
@@ -99,3 +99,4 @@ Rank       Bot                       Rating     Prog       Games
 98         kireevi                   1073       -15        538       
 99         DeepLLaMA                 855        -21        88        
 100        grandQ_AI                 742        -4         1600      
+101        G0thamB0t                 721        2          254       
