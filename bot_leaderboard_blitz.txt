@@ -1,8 +1,8 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ShashChess_MsP            2904       -2         2848      
+1          ShashChess_MsP            2903       -4         2849      
 2          ProteusSF-Godot           2880       -2         476       
 3          ToromBot                  2868       0          2740      
-4          YoBot_v2                  2859       -5         3215      
+4          YoBot_v2                  2859       -5         3216      
 5          Shineshou90_BOT           2833       4          1511      
 6          Nikitosikbot              2828       1          5780      
 7          RaspFish                  2820       -4         10797     
@@ -37,7 +37,7 @@ Rank       Bot                       Rating     Prog       Games
 36         eubos                     2175       8          13604     
 37         matmoi                    2144       10         726       
 38         jangine                   2132       15         2960      
-39         GarboBot                  2105       1          8693      
+39         GarboBot                  2097       -9         8694      
 40         kulubot                   2084       20         1237      
 41         Elmichess                 2071       -41        3469      
 42         redtail-zero              2063       -6         282       
@@ -50,7 +50,7 @@ Rank       Bot                       Rating     Prog       Games
 49         Humaia-Strong             1978       -60        2348      
 50         LeelaRogue                1977       -7         2217      
 51         Zagreus_Engine            1974       0          3867      
-52         zeekat                    1951       -14        19432     
+52         zeekat                    1959       3          19433     
 53         michabay05                1909       -14        335       
 54         Nc3Nc6Bot                 1899       30         1088      
 55         Lynx_BOT                  1891       -2         47731     
@@ -89,7 +89,7 @@ Rank       Bot                       Rating     Prog       Games
 88         TuroBot                   1432       3          4931      
 89         Humaia                    1410       -20        812       
 90         StupidChessRobot          1391       -13        314       
-91         Bot-31795                 1382       -38        41        
+91         Bot-31795                 1379       -36        42        
 92         ZE_ROOK                   1367       26         2097      
 93         sargon-2ply               1308       -6         2875      
 94         turochamp-1ply            1268       -15        1630      
