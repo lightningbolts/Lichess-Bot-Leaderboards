@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ShashChess_MsP            2902       5          2842      
-2          AI-Electro                2885       -12        15        
+1          ShashChess_MsP            2901       3          2843      
+2          AI-Electro                2886       -11        16        
 3          ProteusSF-Godot           2880       -2         476       
 4          ToromBot                  2868       -3         2738      
 5          LeelaMultiPoss            2864       -4         123       
@@ -30,9 +30,9 @@ Rank       Bot                       Rating     Prog       Games
 29         ChessNoobComp             2397       -4         1433      
 30         fornax-engine             2395       14         6339      
 31         TuksuBot                  2386       12         3700      
-32         Pseudo-0                  2375       -1         2729      
+32         Pseudo-0                  2380       4          2730      
 33         admete_bot                2364       -1         6089      
-34         clueless-bot              2339       -11        2499      
+34         clueless-bot              2334       -21        2500      
 35         simpleEval                2324       3          14156     
 36         FlamingDragon_9000        2323       19         3331      
 37         bekbot                    2287       23         1379      
@@ -57,10 +57,10 @@ Rank       Bot                       Rating     Prog       Games
 56         LeelaRogue                1974       -8         2216      
 57         requinBOT                 1949       0          112       
 58         michabay05                1918       -13        328       
-59         Lynx_BOT                  1900       -5         47719     
+59         Lynx_BOT                  1893       -9         47720     
 60         Ptit-biscuit              1866       16         397       
 61         Nc3Nc6Bot                 1864       -9         1076      
-62         myopic-bot                1856       -33        1513      
+62         myopic-bot                1862       -21        1514      
 63         FlounderBot               1822       0          978       
 64         likeawizard-bot           1817       2          1443      
 65         Trollfish-Bot             1804       3          1573      
@@ -94,7 +94,7 @@ Rank       Bot                       Rating     Prog       Games
 93         DavidsGuterBot            1461       -6         3302      
 94         turochamp-2ply            1461       4          1534      
 95         monchester                1440       -22        2591      
-96         maia1                     1438       -11        202033    
+96         maia1                     1433       -9         202034    
 97         TuroBot                   1432       3          4931      
 98         Humaia                    1410       -20        812       
 99         StupidChessRobot          1401       3          306       
