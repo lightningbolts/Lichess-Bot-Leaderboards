@@ -35,13 +35,13 @@ Rank       Bot                       Rating     Prog       Games
 34         FataliiBot                2239       5          6242      
 35         WasterNew                 2231       11         280       
 36         eubos                     2166       -3         13609     
-37         matmoi                    2153       3          734       
+37         matmoi                    2156       6          735       
 38         jangine                   2126       14         2961      
 39         GarboBot                  2092       -13        8696      
 40         kulubot                   2088       1          1243      
 41         Elmichess                 2071       -41        3469      
-42         halcyonbot                2063       4          8351      
-43         MaxtheDog                 2063       2          3813      
+42         MaxtheDog                 2064       1          3814      
+43         halcyonbot                2063       4          8351      
 44         redtail-zero              2063       -6         282       
 45         BLANK_BOT                 2029       24         4412      
 46         Boris-Trapsky             2028       -35        27514     
@@ -49,7 +49,7 @@ Rank       Bot                       Rating     Prog       Games
 48         LeaMoreau                 1998       -6         45        
 49         Humaia-Strong             1978       -60        2348      
 50         LeelaRogue                1977       -7         2217      
-51         Zagreus_Engine            1973       -5         3868      
+51         Zagreus_Engine            1970       -14        3869      
 52         zeekat                    1970       27         19438     
 53         michabay05                1891       -23        338       
 54         Lynx_BOT                  1889       -1         47743     
@@ -62,7 +62,7 @@ Rank       Bot                       Rating     Prog       Games
 61         Demolito_L5               1783       -7         554       
 62         QueensGamBOT              1761       33         2785      
 63         Fisk_Bot                  1745       16         1484      
-64         ELO_1500                  1733       6          12640     
+64         ELO_1500                  1732       9          12641     
 65         piglet_engine             1718       68         22        
 66         simplexitor               1718       -8         2044      
 67         AshNostromo               1701       -23        927       
@@ -76,7 +76,7 @@ Rank       Bot                       Rating     Prog       Games
 75         turkjs                    1571       12         10102     
 76         ArduChessBot              1540       8          1193      
 77         sargon-4ply               1529       -5         1768      
-78         maia5                     1510       -28        98366     
+78         maia5                     1504       -26        98367     
 79         sargon-3ply               1484       -12        1694      
 80         ChamberiAjedrez           1470       -106       321       
 81         chat_bot                  1470       -99        227       
@@ -87,7 +87,7 @@ Rank       Bot                       Rating     Prog       Games
 86         Humaia                    1416       -6         813       
 87         StupidChessRobot          1400       7          320       
 88         ZE_ROOK                   1367       26         2097      
-89         maia1                     1347       -4         202176    
+89         maia1                     1354       6          202177    
 90         sargon-2ply               1307       -12        2876      
 91         turochamp-1ply            1268       -15        1630      
 92         sargon-1ply               1265       9          7576      
