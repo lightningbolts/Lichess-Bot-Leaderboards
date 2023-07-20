@@ -2,8 +2,8 @@ Rank       Bot                       Rating     Prog       Games
 1          ProteusSF-Godot           2912       -8         980       
 2          Nikitosikbot              2900       16         20540     
 3          YoBot_v2                  2895       11         16746     
-4          ShashChess_MsP            2892       -2         234       
-5          BabyUltimate              2887       7          953       
+4          ShashChess_MsP            2892       -1         235       
+5          BabyUltimate              2887       6          954       
 6          ResoluteBot               2887       -4         24791     
 7          LeelaMultiPoss            2865       -1         332       
 8          caissa-test               2843       2          1390      
@@ -46,10 +46,10 @@ Rank       Bot                       Rating     Prog       Games
 45         Humaia-Strong             2073       78         1306      
 46         halcyonbot                2044       -11        4621      
 47         BLANK_BOT                 2025       -11        6823      
-48         LeaMoreau                 2022       -68        47        
+48         LeaMoreau                 2006       -89        48        
 49         MaxtheDog                 2003       25         12768     
 50         Zagreus_Engine            1968       15         2835      
-51         myopic-bot                1922       12         1509      
+51         myopic-bot                1929       25         1510      
 52         zeekat                    1918       14         17577     
 53         michabay05                1904       -13        906       
 54         FlounderBot               1893       9          2036      
@@ -94,5 +94,6 @@ Rank       Bot                       Rating     Prog       Games
 93         knucklefish               1304       11         2677      
 94         OhniBOT                   1303       43         482       
 95         pawnrobot                 1255       -21        3699      
-96         DeepLLaMA                 1125       -6         69        
-97         grandQ_AI                 834        -5         836       
+96         bobandi                   1238       7          1065      
+97         DeepLLaMA                 1125       -6         69        
+98         grandQ_AI                 834        -5         836       
