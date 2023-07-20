@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ShashChess_MsP            2901       3          2843      
-2          AI-Electro                2886       -11        16        
+1          ShashChess_MsP            2901       2          2844      
+2          AI-Electro                2887       -10        17        
 3          ProteusSF-Godot           2880       -2         476       
 4          ToromBot                  2868       -3         2738      
 5          LeelaMultiPoss            2864       -4         123       
@@ -15,7 +15,7 @@ Rank       Bot                       Rating     Prog       Games
 14         ArasanX                   2783       4          1579      
 15         blundar_bot               2764       -12        823       
 16         LazyBot                   2756       0          1985      
-17         CodingAdventureBot        2642       3          2888      
+17         CodingAdventureBot        2642       2          2889      
 18         AKS-Mantissa              2628       -4         8989      
 19         expositor                 2602       2          6572      
 20         SaxtonEngine              2549       10         2025      
@@ -43,12 +43,12 @@ Rank       Bot                       Rating     Prog       Games
 42         eubos                     2160       -8         13592     
 43         matmoi                    2148       24         720       
 44         jangine                   2117       17         2951      
-45         GarboBot                  2111       -6         8684      
+45         GarboBot                  2105       -15        8685      
 46         Elmichess                 2071       -41        3469      
 47         MaxtheDog                 2066       0          3804      
 48         redtail-zero              2063       0          280       
-49         Boris-Trapsky             2058       15         27500     
-50         halcyonbot                2054       -41        8331      
+49         halcyonbot                2060       -32        8332      
+50         Boris-Trapsky             2058       15         27500     
 51         BLANK_BOT                 2018       22         4406      
 52         LazyBotJr                 2008       -13        1511      
 53         Zagreus_Engine            1989       27         3859      
@@ -62,9 +62,9 @@ Rank       Bot                       Rating     Prog       Games
 61         Nc3Nc6Bot                 1864       -9         1076      
 62         myopic-bot                1862       -21        1514      
 63         FlounderBot               1822       0          978       
-64         likeawizard-bot           1817       2          1443      
+64         likeawizard-bot           1817       3          1444      
 65         Trollfish-Bot             1804       3          1573      
-66         Demolito_L5               1796       0          540       
+66         Demolito_L5               1797       -5         541       
 67         notropis                  1792       -12        5923      
 68         baby_eubos                1790       7          6819      
 69         QueensGamBOT              1752       25         2781      
