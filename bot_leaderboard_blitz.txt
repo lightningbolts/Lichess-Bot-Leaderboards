@@ -6,7 +6,7 @@ Rank       Bot                       Rating     Prog       Games
 5          ToromBot                  2868       -3         2737      
 6          YoBot_v2                  2859       -3         3211      
 7          Nikitosikbot              2828       1          5780      
-8          RaspFish                  2824       -13        10786     
+8          RaspFish                  2822       -16        10787     
 9          chessfyBOT                2819       -12        180       
 10         caissa-test               2812       -68        39        
 11         ResoluteBot               2807       -18        10832     
@@ -15,7 +15,7 @@ Rank       Bot                       Rating     Prog       Games
 14         blundar_bot               2769       -5         822       
 15         LazyBot                   2756       0          1985      
 16         MrChessTheBot             2756       -2         1483      
-17         Hien-Vinh_Bot2            2682       38         21        
+17         Hien-Vinh_Bot2            2691       47         22        
 18         CodingAdventureBot        2642       3          2888      
 19         SaxtonEngine              2541       1          2021      
 20         pawn_git                  2502       -4         2114      
@@ -37,9 +37,9 @@ Rank       Bot                       Rating     Prog       Games
 36         FataliiBot                2232       -31        6230      
 37         eubos                     2167       -1         13579     
 38         honzovy-sachy-2           2157       5          6515      
-39         matmoi                    2119       -3         707       
+39         matmoi                    2119       -9         708       
 40         jangine                   2118       13         2947      
-41         GarboBot                  2114       -6         8675      
+41         GarboBot                  2114       -13        8676      
 42         halcyonbot                2109       10         8316      
 43         Elmichess                 2080       -42        3468      
 44         MaxtheDog                 2065       -4         3799      
@@ -51,7 +51,7 @@ Rank       Bot                       Rating     Prog       Games
 50         Humaia-Strong             1978       -60        2348      
 51         LeelaRogue                1974       -8         2216      
 52         Zagreus_Engine            1970       -2         3854      
-53         zeekat                    1968       14         19395     
+53         zeekat                    1959       1          19396     
 54         requinBOT                 1950       8          106       
 55         michabay05                1926       18         323       
 56         Lynx_BOT                  1903       -4         47706     
@@ -85,7 +85,7 @@ Rank       Bot                       Rating     Prog       Games
 84         RoundMoundOfRebounds      1467       9          1088      
 85         DavidsGuterBot            1464       -8         3299      
 86         turochamp-2ply            1461       4          1534      
-87         maia1                     1448       -1         201990    
+87         maia1                     1446       -10        201991    
 88         monchester                1446       -13        2590      
 89         Humaia                    1410       -20        812       
 90         StupidChessRobot          1398       7          295       
@@ -99,6 +99,7 @@ Rank       Bot                       Rating     Prog       Games
 98         HulkBot                   1161       -62        666       
 99         knucklefish               1112       59         3053      
 100        CHoMPBoT                  1107       -13        1343      
-101        BelaBot                   912        -45        44        
-102        DeepLLaMA                 882        -14        62        
-103        grandQ_AI                 798        56         1223      
+101        bobandi                   1071       -13        1101      
+102        BelaBot                   912        -45        44        
+103        DeepLLaMA                 882        -14        62        
+104        grandQ_AI                 798        56         1223      
