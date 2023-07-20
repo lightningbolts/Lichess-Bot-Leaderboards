@@ -3,7 +3,7 @@ Rank       Bot                       Rating     Prog       Games
 2          ToromBot                  2878       4          1690      
 3          YoBot_v2                  2874       6          12772     
 4          ArasanX                   2864       11         4925      
-5          ReinforcementTrial        2860       -1         4588      
+5          ReinforcementTrial        2861       -1         4589      
 6          chessfyBOT                2845       -7         228       
 7          ResoluteBot               2844       -6         5153      
 8          Shineshou90_BOT           2842       -5         2356      
@@ -23,7 +23,7 @@ Rank       Bot                       Rating     Prog       Games
 22         TuksuBot                  2412       12         1873      
 23         ChessNoobComp             2402       7          532       
 24         odonata-bot               2402       4          3632      
-25         Phalanx-XXV               2378       -15        835       
+25         Phalanx-XXV               2377       -12        836       
 26         Pseudo-0                  2376       -12        1047      
 27         simpleEval                2361       11         7330      
 28         fornax-engine             2345       4          3580      
@@ -31,7 +31,7 @@ Rank       Bot                       Rating     Prog       Games
 30         clueless-bot              2318       15         638       
 31         FlamingDragon_9000        2309       -12        1216      
 32         bekbot                    2283       -7         1139      
-33         KhepriChess               2276       9          527       
+33         KhepriChess               2278       14         528       
 34         FataliiBot                2273       -13        2439      
 35         eubos                     2208       27         4136      
 36         honzovy-sachy-2           2183       -23        3489      
@@ -44,7 +44,7 @@ Rank       Bot                       Rating     Prog       Games
 43         jangine                   2113       -23        1575      
 44         halcyonbot                2101       13         5519      
 45         Humaia-Strong             2088       27         597       
-46         requinBOT                 2010       -15        158       
+46         requinBOT                 2007       -12        159       
 47         LazyBotJr                 2006       2          1250      
 48         BLANK_BOT                 1983       -3         1421      
 49         LeelaRogue                1976       10         2192      
@@ -56,14 +56,14 @@ Rank       Bot                       Rating     Prog       Games
 55         Nc3Nc6Bot                 1916       -21        1219      
 56         baby_eubos                1915       18         798       
 57         Trollfish-Bot             1891       4          155       
-58         likeawizard-bot           1864       -21        254       
-59         Ptit-biscuit              1861       -5         49        
+58         Ptit-biscuit              1861       -5         49        
+59         likeawizard-bot           1856       -27        255       
 60         michabay05                1854       25         29        
 61         ELO_1500                  1851       1          2662      
 62         notropis                  1838       2          2043      
 63         Fisk_Bot                  1813       -19        224       
-64         Demolito_L5               1784       8          349       
-65         FlounderBot               1780       11         86        
+64         FlounderBot               1788       20         87        
+65         Demolito_L5               1784       8          349       
 66         ChessChildren             1763       -19        4325      
 67         AshNostromo               1760       -9         1169      
 68         honzovy-sachy             1760       -6         888       
@@ -92,7 +92,6 @@ Rank       Bot                       Rating     Prog       Games
 91         schnecken_bot             1202       11         187       
 92         CHoMPBoT                  1098       22         390       
 93         sargon-1ply               1085       -38        8189      
-94         kireevi                   1073       -15        538       
-95         DeepLLaMA                 855        -21        88        
-96         grandQ_AI                 742        -4         1600      
-97         G0thamB0t                 721        2          254       
+94         DeepLLaMA                 855        -21        88        
+95         grandQ_AI                 742        -4         1600      
+96         G0thamB0t                 721        2          254       
