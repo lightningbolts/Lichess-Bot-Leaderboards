@@ -19,7 +19,7 @@ Rank       Bot                       Rating     Prog       Games
 18         Weiawaga                  2511       17         11236     
 19         pawn_git                  2507       1          2117      
 20         bot_adario                2484       24         1952      
-21         OpeningsBot               2422       1          443       
+21         OpeningsBot               2420       -4         444       
 22         odonata-bot               2404       -1         5806      
 23         Phalanx-XXV               2404       3          2451      
 24         Cheng-4                   2400       7          6365      
@@ -33,7 +33,7 @@ Rank       Bot                       Rating     Prog       Games
 32         FlamingDragon_9000        2323       19         3331      
 33         bekbot                    2287       23         1379      
 34         KhepriChess               2262       -10        1274      
-35         HistoryExplorer           2257       7          2515      
+35         HistoryExplorer           2259       6          2516      
 36         FataliiBot                2243       7          6237      
 37         WasterNew                 2221       -21        267       
 38         eubos                     2163       0          13594     
@@ -84,7 +84,7 @@ Rank       Bot                       Rating     Prog       Games
 83         turkjs                    1561       1          10101     
 84         ArduChessBot              1541       3          1188      
 85         sargon-4ply               1535       -3         1766      
-86         maia5                     1510       -2         98312     
+86         maia5                     1516       10         98313     
 87         sargon-3ply               1481       -16        1690      
 88         ChamberiAjedrez           1470       -106       321       
 89         chat_bot                  1470       -99        227       
@@ -93,7 +93,7 @@ Rank       Bot                       Rating     Prog       Games
 92         turochamp-2ply            1461       4          1534      
 93         monchester                1440       -22        2591      
 94         TuroBot                   1432       3          4931      
-95         maia1                     1429       -13        202037    
+95         maia1                     1430       -9         202038    
 96         Humaia                    1410       -20        812       
 97         StupidChessRobot          1399       -1         307       
 98         ZE_ROOK                   1356       23         2093      
