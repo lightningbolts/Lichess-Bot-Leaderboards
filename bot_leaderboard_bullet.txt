@@ -32,7 +32,7 @@ Rank       Bot                       Rating     Prog       Games
 31         admete_bot                2318       0          5696      
 32         Pseudo-0                  2317       -3         3687      
 33         fornax-engine             2313       -21        6732      
-34         simpleEval                2275       17         24490     
+34         simpleEval                2277       15         24491     
 35         KhepriChess               2246       17         568       
 36         bekbot                    2233       12         1405      
 37         FataliiBot                2232       20         5469      
@@ -46,8 +46,8 @@ Rank       Bot                       Rating     Prog       Games
 45         redtail-zero              2113       28         320       
 46         eubos                     2101       -4         11758     
 47         kulubot                   2090       2          809       
-48         halcyonbot                2075       -26        4594      
-49         Humaia-Strong             2073       78         1306      
+48         Humaia-Strong             2073       78         1306      
+49         halcyonbot                2072       -33        4595      
 50         BLANK_BOT                 2022       13         6802      
 51         MaxtheDog                 2020       1          12724     
 52         Zagreus_Engine            1981       -13        2811      
@@ -87,7 +87,7 @@ Rank       Bot                       Rating     Prog       Games
 86         monchester                1527       27         2262      
 87         turochamp-1ply            1515       -25        1710      
 88         sargon-2ply               1478       -27        1963      
-89         ZE_ROOK                   1470       0          1224      
+89         ZE_ROOK                   1473       7          1225      
 90         StupidChessRobot          1465       15         147       
 91         yeoldwiz                  1450       18         791       
 92         sargon-1ply               1420       -18        4054      
@@ -96,7 +96,7 @@ Rank       Bot                       Rating     Prog       Games
 95         HulkBot                   1335       7          1174      
 96         OhniBOT                   1303       43         482       
 97         knucklefish               1302       -14        2662      
-98         schnecken_bot             1297       28         481       
+98         schnecken_bot             1294       27         482       
 99         pawnrobot                 1260       -13        3698      
 100        DeepLLaMA                 1140       62         66        
 101        grandQ_AI                 834        -5         836       
