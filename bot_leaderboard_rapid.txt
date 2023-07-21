@@ -36,11 +36,11 @@ Rank       Bot                       Rating     Prog       Games
 35         LunaChessEngine           2248       -1         1006      
 36         eubos                     2208       -4         4145      
 37         Elmichess                 2164       6          1370      
-38         GarboBot                  2144       -20        5856      
-39         Boris-Trapsky             2142       11         27085     
-40         redtail-zero              2141       -9         156       
+38         redtail-zero              2147       3          157       
+39         GarboBot                  2144       -20        5856      
+40         Boris-Trapsky             2142       11         27085     
 41         MaxtheDog                 2139       7          543       
-42         matmoi                    2116       20         646       
+42         matmoi                    2111       18         647       
 43         jangine                   2106       -19        1579      
 44         halcyonbot                2096       6          5555      
 45         Humaia-Strong             2088       27         597       
@@ -49,7 +49,7 @@ Rank       Bot                       Rating     Prog       Games
 48         BLANK_BOT                 1983       -6         1426      
 49         LeaMoreau                 1963       -49        72        
 50         Hyperopic                 1959       6          137       
-51         Lynx_BOT                  1937       -7         39240     
+51         Lynx_BOT                  1941       -4         39241     
 52         myopic-bot                1935       29         264       
 53         Zagreus_Engine            1935       -5         1626      
 54         zeekat                    1926       -26        7871      
@@ -60,11 +60,11 @@ Rank       Bot                       Rating     Prog       Games
 59         michabay05                1843       -22        32        
 60         notropis                  1831       -8         2053      
 61         Fisk_Bot                  1813       -19        224       
-62         Demolito_L5               1810       -8         370       
+62         Demolito_L5               1806       -16        371       
 63         dragobot                  1793       -148       27        
 64         FlounderBot               1787       -4         90        
 65         AshNostromo               1765       -10        1173      
-66         maia9                     1760       23         81550     
+66         maia9                     1754       12         81551     
 67         melsh_bot                 1748       -4         180       
 68         dlvc-bot                  1742       -21        76        
 69         maia5                     1720       19         98280     
@@ -76,7 +76,7 @@ Rank       Bot                       Rating     Prog       Games
 75         ArduChessBot              1551       -18        405       
 76         sargon-4ply               1506       12         544       
 77         turochamp-2ply            1504       -18        1038      
-78         maia1                     1488       -21        225793    
+78         maia1                     1485       -33        225794    
 79         DavidsGuterBot            1465       -5         562       
 80         TuroBot                   1451       65         3304      
 81         ZE_ROOK                   1443       20         252       
@@ -92,5 +92,5 @@ Rank       Bot                       Rating     Prog       Games
 91         kireevi                   1100       17         541       
 92         CHoMPBoT                  1094       6          400       
 93         DeepLLaMA                 854        -20        89        
-94         grandQ_AI                 737        -2         1606      
+94         grandQ_AI                 737        0          1607      
 95         G0thamB0t                 721        2          254       
