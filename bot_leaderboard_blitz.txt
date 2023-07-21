@@ -1,5 +1,5 @@
 Rank       Bot                       Rating     Prog       Games     
-1          TorBot                    2938       3          1023      
+1          TorBot                    2938       2          1024      
 2          BabyUltimate              2893       11         300       
 3          EmptikBot                 2880       0          370       
 4          TheMatrix2025             2875       6          444       
@@ -27,7 +27,7 @@ Rank       Bot                       Rating     Prog       Games
 26         OpeningsBot               2459       21         474       
 27         odonata-bot               2399       -16        5814      
 28         fornax-engine             2395       14         6339      
-29         TuksuBot                  2393       7          3713      
+29         TuksuBot                  2392       2          3714      
 30         admete_bot                2355       -4         6110      
 31         clueless-bot              2355       9          2540      
 32         FlamingDragon_9000        2323       19         3331      
@@ -36,8 +36,8 @@ Rank       Bot                       Rating     Prog       Games
 35         Nakshatra3                2284       2          1421      
 36         KhepriChess               2249       -7         1306      
 37         HistoryExplorer           2247       -10        2526      
-38         FataliiBot                2234       1          6262      
-39         WasterNew                 2234       -4         283       
+38         WasterNew                 2236       -4         284       
+39         FataliiBot                2234       1          6262      
 40         matmoi                    2178       36         756       
 41         eubos                     2167       11         13639     
 42         jangine                   2135       10         2966      
@@ -53,7 +53,7 @@ Rank       Bot                       Rating     Prog       Games
 52         BLANK_BOT                 1981       -30        4426      
 53         Humaia-Strong             1981       -42        2352      
 54         LeelaRogue                1977       -4         2220      
-55         LeaMoreau                 1962       -43        57        
+55         LeaMoreau                 1958       -32        58        
 56         zeekat                    1954       1          19478     
 57         michabay05                1897       9          360       
 58         Nc3Nc6Bot                 1893       6          1091      
@@ -72,12 +72,12 @@ Rank       Bot                       Rating     Prog       Games
 71         piglet_engine             1718       68         22        
 72         simplexitor               1708       -13        2049      
 73         AshNostromo               1701       -23        927       
-74         melsh_bot                 1685       -5         1677      
-75         maia9                     1682       10         97788     
+74         maia9                     1685       12         97789     
+75         melsh_bot                 1685       -5         1677      
 76         dlvc-bot                  1675       -15        1255      
 77         KnightlessKid             1641       -12        268       
 78         yeoldwiz                  1638       14         1599      
-79         maia5                     1601       57         98503     
+79         maia5                     1599       39         98505     
 80         HardRok                   1567       -6         633       
 81         turkjs                    1557       -6         10111     
 82         ArduChessBot              1538       -2         1200      
@@ -89,7 +89,7 @@ Rank       Bot                       Rating     Prog       Games
 88         RoundMoundOfRebounds      1473       14         1094      
 89         ChamberiAjedrez           1470       -106       321       
 90         chat_bot                  1470       -99        227       
-91         maia1                     1441       35         202354    
+91         maia1                     1446       36         202356    
 92         turochamp-2ply            1436       -25        1545      
 93         monchester                1422       -34        2597      
 94         Humaia                    1416       -6         813       
