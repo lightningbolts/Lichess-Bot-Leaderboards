@@ -22,9 +22,9 @@ Rank       Bot                       Rating     Prog       Games
 21         bot_adario                2484       23         1953      
 22         OpeningsBot               2441       25         461       
 23         odonata-bot               2410       -2         5809      
-24         RenegadeEngine            2399       -19        1743      
-25         fornax-engine             2395       14         6339      
-26         TuksuBot                  2383       4          3708      
+24         fornax-engine             2395       14         6339      
+25         RenegadeEngine            2392       -19        1744      
+26         TuksuBot                  2389       6          3709      
 27         admete_bot                2358       0          6097      
 28         clueless-bot              2342       12         2512      
 29         simpleEval                2334       10         14167     
@@ -47,7 +47,7 @@ Rank       Bot                       Rating     Prog       Games
 46         LazyBotJr                 2008       -13        1511      
 47         LeaMoreau                 1993       -20        49        
 48         Zagreus_Engine            1985       13         3876      
-49         Humaia-Strong             1978       -60        2348      
+49         Humaia-Strong             1979       -62        2349      
 50         LeelaRogue                1977       -4         2220      
 51         zeekat                    1966       3          19446     
 52         michabay05                1888       -21        346       
@@ -67,12 +67,12 @@ Rank       Bot                       Rating     Prog       Games
 66         AshNostromo               1701       -23        927       
 67         melsh_bot                 1685       -7         1675      
 68         dlvc-bot                  1675       -15        1255      
-69         maia9                     1666       9          97658     
+69         maia9                     1662       11         97659     
 70         KnightlessKid             1641       -12        268       
 71         yeoldwiz                  1638       14         1599      
 72         HardRok                   1577       0          626       
-73         turkjs                    1568       7          10106     
-74         maia5                     1567       18         98398     
+73         maia5                     1571       15         98400     
+74         turkjs                    1568       7          10106     
 75         ArduChessBot              1540       8          1193      
 76         sargon-4ply               1532       -3         1769      
 77         dragobot                  1522       -178       43        
@@ -85,7 +85,7 @@ Rank       Bot                       Rating     Prog       Games
 84         Humaia                    1416       -6         813       
 85         StupidChessRobot          1394       -2         328       
 86         ZE_ROOK                   1371       26         2098      
-87         maia1                     1315       -6         202204    
+87         maia1                     1309       -4         202205    
 88         sargon-2ply               1304       -10        2878      
 89         turochamp-1ply            1267       -17        1631      
 90         sargon-1ply               1265       9          7576      
