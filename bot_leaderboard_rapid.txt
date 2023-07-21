@@ -2,8 +2,8 @@ Rank       Bot                       Rating     Prog       Games
 1          EmptikBot                 2888       0          390       
 2          EmptikVariantsBot         2886       -4         278       
 3          TorBot                    2881       -3         786       
-4          ProteusSF-Godot           2878       3          132       
-5          ReinforcementTrial        2878       6          4625      
+4          ReinforcementTrial        2879       12         4626      
+5          ProteusSF-Godot           2878       3          132       
 6          YoBot_v2                  2870       -6         12791     
 7          ArasanX                   2869       7          4963      
 8          EmanPureNN                2866       9          216       
@@ -22,7 +22,7 @@ Rank       Bot                       Rating     Prog       Games
 21         SaxtonEngine              2545       -5         1284      
 22         pawn_git                  2530       -4         1041      
 23         Weiawaga                  2517       8          9547      
-24         OpeningsBot               2465       8          137       
+24         OpeningsBot               2463       7          138       
 25         bot_adario                2436       23         1249      
 26         TuksuBot                  2421       22         1882      
 27         odonata-bot               2401       -5         3636      
@@ -78,7 +78,7 @@ Rank       Bot                       Rating     Prog       Games
 77         yeoldwiz                  1637       16         634       
 78         sargon-3ply               1584       2          1122      
 79         ArduChessBot              1551       -18        405       
-80         maia1                     1526       -7         225862    
+80         maia1                     1535       -2         225864    
 81         sargon-4ply               1506       12         544       
 82         turochamp-2ply            1504       -18        1038      
 83         TuroBot                   1479       87         3305      
