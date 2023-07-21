@@ -29,8 +29,8 @@ Rank       Bot                       Rating     Prog       Games
 28         TuksuBot                  2420       13         1883      
 29         odonata-bot               2405       0          3638      
 30         fornax-engine             2345       4          3580      
-31         admete_bot                2336       0          3881      
-32         simpleEval                2336       6          7358      
+31         simpleEval                2336       6          7358      
+32         admete_bot                2335       -1         3882      
 33         clueless-bot              2324       15         657       
 34         WasterNew                 2320       11         70        
 35         FlamingDragon_9000        2309       -12        1216      
@@ -67,7 +67,7 @@ Rank       Bot                       Rating     Prog       Games
 66         michabay05                1826       -16        34        
 67         Fisk_Bot                  1813       -19        224       
 68         FlounderBot               1794       6          95        
-69         Demolito_L5               1790       -15        385       
+69         Demolito_L5               1793       -9         386       
 70         AshNostromo               1765       -7         1174      
 71         maia9                     1763       -8         81584     
 72         dragobot                  1759       -179       28        
@@ -79,8 +79,8 @@ Rank       Bot                       Rating     Prog       Games
 78         simplexitor               1664       -11        447       
 79         yeoldwiz                  1637       16         634       
 80         sargon-3ply               1584       2          1122      
-81         HardRok                   1568       -27        421       
-82         maia1                     1568       28         225970    
+81         maia1                     1572       37         225971    
+82         HardRok                   1565       -23        422       
 83         ArduChessBot              1551       -18        405       
 84         turochamp-2ply            1515       -4         1039      
 85         sargon-4ply               1514       7          546       
