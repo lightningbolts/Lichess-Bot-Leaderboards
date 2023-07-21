@@ -1,5 +1,5 @@
 Rank       Bot                       Rating     Prog       Games     
-1          TorBot                    2908       9          983       
+1          TorBot                    2912       15         984       
 2          BabyUltimate              2892       16         296       
 3          EmptikBot                 2880       10         355       
 4          ProteusSF-Godot           2880       -2         476       
@@ -10,8 +10,8 @@ Rank       Bot                       Rating     Prog       Games
 9          Shineshou90_BOT           2838       0          1518      
 10         Nikitosikbot              2828       1          5780      
 11         chessfyBOT                2819       -12        180       
-12         RaspFish                  2817       -2         10806     
-13         caissa-test               2812       -68        39        
+12         caissa-test               2812       -68        39        
+13         RaspFish                  2812       -8         10807     
 14         ResoluteBot               2807       -18        10832     
 15         Nikitosik-ai              2802       -2         161       
 16         ArasanX                   2796       9          1596      
@@ -27,12 +27,12 @@ Rank       Bot                       Rating     Prog       Games
 26         pawn_git                  2503       0          2129      
 27         bot_adario                2483       10         1958      
 28         timecat                   2454       -4         58        
-29         OpeningsBot               2442       9          468       
-30         odonata-bot               2404       -8         5813      
+29         OpeningsBot               2447       10         469       
+30         odonata-bot               2399       -16        5814      
 31         fornax-engine             2395       14         6339      
 32         TuksuBot                  2395       10         3710      
-33         admete_bot                2363       2          6105      
-34         clueless-bot              2353       -2         2530      
+33         clueless-bot              2359       7          2531      
+34         admete_bot                2357       -1         6106      
 35         FlamingDragon_9000        2323       19         3331      
 36         simpleEval                2314       -20        14178     
 37         bekbot                    2281       -3         1389      
@@ -93,7 +93,7 @@ Rank       Bot                       Rating     Prog       Games
 92         turochamp-2ply            1446       -8         1542      
 93         TuroBot                   1428       -14        4932      
 94         monchester                1423       -38        2596      
-95         maia1                     1422       -5         202298    
+95         maia1                     1422       2          202299    
 96         Humaia                    1416       -6         813       
 97         StupidChessRobot          1403       19         346       
 98         ZE_ROOK                   1381       38         2100      
