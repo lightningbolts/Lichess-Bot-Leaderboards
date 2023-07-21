@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
-1          TorBot                    2928       1          1008      
-2          VariantsTop               2895       3          132       
+1          TorBot                    2930       2          1009      
+2          VariantsTop               2894       -3         133       
 3          Anand_bot                 2889       -2         37        
 4          EmptikBot                 2880       0          370       
 5          ProteusSF-Godot           2880       -2         476       
@@ -14,7 +14,7 @@ Rank       Bot                       Rating     Prog       Games
 13         Nikitosikbot              2828       1          5780      
 14         chessfyBOT                2819       -12        180       
 15         caissa-test               2812       -68        39        
-16         RaspFish                  2807       -13        10815     
+16         RaspFish                  2808       -8         10816     
 17         ResoluteBot               2807       -18        10832     
 18         Nikitosik-ai              2801       -2         173       
 19         blundar_bot               2771       9          839       
@@ -23,7 +23,7 @@ Rank       Bot                       Rating     Prog       Games
 22         Palisade                  2707       25         324       
 23         CodingAdventureBot        2645       1          2913      
 24         AKS-Mantissa              2631       1          8992      
-25         expositor                 2607       6          6595      
+25         expositor                 2605       2          6596      
 26         SaxtonEngine              2541       -1         2044      
 27         Weiawaga                  2511       4          11246     
 28         pawn_git                  2497       -11        2136      
@@ -62,8 +62,8 @@ Rank       Bot                       Rating     Prog       Games
 61         michabay05                1903       15         357       
 62         Lynx_BOT                  1877       4          47794     
 63         myopic-bot                1860       9          1538      
-64         likeawizard-bot           1854       -8         1537      
-65         FlounderBot               1837       -17        1021      
+64         likeawizard-bot           1849       -18        1538      
+65         FlounderBot               1843       -6         1022      
 66         BerntBOT                  1834       68         20        
 67         Ptit-biscuit              1831       -5         419       
 68         Demolito_L5               1820       26         594       
@@ -81,8 +81,8 @@ Rank       Bot                       Rating     Prog       Games
 80         KnightlessKid             1641       -12        268       
 81         yeoldwiz                  1638       14         1599      
 82         HardRok                   1576       8          629       
-83         maia5                     1565       -24        98463     
-84         turkjs                    1560       -6         10110     
+83         turkjs                    1560       -6         10110     
+84         maia5                     1558       -33        98464     
 85         ArduChessBot              1542       -1         1198      
 86         sargon-4ply               1531       -12        1774      
 87         dragobot                  1495       -137       46        
