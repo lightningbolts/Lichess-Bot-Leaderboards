@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          EmptikVariantsBot         2969       -9         2491      
 2          EmptikBot                 2946       -5         2971      
-3          ProteusSF-Godot           2918       -3         1097      
+3          ProteusSF-Godot           2921       0          1098      
 4          ToromBot                  2905       1          57855     
 5          BabyUltimate              2896       -9         1008      
 6          EmptikBot247              2895       -12        2200      
@@ -15,8 +15,8 @@ Rank       Bot                       Rating     Prog       Games
 14         CodingAdventureBot        2815       -11        1739      
 15         RaspFish                  2808       3          48102     
 16         chessfyBOT                2788       -8         1404      
-17         Nikitosik-ai              2788       5          1569      
-18         blundar_bot               2785       -9         4822      
+17         blundar_bot               2785       -9         4822      
+18         Nikitosik-ai              2785       0          1570      
 19         Shineshou90_BOT           2751       3          7572      
 20         StockDory                 2751       53         81        
 21         LazyBot                   2709       16         1392      
@@ -68,7 +68,7 @@ Rank       Bot                       Rating     Prog       Games
 67         baby_eubos                1802       26         4828      
 68         notropis                  1791       -5         3481      
 69         QueensGamBOT              1763       4          4761      
-70         maia9                     1752       5          60067     
+70         maia9                     1749       -4         60068     
 71         Fisk_Bot                  1740       10         225       
 72         ArduChessBot              1730       10         5262      
 73         melsh_bot                 1716       -29        3695      
@@ -87,7 +87,7 @@ Rank       Bot                       Rating     Prog       Games
 86         turochamp-2ply            1602       19         1402      
 87         sargon-3ply               1581       -7         1168      
 88         RoundMoundOfRebounds      1558       -2         1147      
-89         DavidsGuterBot            1550       -2         5807      
+89         DavidsGuterBot            1553       4          5808      
 90         turochamp-1ply            1519       -5         1715      
 91         monchester                1515       -10        2271      
 92         StupidChessRobot          1459       0          163       
@@ -98,7 +98,7 @@ Rank       Bot                       Rating     Prog       Games
 97         HulkBot                   1335       7          1174      
 98         botTideEval               1332       -18        907       
 99         schnecken_bot             1332       -10        529       
-100        knucklefish               1308       12         2681      
+100        knucklefish               1314       23         2682      
 101        OhniBOT                   1303       43         482       
 102        pawnrobot                 1260       -4         3702      
 103        DeepLLaMA                 1125       -6         69        
