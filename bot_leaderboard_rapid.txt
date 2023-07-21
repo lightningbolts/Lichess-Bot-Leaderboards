@@ -26,7 +26,7 @@ Rank       Bot                       Rating     Prog       Games
 25         odonata-bot               2401       -5         3636      
 26         fornax-engine             2345       4          3580      
 27         simpleEval                2338       -5         7354      
-28         admete_bot                2333       -3         3834      
+28         admete_bot                2333       -2         3835      
 29         FlamingDragon_9000        2309       -12        1216      
 30         clueless-bot              2308       -9         643       
 31         bekbot                    2295       5          1147      
@@ -65,7 +65,7 @@ Rank       Bot                       Rating     Prog       Games
 64         AshNostromo               1765       -10        1173      
 65         maia9                     1752       6          81556     
 66         melsh_bot                 1748       -4         180       
-67         dlvc-bot                  1742       -21        76        
+67         dlvc-bot                  1734       -25        77        
 68         maia5                     1713       8          98284     
 69         turkjs                    1712       -10        4980      
 70         simplexitor               1677       -9         444       
@@ -73,7 +73,7 @@ Rank       Bot                       Rating     Prog       Games
 72         yeoldwiz                  1637       16         634       
 73         sargon-3ply               1584       2          1122      
 74         ArduChessBot              1551       -18        405       
-75         maia1                     1513       26         225816    
+75         maia1                     1517       24         225819    
 76         sargon-4ply               1506       12         544       
 77         turochamp-2ply            1504       -18        1038      
 78         DavidsGuterBot            1465       -5         562       
@@ -90,6 +90,6 @@ Rank       Bot                       Rating     Prog       Games
 89         sargon-1ply               1136       -4         8215      
 90         kireevi                   1095       12         542       
 91         CHoMPBoT                  1094       -4         401       
-92         DeepLLaMA                 854        -20        89        
+92         DeepLLaMA                 852        -20        90        
 93         grandQ_AI                 737        0          1607      
 94         G0thamB0t                 721        2          254       
