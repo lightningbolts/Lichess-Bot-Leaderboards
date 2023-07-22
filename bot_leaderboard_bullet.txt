@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
-1          szymvra_bot               2952       -1         17        
-2          EmanPureNN                2922       3          4285      
+1          szymvra_bot               2951       -2         18        
+2          EmanPureNN                2923       3          4286      
 3          ProteusSF-Godot           2921       6          1099      
 4          FireFishBOT               2919       2          669       
 5          ToromBot                  2916       -1         57980     
@@ -14,8 +14,8 @@ Rank       Bot                       Rating     Prog       Games
 13         EmptikBot247              2853       -16        2230      
 14         caissa-test               2843       2          1390      
 15         CodingAdventureBot        2818       1          1761      
-16         RaspFish                  2808       -14        48192     
-17         Nikitosik-ai              2804       -5         1647      
+16         RaspFish                  2808       -9         48193     
+17         Nikitosik-ai              2804       -1         1648      
 18         chessfyBOT                2788       -8         1404      
 19         blundar_bot               2771       -8         4835      
 20         Shineshou90_BOT           2759       -1         7598      
@@ -46,9 +46,9 @@ Rank       Bot                       Rating     Prog       Games
 45         HistoryExplorer           2199       -20        2369      
 46         LazyBotJr                 2172       7          846       
 47         GarboBot                  2159       -10        9346      
-48         matmoi                    2145       16         1008      
+48         matmoi                    2139       15         1009      
 49         jangine                   2133       -7         2586      
-50         uochess                   2124       -3         181       
+50         uochess                   2130       5          182       
 51         halcyonbot                2103       10         4680      
 52         redtail-zero              2099       16         342       
 53         eubos                     2080       15         11848     
@@ -97,9 +97,9 @@ Rank       Bot                       Rating     Prog       Games
 96         ZE_ROOK                   1455       29         1273      
 97         yeoldwiz                  1450       18         791       
 98         sargon-1ply               1398       -12        4073      
-99         botTideEval               1347       15         918       
-100        CHoMPBoT                  1341       -33        811       
-101        schnecken_bot             1338       10         537       
+99         schnecken_bot             1344       19         538       
+100        botTideEval               1341       4          919       
+101        CHoMPBoT                  1341       -33        811       
 102        HulkBot                   1335       7          1174      
 103        knucklefish               1315       6          2685      
 104        OhniBOT                   1303       43         482       
