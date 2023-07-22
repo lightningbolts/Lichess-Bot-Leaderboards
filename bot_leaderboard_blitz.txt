@@ -11,7 +11,7 @@ Rank       Bot                       Rating     Prog       Games
 10         chessfyBOT                2819       -12        180       
 11         caissa-test               2812       -68        39        
 12         ResoluteBot               2807       -18        10832     
-13         Nikitosik-ai              2804       0          210       
+13         Nikitosik-ai              2801       -4         211       
 14         blundar_bot               2780       5          858       
 15         EmptikBot247              2775       10         60        
 16         RaspFish                  2773       -10        10838     
@@ -52,8 +52,8 @@ Rank       Bot                       Rating     Prog       Games
 51         uochess                   2079       21         60        
 52         redtail-zero              2073       5          292       
 53         Elmichess                 2062       -53        3470      
-54         halcyonbot                2048       -13        8447      
-55         Hyperopic                 2047       -15        1229      
+54         halcyonbot                2053       -4         8448      
+55         Hyperopic                 2041       -13        1230      
 56         MaxtheDog                 2015       -22        3859      
 57         LazyBotJr                 2008       -13        1511      
 58         Humaia-Strong             1981       -42        2352      
@@ -76,8 +76,8 @@ Rank       Bot                       Rating     Prog       Games
 75         Fisk_Bot                  1745       16         1484      
 76         ELO_1500                  1728       -23        12697     
 77         QueensGamBOT              1722       -24        2805      
-78         piglet_engine             1718       68         22        
-79         Virutor                   1716       18         7204      
+78         Virutor                   1720       23         7205      
+79         piglet_engine             1718       68         22        
 80         simplexitor               1698       -17        2056      
 81         AshNostromo               1696       -32        928       
 82         melsh_bot                 1686       -13        1691      
@@ -85,7 +85,7 @@ Rank       Bot                       Rating     Prog       Games
 84         KnightlessKid             1641       -12        268       
 85         yeoldwiz                  1638       14         1599      
 86         maia5                     1597       -12        98654     
-87         maia9                     1589       16         97890     
+87         maia9                     1582       2          97891     
 88         HardRok                   1566       -4         643       
 89         turkjs                    1564       -6         10113     
 90         ArduChessBot              1543       3          1204      
@@ -95,8 +95,8 @@ Rank       Bot                       Rating     Prog       Games
 94         ChamberiAjedrez           1470       -106       321       
 95         chat_bot                  1470       -99        227       
 96         DavidsGuterBot            1462       -6         3319      
-97         turochamp-2ply            1435       -27        1546      
-98         maia1                     1434       14         202589    
+97         maia1                     1438       13         202590    
+98         turochamp-2ply            1435       -27        1546      
 99         Humaia                    1416       -6         813       
 100        monchester                1415       -31        2601      
 101        StupidChessRobot          1399       -8         395       
