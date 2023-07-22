@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          TorBot                    2934       -6         1088      
 2          ProteusSF-Godot           2880       -2         476       
-3          FireFishBOT               2875       9          1437      
+3          FireFishBOT               2876       8          1438      
 4          ToromBot                  2868       0          2741      
 5          YoBot_v2                  2860       3          3262      
 6          LeelaMultiPoss            2852       -7         144       
@@ -11,7 +11,7 @@ Rank       Bot                       Rating     Prog       Games
 10         caissa-test               2812       -68        39        
 11         ResoluteBot               2807       -18        10832     
 12         Nikitosik-ai              2799       -5         186       
-13         RaspFish                  2790       -17        10825     
+13         RaspFish                  2792       -15        10826     
 14         MrChessTheBot             2780       19         1496      
 15         blundar_bot               2775       5          847       
 16         EmptikBot247              2771       19         56        
@@ -23,7 +23,7 @@ Rank       Bot                       Rating     Prog       Games
 22         pawn_git                  2497       -3         2144      
 23         Weiawaga                  2495       -14        11256     
 24         bot_adario                2467       -17        1975      
-25         OpeningsBot               2458       3          483       
+25         OpeningsBot               2457       -3         484       
 26         odonata-bot               2402       -8         5816      
 27         fornax-engine             2395       14         6339      
 28         TuksuBot                  2394       14         3718      
@@ -61,12 +61,12 @@ Rank       Bot                       Rating     Prog       Games
 60         likeawizard-bot           1854       12         1576      
 61         FlounderBot               1847       1          1042      
 62         Demolito_L5               1845       35         618       
-63         Lynx_BOT                  1838       -29        47825     
+63         Lynx_BOT                  1842       -22        47826     
 64         Ptit-biscuit              1831       3          427       
 65         baby_eubos                1797       1          6887      
 66         notropis                  1775       23         5971      
-67         ELO_1500                  1746       3          12688     
-68         Fisk_Bot                  1745       16         1484      
+67         Fisk_Bot                  1745       16         1484      
+68         ELO_1500                  1741       -8         12689     
 69         QueensGamBOT              1738       -5         2800      
 70         piglet_engine             1718       68         22        
 71         simplexitor               1703       -9         2052      
@@ -81,7 +81,7 @@ Rank       Bot                       Rating     Prog       Games
 80         ArduChessBot              1543       0          1202      
 81         sargon-4ply               1529       -12        1775      
 82         sargon-3ply               1488       4          1697      
-83         maia1                     1486       0          202431    
+83         maia1                     1478       -14        202432    
 84         DavidsGuterBot            1476       15         3313      
 85         RoundMoundOfRebounds      1473       10         1096      
 86         chat_bot                  1470       -99        227       
