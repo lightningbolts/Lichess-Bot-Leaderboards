@@ -1,9 +1,9 @@
 Rank       Bot                       Rating     Prog       Games     
-1          TorBot                    2937       0          1079      
+1          TorBot                    2936       -4         1080      
 2          EmptikBot                 2880       0          370       
-3          FireFishBOT               2870       -2         1429      
+3          FireFishBOT               2871       1          1430      
 4          ToromBot                  2868       0          2741      
-5          F0rgot                    2861       8          164       
+5          F0rgot                    2862       9          165       
 6          YoBot_v2                  2860       3          3262      
 7          Nikitosikbot              2828       1          5780      
 8          Shineshou90_BOT           2824       -5         1533      
@@ -21,7 +21,7 @@ Rank       Bot                       Rating     Prog       Games
 20         expositor                 2600       -8         6604      
 21         SaxtonEngine              2538       -9         2050      
 22         Weiawaga                  2500       -7         11255     
-23         pawn_git                  2499       -3         2142      
+23         pawn_git                  2498       -3         2143      
 24         bot_adario                2470       -16        1972      
 25         OpeningsBot               2456       10         481       
 26         odonata-bot               2402       -8         5816      
@@ -34,11 +34,11 @@ Rank       Bot                       Rating     Prog       Games
 33         Nakshatra3                2284       2          1421      
 34         KhepriChess               2251       2          1318      
 35         HistoryExplorer           2250       -8         2528      
-36         FataliiBot                2231       1          6270      
+36         FataliiBot                2236       9          6271      
 37         eubos                     2187       20         13650     
 38         matmoi                    2170       -8         766       
-39         WilliamEngine             2141       9          619       
-40         jangine                   2137       14         2967      
+39         jangine                   2137       14         2967      
+40         WilliamEngine             2137       7          620       
 41         Boris-Trapsky             2114       14         27583     
 42         GarboBot                  2108       4          8714      
 43         kulubot                   2092       7          1274      
@@ -59,9 +59,9 @@ Rank       Bot                       Rating     Prog       Games
 58         michabay05                1898       -8         366       
 59         Nc3Nc6Bot                 1877       -9         1106      
 60         myopic-bot                1876       16         1547      
-61         Demolito_L5               1845       28         615       
+61         Demolito_L5               1845       30         616       
 62         FlounderBot               1844       -9         1040      
-63         likeawizard-bot           1841       5          1571      
+63         likeawizard-bot           1841       6          1572      
 64         Lynx_BOT                  1838       -35        47822     
 65         Ptit-biscuit              1831       3          427       
 66         baby_eubos                1797       1          6887      
@@ -77,7 +77,7 @@ Rank       Bot                       Rating     Prog       Games
 76         maia9                     1647       -5         97814     
 77         KnightlessKid             1641       -12        268       
 78         yeoldwiz                  1638       14         1599      
-79         maia5                     1626       10         98583     
+79         maia5                     1620       12         98585     
 80         turkjs                    1561       0          10112     
 81         ArduChessBot              1543       0          1202      
 82         sargon-4ply               1529       -12        1775      
