@@ -16,7 +16,7 @@ Rank       Bot                       Rating     Prog       Games
 15         RaspFish                  2816       -26        5362      
 16         blundar_bot               2800       -7         981       
 17         StockDory                 2637       88         29        
-18         expositor                 2627       -3         4391      
+18         expositor                 2626       -1         4392      
 19         LazyBot                   2619       3          706       
 20         AKS-Mantissa              2608       7          3940      
 21         SaxtonEngine              2546       -2         1288      
@@ -72,9 +72,9 @@ Rank       Bot                       Rating     Prog       Games
 71         maia9                     1693       -23        81638     
 72         HulkBot                   1676       -34        401       
 73         simplexitor               1660       -17        448       
-74         maia5                     1640       -17        98404     
-75         yeoldwiz                  1637       16         634       
-76         maia1                     1596       4          226057    
+74         yeoldwiz                  1637       16         634       
+75         maia5                     1635       -18        98405     
+76         maia1                     1595       0          226058    
 77         sargon-3ply               1580       -15        1124      
 78         ArduChessBot              1544       -16        407       
 79         turochamp-2ply            1522       0          1041      
@@ -90,6 +90,7 @@ Rank       Bot                       Rating     Prog       Games
 89         schnecken_bot             1182       -3         208       
 90         sargon-1ply               1178       42         8226      
 91         CHoMPBoT                  1107       12         416       
-92         DeepLLaMA                 852        -20        90        
-93         grandQ_AI                 752        17         1609      
-94         G0thamB0t                 721        2          254       
+92         kireevi                   1095       12         542       
+93         DeepLLaMA                 852        -20        90        
+94         grandQ_AI                 752        17         1609      
+95         G0thamB0t                 721        2          254       
