@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ProteusSF-Godot           2921       6          1099      
-2          FireFishBOT               2919       2          669       
-3          ToromBot                  2918       15         57949     
+1          ToromBot                  2922       14         57950     
+2          ProteusSF-Godot           2921       6          1099      
+3          FireFishBOT               2919       2          669       
 4          YoBot_v2                  2898       1          16994     
 5          TorBot                    2889       3          5881      
 6          ResoluteBot               2887       -4         24791     
@@ -11,7 +11,7 @@ Rank       Bot                       Rating     Prog       Games
 10         caissa-test               2843       2          1390      
 11         RaspFish                  2826       1          48159     
 12         CodingAdventureBot        2818       2          1760      
-13         Nikitosik-ai              2807       11         1639      
+13         Nikitosik-ai              2803       6          1640      
 14         chessfyBOT                2788       -8         1404      
 15         blundar_bot               2771       -8         4835      
 16         Shineshou90_BOT           2757       -2         7593      
@@ -24,9 +24,9 @@ Rank       Bot                       Rating     Prog       Games
 23         FlamingDragon_9000        2524       -5         10619     
 24         Elmichess                 2500       -83        3185      
 25         bot_adario                2428       23         2271      
-26         pawn_git                  2421       -11        3659      
-27         Weiawaga                  2417       -16        14617     
-28         admete_bot                2394       5          5757      
+26         Weiawaga                  2422       -10        14618     
+27         pawn_git                  2421       -11        3659      
+28         admete_bot                2388       6          5758      
 29         TuksuBot                  2377       9          6584      
 30         OpeningsBot               2358       -25        329       
 31         clueless-bot              2327       5          6384      
@@ -34,7 +34,7 @@ Rank       Bot                       Rating     Prog       Games
 33         fornax-engine             2309       -12        6739      
 34         FataliiBot                2279       28         5486      
 35         KhepriChess               2256       3          597       
-36         simpleEval                2236       -3         24557     
+36         simpleEval                2237       -1         24558     
 37         Nakshatra3                2225       4          1186      
 38         HistoryExplorer           2199       -20        2369      
 39         LazyBotJr                 2172       7          846       
@@ -52,11 +52,11 @@ Rank       Bot                       Rating     Prog       Games
 51         BLANK_BOT                 2024       -3         6847      
 52         MaxtheDog                 1980       -9         12844     
 53         Zagreus_Engine            1940       -12        2865      
-54         zeekat                    1935       -4         17630     
+54         zeekat                    1935       -1         17631     
 55         myopic-bot                1931       0          1527      
 56         Nc3Nc6Bot                 1921       -1         795       
 57         michabay05                1919       -6         963       
-58         likeawizard-bot           1892       -5         604       
+58         likeawizard-bot           1892       -1         605       
 59         FlounderBot               1891       14         2117      
 60         Lynx_BOT                  1850       -16        5932      
 61         Ptit-biscuit              1845       -12        555       
@@ -66,7 +66,7 @@ Rank       Bot                       Rating     Prog       Games
 65         maia9                     1766       7          60083     
 66         QueensGamBOT              1766       11         4762      
 67         Fisk_Bot                  1740       10         225       
-68         ArduChessBot              1734       2          5270      
+68         ArduChessBot              1733       1          5271      
 69         melsh_bot                 1732       10         3702      
 70         ELO_1500                  1708       -12        3024      
 71         simplexitor               1701       -14        2141      
