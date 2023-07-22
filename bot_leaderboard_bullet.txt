@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Godot           2921       6          1099      
-2          ToromBot                  2920       6          57959     
-3          FireFishBOT               2919       2          669       
+2          FireFishBOT               2919       2          669       
+3          ToromBot                  2917       -5         57961     
 4          YoBot_v2                  2898       1          16994     
 5          TorBot                    2889       3          5881      
 6          ResoluteBot               2887       -4         24791     
@@ -9,7 +9,7 @@ Rank       Bot                       Rating     Prog       Games
 8          LeelaMultiPoss            2867       5          352       
 9          EmptikBot247              2857       -15        2227      
 10         caissa-test               2843       2          1390      
-11         RaspFish                  2827       8          48162     
+11         RaspFish                  2830       7          48164     
 12         CodingAdventureBot        2818       2          1760      
 13         Nikitosik-ai              2805       10         1642      
 14         chessfyBOT                2788       -8         1404      
@@ -49,7 +49,7 @@ Rank       Bot                       Rating     Prog       Games
 48         Hyperopic                 2051       37         890       
 49         LeaMoreau                 2037       31         73        
 50         BLANK_BOT                 2022       -5         6849      
-51         MaxtheDog                 1981       -7         12846     
+51         MaxtheDog                 1984       -7         12847     
 52         Zagreus_Engine            1940       -12        2865      
 53         myopic-bot                1936       10         1528      
 54         zeekat                    1935       -1         17631     
@@ -60,8 +60,8 @@ Rank       Bot                       Rating     Prog       Games
 59         Lynx_BOT                  1850       -16        5932      
 60         Ptit-biscuit              1838       -20        557       
 61         baby_eubos                1801       2          4840      
-62         Demolito_L5               1795       -9         390       
-63         notropis                  1793       0          3486      
+62         notropis                  1793       0          3486      
+63         Demolito_L5               1792       -9         391       
 64         QueensGamBOT              1766       11         4762      
 65         maia9                     1757       -8         60084     
 66         Fisk_Bot                  1740       10         225       
@@ -88,7 +88,7 @@ Rank       Bot                       Rating     Prog       Games
 87         yeoldwiz                  1450       18         791       
 88         sargon-1ply               1405       -6         4072      
 89         botTideEval               1356       16         916       
-90         CHoMPBoT                  1347       -40        809       
+90         CHoMPBoT                  1344       -37        810       
 91         HulkBot                   1335       7          1174      
 92         schnecken_bot             1331       -1         536       
 93         knucklefish               1309       6          2684      
