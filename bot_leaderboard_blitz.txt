@@ -1,5 +1,5 @@
 Rank       Bot                       Rating     Prog       Games     
-1          TorBot                    2933       1          1140      
+1          TorBot                    2934       4          1141      
 2          EmptikBot                 2881       1          374       
 3          ProteusSF-Godot           2880       -2         476       
 4          FireFishBOT               2873       -11        1494      
@@ -22,8 +22,8 @@ Rank       Bot                       Rating     Prog       Games
 21         expositor                 2601       -3         6612      
 22         SaxtonEngine              2537       -4         2063      
 23         pawn_git                  2496       0          2149      
-24         Weiawaga                  2490       -20        11262     
-25         bot_adario                2463       -4         1986      
+24         Weiawaga                  2493       -11        11263     
+25         bot_adario                2462       -4         1987      
 26         OpeningsBot               2442       -15        496       
 27         Phalanx-XXV               2404       3          2451      
 28         Cheng-4                   2402       7          6367      
@@ -33,7 +33,7 @@ Rank       Bot                       Rating     Prog       Games
 32         admete_bot                2381       15         6126      
 33         Pseudo-0                  2377       0          2733      
 34         Wahoo_Bot                 2353       39         211       
-35         clueless-bot              2328       -27        2549      
+35         clueless-bot              2325       -26        2550      
 36         FlamingDragon_9000        2323       19         3331      
 37         simpleEval                2309       11         14213     
 38         Nakshatra3                2283       4          1423      
@@ -51,17 +51,17 @@ Rank       Bot                       Rating     Prog       Games
 50         kulubot                   2115       32         1291      
 51         redtail-zero              2078       15         291       
 52         Elmichess                 2062       -53        3470      
-53         halcyonbot                2050       -19        8434      
+53         halcyonbot                2055       -10        8435      
 54         Lumac0                    2034       -26        1721      
 55         MaxtheDog                 2033       -6         3852      
 56         Hyperopic                 2025       -1         1178      
 57         LazyBotJr                 2008       -13        1511      
-58         Zagreus_Engine            1984       -4         3904      
-59         Humaia-Strong             1981       -42        2352      
+58         Humaia-Strong             1981       -42        2352      
+59         Zagreus_Engine            1980       -4         3905      
 60         BLANK_BOT                 1977       -15        4434      
 61         LeelaRogue                1977       -4         2220      
 62         LeaMoreau                 1950       -32        72        
-63         zeekat                    1920       2          19509     
+63         zeekat                    1919       -3         19510     
 64         myopic-bot                1888       14         1559      
 65         Nc3Nc6Bot                 1888       21         1121      
 66         michabay05                1882       -24        375       
@@ -92,7 +92,7 @@ Rank       Bot                       Rating     Prog       Games
 91         ArduChessBot              1548       7          1203      
 92         sargon-4ply               1530       -4         1778      
 93         sargon-3ply               1492       5          1698      
-94         maia1                     1483       20         202509    
+94         maia1                     1490       28         202513    
 95         RoundMoundOfRebounds      1476       9          1099      
 96         ChamberiAjedrez           1470       -106       321       
 97         chat_bot                  1470       -99        227       
