@@ -3,7 +3,7 @@ Rank       Bot                       Rating     Prog       Games
 2          TorBot                    2881       -3         786       
 3          FireFishBOT               2878       -2         882       
 4          ToromBot                  2876       2          1695      
-5          ReinforcementTrial        2872       -2         4657      
+5          ReinforcementTrial        2874       1          4658      
 6          EmanPureNN                2867       10         220       
 7          YoBot_v2                  2865       -5         12799     
 8          UltimateL                 2863       -6         323       
@@ -19,7 +19,7 @@ Rank       Bot                       Rating     Prog       Games
 18         RaspFish                  2817       -25        5363      
 19         blundar_bot               2801       -6         982       
 20         StockDory                 2637       88         29        
-21         expositor                 2629       4          4396      
+21         expositor                 2627       4          4397      
 22         LazyBot                   2619       3          706       
 23         AKS-Mantissa              2608       7          3940      
 24         SaxtonEngine              2550       2          1289      
@@ -47,12 +47,12 @@ Rank       Bot                       Rating     Prog       Games
 46         redtail-zero              2133       -8         167       
 47         GarboBot                  2125       -19        5867      
 48         MaxtheDog                 2120       -20        552       
-49         Boris-Trapsky             2109       -21        27102     
-50         kulubot                   2106       -30        523       
+49         kulubot                   2111       -19        524       
+50         Boris-Trapsky             2109       -21        27102     
 51         halcyonbot                2088       2          5595      
 52         Humaia-Strong             2083       35         599       
 53         jangine                   2080       -34        1588      
-54         LeaMoreau                 2048       48         96        
+54         LeaMoreau                 2041       31         97        
 55         BLANK_BOT                 1993       10         1432      
 56         LazyBotJr                 1992       -6         1251      
 57         LeelaRogue                1971       -5         2197      
@@ -61,7 +61,7 @@ Rank       Bot                       Rating     Prog       Games
 60         zeekat                    1939       -16        7904      
 61         myopic-bot                1928       18         266       
 62         Zagreus_Engine            1925       16         1645      
-63         Nc3Nc6Bot                 1915       -13        1263      
+63         Nc3Nc6Bot                 1917       -10        1264      
 64         baby_eubos                1909       -9         811       
 65         Ptit-biscuit              1883       14         59        
 66         likeawizard-bot           1879       3          296       
@@ -84,7 +84,7 @@ Rank       Bot                       Rating     Prog       Games
 83         HardRok                   1580       4          429       
 84         sargon-3ply               1580       -15        1124      
 85         ArduChessBot              1544       -16        407       
-86         maia1                     1534       -17        226110    
+86         maia1                     1528       -20        226111    
 87         turochamp-2ply            1522       0          1041      
 88         sargon-4ply               1513       7          549       
 89         TuroBot                   1479       56         3307      
@@ -101,6 +101,5 @@ Rank       Bot                       Rating     Prog       Games
 100        sargon-1ply               1178       42         8226      
 101        CHoMPBoT                  1112       20         418       
 102        kireevi                   1094       16         543       
-103        bobandi                   855        15         687       
-104        grandQ_AI                 751        9          1610      
-105        G0thamB0t                 721        2          254       
+103        grandQ_AI                 751        9          1610      
+104        G0thamB0t                 721        2          254       
