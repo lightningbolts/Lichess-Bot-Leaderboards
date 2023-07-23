@@ -29,6 +29,7 @@ def get_file_name(type):
 def get_bot_ratings_online(type):
     banned_bots = [
         'caissa-ai',
+        'caissa-test',
         'ProteusSF',
         'ProteusSF-lite',
         'ProteusSF-Open',
@@ -41,11 +42,9 @@ def get_bot_ratings_online(type):
         'RexherBot',
         'SamuraiX_v1',
         'YellowFlash_v2',
-        'Nikitosik-AI'
+        'Nikitosik-ai'
         'Nikitosikbot'
-        'Anand_Bot',
-        'WhatsANikitosikHUH',
-        'OkayWhyYouReadinThis'
+        'Anand_Bot'
     ]
     online_bots = urllib.request.urlopen('https://lichess.org/api/bot/online')
     user_arr = []
