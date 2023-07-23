@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          EmptikBot                 2886       -6         393       
 2          ToromBot                  2877       -2         1698      
-3          ReinforcementTrial        2874       -4         4672      
+3          ReinforcementTrial        2874       -5         4673      
 4          Mate-AI                   2869       1          2376      
 5          YoBot_v2                  2862       -5         12806     
 6          EmptikBot247              2856       2          104       
@@ -25,7 +25,7 @@ Rank       Bot                       Rating     Prog       Games
 24         OpeningsBot               2444       -9         150       
 25         bot_adario                2434       6          1255      
 26         TuksuBot                  2424       12         1886      
-27         odonata-bot               2397       -10        3644      
+27         odonata-bot               2396       -10        3645      
 28         Phalanx-XXV               2380       -7         838       
 29         Pseudo-0                  2378       -14        1052      
 30         fornax-engine             2345       4          3580      
@@ -84,7 +84,7 @@ Rank       Bot                       Rating     Prog       Games
 83         HardRok                   1555       -19        442       
 84         sargon-4ply               1530       28         551       
 85         turochamp-2ply            1516       -1         1042      
-86         maia1                     1466       -10        226330    
+86         maia1                     1474       -8         226331    
 87         DavidsGuterBot            1461       -9         566       
 88         ZE_ROOK                   1460       24         260       
 89         RoundMoundOfRebounds      1457       -2         319       
@@ -100,4 +100,3 @@ Rank       Bot                       Rating     Prog       Games
 99         kireevi                   1094       16         543       
 100        bobandi                   845        -12        692       
 101        grandQ_AI                 751        9          1610      
-102        G0thamB0t                 721        2          254       
