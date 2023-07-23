@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          EmptikBot                 2886       -6         393       
 2          ToromBot                  2877       -2         1698      
-3          ReinforcementTrial        2872       -5         4671      
+3          ReinforcementTrial        2874       -4         4672      
 4          Mate-AI                   2869       1          2376      
 5          YoBot_v2                  2863       -6         12804     
 6          EmptikBot247              2856       2          104       
@@ -18,7 +18,7 @@ Rank       Bot                       Rating     Prog       Games
 17         expositor                 2631       7          4400      
 18         LazyBot                   2619       3          706       
 19         AKS-Mantissa              2608       7          3940      
-20         pawn_git                  2554       5          1064      
+20         pawn_git                  2553       0          1065      
 21         SaxtonEngine              2550       2          1289      
 22         Weiawaga                  2509       7          9588      
 23         Cheng-4                   2453       -7         3056      
@@ -80,10 +80,10 @@ Rank       Bot                       Rating     Prog       Games
 79         yeoldwiz                  1637       16         634       
 80         maia5                     1627       -3         98542     
 81         sargon-3ply               1591       -1         1125      
-82         HardRok                   1556       -24        440       
+82         HardRok                   1561       -16        441       
 83         ArduChessBot              1544       -16        407       
 84         sargon-4ply               1530       28         551       
-85         turochamp-2ply            1522       0          1041      
+85         turochamp-2ply            1516       -1         1042      
 86         maia1                     1470       -13        226325    
 87         DavidsGuterBot            1461       -9         566       
 88         ZE_ROOK                   1460       24         260       
@@ -97,7 +97,6 @@ Rank       Bot                       Rating     Prog       Games
 96         sargon-1ply               1176       8          8232      
 97         schnecken_bot             1172       -9         213       
 98         CHoMPBoT                  1109       6          419       
-99         kireevi                   1094       16         543       
-100        bobandi                   845        -12        692       
-101        grandQ_AI                 751        9          1610      
-102        G0thamB0t                 721        2          254       
+99         bobandi                   845        -12        692       
+100        grandQ_AI                 751        9          1610      
+101        G0thamB0t                 721        2          254       
