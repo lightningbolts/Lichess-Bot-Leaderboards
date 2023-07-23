@@ -29,9 +29,9 @@ Rank       Bot                       Rating     Prog       Games
 28         TuksuBot                  2403       7          3730      
 29         fornax-engine             2395       14         6339      
 30         Phalanx-XXV               2386       -18        2456      
-31         admete_bot                2378       8          6132      
+31         admete_bot                2371       -1         6133      
 32         Pseudo-0                  2354       -15        2739      
-33         clueless-bot              2342       9          2573      
+33         clueless-bot              2348       14         2574      
 34         FlamingDragon_9000        2323       19         3331      
 35         simpleEval                2300       -1         14219     
 36         Nakshatra3                2289       6          1428      
@@ -43,7 +43,7 @@ Rank       Bot                       Rating     Prog       Games
 42         kulubot                   2146       25         1333      
 43         Boris-Trapsky             2103       -31        27611     
 44         GarboBot                  2098       -24        8741      
-45         Hyperopic                 2092       -7         1321      
+45         Hyperopic                 2098       -1         1323      
 46         jangine                   2088       -12        3002      
 47         redtail-zero              2073       5          292       
 48         Elmichess                 2062       -53        3470      
@@ -55,8 +55,8 @@ Rank       Bot                       Rating     Prog       Games
 54         LeelaRogue                1977       -4         2220      
 55         Zagreus_Engine            1963       -20        3917      
 56         LeaMoreau                 1932       -7         85        
-57         zeekat                    1924       -2         19533     
-58         Nc3Nc6Bot                 1917       14         1141      
+57         zeekat                    1921       -1         19534     
+58         Nc3Nc6Bot                 1914       11         1142      
 59         myopic-bot                1895       12         1567      
 60         likeawizard-bot           1881       4          1655      
 61         michabay05                1877       -8         382       
@@ -79,7 +79,7 @@ Rank       Bot                       Rating     Prog       Games
 78         ChessChildren             1665       -5         21095     
 79         KnightlessKid             1641       -12        268       
 80         yeoldwiz                  1638       14         1599      
-81         maia5                     1606       2          98667     
+81         maia5                     1601       -6         98668     
 82         turkjs                    1564       -6         10113     
 83         ArduChessBot              1554       16         1208      
 84         maia9                     1545       -39        97912     
@@ -89,9 +89,9 @@ Rank       Bot                       Rating     Prog       Games
 88         chat_bot                  1470       -99        227       
 89         DavidsGuterBot            1466       -3         3320      
 90         turochamp-2ply            1438       -25        1547      
-91         monchester                1418       -11        2605      
-92         Humaia                    1416       -6         813       
-93         maia1                     1412       -24        202630    
+91         maia1                     1430       10         202632    
+92         monchester                1418       -11        2605      
+93         Humaia                    1416       -6         813       
 94         ZE_ROOK                   1411       44         2108      
 95         dragobot                  1403       -125       53        
 96         StupidChessRobot          1394       -11        400       
@@ -101,9 +101,9 @@ Rank       Bot                       Rating     Prog       Games
 100        pawnrobot                 1259       11         1901      
 101        sargon-1ply               1243       -26        7593      
 102        OhniBOT                   1209       -56        288       
-103        clompdev                  1173       -83        34        
+103        clompdev                  1183       -63        35        
 104        HulkBot                   1161       -62        667       
-105        knucklefish               1116       2          3068      
+105        knucklefish               1110       -3         3069      
 106        CHoMPBoT                  1082       0          1379      
 107        bobandi                   1067       -14        1106      
 108        BelaBot                   912        -45        44        
