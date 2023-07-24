@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          caissa-x                  2888       -2         2999      
-2          FireFishBOT               2882       4          890       
-3          ReinforcementTrial        2881       -2         4713      
+2          FireFishBOT               2882       5          891       
+3          ReinforcementTrial        2881       -2         4714      
 4          Mate-AI                   2877       7          2386      
 5          YoBot_v2                  2868       9          12824     
 6          FireFishBOT_v2            2865       5          556       
@@ -27,7 +27,7 @@ Rank       Bot                       Rating     Prog       Games
 26         Weiawaga                  2502       -10        9612      
 27         OpeningsBot               2454       12         165       
 28         bot_adario                2448       13         1261      
-29         TuksuBot                  2432       11         1893      
+29         TuksuBot                  2433       13         1894      
 30         odonata-bot               2405       2          3650      
 31         clueless-bot              2345       23         682       
 32         admete_bot                2336       -4         4018      
@@ -57,7 +57,7 @@ Rank       Bot                       Rating     Prog       Games
 56         baby_eubos                1936       16         825       
 57         myopic-bot                1936       -1         278       
 58         Jobabot                   1934       -84        15        
-59         Lynx_BOT                  1933       -12        39298     
+59         Lynx_BOT                  1933       -6         39299     
 60         likeawizard-bot           1903       -13        327       
 61         michabay05                1884       46         46        
 62         Ptit-biscuit              1869       -14        70        
@@ -67,8 +67,8 @@ Rank       Bot                       Rating     Prog       Games
 66         Fisk_Bot                  1813       -19        224       
 67         FlounderBot               1789       -5         104       
 68         zulu_bot                  1776       3          110       
-69         AshNostromo               1753       -8         1182      
-70         maia9                     1749       7          81817     
+69         maia9                     1754       7          81818     
+70         AshNostromo               1753       -8         1182      
 71         melsh_bot                 1749       -21        198       
 72         dlvc-bot                  1734       -25        77        
 73         turkjs                    1694       -6         5001      
@@ -96,4 +96,3 @@ Rank       Bot                       Rating     Prog       Games
 95         CHoMPBoT                  1106       1          422       
 96         kireevi                   1080       -22        550       
 97         bobandi                   857        2          697       
-98         G0thamB0t                 806        78         260       
