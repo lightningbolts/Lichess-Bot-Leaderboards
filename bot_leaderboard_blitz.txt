@@ -1,9 +1,9 @@
 Rank       Bot                       Rating     Prog       Games     
-1          FireFishBOT               2885       -1         1623      
+1          FireFishBOT               2887       0          1624      
 2          caissa-x                  2883       3          3079      
 3          YoBot_v2                  2872       5          3323      
 4          TheMatrix2029             2871       5          1670      
-5          FireFishBOT_v2            2855       -5         219       
+5          FireFishBOT_v2            2854       -6         220       
 6          faith_bot                 2842       14         634       
 7          Mate-AI                   2839       -4         2954      
 8          Nikitosikbot              2834       4          5795      
@@ -11,7 +11,7 @@ Rank       Bot                       Rating     Prog       Games
 10         chessfyBOT                2819       -12        180       
 11         caissa-test               2812       -68        39        
 12         ResoluteBot               2807       -18        10832     
-13         MrChessTheBot             2793       7          1534      
+13         MrChessTheBot             2794       7          1535      
 14         ToromLc0                  2786       -8         84        
 15         EmptikBot247              2785       -13        79        
 16         Nikitosik-ai              2783       -5         237       
@@ -21,7 +21,7 @@ Rank       Bot                       Rating     Prog       Games
 20         RaspFish                  2763       5          10874     
 21         LazyBot                   2756       0          1985      
 22         CodingAdventureBot        2647       -8         3006      
-23         AKS-Mantissa              2620       -1         9022      
+23         AKS-Mantissa              2618       -1         9023      
 24         ChessHunterBot            2614       -15        413       
 25         expositor                 2589       -8         6656      
 26         SaxtonEngine              2512       -10        2107      
@@ -40,10 +40,10 @@ Rank       Bot                       Rating     Prog       Games
 39         FataliiBot                2282       -2         6328      
 40         KhepriChess               2272       13         1370      
 41         WasterNew                 2245       4          327       
-42         eubos                     2172       0          13764     
+42         eubos                     2165       -2         13765     
 43         matmoi                    2163       -3         847       
-44         Boris-Trapsky             2155       2          27670     
-45         Hyperopic                 2095       5          1536      
+44         Boris-Trapsky             2159       2          27672     
+45         Hyperopic                 2102       9          1537      
 46         jangine                   2089       3          3046      
 47         GarboBot                  2083       28         8786      
 48         redtail-zero              2082       -1         310       
@@ -92,7 +92,7 @@ Rank       Bot                       Rating     Prog       Games
 91         RoundMoundOfRebounds      1455       -33        1123      
 92         ZE_ROOK                   1450       11         2142      
 93         turochamp-2ply            1440       -2         1561      
-94         maia1                     1418       -28        203044    
+94         maia1                     1415       -41        203045    
 95         monchester                1402       -14        2611      
 96         Humaia                    1391       -29        819       
 97         ZokBot                    1386       -50        20        
