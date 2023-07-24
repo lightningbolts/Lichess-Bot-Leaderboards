@@ -42,9 +42,10 @@ def get_bot_ratings_online(type):
         'RexherBot',
         'SamuraiX_v1',
         'YellowFlash_v2',
-        'Nikitosik-ai'
-        'Nikitosikbot'
-        'Anand_Bot'
+        'Nikitosik-ai',
+        'Nikitosikbot',
+        'Anand_Bot',
+        'HappyFarmer3000'
     ]
     online_bots = urllib.request.urlopen('https://lichess.org/api/bot/online')
     user_arr = []
