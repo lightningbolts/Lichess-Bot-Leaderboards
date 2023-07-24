@@ -3,8 +3,8 @@ Rank       Bot                       Rating     Prog       Games
 2          Mate-AI                   2956       -12        11325     
 3          Anand_bot                 2950       0          888       
 4          ProteusSF-Godot           2919       5          1308      
-5          FireFishBOT               2918       4          714       
-6          ToromBot                  2917       -10        58266     
+5          ToromBot                  2919       -7         58268     
+6          FireFishBOT               2918       4          714       
 7          FireFishBOT_v2            2911       -3         176       
 8          YoBot_v2                  2907       24         17214     
 9          Roberts_child             2902       4          103       
@@ -12,7 +12,7 @@ Rank       Bot                       Rating     Prog       Games
 11         LeelaMultiPoss            2877       -7         467       
 12         Nikitosikbot              2873       -16        20576     
 13         caissa-test               2839       -5         1392      
-14         Coolman2021               2805       3          5822      
+14         Coolman2021               2808       4          5823      
 15         EmptikBot247              2800       0          2503      
 16         Shineshou90_BOT           2796       8          7690      
 17         chessfyBOT                2788       -8         1404      
@@ -23,8 +23,8 @@ Rank       Bot                       Rating     Prog       Games
 22         blundar_bot               2699       9          4905      
 23         expositor                 2589       25         18703     
 24         MrChessTheBot             2561       10         4907      
-25         AKS-Mantissa              2560       25         9905      
-26         SaxtonEngine              2540       -20        3810      
+25         AKS-Mantissa              2557       19         9907      
+26         SaxtonEngine              2539       -18        3811      
 27         FlamingDragon_9000        2524       -5         10619     
 28         Elmichess                 2500       -83        3185      
 29         Weiawaga                  2484       1          14817     
@@ -32,7 +32,7 @@ Rank       Bot                       Rating     Prog       Games
 31         bot_adario                2447       1          2299      
 32         ChessHunterBot            2434       -1         447       
 33         clueless-bot              2401       7          6724      
-34         OpeningsBot               2374       22         344       
+34         OpeningsBot               2376       27         345       
 35         TuksuBot                  2364       -13        6595      
 36         AjedrezChamberi           2341       13         526       
 37         admete_bot                2340       2          5856      
@@ -44,7 +44,7 @@ Rank       Bot                       Rating     Prog       Games
 43         simpleEval                2205       20         24628     
 44         GarboBot                  2157       0          9360      
 45         matmoi                    2149       -10        1076      
-46         halcyonbot                2143       45         4794      
+46         halcyonbot                2140       39         4795      
 47         jangine                   2135       18         2622      
 48         WhiteWidowBot             2126       0          53        
 49         LazyBotJr                 2106       -58        854       
@@ -78,7 +78,7 @@ Rank       Bot                       Rating     Prog       Games
 77         simplexitor               1698       -5         2153      
 78         ZE_ROOK                   1688       -29        1353      
 79         turkjs                    1683       -15        19146     
-80         maia1                     1673       -14        121512    
+80         maia1                     1680       -10        121513    
 81         rudim-bot                 1670       -36        148       
 82         maia5                     1666       -22        38765     
 83         HardRok                   1665       -8         550       
