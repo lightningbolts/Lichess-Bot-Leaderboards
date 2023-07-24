@@ -53,7 +53,7 @@ Rank       Bot                       Rating     Prog       Games
 52         Nc3Nc6Bot                 1956       16         1166      
 53         Zagreus_Engine            1938       -18        3944      
 54         myopic-bot                1898       5          1580      
-55         zeekat                    1892       1          19577     
+55         zeekat                    1895       -5         19578     
 56         Jobabot                   1881       35         26        
 57         michabay05                1879       -15        402       
 58         likeawizard-bot           1872       -6         1680      
@@ -69,7 +69,7 @@ Rank       Bot                       Rating     Prog       Games
 68         Fisk_Bot                  1745       16         1484      
 69         Virutor                   1729       8          7221      
 70         QueensGamBOT              1725       -18        2807      
-71         ELO_1500                  1720       2          12713     
+71         ELO_1500                  1717       -2         12714     
 72         AshNostromo               1714       -25        931       
 73         melsh_bot                 1703       14         1706      
 74         piglet_engine             1689       -23        31        
@@ -87,9 +87,9 @@ Rank       Bot                       Rating     Prog       Games
 86         DavidsGuterBot            1463       -4         3334      
 87         turochamp-2ply            1433       -15        1554      
 88         ZE_ROOK                   1417       1          2121      
-89         monchester                1401       -22        2607      
+89         monchester                1402       -20        2608      
 90         Humaia                    1400       -15        818       
-91         maia1                     1382       -26        202915    
+91         maia1                     1382       -31        202916    
 92         dragobot                  1377       -145       54        
 93         clompdev                  1349       33         132       
 94         StupidChessRobot          1347       -22        438       
@@ -101,6 +101,6 @@ Rank       Bot                       Rating     Prog       Games
 100        OhniBOT                   1200       -30        289       
 101        HulkBot                   1161       -62        667       
 102        knucklefish               1123       7          3078      
-103        CHoMPBoT                  1091       -5         1395      
+103        CHoMPBoT                  1089       -5         1396      
 104        bobandi                   1059       -12        1112      
 105        BelaBot                   912        -45        44        
