@@ -14,7 +14,7 @@ Rank       Bot                       Rating     Prog       Games
 13         RaspFish                  2762       7          10861     
 14         LazyBot                   2756       0          1985      
 15         CodingAdventureBot        2653       2          2994      
-16         AKS-Mantissa              2636       0          8997      
+16         AKS-Mantissa              2637       1          8998      
 17         ChessHunterBot            2618       -16        382       
 18         expositor                 2604       -2         6633      
 19         SaxtonEngine              2521       -23        2092      
@@ -34,9 +34,9 @@ Rank       Bot                       Rating     Prog       Games
 33         simpleEval                2299       5          14235     
 34         FataliiBot                2291       22         6313      
 35         HistoryExplorer           2226       -30        2542      
-36         eubos                     2174       10         13728     
+36         eubos                     2173       3          13729     
 37         matmoi                    2154       -6         826       
-38         Hyperopic                 2136       -14        1477      
+38         Hyperopic                 2142       -4         1479      
 39         Boris-Trapsky             2114       9          27637     
 40         kulubot                   2111       -23        1404      
 41         honzovy-sachy-2           2106       -48        6568      
@@ -47,11 +47,11 @@ Rank       Bot                       Rating     Prog       Games
 46         MaxtheDog                 2055       -5         3907      
 47         Elmichess                 2050       -57        3471      
 48         LazyBotJr                 2008       -13        1511      
-49         LeaMoreau                 1972       7          107       
-50         Humaia-Strong             1971       -44        2353      
+49         Humaia-Strong             1971       -44        2353      
+50         LeaMoreau                 1969       8          108       
 51         LeelaRogue                1968       -14        2221      
 52         BLANK_BOT                 1966       -7         4458      
-53         Zagreus_Engine            1939       -15        3941      
+53         Zagreus_Engine            1936       -14        3942      
 54         myopic-bot                1902       12         1577      
 55         zeekat                    1893       -1         19576     
 56         michabay05                1892       2          400       
@@ -87,7 +87,7 @@ Rank       Bot                       Rating     Prog       Games
 86         DavidsGuterBot            1463       -4         3334      
 87         turochamp-2ply            1433       -15        1554      
 88         ZE_ROOK                   1426       12         2120      
-89         maia1                     1422       -1         202892    
+89         maia1                     1408       -15        202895    
 90         monchester                1401       -22        2607      
 91         Humaia                    1400       -15        818       
 92         StupidChessRobot          1355       -14        435       
