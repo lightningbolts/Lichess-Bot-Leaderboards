@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
 1          caissa-x                  2958       0          14499     
-2          Mate-AI                   2949       -4         11340     
+2          Mate-AI                   2944       -6         11341     
 3          TheMatrix2029             2934       -4         3904      
 4          FireFishBOT               2913       0          718       
 5          FireFishBOT_v2            2909       -3         179       
@@ -21,7 +21,7 @@ Rank       Bot                       Rating     Prog       Games
 20         StockDory                 2756       52         82        
 21         LazyBot                   2709       16         1392      
 22         blundar_bot               2690       -6         4910      
-23         Tundra4                   2604       4          1356      
+23         Tundra4                   2608       11         1357      
 24         expositor                 2594       9          18713     
 25         MrChessTheBot             2573       20         4913      
 26         AKS-Mantissa              2561       23         9910      
@@ -50,17 +50,17 @@ Rank       Bot                       Rating     Prog       Games
 49         WhiteWidowBot             2119       0          55        
 50         LazyBotJr                 2106       -58        854       
 51         redtail-zero              2084       -19        371       
-52         eubos                     2078       29         11952     
+52         eubos                     2081       34         11953     
 53         Humaia-Strong             2073       78         1306      
 54         Hyperopic                 2051       37         890       
 55         LeaMoreau                 2046       4          112       
 56         MaxtheDog                 2008       27         12978     
 57         myopic-bot                2007       -13        1565      
 58         BLANK_BOT                 2004       -7         6897      
-59         zeekat                    1957       1          17726     
-60         Jobabot                   1922       -30        18        
-61         michabay05                1892       -39        1078      
-62         Lynx_BOT                  1888       25         5952      
+59         zeekat                    1961       4          17727     
+60         Jobabot                   1910       -42        19        
+61         Lynx_BOT                  1888       25         5952      
+62         michabay05                1888       -38        1079      
 63         FlounderBot               1870       -14        2293      
 64         likeawizard-bot           1862       -14        671       
 65         Ptit-biscuit              1859       25         586       
@@ -74,7 +74,7 @@ Rank       Bot                       Rating     Prog       Games
 73         The_Marcus                1712       -1         372       
 74         simplexitor               1698       -5         2153      
 75         ELO_1500                  1693       4          3039      
-76         ZE_ROOK                   1684       -29        1354      
+76         ZE_ROOK                   1685       -32        1355      
 77         turkjs                    1680       -20        19147     
 78         maia1                     1678       -2         121524    
 79         fib0t                     1670       -25        45        
@@ -100,7 +100,7 @@ Rank       Bot                       Rating     Prog       Games
 99         ZokBot                    1345       -115       16        
 100        HulkBot                   1335       7          1174      
 101        CHoMPBoT                  1316       -30        874       
-102        schnecken_bot             1311       5          588       
+102        schnecken_bot             1310       -6         589       
 103        knucklefish               1309       -3         2706      
 104        OhniBOT                   1303       43         482       
 105        pawnrobot                 1270       8          3718      
