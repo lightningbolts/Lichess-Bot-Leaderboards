@@ -2,7 +2,7 @@ Rank       Bot                       Rating     Prog       Games
 1          Mate-AI                   2947       -3         11390     
 2          FireFishBOT_v2            2930       -5         210       
 3          ProteusSF-Godot           2920       6          1311      
-4          Anand_bot                 2906       -2         1054      
+4          Anand_bot                 2903       4          1057      
 5          YoBot_v2                  2902       5          17282     
 6          LeelaMultiPoss            2896       7          489       
 7          ResoluteBot               2887       -4         24791     
@@ -25,7 +25,7 @@ Rank       Bot                       Rating     Prog       Games
 24         Cheng-4                   2497       18         13257     
 25         Weiawaga                  2473       -15        14835     
 26         pawn_git                  2460       10         3690      
-27         ChessHunterBot            2456       3          601       
+27         ChessHunterBot            2459       -3         604       
 28         bot_adario                2442       -5         2303      
 29         OpeningsBot               2384       22         350       
 30         clueless-bot              2381       -16        6736      
@@ -86,7 +86,7 @@ Rank       Bot                       Rating     Prog       Games
 85         ELO_1500                  1667       -26        3050      
 86         dlvc-bot                  1666       24         172       
 87         HardRok                   1657       -9         558       
-88         fib0t                     1631       -29        123       
+88         fib0t                     1634       -21        124       
 89         sargon-4ply               1606       -11        1540      
 90         Humaia                    1602       13         388       
 91         piglet_engine             1599       -2         210       
@@ -99,7 +99,7 @@ Rank       Bot                       Rating     Prog       Games
 98         sargon-2ply               1503       13         2031      
 99         maia1                     1491       -26        121661    
 100        yeoldwiz                  1450       18         791       
-101        StupidChessRobot          1436       -16        232       
+101        StupidChessRobot          1433       -17        233       
 102        botTideEval               1431       0          1042      
 103        sargon-1ply               1403       31         4114      
 104        HulkBot                   1335       7          1174      
