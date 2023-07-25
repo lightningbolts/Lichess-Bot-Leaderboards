@@ -2,7 +2,7 @@ Rank       Bot                       Rating     Prog       Games
 1          ProteusSF-Godot           2888       15         137       
 2          ReinforcementTrial        2881       1          4739      
 3          Mate-AI                   2877       1          2394      
-4          YoBot_v2                  2876       2          12844     
+4          YoBot_v2                  2875       -4         12845     
 5          FireFishBOT_v2            2863       1          563       
 6          Shineshou90_BOT           2848       1          2396      
 7          chessfyBOT                2845       -7         228       
@@ -11,7 +11,7 @@ Rank       Bot                       Rating     Prog       Games
 10         LeelaMultiPoss            2836       9          179       
 11         Nikitosik-ai              2835       6          593       
 12         faith_bot                 2832       -3         665       
-13         MrChessTheBot             2822       -6         2040      
+13         MrChessTheBot             2823       -5         2041      
 14         RaspFish                  2820       9          5383      
 15         blundar_bot               2802       -4         998       
 16         ChessHunterBot            2651       11         190       
@@ -67,7 +67,7 @@ Rank       Bot                       Rating     Prog       Games
 66         Fisk_Bot                  1813       -19        224       
 67         Demolito_L5               1812       3          486       
 68         FlounderBot               1792       -8         107       
-69         maia9                     1776       -35        81871     
+69         maia9                     1785       -27        81873     
 70         zulu_bot                  1776       3          110       
 71         AshNostromo               1762       6          1187      
 72         Virutor                   1756       -5         3127      
@@ -86,7 +86,7 @@ Rank       Bot                       Rating     Prog       Games
 85         ArduChessBot              1552       -9         415       
 86         sargon-4ply               1540       26         557       
 87         turochamp-2ply            1498       -17        1050      
-88         maia1                     1475       -20        226915    
+88         maia1                     1480       -10        226916    
 89         ZE_ROOK                   1469       -16        287       
 90         DavidsGuterBot            1454       -15        567       
 91         RoundMoundOfRebounds      1449       -6         322       
