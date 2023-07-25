@@ -46,6 +46,7 @@ def get_bot_ratings_online(type):
         'Anand_Bot',
         'WhatsANikitosikHUH',
         'OkayWhyYouReadinThis'
+        'HappyFarmer3000'
     ]
     online_bots = urllib.request.urlopen('https://lichess.org/api/bot/online')
     user_arr = []
