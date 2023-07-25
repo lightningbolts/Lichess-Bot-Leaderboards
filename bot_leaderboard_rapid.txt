@@ -30,7 +30,7 @@ Rank       Bot                       Rating     Prog       Games
 29         TuksuBot                  2433       13         1894      
 30         clueless-bot              2341       20         683       
 31         FataliiBot                2333       2          2480      
-32         simpleEval                2332       4          7384      
+32         simpleEval                2332       0          7385      
 33         admete_bot                2331       1          4062      
 34         FlamingDragon_9000        2309       -12        1216      
 35         WasterNew                 2298       -13        78        
@@ -39,7 +39,7 @@ Rank       Bot                       Rating     Prog       Games
 38         HistoryExplorer           2194       -16        970       
 39         eubos                     2192       -15        4163      
 40         Elmichess                 2167       7          1373      
-41         matmoi                    2138       4          790       
+41         matmoi                    2133       6          791       
 42         redtail-zero              2124       -19        181       
 43         MaxtheDog                 2117       -5         565       
 44         Boris-Trapsky             2116       8          27164     
@@ -53,8 +53,8 @@ Rank       Bot                       Rating     Prog       Games
 52         requinBOT                 2026       29         175       
 53         BLANK_BOT                 2006       13         1445      
 54         LazyBotJr                 1989       -9         1252      
-55         LeelaRogue                1976       -2         2201      
-56         zeekat                    1975       9          7960      
+55         zeekat                    1980       16         7961      
+56         LeelaRogue                1976       -2         2201      
 57         Jobabot                   1967       -51        20        
 58         Lynx_BOT                  1946       13         39317     
 59         Nc3Nc6Bot                 1941       -1         1327      
@@ -63,7 +63,7 @@ Rank       Bot                       Rating     Prog       Games
 62         michabay05                1896       64         47        
 63         likeawizard-bot           1873       -14        344       
 64         Ptit-biscuit              1869       -14        70        
-65         notropis                  1836       15         2096      
+65         notropis                  1839       24         2097      
 66         ELO_1500                  1835       10         2697      
 67         Demolito_L5               1821       4          482       
 68         Fisk_Bot                  1813       -19        224       
@@ -73,16 +73,16 @@ Rank       Bot                       Rating     Prog       Games
 72         AshNostromo               1762       -3         1185      
 73         melsh_bot                 1743       -30        200       
 74         dlvc-bot                  1734       -25        77        
-75         maia5                     1693       -2         98823     
+75         maia5                     1698       9          98824     
 76         turkjs                    1690       -7         5002      
 77         HulkBot                   1671       -37        402       
-78         simplexitor               1670       -1         454       
+78         simplexitor               1667       -9         455       
 79         dragobot                  1637       -283       34        
 80         yeoldwiz                  1637       16         634       
 81         sargon-3ply               1591       -1         1125      
 82         ArduChessBot              1551       -9         412       
 83         sargon-4ply               1540       26         557       
-84         maia1                     1535       2          226847    
+84         maia1                     1528       -3         226848    
 85         turochamp-2ply            1502       -2         1049      
 86         TuroBot                   1477       31         3308      
 87         ZE_ROOK                   1475       2          282       
