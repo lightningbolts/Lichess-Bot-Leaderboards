@@ -35,7 +35,7 @@ Rank       Bot                       Rating     Prog       Games
 34         odonata-bot               2348       24         6108      
 35         AjedrezChamberi           2341       13         526       
 36         Pseudo-0                  2333       18         3755      
-37         FataliiBot                2288       4          5531      
+37         FataliiBot                2291       3          5532      
 38         Nakshatra3                2255       31         1226      
 39         KhepriChess               2253       -14        653       
 40         Anduril_Engine            2246       56         61        
@@ -44,7 +44,7 @@ Rank       Bot                       Rating     Prog       Games
 43         LunaChessEngine           2209       23         1109      
 44         honzovy-sachy-2           2194       8          6820      
 45         halcyonbot                2173       25         4827      
-46         matmoi                    2145       4          1119      
+46         matmoi                    2141       -4         1120      
 47         GarboBot                  2137       -22        9372      
 48         requinBOT                 2124       -14        261       
 49         jangine                   2113       -26        2634      
@@ -79,15 +79,15 @@ Rank       Bot                       Rating     Prog       Games
 78         Fisk_Bot                  1740       10         225       
 79         simplexitor               1724       22         2160      
 80         ChessChildren             1702       4          15250     
-81         turkjs                    1698       23         19165     
-82         ZE_ROOK                   1698       -3         1440      
+81         ZE_ROOK                   1698       -3         1440      
+82         turkjs                    1692       21         19166     
 83         dlvc-bot                  1689       49         175       
 84         maia5                     1687       29         38802     
-85         Ramses-Chess              1673       27         112       
+85         Ramses-Chess              1679       27         113       
 86         The_Marcus                1671       -71        378       
 87         rudim-bot                 1670       -36        148       
 88         ELO_1500                  1667       -26        3050      
-89         HardRok                   1657       -1         563       
+89         HardRok                   1659       8          564       
 90         piglet_engine             1616       18         213       
 91         sargon-4ply               1611       3          1544      
 92         fib0t                     1607       -21        140       
@@ -102,7 +102,7 @@ Rank       Bot                       Rating     Prog       Games
 101        maia1                     1478       -3         121675    
 102        yeoldwiz                  1450       18         791       
 103        StupidChessRobot          1430       -13        237       
-104        botTideEval               1429       -9         1043      
+104        botTideEval               1426       -7         1044      
 105        sargon-1ply               1402       20         4118      
 106        HulkBot                   1334       -5         1176      
 107        schnecken_bot             1318       -2         654       
