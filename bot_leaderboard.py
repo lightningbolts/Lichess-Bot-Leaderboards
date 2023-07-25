@@ -45,6 +45,10 @@ def get_bot_ratings_online(type):
         'Nikitosikbot'
         'Anand_Bot',
         'WhatsANikitosikHUH',
+        'OkayWhyYouReadinThis',
+        'GHDES',
+        'caissa-test', 
+        'Codingadventurebot',
         'OkayWhyYouReadinThis'
         'HappyFarmer3000'
     ]
