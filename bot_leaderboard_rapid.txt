@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          caissa-x                  2888       -2         2999      
-2          FireFishBOT               2882       5          891       
-3          ReinforcementTrial        2881       -2         4714      
+2          ReinforcementTrial        2883       0          4715      
+3          FireFishBOT               2882       5          891       
 4          TorBot                    2881       -3         786       
 5          ToromBot                  2879       1          1707      
 6          Mate-AI                   2877       8          2387      
@@ -21,11 +21,11 @@ Rank       Bot                       Rating     Prog       Games
 20         StockDory                 2646       82         30        
 21         ChessHunterBot            2641       -4         180       
 22         expositor                 2641       8          4412      
-23         AKS-Mantissa              2612       11         3945      
+23         AKS-Mantissa              2616       14         3946      
 24         LazyBot                   2612       -7         716       
 25         SaxtonEngine              2549       2          1317      
-26         pawn_git                  2524       3          1128      
-27         Weiawaga                  2505       -5         9613      
+26         pawn_git                  2523       3          1129      
+27         Weiawaga                  2501       -4         9614      
 28         OpeningsBot               2454       12         165       
 29         bot_adario                2448       13         1261      
 30         TuksuBot                  2433       13         1894      
@@ -68,7 +68,7 @@ Rank       Bot                       Rating     Prog       Games
 67         Fisk_Bot                  1813       -19        224       
 68         FlounderBot               1789       -5         104       
 69         zulu_bot                  1776       3          110       
-70         maia9                     1770       29         81821     
+70         maia9                     1775       31         81824     
 71         AshNostromo               1753       -8         1182      
 72         melsh_bot                 1749       -21        198       
 73         dlvc-bot                  1734       -25        77        
