@@ -2,12 +2,12 @@ Rank       Bot                       Rating     Prog       Games
 1          Mate-AI                   2947       -3         11390     
 2          FireFishBOT_v2            2930       -5         210       
 3          ProteusSF-Godot           2920       6          1311      
-4          Anand_bot                 2908       4          1063      
+4          Anand_bot                 2910       3          1066      
 5          YoBot_v2                  2902       5          17282     
 6          ResoluteBot               2887       -4         24791     
 7          Nikitosikbot              2877       -7         20581     
 8          CodingAdventureBot        2861       -10        1887      
-9          RaspFish                  2840       -2         48682     
+9          RaspFish                  2841       -1         48683     
 10         Shineshou90_BOT           2814       31         7753      
 11         chessfyBOT                2788       -8         1404      
 12         StockDory                 2756       52         82        
@@ -21,10 +21,10 @@ Rank       Bot                       Rating     Prog       Games
 20         SaxtonEngine              2541       -7         3816      
 21         FlamingDragon_9000        2524       -5         10619     
 22         Elmichess                 2500       -83        3185      
-23         Cheng-4                   2497       18         13257     
+23         Cheng-4                   2496       18         13258     
 24         Weiawaga                  2473       -15        14835     
 25         pawn_git                  2460       10         3690      
-26         ChessHunterBot            2457       1          611       
+26         ChessHunterBot            2455       -5         614       
 27         bot_adario                2442       -5         2303      
 28         OpeningsBot               2384       22         350       
 29         clueless-bot              2381       -16        6736      
@@ -33,7 +33,7 @@ Rank       Bot                       Rating     Prog       Games
 32         admete_bot                2355       12         5870      
 33         AjedrezChamberi           2341       13         526       
 34         Pseudo-0                  2327       8          3753      
-35         FataliiBot                2289       -3         5529      
+35         FataliiBot                2292       5          5530      
 36         Nakshatra3                2252       20         1224      
 37         KhepriChess               2245       -15        650       
 38         WasterNew                 2239       1          214       
@@ -41,7 +41,7 @@ Rank       Bot                       Rating     Prog       Games
 40         Anduril_Engine            2210       15         59        
 41         honzovy-sachy-2           2185       -6         6818      
 42         halcyonbot                2165       33         4824      
-43         matmoi                    2154       10         1111      
+43         matmoi                    2150       9          1112      
 44         GarboBot                  2137       -22        9372      
 45         requinBOT                 2127       -10        259       
 46         jangine                   2118       -14        2632      
@@ -57,9 +57,9 @@ Rank       Bot                       Rating     Prog       Games
 56         Jobabot                   1945       42         32        
 57         Demolito_L6               1938       2          20        
 58         zeekat                    1938       4          17765     
-59         Lynx_BOT                  1927       22         5968      
+59         Lynx_BOT                  1921       9          5969      
 60         michabay05                1903       16         1122      
-61         FlounderBot               1880       -7         2353      
+61         FlounderBot               1887       -4         2354      
 62         Ptit-biscuit              1859       25         586       
 63         yowCapablanca             1824       -120       46        
 64         likeawizard-bot           1820       -23        700       
@@ -75,7 +75,7 @@ Rank       Bot                       Rating     Prog       Games
 74         Fisk_Bot                  1740       10         225       
 75         ArduChessBot              1726       0          5323      
 76         simplexitor               1710       11         2157      
-77         ZE_ROOK                   1701       -11        1425      
+77         ZE_ROOK                   1703       -10        1426      
 78         ChessChildren             1687       -22        15246     
 79         turkjs                    1675       -5         19158     
 80         The_Marcus                1671       -71        378       
@@ -101,7 +101,7 @@ Rank       Bot                       Rating     Prog       Games
 100        botTideEval               1431       0          1042      
 101        sargon-1ply               1403       31         4114      
 102        HulkBot                   1335       7          1174      
-103        schnecken_bot             1322       17         641       
+103        schnecken_bot             1321       11         642       
 104        CHoMPBoT                  1309       -17        881       
 105        knucklefish               1307       -11        2708      
 106        OhniBOT                   1303       43         482       
