@@ -2,15 +2,15 @@ Rank       Bot                       Rating     Prog       Games
 1          caissa-x                  2957       -1         14502     
 2          Mate-AI                   2946       9          11423     
 3          ToromBot                  2943       3          58409     
-4          Anand_bot                 2935       1          1131      
+4          Anand_bot                 2936       2          1133      
 5          ProteusSF-Godot           2924       -4         1329      
 6          FireFishBOT_v2            2923       -5         233       
 7          YoBot_v2                  2907       0          17298     
-8          TorBot                    2894       9          5932      
-9          LeelaMultiPoss            2891       -3         497       
+8          TorBot                    2894       11         5933      
+9          LeelaMultiPoss            2891       -4         498       
 10         ResoluteBot               2887       -4         24791     
 11         CodingAdventureBot        2866       5          1895      
-12         TheMatrix2025             2855       -5         6671      
+12         TheMatrix2025             2852       -9         6672      
 13         RaspFish                  2849       7          48767     
 14         Shineshou90_BOT           2791       -1         7778      
 15         chessfyBOT                2788       -8         1404      
@@ -19,7 +19,7 @@ Rank       Bot                       Rating     Prog       Games
 18         Nikitosik-ai              2731       -31        1895      
 19         blundar_bot               2723       -8         4943      
 20         LazyBot                   2712       17         1398      
-21         MrChessTheBot             2600       8          4951      
+21         MrChessTheBot             2604       12         4952      
 22         AKS-Mantissa              2563       8          9932      
 23         SaxtonEngine              2528       -13        3827      
 24         FlamingDragon_9000        2524       -5         10619     
@@ -29,7 +29,7 @@ Rank       Bot                       Rating     Prog       Games
 28         Weiawaga                  2470       1          14853     
 29         pawn_git                  2461       9          3694      
 30         bot_adario                2450       4          2307      
-31         ChessHunterBot            2436       -1         688       
+31         ChessHunterBot            2435       -1         690       
 32         admete_bot                2384       -19        5895      
 33         Phalanx-XXV               2382       17         4000      
 34         OpeningsBot               2381       7          355       
@@ -109,5 +109,4 @@ Rank       Bot                       Rating     Prog       Games
 108        OhniBOT                   1303       43         482       
 109        knucklefish               1289       -40        2711      
 110        pawnrobot                 1259       -14        3727      
-111        bobandi                   1210       -37        1075      
-112        BetaTree                  1108       0          18        
+111        BetaTree                  1108       0          18        
