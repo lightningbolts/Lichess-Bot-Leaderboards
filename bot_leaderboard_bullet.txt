@@ -22,11 +22,11 @@ Rank       Bot                       Rating     Prog       Games
 21         Elmichess                 2504       -61        3187      
 22         SaxtonEngine              2503       -20        3850      
 23         Cheng-4                   2492       -2         13271     
-24         Weiawaga                  2478       0          14858     
+24         Weiawaga                  2480       5          14859     
 25         pawn_git                  2456       -7         3703      
 26         bot_adario                2448       0          2309      
 27         ChessHunterBot            2422       -5         857       
-28         Wahoo_Bot                 2411       -2         471       
+28         Wahoo_Bot                 2415       8          472       
 29         catriever                 2396       -17        1410      
 30         OpeningsBot               2386       5          366       
 31         clueless-bot              2384       20         6792      
@@ -38,10 +38,10 @@ Rank       Bot                       Rating     Prog       Games
 37         Pseudo-0                  2332       -6         3768      
 38         fornax-engine             2310       -6         6742      
 39         FataliiBot                2279       -12        5545      
-40         simpleEval                2269       21         24661     
+40         simpleEval                2265       14         24662     
 41         Nakshatra3                2249       -4         1240      
 42         KhepriChess               2228       -18        667       
-43         honzovy-sachy-2           2191       -2         6834      
+43         honzovy-sachy-2           2189       -9         6835      
 44         matmoi                    2174       10         1156      
 45         halcyonbot                2157       -13        4853      
 46         GarboBot                  2137       -22        9372      
@@ -72,7 +72,7 @@ Rank       Bot                       Rating     Prog       Games
 71         melsh_bot                 1772       5          3807      
 72         ArduChessBot              1756       33         5361      
 73         Fisk_Bot                  1740       10         225       
-74         maia9                     1720       -17        60231     
+74         maia9                     1717       -10        60234     
 75         simplexitor               1710       0          2168      
 76         ChessChildren             1701       -22        15264     
 77         dlvc-bot                  1689       49         175       
