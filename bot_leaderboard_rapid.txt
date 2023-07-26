@@ -17,11 +17,11 @@ Rank       Bot                       Rating     Prog       Games
 16         ChessHunterBot            2668       17         197       
 17         StockDory                 2646       82         30        
 18         expositor                 2619       -23        4428      
-19         AKS-Mantissa              2609       2          3960      
+19         AKS-Mantissa              2613       11         3961      
 20         LazyBot                   2598       -22        719       
 21         SaxtonEngine              2534       -4         1336      
 22         pawn_git                  2526       -3         1171      
-23         Weiawaga                  2515       8          9633      
+23         Weiawaga                  2511       2          9634      
 24         catriever                 2508       1          139       
 25         OpeningsBot               2456       -5         179       
 26         Cheng-4                   2450       5          3112      
@@ -85,8 +85,8 @@ Rank       Bot                       Rating     Prog       Games
 84         maia5                     1622       10         98975     
 85         sargon-3ply               1591       -1         1125      
 86         HardRok                   1584       -11        475       
-87         maia1                     1558       30         227260    
-88         sargon-4ply               1558       37         559       
+87         sargon-4ply               1558       37         559       
+88         maia1                     1556       29         227261    
 89         ArduChessBot              1539       -16        419       
 90         turochamp-2ply            1498       -17        1050      
 91         ZE_ROOK                   1479       22         310       
@@ -101,5 +101,5 @@ Rank       Bot                       Rating     Prog       Games
 100        OhniBOT                   1187       -9         328       
 101        schnecken_bot             1172       -15        263       
 102        sargon-1ply               1165       1          8280      
-103        CHoMPBoT                  1134       28         433       
+103        CHoMPBoT                  1144       39         434       
 104        kireevi                   1076       -24        551       
