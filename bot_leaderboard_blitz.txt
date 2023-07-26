@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
 1          caissa-x                  2883       1          3081      
-2          FireFishBOT_v2            2880       9          443       
+2          FireFishBOT_v2            2881       11         444       
 3          ProteusSF-Godot           2880       -2         476       
 4          YoBot_v2                  2866       -1         3354      
 5          ToromBot                  2858       0          2801      
@@ -21,7 +21,7 @@ Rank       Bot                       Rating     Prog       Games
 20         AKS-Mantissa              2575       -16        9092      
 21         SaxtonEngine              2500       -6         2131      
 22         pawn_git                  2492       -5         2183      
-23         catriever                 2462       2          547       
+23         catriever                 2461       -1         548       
 24         bot_adario                2458       -3         2035      
 25         Weiawaga                  2449       -27        11340     
 26         OpeningsBot               2442       3          567       
@@ -39,8 +39,8 @@ Rank       Bot                       Rating     Prog       Games
 38         AjedrezChamberi           2290       107        253       
 39         FataliiBot                2285       9          6356      
 40         KhepriChess               2284       11         1427      
-41         Nakshatra3                2267       -23        1466      
-42         halcyonbot                2233       4          8670      
+41         Nakshatra3                2272       -12        1467      
+42         halcyonbot                2227       -1         8671      
 43         eubos                     2159       -23        13831     
 44         matmoi                    2136       -1         892       
 45         Boris-Trapsky             2127       13         27732     
@@ -61,17 +61,17 @@ Rank       Bot                       Rating     Prog       Games
 60         Lynx_BOT                  1966       -6         48077     
 61         Jobabot                   1911       23         75        
 62         zeekat                    1910       1          19686     
-63         Demolito_L6               1876       -63        70        
+63         Demolito_L6               1880       -51        71        
 64         michabay05                1866       -12        457       
 65         zulu_bot                  1861       -3         992       
 66         baby_eubos                1853       2          7039      
 67         FlounderBot               1828       9          1186      
-68         notropis                  1808       11         6075      
+68         notropis                  1803       6          6076      
 69         Demolito_L5               1800       -4         781       
 70         honzovy-sachy             1784       -4         4808      
 71         Fisk_Bot                  1745       16         1484      
 72         ELO_1500                  1738       -12        12753     
-73         Virutor                   1730       2          7248      
+73         Virutor                   1731       9          7249      
 74         QueensGamBOT              1725       8          2836      
 75         piglet_engine             1719       30         42        
 76         AshNostromo               1706       -16        934       
@@ -99,7 +99,7 @@ Rank       Bot                       Rating     Prog       Games
 98         maia1                     1424       11         203568    
 99         chat_bot                  1421       -130       230       
 100        monchester                1391       -27        2616      
-101        StupidChessRobot          1373       1          541       
+101        StupidChessRobot          1372       0          542       
 102        Humaia                    1333       -57        839       
 103        dragobot                  1323       -137       60        
 104        sargon-2ply               1299       6          2907      
