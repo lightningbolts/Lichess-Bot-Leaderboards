@@ -41,10 +41,10 @@ Rank       Bot                       Rating     Prog       Games
 40         KhepriChess               2249       -14        650       
 41         eubos                     2202       5          4170      
 42         honzovy-sachy-2           2186       -6         3516      
-43         halcyonbot                2175       29         5722      
-44         Elmichess                 2174       11         1380      
+43         Elmichess                 2174       11         1380      
+44         matmoi                    2174       14         833       
 45         HistoryExplorer           2173       -35        977       
-46         matmoi                    2168       12         832       
+46         halcyonbot                2169       25         5723      
 47         kulubot                   2135       -21        562       
 48         Boris-Trapsky             2126       -3         27195     
 49         redtail-zero              2123       -15        189       
@@ -88,7 +88,7 @@ Rank       Bot                       Rating     Prog       Games
 87         maia5                     1615       8          98960     
 88         sargon-3ply               1591       -1         1125      
 89         HardRok                   1590       4          472       
-90         maia1                     1547       7          227198    
+90         maia1                     1547       9          227202    
 91         sargon-4ply               1540       26         557       
 92         ArduChessBot              1539       -16        419       
 93         turochamp-2ply            1498       -17        1050      
@@ -106,5 +106,4 @@ Rank       Bot                       Rating     Prog       Games
 105        sargon-1ply               1165       1          8280      
 106        CHoMPBoT                  1137       29         431       
 107        kireevi                   1076       -24        551       
-108        bobandi                   862        1          699       
-109        G0thamB0t                 806        78         260       
+108        G0thamB0t                 806        78         260       
