@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
 1          Mate-AI                   2939       0          11410     
-2          ToromBot                  2935       3          58392     
+2          ToromBot                  2934       -3         58393     
 3          ProteusSF-Godot           2929       8          1325      
 4          FireFishBOT_v2            2928       -5         216       
 5          YoBot_v2                  2912       9          17291     
@@ -8,7 +8,7 @@ Rank       Bot                       Rating     Prog       Games
 7          ResoluteBot               2887       -4         24791     
 8          Nikitosikbot              2877       -7         20581     
 9          Hien-Vinh_Bot2            2874       4          75        
-10         TheMatrix2025             2867       -8         6626      
+10         TheMatrix2025             2868       -8         6627      
 11         CodingAdventureBot        2866       5          1891      
 12         RaspFish                  2857       -5         48736     
 13         Shineshou90_BOT           2794       -21        7763      
@@ -38,11 +38,11 @@ Rank       Bot                       Rating     Prog       Games
 37         Pseudo-0                  2335       23         3758      
 38         FataliiBot                2291       2          5534      
 39         Nakshatra3                2255       31         1226      
-40         Anduril_Engine            2246       56         61        
-41         KhepriChess               2246       1          656       
+40         KhepriChess               2251       5          657       
+41         Anduril_Engine            2246       56         61        
 42         simpleEval                2231       19         24642     
 43         HistoryExplorer           2220       10         2385      
-44         LunaChessEngine           2207       11         1112      
+44         LunaChessEngine           2202       3          1113      
 45         honzovy-sachy-2           2189       9          6822      
 46         kulubot                   2188       -10        939       
 47         halcyonbot                2178       13         4835      
@@ -69,7 +69,7 @@ Rank       Bot                       Rating     Prog       Games
 68         yowCapablanca             1824       -120       46        
 69         notropis                  1820       10         3556      
 70         Virutor                   1820       18         6519      
-71         likeawizard-bot           1808       -18        710       
+71         likeawizard-bot           1807       -13        711       
 72         QueensGamBOT              1807       13         4807      
 73         baby_eubos                1806       11         4958      
 74         Demolito_L5               1803       -12        492       
@@ -78,7 +78,7 @@ Rank       Bot                       Rating     Prog       Games
 77         maia9                     1744       12         60213     
 78         Fisk_Bot                  1740       10         225       
 79         ArduChessBot              1737       7          5329      
-80         simplexitor               1725       25         2161      
+80         simplexitor               1726       28         2162      
 81         ChessChildren             1723       28         15253     
 82         ZE_ROOK                   1705       3          1455      
 83         turkjs                    1695       20         19169     
