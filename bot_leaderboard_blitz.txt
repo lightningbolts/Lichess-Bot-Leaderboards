@@ -3,12 +3,12 @@ Rank       Bot                       Rating     Prog       Games
 2          TheMatrix2025             2868       -7         454       
 3          YoBot_v2                  2867       3          3346      
 4          ToromBot                  2858       1          2798      
-5          FireFishBOT_v2            2857       7          395       
+5          FireFishBOT_v2            2857       7          396       
 6          LeelaMultiPoss            2856       0          167       
 7          Mate-AI                   2844       2          2976      
 8          faith_bot                 2836       -8         652       
 9          Nikitosikbot              2834       4          5795      
-10         Shineshou90_BOT           2833       5          1585      
+10         Shineshou90_BOT           2833       5          1586      
 11         chessfyBOT                2819       -12        180       
 12         ResoluteBot               2807       -18        10832     
 13         MrChessTheBot             2806       11         1575      
@@ -22,7 +22,7 @@ Rank       Bot                       Rating     Prog       Games
 21         AKS-Mantissa              2584       3          9072      
 22         SaxtonEngine              2501       -6         2127      
 23         pawn_git                  2496       10         2180      
-24         Weiawaga                  2464       -32        11334     
+24         Weiawaga                  2466       -23        11335     
 25         bot_adario                2460       6          2030      
 26         OpeningsBot               2444       13         558       
 27         TuksuBot                  2423       12         3747      
@@ -36,10 +36,10 @@ Rank       Bot                       Rating     Prog       Games
 35         simpleEval                2301       -14        14261     
 36         FataliiBot                2282       14         6346      
 37         Nakshatra3                2279       -30        1457      
-38         LunaChessEngine           2262       -11        1533      
-39         KhepriChess               2261       18         1408      
+38         LunaChessEngine           2267       -11        1534      
+39         KhepriChess               2261       11         1410      
 40         halcyonbot                2218       19         8643      
-41         eubos                     2191       -17        13813     
+41         eubos                     2189       -12        13814     
 42         matmoi                    2146       -15        876       
 43         Boris-Trapsky             2111       -12        27710     
 44         YourSparringBot           2103       -22        908       
@@ -73,7 +73,7 @@ Rank       Bot                       Rating     Prog       Games
 72         ELO_1500                  1750       0          12742     
 73         Fisk_Bot                  1745       16         1484      
 74         QueensGamBOT              1727       4          2829      
-75         Virutor                   1722       -14        7235      
+75         Virutor                   1727       -4         7236      
 76         piglet_engine             1720       17         40        
 77         melsh_bot                 1700       2          1731      
 78         AshNostromo               1699       -29        933       
@@ -81,7 +81,7 @@ Rank       Bot                       Rating     Prog       Games
 80         dlvc-bot                  1672       -22        1256      
 81         ChessChildren             1659       19         21116     
 82         simplexitor               1657       0          2078      
-83         fib0t                     1651       -2         160       
+83         fib0t                     1646       2          161       
 84         yeoldwiz                  1641       14         1600      
 85         maia9                     1593       8          98223     
 86         The_Marcus                1577       -163       196       
@@ -96,7 +96,7 @@ Rank       Bot                       Rating     Prog       Games
 95         RoundMoundOfRebounds      1435       -28        1131      
 96         turochamp-2ply            1428       -6         1566      
 97         monchester                1394       -21        2615      
-98         maia1                     1367       23         203453    
+98         maia1                     1366       17         203454    
 99         StupidChessRobot          1363       -4         511       
 100        Humaia                    1336       -50        838       
 101        sargon-2ply               1299       9          2905      
