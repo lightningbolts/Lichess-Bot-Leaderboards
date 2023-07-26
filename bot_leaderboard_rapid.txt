@@ -4,7 +4,7 @@ Rank       Bot                       Rating     Prog       Games
 3          TorBot                    2878       -7         788       
 4          Mate-AI                   2877       1          2394      
 5          TheMatrix2025             2875       9          342       
-6          ReinforcementTrial        2872       -2         4756      
+6          ReinforcementTrial        2873       -1         4757      
 7          YoBot_v2                  2872       -5         12850     
 8          FireFishBOT_v2            2864       2          564       
 9          chessbot2880              2862       7          269       
@@ -23,9 +23,9 @@ Rank       Bot                       Rating     Prog       Games
 22         AKS-Mantissa              2605       -4         3959      
 23         LazyBot                   2598       -22        719       
 24         SaxtonEngine              2534       -4         1336      
-25         pawn_git                  2532       14         1163      
+25         pawn_git                  2531       14         1164      
 26         Weiawaga                  2505       1          9629      
-27         OpeningsBot               2461       7          176       
+27         OpeningsBot               2460       3          177       
 28         Cheng-4                   2450       4          3110      
 29         bot_adario                2447       17         1265      
 30         TuksuBot                  2433       13         1894      
@@ -88,8 +88,8 @@ Rank       Bot                       Rating     Prog       Games
 87         sargon-3ply               1591       -1         1125      
 88         ArduChessBot              1540       -4         418       
 89         sargon-4ply               1540       26         557       
-90         turochamp-2ply            1498       -17        1050      
-91         maia1                     1493       5          227074    
+90         maia1                     1502       17         227076    
+91         turochamp-2ply            1498       -17        1050      
 92         ZE_ROOK                   1458       -13        302       
 93         DavidsGuterBot            1454       -15        567       
 94         RoundMoundOfRebounds      1449       -6         322       
