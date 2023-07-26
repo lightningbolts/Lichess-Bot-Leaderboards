@@ -23,7 +23,7 @@ Rank       Bot                       Rating     Prog       Games
 22         AKS-Mantissa              2605       -4         3959      
 23         LazyBot                   2598       -22        719       
 24         SaxtonEngine              2534       -4         1336      
-25         pawn_git                  2529       8          1167      
+25         pawn_git                  2528       8          1168      
 26         Weiawaga                  2505       1          9629      
 27         OpeningsBot               2460       3          177       
 28         Cheng-4                   2450       4          3110      
@@ -32,7 +32,7 @@ Rank       Bot                       Rating     Prog       Games
 31         odonata-bot               2405       2          3650      
 32         Phalanx-XXV               2392       11         842       
 33         Pseudo-0                  2366       -12        1056      
-34         admete_bot                2353       22         4073      
+34         admete_bot                2357       24         4074      
 35         clueless-bot              2346       26         684       
 36         fornax-engine             2345       4          3580      
 37         simpleEval                2345       13         7395      
@@ -40,7 +40,7 @@ Rank       Bot                       Rating     Prog       Games
 39         FataliiBot                2306       -21        2487      
 40         DQN-chess                 2292       -4         897       
 41         Nakshatra3                2269       3          782       
-42         KhepriChess               2263       -17        647       
+42         KhepriChess               2259       -17        648       
 43         eubos                     2202       5          4170      
 44         honzovy-sachy-2           2181       -5         3515      
 45         Elmichess                 2174       11         1380      
@@ -83,9 +83,9 @@ Rank       Bot                       Rating     Prog       Games
 82         ChessChildren             1729       -12        4349      
 83         turkjs                    1698       1          5005      
 84         HulkBot                   1671       -37        402       
-85         simplexitor               1656       -8         458       
+85         simplexitor               1652       -8         459       
 86         yeoldwiz                  1637       16         634       
-87         maia5                     1629       8          98936     
+87         maia5                     1628       3          98937     
 88         sargon-3ply               1591       -1         1125      
 89         sargon-4ply               1540       26         557       
 90         ArduChessBot              1539       -16        419       
