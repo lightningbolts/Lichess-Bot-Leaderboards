@@ -41,9 +41,9 @@ Rank       Bot                       Rating     Prog       Games
 40         simpleEval                2226       16         24641     
 41         WasterNew                 2226       -6         216       
 42         HistoryExplorer           2218       9          2383      
-43         LunaChessEngine           2209       23         1109      
-44         honzovy-sachy-2           2194       8          6820      
-45         kulubot                   2194       5          935       
+43         LunaChessEngine           2201       16         1110      
+44         kulubot                   2196       3          936       
+45         honzovy-sachy-2           2194       8          6820      
 46         halcyonbot                2174       19         4828      
 47         matmoi                    2150       -4         1122      
 48         GarboBot                  2137       -22        9372      
@@ -51,7 +51,7 @@ Rank       Bot                       Rating     Prog       Games
 50         jangine                   2113       -26        2634      
 51         LazyBotJr                 2106       -58        854       
 52         redtail-zero              2101       4          387       
-53         eubos                     2090       4          11993     
+53         eubos                     2098       10         11994     
 54         Humaia-Strong             2073       78         1306      
 55         LeaMoreau                 2053       -2         127       
 56         Hyperopic                 2051       37         890       
@@ -62,8 +62,8 @@ Rank       Bot                       Rating     Prog       Games
 61         Demolito_L6               1979       49         25        
 62         Lynx_BOT                  1934       19         5977      
 63         zeekat                    1929       -9         17782     
-64         michabay05                1894       -18        1136      
-65         FlounderBot               1873       -6         2371      
+64         michabay05                1898       -7         1137      
+65         FlounderBot               1872       0          2372      
 66         Ptit-biscuit              1859       25         586       
 67         Virutor                   1825       29         6518      
 68         yowCapablanca             1824       -120       46        
@@ -71,7 +71,7 @@ Rank       Bot                       Rating     Prog       Games
 70         likeawizard-bot           1815       -10        706       
 71         QueensGamBOT              1807       13         4807      
 72         Demolito_L5               1802       -18        490       
-73         baby_eubos                1796       -17        4952      
+73         baby_eubos                1792       -17        4953      
 74         melsh_bot                 1780       -7         3787      
 75         honzovy-sachy             1760       -4         4822      
 76         maia9                     1744       12         60213     
@@ -98,7 +98,7 @@ Rank       Bot                       Rating     Prog       Games
 97         turochamp-1ply            1537       38         1751      
 98         monchester                1503       -7         2305      
 99         sargon-2ply               1499       0          2033      
-100        maia1                     1485       -4         121699    
+100        maia1                     1487       -10        121701    
 101        yeoldwiz                  1450       18         791       
 102        botTideEval               1426       -7         1044      
 103        StupidChessRobot          1421       -21        239       
