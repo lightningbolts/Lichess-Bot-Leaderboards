@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
 1          caissa-x                  2957       -1         14502     
-2          ToromBot                  2945       2          58479     
+2          ToromBot                  2941       -2         58480     
 3          Mate-AI                   2935       -6         11458     
 4          ProteusSF-Godot           2926       -3         1337      
 5          FireFishBOT_v2            2911       -4         265       
@@ -15,7 +15,7 @@ Rank       Bot                       Rating     Prog       Games
 14         blundar_bot               2726       -1         4956      
 15         Nikitosik-ai              2723       -28        1901      
 16         LazyBot                   2712       17         1398      
-17         MrChessTheBot             2604       7          4966      
+17         MrChessTheBot             2608       13         4967      
 18         AKS-Mantissa              2552       -9         9952      
 19         FlamingDragon_9000        2524       -5         10619     
 20         expositor                 2518       -10        18796     
@@ -41,14 +41,14 @@ Rank       Bot                       Rating     Prog       Games
 40         simpleEval                2273       22         24658     
 41         Nakshatra3                2249       -4         1240      
 42         KhepriChess               2228       -18        667       
-43         honzovy-sachy-2           2186       -3         6833      
+43         honzovy-sachy-2           2191       -2         6834      
 44         matmoi                    2173       19         1154      
 45         halcyonbot                2157       -13        4853      
 46         GarboBot                  2137       -22        9372      
 47         LazyBotJr                 2111       -55        855       
 48         jangine                   2106       -14        2644      
 49         redtail-zero              2099       5          399       
-50         eubos                     2086       -11        12026     
+50         eubos                     2082       -6         12027     
 51         Humaia-Strong             2073       78         1306      
 52         Hyperopic                 2051       37         890       
 53         myopic-bot                2051       20         1599      
@@ -84,7 +84,7 @@ Rank       Bot                       Rating     Prog       Games
 83         maia5                     1666       -23        38814     
 84         piglet_engine             1620       7          254       
 85         The_Marcus                1620       -76        385       
-86         fib0t                     1609       14         191       
+86         fib0t                     1613       13         192       
 87         Humaia                    1602       13         388       
 88         sargon-3ply               1601       15         1190      
 89         sargon-4ply               1599       -11        1547      
@@ -92,8 +92,8 @@ Rank       Bot                       Rating     Prog       Games
 91         DavidsGuterBot            1555       -1         5876      
 92         turochamp-1ply            1525       7          1758      
 93         maia1                     1522       40         121743    
-94         sargon-2ply               1515       11         2045      
-95         RoundMoundOfRebounds      1511       -17        1189      
+94         RoundMoundOfRebounds      1511       -17        1189      
+95         sargon-2ply               1511       3          2046      
 96         monchester                1502       -3         2311      
 97         yeoldwiz                  1450       18         791       
 98         botTideEval               1422       -14        1047      
