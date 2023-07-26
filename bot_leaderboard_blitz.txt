@@ -23,13 +23,13 @@ Rank       Bot                       Rating     Prog       Games
 22         SaxtonEngine              2502       -3         2129      
 23         pawn_git                  2493       -3         2182      
 24         bot_adario                2463       2          2034      
-25         Weiawaga                  2462       -20        11338     
-26         catriever                 2461       5          544       
+25         catriever                 2461       5          544       
+26         Weiawaga                  2456       -19        11339     
 27         OpeningsBot               2454       18         564       
 28         TuksuBot                  2432       13         3750      
 29         Cheng-4                   2420       14         6380      
-30         fornax-engine             2396       17         6340      
-31         Phalanx-XXV               2390       2          2472      
+30         fornax-engine             2400       19         6341      
+31         Phalanx-XXV               2397       7          2473      
 32         odonata-bot               2388       -14        5846      
 33         admete_bot                2375       10         6203      
 34         Pseudo-0                  2369       13         2762      
@@ -37,8 +37,8 @@ Rank       Bot                       Rating     Prog       Games
 36         simpleEval                2335       21         14279     
 37         FlamingDragon_9000        2323       19         3331      
 38         AjedrezChamberi           2290       107        253       
-39         FataliiBot                2283       12         6353      
-40         KhepriChess               2281       25         1420      
+39         KhepriChess               2281       25         1420      
+40         FataliiBot                2279       3          6354      
 41         Nakshatra3                2271       -21        1464      
 42         halcyonbot                2224       -15        8665      
 43         DQN-chess                 2210       42         201       
@@ -59,7 +59,7 @@ Rank       Bot                       Rating     Prog       Games
 58         BLANK_BOT                 1998       -6         4487      
 59         LeelaRogue                1997       33         2234      
 60         Humaia-Strong             1975       -31        2355      
-61         Lynx_BOT                  1973       6          48064     
+61         Lynx_BOT                  1974       7          48065     
 62         myopic-bot                1969       12         1624      
 63         Jobabot                   1911       23         75        
 64         zeekat                    1909       24         19667     
@@ -90,8 +90,8 @@ Rank       Bot                       Rating     Prog       Games
 89         turkjs                    1535       -11        10142     
 90         The_Marcus                1531       -122       200       
 91         sargon-4ply               1519       -22        1804      
-92         maia5                     1495       -16        98955     
-93         ZE_ROOK                   1495       -13        2320      
+92         ZE_ROOK                   1495       -13        2320      
+93         maia5                     1494       -12        98956     
 94         sargon-3ply               1492       15         1724      
 95         DavidsGuterBot            1473       10         3365      
 96         ChamberiAjedrez           1470       -106       321       
@@ -101,7 +101,7 @@ Rank       Bot                       Rating     Prog       Games
 100        chat_bot                  1421       -130       230       
 101        monchester                1394       -21        2615      
 102        StupidChessRobot          1373       8          534       
-103        maia1                     1368       -16        203510    
+103        maia1                     1368       -12        203511    
 104        Humaia                    1336       -50        838       
 105        sargon-2ply               1299       6          2907      
 106        turochamp-1ply            1272       -12        1676      
