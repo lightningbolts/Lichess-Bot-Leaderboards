@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
-1          FireFishBOT_v2            2884       0          637       
-2          ProteusSF-Godot           2882       0          553       
+1          FireFishBOT_v2            2884       0          639       
+2          ProteusSF-Godot           2882       0          555       
 3          YoBot_v2                  2870       4          3360      
 4          Mate-AI                   2846       -1         2994      
 5          Nikitosikbot              2836       4          5800      
@@ -35,8 +35,8 @@ Rank       Bot                       Rating     Prog       Games
 34         FataliiBot                2297       8          6368      
 35         AjedrezChamberi           2290       107        253       
 36         KhepriChess               2282       25         1450      
-37         Nakshatra3                2270       -3         1471      
-38         halcyonbot                2220       -4         8704      
+37         Nakshatra3                2275       -1         1472      
+38         halcyonbot                2215       -4         8705      
 39         HistoryExplorer           2214       -13        2569      
 40         matmoi                    2151       -12        916       
 41         Boris-Trapsky             2150       16         27767     
@@ -74,13 +74,13 @@ Rank       Bot                       Rating     Prog       Games
 73         AshNostromo               1693       -20        936       
 74         dlvc-bot                  1672       -22        1256      
 75         melsh_bot                 1665       -17        1753      
-76         likeawizard-bot           1648       -24        1870      
+76         likeawizard-bot           1653       -12        1871      
 77         yeoldwiz                  1641       14         1600      
-78         ChessChildren             1632       2          21140     
-79         maia9                     1632       -31        98390     
-80         ArduChessBot              1611       30         1249      
+78         maia9                     1637       -28        98391     
+79         ChessChildren             1632       2          21140     
+80         ArduChessBot              1606       29         1250      
 81         HardRok                   1550       -32        700       
-82         maia5                     1550       3          99071     
+82         maia5                     1547       0          99072     
 83         turkjs                    1537       10         10149     
 84         sargon-4ply               1525       -10        1806      
 85         sargon-3ply               1500       17         1730      
@@ -95,7 +95,7 @@ Rank       Bot                       Rating     Prog       Games
 94         turochamp-2ply            1431       -9         1572      
 95         monchester                1396       -6         2619      
 96         StupidChessRobot          1386       8          577       
-97         Humaia                    1322       -61        840       
+97         Humaia                    1323       -53        841       
 98         sargon-2ply               1307       -1         2921      
 99         BetaTree                  1273       -291       32        
 100        turochamp-1ply            1267       -12        1679      
