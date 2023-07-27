@@ -38,7 +38,7 @@ Rank       Bot                       Rating     Prog       Games
 37         KhepriChess               2219       -28        682       
 38         eubos                     2207       11         4177      
 39         honzovy-sachy-2           2196       9          3525      
-40         halcyonbot                2181       -22        5767      
+40         halcyonbot                2184       -16        5768      
 41         Elmichess                 2161       -7         1385      
 42         matmoi                    2145       -8         872       
 43         Boris-Trapsky             2118       -8         27206     
@@ -50,7 +50,7 @@ Rank       Bot                       Rating     Prog       Games
 49         AjedrezChamberi           2046       55         108       
 50         Humaia-Strong             2043       -22        605       
 51         LeaMoreau                 2043       3          181       
-52         BLANK_BOT                 1998       6          1467      
+52         BLANK_BOT                 1995       -1         1468      
 53         Lynx_BOT                  1984       14         39394     
 54         LeelaRogue                1976       -2         2201      
 55         LazyBotJr                 1974       -29        1254      
@@ -85,8 +85,8 @@ Rank       Bot                       Rating     Prog       Games
 84         sargon-4ply               1555       33         561       
 85         turochamp-2ply            1513       -3         1053      
 86         DavidsGuterBot            1482       17         571       
-87         ZE_ROOK                   1480       5          332       
-88         maia1                     1479       -23        227515    
+87         maia1                     1479       -23        227515    
+88         ZE_ROOK                   1476       -1         333       
 89         TuroBot                   1463       15         3311      
 90         RoundMoundOfRebounds      1442       -21        324       
 91         turochamp-1ply            1401       -12        1523      
@@ -95,7 +95,7 @@ Rank       Bot                       Rating     Prog       Games
 94         chat_bot                  1347       42         196       
 95         pawnrobot                 1292       -15        599       
 96         OhniBOT                   1188       7          353       
-97         schnecken_bot             1178       -2         283       
+97         schnecken_bot             1182       4          284       
 98         sargon-1ply               1164       -24        8304      
 99         CHoMPBoT                  1141       4          442       
 100        kireevi                   1076       -24        551       
