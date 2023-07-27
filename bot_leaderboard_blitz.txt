@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
 1          Anand_bot                 2915       21         50        
-2          FireFishBOT_v2            2901       4          539       
+2          FireFishBOT_v2            2899       3          540       
 3          ProteusSF-Godot           2880       -2         476       
 4          YoBot_v2                  2870       3          3359      
 5          ToromBot                  2860       2          2804      
@@ -10,12 +10,12 @@ Rank       Bot                       Rating     Prog       Games
 9          chessfyBOT                2819       -12        180       
 10         ResoluteBot               2807       -18        10832     
 11         good_bot223344            2800       27         38        
-12         MrChessTheBot             2798       -10        1594      
+12         MrChessTheBot             2799       -6         1596      
 13         RaspFish                  2775       1          10904     
 14         Nikitosik-ai              2769       -20        269       
 15         blundar_bot               2768       -6         907       
 16         LazyBot                   2760       4          1990      
-17         Menganti                  2743       8          116       
+17         Menganti                  2744       31         117       
 18         CodingAdventureBot        2649       1          3030      
 19         AKS-Mantissa              2570       3          9115      
 20         SaxtonEngine              2507       6          2138      
@@ -55,9 +55,9 @@ Rank       Bot                       Rating     Prog       Games
 54         LeaMoreau                 2024       7          166       
 55         LazyBotJr                 2019       12         1515      
 56         LeelaRogue                1997       33         2234      
-57         myopic-bot                1976       -1         1632      
-58         Humaia-Strong             1975       -31        2355      
-59         Lynx_BOT                  1970       -2         48122     
+57         Lynx_BOT                  1979       8          48123     
+58         myopic-bot                1976       -1         1632      
+59         Humaia-Strong             1975       -31        2355      
 60         Jobabot                   1927       20         85        
 61         zeekat                    1902       -12        19711     
 62         zulu_bot                  1861       -3         992       
@@ -81,7 +81,7 @@ Rank       Bot                       Rating     Prog       Games
 80         ChessChildren             1631       3          21136     
 81         ArduChessBot              1600       21         1247      
 82         maia9                     1600       14         98357     
-83         maia5                     1567       9          99027     
+83         maia5                     1569       12         99028     
 84         turkjs                    1537       6          10148     
 85         sargon-4ply               1526       -11        1805      
 86         sargon-3ply               1495       24         1728      
@@ -97,7 +97,7 @@ Rank       Bot                       Rating     Prog       Games
 96         monchester                1393       -16        2617      
 97         StupidChessRobot          1376       -10        563       
 98         Humaia                    1322       -61        840       
-99         sargon-2ply               1301       2          2916      
+99         sargon-2ply               1303       2          2917      
 100        BetaTree                  1290       -265       31        
 101        turochamp-1ply            1267       -17        1678      
 102        pawnrobot                 1265       -3         1945      
@@ -106,5 +106,4 @@ Rank       Bot                       Rating     Prog       Games
 105        schnecken_bot             1188       -7         1803      
 106        HulkBot                   1159       -55        669       
 107        knucklefish               1080       -11        3106      
-108        bobandi                   1072       0          1119      
-109        CHoMPBoT                  1072       -13        1462      
+108        CHoMPBoT                  1069       -16        1463      
