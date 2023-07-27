@@ -38,8 +38,8 @@ Rank       Bot                       Rating     Prog       Games
 37         KhepriChess               2287       3          1432      
 38         Nakshatra3                2275       -4         1468      
 39         MisterRengar              2243       -17        12        
-40         halcyonbot                2224       -3         8682      
-41         HistoryExplorer           2224       0          2561      
+40         halcyonbot                2230       -6         8683      
+41         HistoryExplorer           2218       -10        2562      
 42         eubos                     2143       -20        13841     
 43         matmoi                    2140       3          899       
 44         Boris-Trapsky             2134       8          27749     
@@ -80,9 +80,9 @@ Rank       Bot                       Rating     Prog       Games
 79         yeoldwiz                  1641       14         1600      
 80         ChessChildren             1626       -38        21126     
 81         fib0t                     1607       -25        219       
-82         maia9                     1589       -13        98333     
+82         maia9                     1597       3          98334     
 83         ArduChessBot              1585       28         1243      
-84         maia5                     1564       32         98997     
+84         maia5                     1571       32         98998     
 85         HardRok                   1562       -19        695       
 86         turkjs                    1537       6          10148     
 87         sargon-4ply               1526       -11        1805      
@@ -91,13 +91,13 @@ Rank       Bot                       Rating     Prog       Games
 90         The_Marcus                1478       -107       206       
 91         DavidsGuterBot            1467       3          3371      
 92         RoundMoundOfRebounds      1452       17         1141      
-93         maia1                     1433       -26        203650    
-94         turochamp-2ply            1431       -9         1572      
+93         turochamp-2ply            1431       -9         1572      
+94         maia1                     1426       -31        203651    
 95         chat_bot                  1421       -130       230       
 96         monchester                1393       -16        2617      
 97         StupidChessRobot          1381       6          551       
 98         Humaia                    1333       -57        839       
-99         sargon-2ply               1308       13         2910      
+99         sargon-2ply               1305       11         2911      
 100        dragobot                  1299       -134       62        
 101        BetaTree                  1290       -265       31        
 102        turochamp-1ply            1272       -12        1676      
@@ -106,6 +106,6 @@ Rank       Bot                       Rating     Prog       Games
 105        OhniBOT                   1196       11         301       
 106        schnecken_bot             1193       19         1774      
 107        HulkBot                   1159       -55        669       
-108        TemporAI                  1105       8          52        
+108        TemporAI                  1110       17         53        
 109        knucklefish               1091       -17        3097      
 110        CHoMPBoT                  1076       -12        1459      
