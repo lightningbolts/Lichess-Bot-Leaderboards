@@ -70,15 +70,15 @@ Rank       Bot                       Rating     Prog       Games
 69         Virutor                   1808       30         3144      
 70         AshNostromo               1781       29         1192      
 71         zulu_bot                  1776       3          110       
-72         honzovy-sachy             1758       5          902       
+72         honzovy-sachy             1764       12         903       
 73         ChessChildren             1750       22         4360      
-74         likeawizard-bot           1749       -27        394       
-75         maia9                     1738       -11        82031     
+74         maia9                     1744       -7         82032     
+75         likeawizard-bot           1743       -38        395       
 76         dlvc-bot                  1734       -25        77        
 77         melsh_bot                 1731       -18        209       
 78         turkjs                    1683       -7         5013      
 79         HulkBot                   1671       -37        402       
-80         maia5                     1650       4          99094     
+80         maia5                     1658       11         99096     
 81         yeoldwiz                  1637       16         634       
 82         pingwin_siepacz           1616       -72        15        
 83         sargon-3ply               1604       17         1127      
@@ -86,8 +86,8 @@ Rank       Bot                       Rating     Prog       Games
 85         sargon-4ply               1556       43         560       
 86         ArduChessBot              1538       -6         421       
 87         turochamp-2ply            1513       -3         1053      
-88         ZE_ROOK                   1487       0          326       
-89         maia1                     1485       -7         227471    
+88         maia1                     1497       15         227473    
+89         ZE_ROOK                   1487       0          326       
 90         DavidsGuterBot            1482       17         571       
 91         TuroBot                   1463       15         3311      
 92         RoundMoundOfRebounds      1448       -16        323       
@@ -100,5 +100,4 @@ Rank       Bot                       Rating     Prog       Games
 99         sargon-1ply               1189       26         8284      
 100        schnecken_bot             1171       4          277       
 101        CHoMPBoT                  1141       4          442       
-102        kireevi                   1076       -24        551       
-103        G0thamB0t                 806        78         260       
+102        G0thamB0t                 806        78         260       
