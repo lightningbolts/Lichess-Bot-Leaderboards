@@ -1,9 +1,9 @@
 Rank       Bot                       Rating     Prog       Games     
-1          SelfLearnBOT              2891       4          32        
+1          SelfLearnBOT              2892       5          33        
 2          ProteusSF-Godot           2888       15         137       
 3          Mate-AI                   2876       0          2395      
-4          ReinforcementTrial        2876       -4         4792      
-5          YoBot_v2                  2875       0          12857     
+4          YoBot_v2                  2875       0          12857     
+5          ReinforcementTrial        2872       -8         4793      
 6          FireFishBOT_v2            2871       7          573       
 7          EmptikBot247              2857       1          115       
 8          Nikitosikbot              2855       5          8479      
@@ -16,7 +16,7 @@ Rank       Bot                       Rating     Prog       Games
 15         blundar_bot               2803       -2         1005      
 16         Palisade                  2777       54         212       
 17         StockDory                 2650       71         31        
-18         AKS-Mantissa              2622       19         3964      
+18         AKS-Mantissa              2625       24         3965      
 19         LazyBot                   2584       -36        720       
 20         pawn_git                  2529       -1         1177      
 21         SaxtonEngine              2528       -4         1344      
@@ -64,7 +64,7 @@ Rank       Bot                       Rating     Prog       Games
 63         ELO_1500                  1913       79         2725      
 64         Demolito_L6               1886       -23        62        
 65         notropis                  1872       29         2122      
-66         BerntBOT                  1838       81         21        
+66         BerntBOT                  1838       81         22        
 67         Demolito_L5               1835       6          555       
 68         Fisk_Bot                  1813       -19        224       
 69         Virutor                   1808       30         3144      
@@ -78,11 +78,11 @@ Rank       Bot                       Rating     Prog       Games
 77         dlvc-bot                  1734       -25        77        
 78         melsh_bot                 1731       -18        209       
 79         turkjs                    1683       -7         5013      
-80         maia5                     1676       10         99108     
-81         HulkBot                   1671       -37        402       
+80         HulkBot                   1671       -37        402       
+81         maia5                     1668       -1         99109     
 82         yeoldwiz                  1637       16         634       
 83         sargon-3ply               1604       17         1127      
-84         HardRok                   1559       -32        485       
+84         HardRok                   1567       -17        486       
 85         sargon-4ply               1556       43         560       
 86         ArduChessBot              1538       -6         421       
 87         turochamp-2ply            1513       -3         1053      
