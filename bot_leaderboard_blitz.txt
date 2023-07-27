@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Godot           2882       0          557       
-2          FireFishBOT_v2            2871       -10        655       
+2          FireFishBOT_v2            2872       -10        656       
 3          YoBot_v2                  2870       4          3360      
 4          ToromBot                  2861       3          2806      
 5          Mate-AI                   2846       2          2995      
@@ -19,11 +19,11 @@ Rank       Bot                       Rating     Prog       Games
 18         CodingAdventureBot        2657       1          3095      
 19         AKS-Mantissa              2568       2          9119      
 20         SaxtonEngine              2519       15         2143      
-21         pawn_git                  2494       0          2199      
+21         pawn_git                  2495       2          2200      
 22         OpeningsBot               2470       4          594       
 23         catriever                 2468       6          551       
 24         Weiawaga                  2468       19         11351     
-25         bot_adario                2462       5          2048      
+25         bot_adario                2461       2          2049      
 26         Cheng-4                   2451       35         6389      
 27         TuksuBot                  2418       -3         3763      
 28         odonata-bot               2402       13         5854      
@@ -46,7 +46,7 @@ Rank       Bot                       Rating     Prog       Games
 45         GarboBot                  2085       10         8842      
 46         WhiteWidowBot             2084       22         95        
 47         jangine                   2073       1          3085      
-48         Stockfish1node            2069       54         57        
+48         Stockfish1node            2067       48         58        
 49         redtail-zero              2063       -24        318       
 50         Elmichess                 2050       -57        3471      
 51         MaxtheDog                 2043       -7         3999      
@@ -93,7 +93,7 @@ Rank       Bot                       Rating     Prog       Games
 92         RoundMoundOfRebounds      1451       18         1145      
 93         TuroBot                   1440       19         4954      
 94         turochamp-2ply            1430       -12        1573      
-95         maia1                     1411       -10        203821    
+95         maia1                     1407       -1         203825    
 96         monchester                1396       -6         2619      
 97         StupidChessRobot          1380       -4         581       
 98         Humaia                    1323       -40        843       
@@ -101,9 +101,9 @@ Rank       Bot                       Rating     Prog       Games
 100        BetaTree                  1273       -291       32        
 101        turochamp-1ply            1267       -17        1680      
 102        pawnrobot                 1259       -8         1948      
-103        sargon-1ply               1226       13         7640      
+103        sargon-1ply               1229       13         7641      
 104        OhniBOT                   1196       11         301       
 105        schnecken_bot             1194       4          1845      
 106        HulkBot                   1159       -55        669       
 107        knucklefish               1076       -10        3109      
-108        CHoMPBoT                  1063       -15        1466      
+108        CHoMPBoT                  1059       -17        1467      
