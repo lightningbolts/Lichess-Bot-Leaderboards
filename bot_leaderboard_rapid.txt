@@ -5,8 +5,8 @@ Rank       Bot                       Rating     Prog       Games
 4          ReinforcementTrial        2876       -4         4792      
 5          YoBot_v2                  2875       0          12857     
 6          FireFishBOT_v2            2871       7          573       
-7          EmptikBot247              2857       2          114       
-8          Nikitosikbot              2856       8          8475      
+7          EmptikBot247              2857       1          115       
+8          Nikitosikbot              2856       8          8476      
 9          Shineshou90_BOT           2851       1          2410      
 10         chessfyBOT                2845       -7         228       
 11         ResoluteBot               2844       -6         5153      
@@ -38,9 +38,9 @@ Rank       Bot                       Rating     Prog       Games
 37         KhepriChess               2223       -17        679       
 38         eubos                     2207       11         4177      
 39         honzovy-sachy-2           2196       9          3525      
-40         halcyonbot                2182       -28        5761      
-41         HistoryExplorer           2173       -24        979       
-42         matmoi                    2169       8          867       
+40         halcyonbot                2187       -17        5762      
+41         matmoi                    2169       8          867       
+42         HistoryExplorer           2167       -35        980       
 43         Elmichess                 2161       -7         1385      
 44         Boris-Trapsky             2118       0          27205     
 45         redtail-zero              2110       -6         199       
@@ -73,12 +73,12 @@ Rank       Bot                       Rating     Prog       Games
 72         honzovy-sachy             1758       5          902       
 73         ChessChildren             1750       22         4360      
 74         likeawizard-bot           1749       -27        394       
-75         maia9                     1737       -17        82030     
+75         maia9                     1738       -11        82031     
 76         dlvc-bot                  1734       -25        77        
 77         melsh_bot                 1731       -18        209       
 78         turkjs                    1683       -7         5013      
 79         HulkBot                   1671       -37        402       
-80         maia5                     1647       19         99085     
+80         maia5                     1647       2          99090     
 81         yeoldwiz                  1637       16         634       
 82         pingwin_siepacz           1616       -72        15        
 83         sargon-3ply               1604       17         1127      
@@ -87,7 +87,7 @@ Rank       Bot                       Rating     Prog       Games
 86         ArduChessBot              1538       -6         421       
 87         turochamp-2ply            1513       -3         1053      
 88         maia1                     1488       -9         227470    
-89         ZE_ROOK                   1485       -1         325       
+89         ZE_ROOK                   1487       0          326       
 90         DavidsGuterBot            1482       17         571       
 91         TuroBot                   1463       15         3311      
 92         RoundMoundOfRebounds      1448       -16        323       
@@ -98,7 +98,7 @@ Rank       Bot                       Rating     Prog       Games
 97         pawnrobot                 1292       -15        599       
 98         OhniBOT                   1194       17         350       
 99         sargon-1ply               1189       26         8284      
-100        schnecken_bot             1173       4          276       
+100        schnecken_bot             1171       4          277       
 101        CHoMPBoT                  1141       4          442       
 102        kireevi                   1076       -24        551       
 103        G0thamB0t                 806        78         260       
