@@ -22,7 +22,7 @@ Rank       Bot                       Rating     Prog       Games
 21         SaxtonEngine              2533       -2         1340      
 22         pawn_git                  2526       -5         1176      
 23         catriever                 2520       10         141       
-24         Weiawaga                  2520       5          9650      
+24         Weiawaga                  2520       11         9651      
 25         OpeningsBot               2452       -12        183       
 26         bot_adario                2448       12         1268      
 27         Cheng-4                   2444       -4         3116      
@@ -65,7 +65,7 @@ Rank       Bot                       Rating     Prog       Games
 64         RosyBot                   1891       -16        64        
 65         notropis                  1860       9          2119      
 66         Demolito_L5               1833       4          543       
-67         ELO_1500                  1826       -9         2712      
+67         ELO_1500                  1826       -4         2713      
 68         FlounderBot               1822       33         115       
 69         Fisk_Bot                  1813       -19        224       
 70         Virutor                   1792       15         3141      
@@ -73,14 +73,14 @@ Rank       Bot                       Rating     Prog       Games
 72         likeawizard-bot           1776       0          385       
 73         zulu_bot                  1776       3          110       
 74         honzovy-sachy             1758       5          902       
-75         maia9                     1752       21         82003     
+75         maia9                     1758       22         82004     
 76         ChessChildren             1742       13         4357      
 77         dlvc-bot                  1734       -25        77        
 78         melsh_bot                 1731       -18        209       
 79         turkjs                    1679       -11        5011      
 80         HulkBot                   1671       -37        402       
 81         yeoldwiz                  1637       16         634       
-82         maia5                     1616       -25        99052     
+82         maia5                     1613       -19        99054     
 83         sargon-3ply               1604       17         1127      
 84         maia1                     1565       22         227396    
 85         sargon-4ply               1558       37         559       
@@ -100,5 +100,4 @@ Rank       Bot                       Rating     Prog       Games
 99         schnecken_bot             1175       4          275       
 100        CHoMPBoT                  1141       4          442       
 101        kireevi                   1076       -24        551       
-102        bobandi                   862        1          699       
-103        G0thamB0t                 806        78         260       
+102        G0thamB0t                 806        78         260       
