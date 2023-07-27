@@ -1,9 +1,9 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ToromBot                  2891       6          1720      
 2          ProteusSF-Godot           2888       15         137       
-3          SelfLearnBOT              2888       19         19        
+3          SelfLearnBOT              2887       19         20        
 4          caissa-x                  2884       -4         3007      
-5          ReinforcementTrial        2880       9          4781      
+5          ReinforcementTrial        2880       9          4782      
 6          Mate-AI                   2877       1          2394      
 7          YoBot_v2                  2876       0          12855     
 8          FireFishBOT_v2            2870       7          571       
@@ -81,7 +81,7 @@ Rank       Bot                       Rating     Prog       Games
 80         sargon-3ply               1604       17         1127      
 81         sargon-4ply               1558       37         559       
 82         ArduChessBot              1539       -16        419       
-83         maia1                     1505       -3         227362    
+83         maia1                     1511       -3         227364    
 84         turochamp-2ply            1499       -15        1051      
 85         DavidsGuterBot            1482       17         571       
 86         ZE_ROOK                   1471       -4         319       
@@ -96,3 +96,4 @@ Rank       Bot                       Rating     Prog       Games
 95         sargon-1ply               1165       1          8280      
 96         CHoMPBoT                  1141       4          442       
 97         kireevi                   1076       -24        551       
+98         G0thamB0t                 806        78         260       
