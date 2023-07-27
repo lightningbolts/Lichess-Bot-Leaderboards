@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Godot           2888       15         137       
-2          SelfLearnBOT              2887       19         21        
+2          SelfLearnBOT              2887       19         22        
 3          caissa-x                  2884       -4         3008      
 4          ReinforcementTrial        2881       11         4784      
 5          Mate-AI                   2877       1          2394      
@@ -12,7 +12,7 @@ Rank       Bot                       Rating     Prog       Games
 11         LeelaMultiPoss            2830       2          180       
 12         MrChessTheBot             2830       9          2048      
 13         Nikitosik-ai              2830       -1         595       
-14         RaspFish                  2819       1          5391      
+14         RaspFish                  2819       0          5392      
 15         blundar_bot               2803       -2         1005      
 16         StockDory                 2650       71         31        
 17         AKS-Mantissa              2618       12         3963      
@@ -21,7 +21,7 @@ Rank       Bot                       Rating     Prog       Games
 20         pawn_git                  2526       -5         1176      
 21         catriever                 2520       10         141       
 22         Weiawaga                  2520       5          9650      
-23         OpeningsBot               2460       1          182       
+23         OpeningsBot               2452       -12        183       
 24         bot_adario                2448       12         1268      
 25         Cheng-4                   2444       -4         3116      
 26         TuksuBot                  2436       15         1896      
@@ -32,9 +32,9 @@ Rank       Bot                       Rating     Prog       Games
 31         admete_bot                2355       9          4082      
 32         fornax-engine             2345       4          3580      
 33         FlamingDragon_9000        2309       -12        1216      
-34         FataliiBot                2294       -28        2493      
+34         FataliiBot                2302       -11        2494      
 35         Nakshatra3                2261       -6         787       
-36         KhepriChess               2245       1          669       
+36         KhepriChess               2247       6          670       
 37         eubos                     2207       11         4177      
 38         halcyonbot                2199       2          5753      
 39         honzovy-sachy-2           2190       -1         3524      
@@ -53,7 +53,7 @@ Rank       Bot                       Rating     Prog       Games
 52         BLANK_BOT                 1998       -12        1459      
 53         LeelaRogue                1976       -2         2201      
 54         LazyBotJr                 1974       -29        1254      
-55         Lynx_BOT                  1974       11         39375     
+55         Lynx_BOT                  1972       9          39376     
 56         myopic-bot                1955       22         290       
 57         Jobabot                   1954       -6         36        
 58         zeekat                    1942       -23        7999      
@@ -71,7 +71,7 @@ Rank       Bot                       Rating     Prog       Games
 70         likeawizard-bot           1776       0          385       
 71         zulu_bot                  1776       3          110       
 72         honzovy-sachy             1758       5          902       
-73         maia9                     1752       29         82002     
+73         maia9                     1752       21         82003     
 74         ChessChildren             1742       13         4357      
 75         dlvc-bot                  1734       -25        77        
 76         melsh_bot                 1731       -18        209       
@@ -81,8 +81,8 @@ Rank       Bot                       Rating     Prog       Games
 80         maia5                     1612       -27        99051     
 81         sargon-3ply               1604       17         1127      
 82         sargon-4ply               1558       37         559       
-83         ArduChessBot              1539       -16        419       
-84         maia1                     1538       14         227383    
+83         maia1                     1542       21         227387    
+84         ArduChessBot              1539       -16        419       
 85         turochamp-2ply            1499       -15        1051      
 86         DavidsGuterBot            1482       17         571       
 87         ZE_ROOK                   1475       -4         321       
