@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
 1          Anand_bot                 2947       -3         1419      
-2          ToromBot                  2943       -3         58605     
+2          ToromBot                  2943       -3         58606     
 3          Mate-AI                   2941       10         11492     
 4          ProteusSF-Godot           2940       7          1401      
 5          FireFishBOT_v2            2911       -6         269       
@@ -12,7 +12,7 @@ Rank       Bot                       Rating     Prog       Games
 11         chessfyBOT                2788       -8         1404      
 12         Shineshou90_BOT           2769       -22        7810      
 13         StockDory                 2756       52         82        
-14         good_bot223344            2736       0          627       
+14         good_bot223344            2736       0          628       
 15         blundar_bot               2728       -2         4958      
 16         Nikitosik-ai              2727       0          1907      
 17         LazyBot                   2712       17         1398      
@@ -22,7 +22,7 @@ Rank       Bot                       Rating     Prog       Games
 21         SaxtonEngine              2506       0          3859      
 22         Elmichess                 2498       -9         3200      
 23         Cheng-4                   2490       -11        13287     
-24         Weiawaga                  2484       3          14891     
+24         Weiawaga                  2483       -9         14892     
 25         pawn_git                  2455       2          3710      
 26         bot_adario                2444       -1         2313      
 27         catriever                 2398       -10        1412      
@@ -36,7 +36,7 @@ Rank       Bot                       Rating     Prog       Games
 35         fornax-engine             2307       1          6745      
 36         FataliiBot                2296       5          5550      
 37         simpleEval                2287       22         24674     
-38         Nakshatra3                2265       8          1259      
+38         Nakshatra3                2267       12         1260      
 39         HistoryExplorer           2233       -11        2399      
 40         KhepriChess               2229       9          689       
 41         halcyonbot                2193       8          4874      
@@ -59,10 +59,10 @@ Rank       Bot                       Rating     Prog       Games
 58         Lynx_BOT                  1972       0          6015      
 59         zeekat                    1924       15         17850     
 60         michabay05                1895       -9         1218      
-61         FlounderBot               1878       -4         2498      
-62         notropis                  1831       -9         3576      
-63         RosyBot                   1827       6          160       
-64         yowCapablanca             1824       -120       46        
+61         FlounderBot               1877       -6         2499      
+62         notropis                  1836       -6         3577      
+63         yowCapablanca             1824       -120       46        
+64         RosyBot                   1822       -5         161       
 65         Demolito_L5               1808       -18        527       
 66         likeawizard-bot           1799       8          749       
 67         baby_eubos                1798       -2         4997      
@@ -88,7 +88,7 @@ Rank       Bot                       Rating     Prog       Games
 87         sargon-4ply               1595       -19        1549      
 88         DavidsGuterBot            1580       23         5886      
 89         turochamp-2ply            1571       -17        1434      
-90         maia1                     1560       -5         121882    
+90         maia1                     1566       1          121884    
 91         turochamp-1ply            1521       -7         1766      
 92         sargon-2ply               1514       2          2054      
 93         RoundMoundOfRebounds      1503       -12        1199      
