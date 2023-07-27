@@ -3,7 +3,7 @@ Rank       Bot                       Rating     Prog       Games
 2          ProteusSF-Godot           2888       15         137       
 3          EmptikBot                 2886       -6         393       
 4          SelfLearnBOT              2882       8          28        
-5          ReinforcementTrial        2878       3          4788      
+5          ReinforcementTrial        2878       2          4789      
 6          Mate-AI                   2877       1          2394      
 7          YoBot_v2                  2876       1          12856     
 8          FireFishBOT_v2            2871       7          573       
@@ -13,7 +13,7 @@ Rank       Bot                       Rating     Prog       Games
 12         chessfyBOT                2845       -7         228       
 13         ResoluteBot               2844       -6         5153      
 14         Nikitosik-ai              2830       -1         596       
-15         MrChessTheBot             2826       -5         2054      
+15         MrChessTheBot             2827       -4         2055      
 16         RaspFish                  2819       -1         5394      
 17         blundar_bot               2803       -2         1005      
 18         StockDory                 2650       71         31        
@@ -27,7 +27,7 @@ Rank       Bot                       Rating     Prog       Games
 26         bot_adario                2448       12         1268      
 27         Cheng-4                   2447       -1         3116      
 28         TuksuBot                  2436       13         1898      
-29         odonata-bot               2403       8          3652      
+29         odonata-bot               2406       12         3653      
 30         Phalanx-XXV               2393       12         848       
 31         Pseudo-0                  2370       -4         1061      
 32         simpleEval                2357       22         7403      
@@ -36,7 +36,7 @@ Rank       Bot                       Rating     Prog       Games
 35         FlamingDragon_9000        2309       -12        1216      
 36         FataliiBot                2305       4          2496      
 37         Nakshatra3                2257       -11        790       
-38         KhepriChess               2236       -4         676       
+38         KhepriChess               2233       -5         677       
 39         eubos                     2207       11         4177      
 40         halcyonbot                2200       2          5757      
 41         honzovy-sachy-2           2190       -1         3524      
@@ -82,12 +82,12 @@ Rank       Bot                       Rating     Prog       Games
 81         turkjs                    1683       -7         5013      
 82         HulkBot                   1671       -37        402       
 83         yeoldwiz                  1637       16         634       
-84         sargon-3ply               1604       17         1127      
-85         maia5                     1600       -22        99068     
+84         maia5                     1604       -11        99069     
+85         sargon-3ply               1604       17         1127      
 86         HardRok                   1556       -42        484       
 87         sargon-4ply               1556       43         560       
 88         ArduChessBot              1538       -6         421       
-89         turochamp-2ply            1507       -15        1052      
+89         turochamp-2ply            1513       -3         1053      
 90         maia1                     1504       -13        227447    
 91         ZE_ROOK                   1485       -1         325       
 92         DavidsGuterBot            1482       17         571       
@@ -98,8 +98,8 @@ Rank       Bot                       Rating     Prog       Games
 97         sargon-2ply               1359       -18        3226      
 98         chat_bot                  1347       42         196       
 99         pawnrobot                 1292       -15        599       
-100        sargon-1ply               1189       26         8284      
-101        OhniBOT                   1186       18         349       
+100        OhniBOT                   1194       17         350       
+101        sargon-1ply               1189       26         8284      
 102        schnecken_bot             1173       4          276       
 103        CHoMPBoT                  1141       4          442       
 104        kireevi                   1076       -24        551       
