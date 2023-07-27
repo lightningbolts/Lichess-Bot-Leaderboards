@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          HappyFarmer3000           3001       22         38        
 2          Anand_bot                 2915       26         48        
-3          FireFishBOT_v2            2899       -1         536       
+3          FireFishBOT_v2            2903       2          537       
 4          caissa-x                  2881       -1         3097      
 5          ProteusSF-Godot           2880       -2         476       
 6          YoBot_v2                  2870       3          3359      
@@ -14,7 +14,7 @@ Rank       Bot                       Rating     Prog       Games
 13         ResoluteBot               2807       -18        10832     
 14         good_bot223344            2800       27         38        
 15         MrChessTheBot             2798       -10        1594      
-16         RaspFish                  2778       5          10903     
+16         RaspFish                  2775       1          10904     
 17         blundar_bot               2768       -6         907       
 18         Nikitosik-ai              2767       -21        268       
 19         LazyBot                   2760       4          1990      
@@ -23,7 +23,7 @@ Rank       Bot                       Rating     Prog       Games
 22         SaxtonEngine              2505       3          2137      
 23         pawn_git                  2489       -5         2192      
 24         catriever                 2469       1          550       
-25         OpeningsBot               2466       7          583       
+25         OpeningsBot               2468       5          584       
 26         bot_adario                2459       -3         2044      
 27         Weiawaga                  2452       -14        11346     
 28         Cheng-4                   2448       32         6388      
@@ -37,11 +37,11 @@ Rank       Bot                       Rating     Prog       Games
 36         FataliiBot                2298       15         6364      
 37         simpleEval                2296       -41        14302     
 38         AjedrezChamberi           2290       107        253       
-39         Nakshatra3                2277       -1         1469      
-40         MisterRengar              2270       -4         27        
+39         MisterRengar              2284       -1         28        
+40         Nakshatra3                2271       0          1470      
 41         KhepriChess               2268       -18        1442      
 42         halcyonbot                2219       -11        8694      
-43         HistoryExplorer           2215       -10        2564      
+43         HistoryExplorer           2212       -17        2565      
 44         matmoi                    2162       35         907       
 45         eubos                     2149       -7         13843     
 46         Boris-Trapsky             2131       -1         27758     
@@ -65,8 +65,8 @@ Rank       Bot                       Rating     Prog       Games
 64         michabay05                1859       5          474       
 65         baby_eubos                1854       1          7050      
 66         Demolito_L6               1847       -38        101       
-67         RosyBot                   1824       21         266       
-68         ELO_1500                  1807       62         12768     
+67         RosyBot                   1819       20         267       
+68         ELO_1500                  1813       61         12769     
 69         FlounderBot               1800       -23        1206      
 70         Demolito_L5               1797       -24        808       
 71         notropis                  1783       -2         6092      
@@ -87,9 +87,9 @@ Rank       Bot                       Rating     Prog       Games
 86         sargon-4ply               1526       -11        1805      
 87         ZE_ROOK                   1496       15         2385      
 88         sargon-3ply               1495       24         1728      
-89         DavidsGuterBot            1473       2          3373      
-90         ChamberiAjedrez           1470       -106       321       
-91         maia1                     1468       29         203687    
+89         maia1                     1481       33         203690    
+90         DavidsGuterBot            1473       2          3373      
+91         ChamberiAjedrez           1470       -106       321       
 92         The_Marcus                1467       -110       207       
 93         RoundMoundOfRebounds      1454       20         1143      
 94         turochamp-2ply            1431       -9         1572      
