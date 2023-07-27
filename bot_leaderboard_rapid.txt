@@ -23,9 +23,9 @@ Rank       Bot                       Rating     Prog       Games
 22         pawn_git                  2529       -1         1177      
 23         catriever                 2520       10         141       
 24         Weiawaga                  2518       3          9653      
-25         OpeningsBot               2452       -12        183       
-26         bot_adario                2448       12         1268      
-27         Cheng-4                   2447       -1         3116      
+25         bot_adario                2448       12         1268      
+26         Cheng-4                   2447       -1         3116      
+27         OpeningsBot               2444       -20        184       
 28         TuksuBot                  2436       13         1898      
 29         odonata-bot               2406       12         3653      
 30         Phalanx-XXV               2393       12         848       
@@ -33,8 +33,8 @@ Rank       Bot                       Rating     Prog       Games
 32         admete_bot                2355       -2         4085      
 33         fornax-engine             2348       6          3581      
 34         simpleEval                2346       9          7404      
-35         FlamingDragon_9000        2309       -12        1216      
-36         FataliiBot                2305       4          2496      
+35         FataliiBot                2313       9          2497      
+36         FlamingDragon_9000        2309       -12        1216      
 37         Nakshatra3                2257       -11        790       
 38         KhepriChess               2233       -5         677       
 39         eubos                     2207       11         4177      
@@ -86,7 +86,7 @@ Rank       Bot                       Rating     Prog       Games
 85         sargon-4ply               1556       43         560       
 86         ArduChessBot              1538       -6         421       
 87         turochamp-2ply            1513       -3         1053      
-88         maia1                     1512       3          227448    
+88         maia1                     1510       -5         227449    
 89         ZE_ROOK                   1485       -1         325       
 90         DavidsGuterBot            1482       17         571       
 91         TuroBot                   1463       15         3311      
