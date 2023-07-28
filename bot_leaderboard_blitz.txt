@@ -1,8 +1,8 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Godot           2882       0          557       
 2          caissa-x                  2880       -2         3099      
-3          YoBot_v2                  2869       -1         3369      
-4          FireFishBOT_v2            2867       -2         744       
+3          FireFishBOT_v2            2869       0          745       
+4          YoBot_v2                  2869       -1         3369      
 5          ToromBot                  2863       3          2815      
 6          Mate-AI                   2846       3          2998      
 7          chessbot2880              2840       0          266       
@@ -20,7 +20,7 @@ Rank       Bot                       Rating     Prog       Games
 19         LazyBot                   2762       5          1996      
 20         CodingAdventureBot        2673       8          3127      
 21         AKS-Mantissa              2586       13         9144      
-22         expositor                 2586       -7         6722      
+22         expositor                 2585       -9         6723      
 23         SaxtonEngine              2510       -9         2154      
 24         pawn_git                  2503       11         2208      
 25         bot_adario                2470       12         2056      
@@ -64,11 +64,11 @@ Rank       Bot                       Rating     Prog       Games
 63         zulu_bot                  1861       -3         992       
 64         michabay05                1855       2          496       
 65         notropis                  1808       22         6113      
-66         FlounderBot               1798       3          1237      
+66         FlounderBot               1803       8          1238      
 67         baby_eubos                1795       -25        7081      
 68         Demolito_L5               1764       -17        841       
-69         Virutor                   1753       6          7286      
-70         honzovy-sachy             1751       -12        4831      
+69         honzovy-sachy             1751       -12        4831      
+70         Virutor                   1748       0          7287      
 71         Fisk_Bot                  1745       16         1484      
 72         QueensGamBOT              1719       -8         2840      
 73         AshNostromo               1693       -8         938       
@@ -106,4 +106,5 @@ Rank       Bot                       Rating     Prog       Games
 105        schnecken_bot             1171       2          1891      
 106        HulkBot                   1159       -55        669       
 107        knucklefish               1101       25         3120      
-108        CHoMPBoT                  1060       -9         1472      
+108        bobandi                   1072       0          1119      
+109        CHoMPBoT                  1060       -9         1472      
