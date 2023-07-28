@@ -41,8 +41,7 @@ def get_bot_ratings_online(type):
         'RexherBot',
         'SamuraiX_v1',
         'YellowFlash_v2',
-        'Nikitosik-AI'
-        'Nikitosikbot'
+        'NikitosikVariantsbot',
         'Anand_Bot',
         'WhatsANikitosikHUH',
         'OkayWhyYouReadinThis',
