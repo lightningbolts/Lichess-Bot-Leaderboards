@@ -23,7 +23,7 @@ Rank       Bot                       Rating     Prog       Games
 22         pawn_git                  2503       11         2208      
 23         bot_adario                2470       12         2056      
 24         catriever                 2468       12         552       
-25         Weiawaga                  2461       6          11359     
+25         Weiawaga                  2464       4          11360     
 26         Cheng-4                   2458       25         6394      
 27         OpeningsBot               2452       -19        608       
 28         TuksuBot                  2409       -7         3766      
@@ -31,12 +31,12 @@ Rank       Bot                       Rating     Prog       Games
 30         admete_bot                2386       2          6224      
 31         fornax-engine             2378       -16        6348      
 32         Phalanx-XXV               2372       -15        2493      
-33         clueless-bot              2340       -15        2657      
+33         clueless-bot              2345       -3         2658      
 34         FlamingDragon_9000        2323       19         3331      
-35         simpleEval                2306       4          14315     
+35         simpleEval                2301       -8         14316     
 36         AjedrezChamberi           2290       107        253       
 37         Nakshatra3                2269       -11        1474      
-38         KhepriChess               2265       -19        1468      
+38         KhepriChess               2262       -18        1469      
 39         WasterNew                 2225       -23        356       
 40         halcyonbot                2216       3          8736      
 41         Boris-Trapsky             2149       -6         27782     
@@ -78,8 +78,8 @@ Rank       Bot                       Rating     Prog       Games
 77         ChessChildren             1645       14         21147     
 78         yeoldwiz                  1641       14         1600      
 79         likeawizard-bot           1639       -10        1879      
-80         maia9                     1622       -6         98443     
-81         maia5                     1606       -8         99136     
+80         maia9                     1627       1          98444     
+81         maia5                     1614       1          99138     
 82         turkjs                    1537       10         10149     
 83         sargon-4ply               1528       4          1809      
 84         sargon-3ply               1509       17         1735      
@@ -91,7 +91,7 @@ Rank       Bot                       Rating     Prog       Games
 90         TuroBot                   1439       16         4956      
 91         turochamp-2ply            1439       8          1576      
 92         monchester                1410       9          2632      
-93         maia1                     1394       -14        203953    
+93         maia1                     1395       -3         203956    
 94         StupidChessRobot          1361       -2         606       
 95         Humaia                    1328       -33        845       
 96         sargon-2ply               1304       -1         2922      
@@ -99,7 +99,7 @@ Rank       Bot                       Rating     Prog       Games
 98         turochamp-1ply            1268       -14        1682      
 99         pawnrobot                 1248       -13        1954      
 100        BetaTree                  1227       -64        41        
-101        sargon-1ply               1223       -6         7652      
+101        sargon-1ply               1217       -14        7653      
 102        OhniBOT                   1196       11         301       
 103        schnecken_bot             1175       2          1888      
 104        HulkBot                   1159       -55        669       
