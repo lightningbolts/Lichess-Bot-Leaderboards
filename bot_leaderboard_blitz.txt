@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Godot           2882       0          557       
-2          FireFishBOT_v2            2880       -5         704       
+2          FireFishBOT_v2            2878       -9         705       
 3          YoBot_v2                  2870       3          3362      
 4          ToromBot                  2862       4          2811      
 5          Mate-AI                   2846       5          2996      
@@ -13,10 +13,10 @@ Rank       Bot                       Rating     Prog       Games
 12         MrChessTheBot             2798       -4         1609      
 13         EmptikBot247              2785       -12        83        
 14         RaspFish                  2780       7          10911     
-15         Nikitosik-ai              2770       -11        274       
+15         Nikitosik-ai              2772       -11        275       
 16         blundar_bot               2768       -6         907       
 17         LazyBot                   2762       5          1996      
-18         CodingAdventureBot        2662       4          3113      
+18         CodingAdventureBot        2664       5          3115      
 19         expositor                 2586       2          6716      
 20         AKS-Mantissa              2572       2          9135      
 21         SaxtonEngine              2511       4          2149      
@@ -28,7 +28,7 @@ Rank       Bot                       Rating     Prog       Games
 27         Cheng-4                   2446       20         6392      
 28         TuksuBot                  2409       -7         3766      
 29         Pseudo-0                  2387       23         2772      
-30         admete_bot                2386       3          6220      
+30         admete_bot                2381       -4         6221      
 31         fornax-engine             2377       -11        6347      
 32         Phalanx-XXV               2365       -25        2488      
 33         FlamingDragon_9000        2323       19         3331      
@@ -54,7 +54,7 @@ Rank       Bot                       Rating     Prog       Games
 53         Lynx_BOT                  1992       -5         48173     
 54         myopic-bot                1977       8          1635      
 55         Humaia-Strong             1975       -31        2355      
-56         ELO_1500                  1945       57         12797     
+56         ELO_1500                  1950       57         12798     
 57         Jobabot                   1932       4          99        
 58         zeekat                    1886       -4         19742     
 59         Demolito_L6               1866       -3         130       
@@ -77,11 +77,11 @@ Rank       Bot                       Rating     Prog       Games
 76         ChessChildren             1640       6          21145     
 77         likeawizard-bot           1639       -10        1879      
 78         maia9                     1629       -4         98429     
-79         maia5                     1584       -3         99108     
+79         maia5                     1594       3          99109     
 80         HardRok                   1560       -5         704       
 81         turkjs                    1537       10         10149     
 82         sargon-4ply               1529       2          1808      
-83         ZE_ROOK                   1515       14         2458      
+83         ZE_ROOK                   1511       9          2459      
 84         sargon-3ply               1506       22         1734      
 85         DavidsGuterBot            1471       0          3375      
 86         chat_bot                  1465       -55        233       
@@ -98,7 +98,7 @@ Rank       Bot                       Rating     Prog       Games
 97         pawnrobot                 1252       -12        1951      
 98         sargon-1ply               1229       13         7641      
 99         OhniBOT                   1196       11         301       
-100        schnecken_bot             1175       -18        1867      
+100        schnecken_bot             1179       -12        1868      
 101        HulkBot                   1159       -55        669       
 102        knucklefish               1076       -10        3109      
 103        CHoMPBoT                  1056       -20        1470      
