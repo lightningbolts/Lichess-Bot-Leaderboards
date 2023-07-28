@@ -51,7 +51,7 @@ Rank       Bot                       Rating     Prog       Games
 50         LeaMoreau                 2050       12         187       
 51         AjedrezChamberi           2046       55         108       
 52         Humaia-Strong             2043       -22        605       
-53         Lynx_BOT                  1994       10         39408     
+53         Lynx_BOT                  1995       11         39409     
 54         BLANK_BOT                 1993       -3         1473      
 55         ELO_1500                  1987       40         2741      
 56         LeelaRogue                1976       -2         2201      
@@ -71,9 +71,9 @@ Rank       Bot                       Rating     Prog       Games
 70         zulu_bot                  1776       3          110       
 71         AshNostromo               1768       1          1195      
 72         honzovy-sachy             1760       16         906       
-73         likeawizard-bot           1745       -38        397       
-74         ChessChildren             1743       5          4366      
-75         maia9                     1743       6          82112     
+73         maia9                     1751       18         82113     
+74         likeawizard-bot           1745       -38        397       
+75         ChessChildren             1743       5          4366      
 76         dlvc-bot                  1736       -18        78        
 77         melsh_bot                 1729       -14        211       
 78         turkjs                    1682       -13        5014      
@@ -83,12 +83,12 @@ Rank       Bot                       Rating     Prog       Games
 82         yeoldwiz                  1637       16         634       
 83         maia5                     1610       13         99190     
 84         sargon-3ply               1596       15         1128      
-85         maia1                     1572       17         227623    
+85         maia1                     1570       14         227624    
 86         sargon-4ply               1555       33         561       
 87         turochamp-2ply            1513       -3         1053      
 88         DavidsGuterBot            1477       8          572       
 89         ZE_ROOK                   1464       -11        340       
-90         TuroBot                   1463       15         3311      
+90         TuroBot                   1462       -14        3312      
 91         RoundMoundOfRebounds      1442       -20        325       
 92         turochamp-1ply            1400       -15        1524      
 93         Humaia                    1361       -9         2066      
@@ -99,3 +99,4 @@ Rank       Bot                       Rating     Prog       Games
 98         OhniBOT                   1184       -10        361       
 99         sargon-1ply               1163       -22        8305      
 100        CHoMPBoT                  1133       -10        446       
+101        kireevi                   1076       -24        551       
