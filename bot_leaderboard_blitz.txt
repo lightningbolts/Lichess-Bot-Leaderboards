@@ -1,14 +1,14 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Godot           2882       0          557       
-2          caissa-x                  2881       -2         3098      
-3          FireFishBOT_v2            2869       4          732       
+2          caissa-x                  2880       -2         3099      
+3          FireFishBOT_v2            2869       -1         733       
 4          YoBot_v2                  2869       -1         3369      
-5          ToromBot                  2863       4          2813      
+5          ToromBot                  2863       4          2814      
 6          Mate-AI                   2846       3          2998      
 7          Nikitosikbot              2838       5          5803      
 8          Shineshou90_BOT           2827       -7         1600      
 9          chessfyBOT                2819       -12        180       
-10         TutorialBotelmejor        2812       18         133       
+10         TutorialBotelmejor        2814       20         134       
 11         ResoluteBot               2807       -18        10832     
 12         good_bot223344            2800       27         38        
 13         RaspFish                  2780       7          10911     
@@ -50,8 +50,8 @@ Rank       Bot                       Rating     Prog       Games
 49         BLANK_BOT                 2020       -1         4507      
 50         LazyBotJr                 2019       12         1515      
 51         MaxtheDog                 2015       -24        4013      
-52         Lynx_BOT                  2013       16         48194     
-53         ELO_1500                  2012       28         12817     
+52         ELO_1500                  2012       28         12817     
+53         Lynx_BOT                  2009       13         48195     
 54         LeelaRogue                1997       33         2234      
 55         Humaia-Strong             1975       -31        2355      
 56         myopic-bot                1973       -1         1636      
@@ -80,7 +80,7 @@ Rank       Bot                       Rating     Prog       Games
 79         maia5                     1611       1          99134     
 80         turkjs                    1537       10         10149     
 81         sargon-4ply               1528       4          1809      
-82         ZE_ROOK                   1522       8          2476      
+82         ZE_ROOK                   1512       -4         2477      
 83         sargon-3ply               1509       17         1735      
 84         DavidsGuterBot            1471       0          3375      
 85         ChamberiAjedrez           1470       -106       321       
@@ -90,7 +90,7 @@ Rank       Bot                       Rating     Prog       Games
 89         TuroBot                   1442       15         4955      
 90         turochamp-2ply            1439       8          1576      
 91         monchester                1415       14         2631      
-92         maia1                     1398       -3         203949    
+92         maia1                     1404       7          203950    
 93         StupidChessRobot          1361       -2         606       
 94         Humaia                    1328       -33        845       
 95         sargon-2ply               1304       -1         2922      
@@ -99,7 +99,7 @@ Rank       Bot                       Rating     Prog       Games
 98         BetaTree                  1227       -64        41        
 99         sargon-1ply               1223       -6         7652      
 100        OhniBOT                   1196       11         301       
-101        schnecken_bot             1168       -10        1885      
+101        schnecken_bot             1178       2          1886      
 102        HulkBot                   1159       -55        669       
 103        knucklefish               1101       25         3120      
 104        CHoMPBoT                  1060       -9         1472      
