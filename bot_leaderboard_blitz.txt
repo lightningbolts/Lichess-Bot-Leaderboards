@@ -2,8 +2,8 @@ Rank       Bot                       Rating     Prog       Games
 1          ProteusSF-Godot           2882       0          557       
 2          caissa-x                  2880       -2         3099      
 3          YoBot_v2                  2869       -1         3369      
-4          ToromBot                  2863       3          2815      
-5          FireFishBOT_v2            2861       -11        750       
+4          FireFishBOT_v2            2863       -8         751       
+5          ToromBot                  2863       3          2815      
 6          Mate-AI                   2846       3          2998      
 7          Nikitosikbot              2838       5          5803      
 8          Shineshou90_BOT           2827       -7         1600      
@@ -18,7 +18,7 @@ Rank       Bot                       Rating     Prog       Games
 17         LazyBot                   2762       5          1996      
 18         CodingAdventureBot        2673       8          3127      
 19         expositor                 2588       0          6724      
-20         AKS-Mantissa              2586       13         9144      
+20         AKS-Mantissa              2584       7          9145      
 21         SaxtonEngine              2510       -9         2154      
 22         pawn_git                  2503       11         2208      
 23         bot_adario                2470       12         2056      
@@ -29,16 +29,16 @@ Rank       Bot                       Rating     Prog       Games
 28         TuksuBot                  2406       -13        3767      
 29         Pseudo-0                  2387       23         2772      
 30         admete_bot                2386       2          6224      
-31         fornax-engine             2378       -16        6348      
-32         Phalanx-XXV               2372       -15        2493      
-33         clueless-bot              2345       -3         2658      
+31         fornax-engine             2382       -14        6349      
+32         Phalanx-XXV               2366       -10        2494      
+33         clueless-bot              2351       10         2659      
 34         FlamingDragon_9000        2323       19         3331      
 35         simpleEval                2301       -8         14316     
 36         AjedrezChamberi           2290       107        253       
 37         Nakshatra3                2275       4          1475      
 38         KhepriChess               2256       -17        1470      
-39         halcyonbot                2227       12         8739      
-40         HistoryExplorer           2227       15         2576      
+39         HistoryExplorer           2227       15         2576      
+40         halcyonbot                2224       4          8740      
 41         eubos                     2149       -7         13843     
 42         Boris-Trapsky             2140       -18        27784     
 43         matmoi                    2127       -20        938       
@@ -93,7 +93,7 @@ Rank       Bot                       Rating     Prog       Games
 92         turochamp-2ply            1440       12         1577      
 93         TuroBot                   1439       16         4956      
 94         monchester                1410       9          2632      
-95         maia1                     1356       -2         203976    
+95         maia1                     1358       7          203977    
 96         StupidChessRobot          1356       -2         608       
 97         Humaia                    1328       -33        845       
 98         sargon-2ply               1300       -7         2923      
@@ -106,5 +106,4 @@ Rank       Bot                       Rating     Prog       Games
 105        schnecken_bot             1168       -4         1893      
 106        HulkBot                   1159       -55        669       
 107        knucklefish               1101       25         3120      
-108        bobandi                   1072       0          1119      
-109        CHoMPBoT                  1059       -13        1473      
+108        CHoMPBoT                  1059       -13        1473      
