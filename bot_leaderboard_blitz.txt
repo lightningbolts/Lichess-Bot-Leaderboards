@@ -1,5 +1,5 @@
 Rank       Bot                       Rating     Prog       Games     
-1          FireFishBOT_v2            2890       -3         856       
+1          FireFishBOT_v2            2888       -1         857       
 2          ProteusSF-Godot           2882       0          557       
 3          YoBot_v2                  2872       3          3381      
 4          ToromBot                  2865       2          2827      
@@ -13,11 +13,11 @@ Rank       Bot                       Rating     Prog       Games
 12         MrChessTheBot             2795       -5         1624      
 13         RaspFish                  2775       -8         10924     
 14         blundar_bot               2770       -2         910       
-15         Hien-Vinh_Bot2            2766       67         34        
+15         Hien-Vinh_Bot2            2770       65         35        
 16         LazyBot                   2762       5          1996      
 17         CodingAdventureBot        2673       4          3131      
-18         AKS-Mantissa              2585       5          9176      
-19         expositor                 2519       -19        6755      
+18         AKS-Mantissa              2590       7          9177      
+19         expositor                 2515       -18        6756      
 20         SaxtonEngine              2507       0          2168      
 21         pawn_git                  2506       4          2220      
 22         OpeningsBot               2473       -2         629       
@@ -50,12 +50,12 @@ Rank       Bot                       Rating     Prog       Games
 49         redtail-zero              2052       -5         331       
 50         Hyperopic                 2043       1          1839      
 51         Elmichess                 2038       -10        3483      
-52         Lynx_BOT                  2025       4          48260     
+52         Lynx_BOT                  2025       3          48261     
 53         LazyBotJr                 2019       12         1515      
 54         LeaMoreau                 2019       -7         196       
 55         BLANK_BOT                 2015       -5         4518      
 56         LeelaRogue                1997       33         2234      
-57         MaxtheDog                 1981       -29        4032      
+57         MaxtheDog                 1982       -20        4033      
 58         Humaia-Strong             1975       -31        2355      
 59         Nc3Nc6Bot                 1972       5          1211      
 60         myopic-bot                1960       -12        1649      
@@ -77,8 +77,8 @@ Rank       Bot                       Rating     Prog       Games
 76         piglet_engine             1692       -27        55        
 77         melsh_bot                 1685       19         1769      
 78         dlvc-bot                  1672       -22        1256      
-79         maia9                     1654       -7         98552     
-80         maia5                     1653       -23        99279     
+79         maia5                     1655       -13        99280     
+80         maia9                     1654       -7         98552     
 81         ChessChildren             1649       11         21155     
 82         yeoldwiz                  1641       14         1600      
 83         turkjs                    1537       10         10149     
@@ -92,7 +92,7 @@ Rank       Bot                       Rating     Prog       Games
 91         chat_bot                  1449       -51        235       
 92         turochamp-2ply            1444       11         1582      
 93         monchester                1402       -9         2634      
-94         maia1                     1397       13         204186    
+94         maia1                     1394       13         204188    
 95         ZokBot                    1386       -50        20        
 96         StupidChessRobot          1362       4          640       
 97         Humaia                    1319       -23        848       
@@ -103,5 +103,5 @@ Rank       Bot                       Rating     Prog       Games
 102        BetaTree                  1200       -73        43        
 103        OhniBOT                   1174       -12        309       
 104        HulkBot                   1159       -55        669       
-105        knucklefish               1092       23         3122      
+105        knucklefish               1089       11         3125      
 106        CHoMPBoT                  1059       -5         1489      
