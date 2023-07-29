@@ -41,13 +41,13 @@ Rank       Bot                       Rating     Prog       Games
 40         KhepriChess               2238       9          714       
 41         halcyonbot                2221       11         5822      
 42         eubos                     2207       11         4177      
-43         Boris-Trapsky             2172       4          27245     
+43         Boris-Trapsky             2165       -5         27246     
 44         Elmichess                 2163       -12        1393      
 45         HistoryExplorer           2151       -9         995       
 46         kulubot                   2142       -23        581       
 47         ELO_1500                  2134       45         2773      
 48         GarboBot                  2109       20         5928      
-49         matmoi                    2109       3          920       
+49         matmoi                    2102       -10        921       
 50         redtail-zero              2089       -13        211       
 51         MaxtheDog                 2084       0          591       
 52         Hyperopic                 2079       2          350       
@@ -56,7 +56,7 @@ Rank       Bot                       Rating     Prog       Games
 55         Humaia-Strong             2043       -22        605       
 56         WhiteWidowBot             2041       3          46        
 57         LeaMoreau                 2037       -19        205       
-58         Lynx_BOT                  2002       0          39433     
+58         Lynx_BOT                  2009       12         39434     
 59         BLANK_BOT                 1992       -13        1474      
 60         Nc3Nc6Bot                 1985       11         1360      
 61         LeelaRogue                1976       -2         2201      
@@ -81,7 +81,7 @@ Rank       Bot                       Rating     Prog       Games
 80         yeoldwiz                  1637       16         634       
 81         HardRok                   1608       16         506       
 82         sargon-3ply               1591       9          1134      
-83         maia5                     1571       -23        99353     
+83         maia5                     1578       -16        99355     
 84         maia1                     1557       -20        227794    
 85         sargon-4ply               1554       24         562       
 86         turochamp-2ply            1507       -2         1055      
@@ -89,7 +89,7 @@ Rank       Bot                       Rating     Prog       Games
 88         TuroBot                   1456       3          3314      
 89         RoundMoundOfRebounds      1436       -10        327       
 90         turochamp-1ply            1398       -18        1526      
-91         Humaia                    1373       10         2078      
+91         Humaia                    1368       4          2079      
 92         sargon-2ply               1352       -18        3234      
 93         chat_bot                  1337       25         197       
 94         pawnrobot                 1287       -15        604       
