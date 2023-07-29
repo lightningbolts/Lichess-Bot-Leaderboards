@@ -18,7 +18,7 @@ Rank       Bot                       Rating     Prog       Games
 17         Viet-BOT                  2753       -44        51        
 18         Palisade                  2707       25         324       
 19         CodingAdventureBot        2673       4          3132      
-20         AKS-Mantissa              2587       2          9187      
+20         AKS-Mantissa              2589       -1         9188      
 21         SaxtonEngine              2508       -1         2175      
 22         pawn_git                  2507       5          2224      
 23         expositor                 2503       -9         6769      
@@ -32,7 +32,7 @@ Rank       Bot                       Rating     Prog       Games
 31         fornax-engine             2379       -12        6356      
 32         clueless-bot              2371       8          2684      
 33         FlamingDragon_9000        2323       19         3331      
-34         simpleEval                2298       -7         14338     
+34         simpleEval                2296       -13        14339     
 35         AjedrezChamberi           2294       110        255       
 36         FataliiBot                2293       -5         6375      
 37         KhepriChess               2265       -8         1496      
@@ -76,7 +76,7 @@ Rank       Bot                       Rating     Prog       Games
 75         piglet_engine             1686       -25        60        
 76         dlvc-bot                  1672       -22        1256      
 77         yeoldwiz                  1641       14         1600      
-78         maia9                     1634       2          98586     
+78         maia9                     1629       -2         98587     
 79         maia5                     1622       6          99311     
 80         HardRok                   1545       -7         716       
 81         turkjs                    1537       10         10149     
@@ -90,9 +90,9 @@ Rank       Bot                       Rating     Prog       Games
 89         turochamp-2ply            1444       11         1582      
 90         TuroBot                   1426       -5         4958      
 91         monchester                1402       -8         2635      
-92         ZokBot                    1386       -50        20        
-93         maia1                     1384       12         204233    
-94         StupidChessRobot          1362       0          646       
+92         maia1                     1389       21         204234    
+93         ZokBot                    1386       -50        20        
+94         StupidChessRobot          1364       3          647       
 95         Humaia                    1319       -23        848       
 96         sargon-2ply               1303       -3         2925      
 97         turochamp-1ply            1252       -15        1689      
@@ -102,4 +102,4 @@ Rank       Bot                       Rating     Prog       Games
 101        HulkBot                   1159       -53        670       
 102        BetaTree                  1137       -101       49        
 103        knucklefish               1089       11         3125      
-104        CHoMPBoT                  1060       -8         1490      
+104        CHoMPBoT                  1059       -17        1491      
