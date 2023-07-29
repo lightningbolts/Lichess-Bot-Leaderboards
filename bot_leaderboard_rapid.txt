@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Godot           2888       15         137       
-2          ReinforcementTrial        2886       -8         4848      
+2          ReinforcementTrial        2887       -8         4849      
 3          ToromBot                  2884       -6         1732      
 4          SelfLearnBOT              2882       -5         75        
 5          FireFishBOT_v2            2872       2          581       
@@ -30,7 +30,7 @@ Rank       Bot                       Rating     Prog       Games
 29         OpeningsBot               2434       -22        190       
 30         ChessNoobComp             2397       6          534       
 31         odonata-bot               2396       -7         3659      
-32         Phalanx-XXV               2379       -12        856       
+32         Phalanx-XXV               2378       -12        857       
 33         Pseudo-0                  2370       -2         1066      
 34         clueless-bot              2363       6          700       
 35         admete_bot                2348       -4         4098      
@@ -86,7 +86,7 @@ Rank       Bot                       Rating     Prog       Games
 85         HulkBot                   1666       -41        403       
 86         yeoldwiz                  1637       16         634       
 87         HardRok                   1608       16         506       
-88         maia5                     1594       -18        99342     
+88         maia5                     1594       -14        99344     
 89         sargon-3ply               1591       9          1134      
 90         maia1                     1581       12         227784    
 91         sargon-4ply               1554       24         562       
@@ -104,5 +104,4 @@ Rank       Bot                       Rating     Prog       Games
 103        sargon-1ply               1168       -13        8306      
 104        CHoMPBoT                  1133       -3         450       
 105        kireevi                   1119       26         554       
-106        bobandi                   862        1          699       
-107        G0thamB0t                 804        77         261       
+106        G0thamB0t                 804        77         261       
