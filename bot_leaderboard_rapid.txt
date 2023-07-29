@@ -1,9 +1,9 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ReinforcementTrial        2894       2          4836      
 2          ProteusSF-Godot           2888       15         137       
-3          SelfLearnBOT              2886       -9         65        
+3          SelfLearnBOT              2885       -9         66        
 4          ToromBot                  2884       -8         1727      
-5          YoBot_v2                  2873       -1         12870     
+5          YoBot_v2                  2874       0          12871     
 6          FireFishBOT_v2            2872       5          578       
 7          Mate-AI                   2871       -6         2399      
 8          Nikitosikbot              2860       -4         8538      
@@ -51,8 +51,8 @@ Rank       Bot                       Rating     Prog       Games
 50         redtail-zero              2093       -14        205       
 51         MaxtheDog                 2089       -8         586       
 52         YourSparringBot           2077       -29        146       
-53         jangine                   2074       -3         1619      
-54         Hyperopic                 2063       1          311       
+53         Hyperopic                 2068       2          312       
+54         jangine                   2068       -15        1620      
 55         ELO_1500                  2058       57         2757      
 56         Humaia-Strong             2043       -22        605       
 57         LeaMoreau                 2039       -7         197       
@@ -75,8 +75,8 @@ Rank       Bot                       Rating     Prog       Games
 74         Virutor                   1803       15         3150      
 75         zulu_bot                  1776       3          110       
 76         honzovy-sachy             1774       27         908       
-77         maia9                     1772       25         82165     
-78         AshNostromo               1766       4          1196      
+77         AshNostromo               1766       4          1196      
+78         maia9                     1765       12         82166     
 79         ChessChildren             1751       6          4372      
 80         dlvc-bot                  1736       -18        78        
 81         melsh_bot                 1721       -17        213       
@@ -88,7 +88,7 @@ Rank       Bot                       Rating     Prog       Games
 87         sargon-3ply               1598       13         1132      
 88         HardRok                   1597       6          504       
 89         sargon-4ply               1555       33         561       
-90         maia1                     1524       -15        227734    
+90         maia1                     1528       -22        227736    
 91         turochamp-2ply            1512       -3         1054      
 92         DavidsGuterBot            1483       17         576       
 93         ZE_ROOK                   1464       -11        340       
