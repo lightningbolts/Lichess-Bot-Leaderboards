@@ -1,8 +1,8 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Godot           2942       2          1411      
 2          Mate-AI                   2931       -10        11564     
-3          ToromBot                  2921       -3         58811     
-4          FireFishBOT_v2            2917       4          290       
+3          ToromBot                  2921       -6         58813     
+4          FireFishBOT_v2            2917       4          292       
 5          Nikitosikbot              2894       12         20717     
 6          ResoluteBot               2887       -4         24791     
 7          YoBot_v2                  2881       4          17372     
@@ -30,11 +30,11 @@ Rank       Bot                       Rating     Prog       Games
 29         bot_adario                2448       0          2320      
 30         OpeningsBot               2409       3          408       
 31         catriever                 2408       6          1420      
-32         admete_bot                2381       30         5959      
+32         admete_bot                2386       30         5960      
 33         odonata-bot               2377       7          6129      
 34         TuksuBot                  2364       -17        6625      
 35         Phalanx-XXV               2352       -27        4024      
-36         clueless-bot              2332       -16        6859      
+36         clueless-bot              2327       -15        6860      
 37         fornax-engine             2312       8          6751      
 38         Pseudo-0                  2306       -25        3787      
 39         simpleEval                2299       1          24723     
@@ -87,7 +87,7 @@ Rank       Bot                       Rating     Prog       Games
 86         ZE_ROOK                   1656       15         1685      
 87         sargon-3ply               1619       24         1200      
 88         Humaia                    1602       13         388       
-89         sargon-4ply               1584       -27        1555      
+89         sargon-4ply               1588       -18        1556      
 90         The_Marcus                1580       -41        398       
 91         turochamp-2ply            1577       6          1443      
 92         DavidsGuterBot            1572       -11        5909      
@@ -98,8 +98,8 @@ Rank       Bot                       Rating     Prog       Games
 97         monchester                1468       -19        2325      
 98         yeoldwiz                  1450       18         791       
 99         botTideEval               1445       19         1056      
-100        StupidChessRobot          1423       5          288       
-101        sargon-1ply               1422       -2         4137      
+100        sargon-1ply               1422       -2         4137      
+101        StupidChessRobot          1420       1          289       
 102        schnecken_bot             1359       -1         876       
 103        CHoMPBoT                  1329       -5         912       
 104        HulkBot                   1304       -40        1182      
