@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Godot           2942       2          1411      
 2          FireFishBOT_v2            2929       4          307       
-3          ToromBot                  2925       3          58989     
+3          ToromBot                  2926       3          58990     
 4          Nikitosikbot              2895       9          20723     
 5          MastacticaTeoriabot       2894       -5         531       
 6          ResoluteBot               2887       -4         24791     
@@ -18,7 +18,7 @@ Rank       Bot                       Rating     Prog       Games
 17         blundar_bot               2714       -1         4977      
 18         LazyBot                   2712       17         1398      
 19         faith_bot                 2623       -44        3004      
-20         MrChessTheBot             2578       0          5123      
+20         MrChessTheBot             2576       -1         5124      
 21         SaxtonEngine              2507       -9         3915      
 22         Elmichess                 2498       -9         3200      
 23         Weiawaga                  2488       1          14951     
@@ -57,7 +57,7 @@ Rank       Bot                       Rating     Prog       Games
 56         Lynx_BOT                  1953       -21        6068      
 57         zeekat                    1946       3          17959     
 58         michabay05                1879       15         1396      
-59         FlounderBot               1875       7          2683      
+59         FlounderBot               1877       12         2684      
 60         ELO_1500                  1857       51         3103      
 61         QueensGamBOT              1833       -4         4890      
 62         baby_eubos                1816       -8         5074      
@@ -74,8 +74,8 @@ Rank       Bot                       Rating     Prog       Games
 73         sargon-3ply               1606       2          1202      
 74         piglet_engine             1589       41         353       
 75         sargon-4ply               1581       -16        1559      
-76         The_Marcus                1581       -30        402       
-77         DavidsGuterBot            1579       9          5921      
+76         DavidsGuterBot            1579       9          5921      
+77         The_Marcus                1578       -29        403       
 78         Humaia                    1566       -16        391       
 79         turochamp-2ply            1561       -15        1447      
 80         turochamp-1ply            1536       -16        1782      
