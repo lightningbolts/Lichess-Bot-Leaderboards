@@ -29,12 +29,12 @@ Rank       Bot                       Rating     Prog       Games
 28         OpeningsBot               2459       -12        642       
 29         catriever                 2456       26         572       
 30         Weiawaga                  2449       5          11395     
-31         TuksuBot                  2405       3          3791      
-32         ChessNoobComp             2402       17         1483      
+31         ChessNoobComp             2407       22         1484      
+32         TuksuBot                  2405       3          3791      
 33         odonata-bot               2397       -8         5866      
 34         admete_bot                2389       1          6239      
 35         fornax-engine             2379       1          6359      
-36         clueless-bot              2349       -22        2692      
+36         clueless-bot              2344       -28        2693      
 37         AjedrezChamberi           2294       110        255       
 38         simpleEval                2279       -10        14351     
 39         FataliiBot                2278       -23        6382      
@@ -86,8 +86,8 @@ Rank       Bot                       Rating     Prog       Games
 85         chat_bot                  1449       -51        235       
 86         turochamp-2ply            1445       14         1583      
 87         monchester                1402       -8         2635      
-88         maia1                     1393       -37        204363    
-89         StupidChessRobot          1378       11         669       
+88         maia1                     1391       -8         204368    
+89         StupidChessRobot          1380       10         670       
 90         Humaia                    1319       -23        848       
 91         sargon-2ply               1293       -19        2929      
 92         dragobot                  1271       -89        66        
@@ -97,4 +97,4 @@ Rank       Bot                       Rating     Prog       Games
 96         OhniBOT                   1174       -12        309       
 97         HulkBot                   1159       -53        670       
 98         knucklefish               1088       -7         3128      
-99         CHoMPBoT                  1053       -6         1500      
+99         CHoMPBoT                  1051       -9         1501      
