@@ -1,8 +1,8 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ArasanX                   2883       -1         4985      
-2          ToromBot                  2883       -7         1734      
+2          ToromBot                  2883       -7         1735      
 3          ReinforcementTrial        2878       -5         4869      
-4          SelfLearnBOT              2873       2          97        
+4          SelfLearnBOT              2874       3          98        
 5          FireFishBOT_v2            2872       2          583       
 6          Mate-AI                   2870       -9         2401      
 7          YoBot_v2                  2869       -5         12876     
@@ -46,9 +46,9 @@ Rank       Bot                       Rating     Prog       Games
 45         HistoryExplorer           2151       -9         995       
 46         kulubot                   2122       -20        590       
 47         GarboBot                  2109       20         5928      
-48         matmoi                    2108       -3         929       
+48         matmoi                    2108       3          930       
 49         redtail-zero              2096       0          213       
-50         MaxtheDog                 2076       -13        595       
+50         MaxtheDog                 2077       -18        596       
 51         jangine                   2073       1          1627      
 52         Humaia-Strong             2043       -30        606       
 53         LeaMoreau                 2042       6          212       
@@ -70,7 +70,7 @@ Rank       Bot                       Rating     Prog       Games
 69         AshNostromo               1765       -3         1199      
 70         dlvc-bot                  1742       -6         79        
 71         melsh_bot                 1722       -12        214       
-72         maia9                     1701       -15        82272     
+72         maia9                     1700       -20        82273     
 73         turkjs                    1668       -26        5017      
 74         HulkBot                   1666       -41        403       
 75         simplexitor               1647       -22        461       
@@ -78,7 +78,7 @@ Rank       Bot                       Rating     Prog       Games
 77         HardRok                   1620       22         508       
 78         maia5                     1617       -2         99413     
 79         sargon-3ply               1585       5          1135      
-80         maia1                     1560       22         227948    
+80         maia1                     1561       18         227949    
 81         sargon-4ply               1554       24         562       
 82         turochamp-2ply            1507       -2         1055      
 83         DavidsGuterBot            1482       21         577       
