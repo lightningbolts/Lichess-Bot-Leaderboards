@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ArasanX                   2885       13         4980      
-2          ToromBot                  2884       -6         1732      
+1          ToromBot                  2884       -6         1732      
+2          ArasanX                   2880       7          4981      
 3          ReinforcementTrial        2880       -10        4865      
 4          SelfLearnBOT              2875       -4         93        
 5          Mate-AI                   2870       -9         2401      
@@ -16,8 +16,8 @@ Rank       Bot                       Rating     Prog       Games
 15         blundar_bot               2804       -2         1006      
 16         MrChessTheBot             2803       -28        2083      
 17         Palisade                  2777       54         212       
-18         CodingAdventureBot        2654       17         190       
-19         StockDory                 2650       71         31        
+18         StockDory                 2650       71         31        
+19         CodingAdventureBot        2629       -10        191       
 20         AKS-Mantissa              2622       17         3970      
 21         LazyBot                   2598       -23        720       
 22         expositor                 2594       -20        4441      
@@ -25,7 +25,7 @@ Rank       Bot                       Rating     Prog       Games
 24         SaxtonEngine              2533       5          1354      
 25         pawn_git                  2528       1          1186      
 26         catriever                 2513       0          144       
-27         bot_adario                2451       3          1275      
+27         bot_adario                2456       9          1276      
 28         TuksuBot                  2444       8          1907      
 29         OpeningsBot               2435       -23        191       
 30         odonata-bot               2395       -11        3664      
@@ -39,11 +39,11 @@ Rank       Bot                       Rating     Prog       Games
 38         KhepriChess               2248       10         725       
 39         halcyonbot                2210       -11        5833      
 40         eubos                     2207       11         4177      
-41         Elmichess                 2173       7          1396      
+41         Elmichess                 2174       3          1397      
 42         Boris-Trapsky             2158       -8         27250     
 43         HistoryExplorer           2151       -9         995       
-44         kulubot                   2146       1          586       
-45         ELO_1500                  2143       53         2776      
+44         ELO_1500                  2149       53         2777      
+45         kulubot                   2140       -10        587       
 46         GarboBot                  2109       20         5928      
 47         matmoi                    2107       11         924       
 48         redtail-zero              2090       -13        212       
@@ -76,7 +76,7 @@ Rank       Bot                       Rating     Prog       Games
 75         HardRok                   1608       16         506       
 76         sargon-3ply               1591       9          1134      
 77         sargon-4ply               1554       24         562       
-78         maia1                     1543       18         227918    
+78         maia1                     1547       18         227919    
 79         turochamp-2ply            1507       -2         1055      
 80         DavidsGuterBot            1482       21         577       
 81         RoundMoundOfRebounds      1436       -10        327       
