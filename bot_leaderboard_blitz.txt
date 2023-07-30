@@ -28,7 +28,7 @@ Rank       Bot                       Rating     Prog       Games
 27         bot_adario                2460       -8         2072      
 28         OpeningsBot               2459       -14        640       
 29         catriever                 2453       18         570       
-30         Weiawaga                  2439       6          11392     
+30         Weiawaga                  2442       6          11393     
 31         ChessNoobComp             2402       5          1477      
 32         odonata-bot               2402       0          5865      
 33         TuksuBot                  2400       3          3789      
@@ -39,7 +39,7 @@ Rank       Bot                       Rating     Prog       Games
 38         simpleEval                2279       -10        14351     
 39         Nakshatra3                2260       -13        1490      
 40         halcyonbot                2243       19         8806      
-41         KhepriChess               2237       1          1514      
+41         KhepriChess               2234       -1         1515      
 42         ELO_1500                  2226       24         12876     
 43         HistoryExplorer           2187       -9         2601      
 44         eubos                     2162       18         13856     
@@ -74,8 +74,8 @@ Rank       Bot                       Rating     Prog       Games
 73         dlvc-bot                  1672       -22        1256      
 74         simplexitor               1657       -5         2105      
 75         yeoldwiz                  1641       14         1600      
-76         maia9                     1621       -29        98633     
-77         maia5                     1576       -27        99344     
+76         maia9                     1624       -26        98634     
+77         maia5                     1581       -13        99345     
 78         turkjs                    1544       12         10152     
 79         sargon-4ply               1516       -15        1822      
 80         sargon-3ply               1515       16         1743      
@@ -83,8 +83,8 @@ Rank       Bot                       Rating     Prog       Games
 82         DavidsGuterBot            1477       1          3387      
 83         RoundMoundOfRebounds      1470       15         1157      
 84         chat_bot                  1449       -51        235       
-85         maia1                     1447       0          204327    
-86         turochamp-2ply            1445       14         1583      
+85         turochamp-2ply            1445       14         1583      
+86         maia1                     1441       -9         204328    
 87         monchester                1402       -8         2635      
 88         StupidChessRobot          1384       22         667       
 89         Humaia                    1319       -23        848       
