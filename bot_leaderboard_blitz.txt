@@ -30,15 +30,15 @@ Rank       Bot                       Rating     Prog       Games
 29         odonata-bot               2406       6          5870      
 30         admete_bot                2404       18         6244      
 31         fornax-engine             2368       -11        6364      
-32         clueless-bot              2342       -7         2703      
+32         clueless-bot              2340       -4         2704      
 33         FlamingDragon_9000        2323       19         3331      
 34         AjedrezChamberi           2294       110        255       
 35         simpleEval                2270       -11        14358     
-36         FataliiBot                2264       -26        6387      
+36         FataliiBot                2266       -26        6388      
 37         Nakshatra3                2257       -10        1491      
-38         halcyonbot                2252       -1         8829      
-39         ELO_1500                  2248       39         12883     
-40         KhepriChess               2237       0          1525      
+38         ELO_1500                  2248       39         12883     
+39         halcyonbot                2246       -11        8830      
+40         KhepriChess               2243       9          1526      
 41         eubos                     2154       -1         13862     
 42         matmoi                    2140       11         1019      
 43         GarboBot                  2132       13         8918      
@@ -71,8 +71,8 @@ Rank       Bot                       Rating     Prog       Games
 70         melsh_bot                 1682       -3         1783      
 71         dlvc-bot                  1672       -22        1256      
 72         yeoldwiz                  1641       14         1600      
-73         maia9                     1602       34         98696     
-74         maia5                     1571       -14        99402     
+73         maia9                     1598       27         98697     
+74         maia5                     1576       -9         99403     
 75         turkjs                    1544       13         10156     
 76         HardRok                   1527       -3         735       
 77         The_Marcus                1526       23         238       
@@ -84,7 +84,7 @@ Rank       Bot                       Rating     Prog       Games
 83         DavidsGuterBot            1464       -15        3396      
 84         TuroBot                   1451       11         4965      
 85         chat_bot                  1449       -51        235       
-86         maia1                     1434       29         204491    
+86         maia1                     1439       39         204492    
 87         turochamp-2ply            1427       -4         1586      
 88         monchester                1408       4          2638      
 89         StupidChessRobot          1366       -4         690       
@@ -97,4 +97,5 @@ Rank       Bot                       Rating     Prog       Games
 96         OhniBOT                   1196       10         311       
 97         HulkBot                   1159       -53        670       
 98         knucklefish               1088       -7         3128      
-99         CHoMPBoT                  1054       1          1507      
+99         bobandi                   1072       0          1119      
+100        CHoMPBoT                  1054       1          1507      
