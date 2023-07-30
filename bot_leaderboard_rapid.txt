@@ -1,12 +1,12 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Godot           2888       15         137       
-2          ToromBot                  2887       3          1743      
+2          ToromBot                  2886       2          1744      
 3          Nikitosikbot              2883       16         8610      
 4          SelfLearnBOT              2879       6          106       
 5          FireFishBOT_v2            2878       6          592       
 6          Mate-AI                   2876       3          2407      
 7          TheMatrix2025             2875       9          342       
-8          ReinforcementTrial        2872       -4         4893      
+8          ReinforcementTrial        2872       -4         4894      
 9          YoBot_v2                  2866       -4         12884     
 10         ArasanX                   2861       -14        5016      
 11         TorBot_v2                 2852       -1         86        
@@ -31,7 +31,7 @@ Rank       Bot                       Rating     Prog       Games
 30         TuksuBot                  2437       -3         1916      
 31         odonata-bot               2399       4          3671      
 32         admete_bot                2378       14         4119      
-33         clueless-bot              2367       1          708       
+33         clueless-bot              2368       6          709       
 34         fornax-engine             2328       1          3598      
 35         simpleEval                2328       -8         7449      
 36         FlamingDragon_9000        2309       -12        1216      
@@ -56,7 +56,7 @@ Rank       Bot                       Rating     Prog       Games
 55         BLANK_BOT                 1996       -2         1478      
 56         LeelaRogue                1976       -2         2201      
 57         LazyBotJr                 1974       -29        1254      
-58         zeekat                    1956       -5         8071      
+58         zeekat                    1955       -7         8072      
 59         baby_eubos                1948       8          864       
 60         Jobabot                   1948       -2         50        
 61         myopic-bot                1934       -21        301       
@@ -70,8 +70,8 @@ Rank       Bot                       Rating     Prog       Games
 69         AshNostromo               1755       -27        1201      
 70         dlvc-bot                  1736       -7         80        
 71         melsh_bot                 1733       -8         216       
-72         maia9                     1691       -29        82339     
-73         maia5                     1680       16         99488     
+72         maia9                     1698       -8         82342     
+73         maia5                     1683       22         99489     
 74         HulkBot                   1666       -32        404       
 75         turkjs                    1665       -18        5021      
 76         HardRok                   1638       41         514       
@@ -80,7 +80,7 @@ Rank       Bot                       Rating     Prog       Games
 79         The_Marcus                1618       -4         16        
 80         sargon-3ply               1584       -7         1136      
 81         sargon-4ply               1554       24         562       
-82         maia1                     1518       4          228092    
+82         maia1                     1525       8          228093    
 83         turochamp-2ply            1507       2          1057      
 84         TuroBot                   1503       25         3316      
 85         DavidsGuterBot            1482       28         578       
@@ -94,6 +94,4 @@ Rank       Bot                       Rating     Prog       Games
 93         OhniBOT                   1155       -12        382       
 94         sargon-1ply               1149       -14        8316      
 95         CHoMPBoT                  1130       -11        454       
-96         kireevi                   1118       30         555       
-97         bobandi                   862        1          699       
-98         G0thamB0t                 799        74         262       
+96         G0thamB0t                 799        74         262       
