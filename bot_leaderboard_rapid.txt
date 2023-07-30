@@ -34,9 +34,9 @@ Rank       Bot                       Rating     Prog       Games
 33         ChessNoobComp             2397       6          534       
 34         admete_bot                2373       19         4111      
 35         clueless-bot              2364       0          706       
-36         simpleEval                2340       8          7443      
+36         simpleEval                2340       4          7444      
 37         fornax-engine             2327       -11        3594      
-38         DQN-chess                 2325       23         915       
+38         DQN-chess                 2326       23         916       
 39         FataliiBot                2303       3          2506      
 40         Nakshatra3                2256       -6         794       
 41         KhepriChess               2226       -27        734       
@@ -61,7 +61,7 @@ Rank       Bot                       Rating     Prog       Games
 60         LazyBotJr                 1974       -29        1254      
 61         zeekat                    1957       8          8064      
 62         Jobabot                   1949       0          49        
-63         baby_eubos                1943       -5         860       
+63         baby_eubos                1942       -2         861       
 64         myopic-bot                1942       -14        298       
 65         michabay05                1903       -1         59        
 66         Demolito_L6               1884       10         120       
@@ -77,9 +77,9 @@ Rank       Bot                       Rating     Prog       Games
 76         turkjs                    1675       -8         5019      
 77         HulkBot                   1666       -32        404       
 78         yeoldwiz                  1637       16         634       
-79         dragobot                  1625       -255       35        
-80         HardRok                   1625       35         509       
-81         maia5                     1603       -10        99433     
+79         HardRok                   1627       36         510       
+80         dragobot                  1625       -255       35        
+81         maia5                     1598       -10        99434     
 82         sargon-3ply               1584       -7         1136      
 83         The_Marcus                1556       -65        15        
 84         sargon-4ply               1554       24         562       
