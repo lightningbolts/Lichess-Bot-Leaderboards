@@ -2,8 +2,8 @@ Rank       Bot                       Rating     Prog       Games
 1          ProteusSF-Godot           2888       15         137       
 2          SelfLearnBOT              2880       4          102       
 3          FireFishBOT_v2            2878       6          589       
-4          Mate-AI                   2877       -1         2404      
-5          ReinforcementTrial        2872       -1         4889      
+4          Mate-AI                   2877       0          2405      
+5          ReinforcementTrial        2872       -1         4890      
 6          Nikitosikbot              2871       10         8604      
 7          ArasanX                   2866       -21        5011      
 8          YoBot_v2                  2865       -8         12881     
@@ -30,7 +30,7 @@ Rank       Bot                       Rating     Prog       Games
 29         OpeningsBot               2439       -1         197       
 30         TuksuBot                  2437       -3         1915      
 31         odonata-bot               2399       4          3671      
-32         admete_bot                2378       19         4118      
+32         admete_bot                2378       14         4119      
 33         clueless-bot              2367       1          708       
 34         simpleEval                2345       10         7446      
 35         fornax-engine             2327       -11        3594      
@@ -43,10 +43,10 @@ Rank       Bot                       Rating     Prog       Games
 42         ELO_1500                  2166       50         2781      
 43         Boris-Trapsky             2147       3          27269     
 44         GarboBot                  2109       20         5928      
-45         kulubot                   2109       -37        593       
+45         kulubot                   2109       -31        594       
 46         matmoi                    2101       -19        943       
 47         redtail-zero              2100       7          216       
-48         MaxtheDog                 2081       -14        598       
+48         MaxtheDog                 2081       -20        599       
 49         Hyperopic                 2079       2          350       
 50         jangine                   2063       -3         1629      
 51         LeaMoreau                 2054       8          222       
@@ -86,10 +86,10 @@ Rank       Bot                       Rating     Prog       Games
 85         DavidsGuterBot            1482       28         578       
 86         ZE_ROOK                   1464       -11        340       
 87         RoundMoundOfRebounds      1435       -5         328       
-88         sargon-2ply               1402       40         3250      
+88         sargon-2ply               1398       27         3251      
 89         turochamp-1ply            1389       -34        1529      
 90         Humaia                    1356       -8         2086      
-91         chat_bot                  1337       25         197       
+91         chat_bot                  1328       9          198       
 92         pawnrobot                 1292       -12        606       
 93         sargon-1ply               1156       -11        8314      
 94         OhniBOT                   1155       -12        382       
