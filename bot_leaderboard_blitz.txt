@@ -29,12 +29,12 @@ Rank       Bot                       Rating     Prog       Games
 28         OpeningsBot               2459       -14        640       
 29         catriever                 2453       18         570       
 30         Weiawaga                  2439       6          11392     
-31         odonata-bot               2402       0          5865      
-32         TuksuBot                  2400       3          3789      
-33         ChessNoobComp             2397       -6         1476      
+31         ChessNoobComp             2402       5          1477      
+32         odonata-bot               2402       0          5865      
+33         TuksuBot                  2400       3          3789      
 34         admete_bot                2389       1          6239      
 35         fornax-engine             2378       1          6358      
-36         clueless-bot              2358       0          2690      
+36         clueless-bot              2353       -11        2691      
 37         FataliiBot                2282       -20        6380      
 38         simpleEval                2279       -10        14351     
 39         Nakshatra3                2260       -13        1490      
@@ -44,8 +44,8 @@ Rank       Bot                       Rating     Prog       Games
 43         HistoryExplorer           2187       -9         2601      
 44         eubos                     2162       18         13856     
 45         matmoi                    2142       13         1004      
-46         Boris-Trapsky             2099       -24        27822     
-47         GarboBot                  2097       14         8894      
+46         GarboBot                  2101       15         8895      
+47         Boris-Trapsky             2099       -24        27822     
 48         jangine                   2077       22         3130      
 49         redtail-zero              2051       -6         338       
 50         LazyBotJr                 2039       49         1519      
@@ -54,8 +54,8 @@ Rank       Bot                       Rating     Prog       Games
 53         BLANK_BOT                 2016       8          4527      
 54         LeaMoreau                 2016       -3         217       
 55         LeelaRogue                1997       28         2235      
-56         MaxtheDog                 1985       -5         4045      
-57         myopic-bot                1985       33         1659      
+56         myopic-bot                1985       33         1659      
+57         MaxtheDog                 1981       -16        4046      
 58         Humaia-Strong             1975       -31        2355      
 59         zeekat                    1968       -3         19840     
 60         Jobabot                   1936       -7         129       
@@ -75,7 +75,7 @@ Rank       Bot                       Rating     Prog       Games
 74         simplexitor               1657       -5         2105      
 75         yeoldwiz                  1641       14         1600      
 76         maia9                     1628       -18        98632     
-77         maia5                     1571       -46        99342     
+77         maia5                     1576       -36        99343     
 78         turkjs                    1544       12         10152     
 79         sargon-4ply               1516       -15        1822      
 80         sargon-3ply               1515       16         1743      
