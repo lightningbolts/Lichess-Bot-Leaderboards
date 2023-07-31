@@ -47,7 +47,7 @@ def get_bot_ratings_online(type):
         'OkayWhyYouReadinThis',
         'GHDES',
         'caissa-test', 
-        'Codingadventurebot',
+        'CodingAdventureBot',
         'OkayWhyYouReadinThis'
         'HappyFarmer3000'
     ]
