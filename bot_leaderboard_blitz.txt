@@ -30,11 +30,11 @@ Rank       Bot                       Rating     Prog       Games
 29         odonata-bot               2413       13         5872      
 30         TuksuBot                  2406       6          3800      
 31         admete_bot                2404       18         6244      
-32         ChessNoobComp             2374       -8         1504      
+32         ChessNoobComp             2372       -11        1505      
 33         fornax-engine             2364       -19        6365      
 34         clueless-bot              2346       17         2707      
 35         FlamingDragon_9000        2323       19         3331      
-36         simpleEval                2267       -24        14364     
+36         simpleEval                2268       -22        14365     
 37         ELO_1500                  2260       22         12890     
 38         LunaChessEngine           2255       1          1552      
 39         halcyonbot                2254       -9         8846      
@@ -62,7 +62,7 @@ Rank       Bot                       Rating     Prog       Games
 61         zeekat                    1921       -18        19892     
 62         michabay05                1900       26         553       
 63         zulu_bot                  1861       -3         992       
-64         FlounderBot               1815       11         1324      
+64         FlounderBot               1816       11         1325      
 65         baby_eubos                1812       -8         7159      
 66         notropis                  1788       11         6158      
 67         QueensGamBOT              1748       35         2852      
@@ -82,8 +82,8 @@ Rank       Bot                       Rating     Prog       Games
 81         RoundMoundOfRebounds      1461       -8         1163      
 82         DavidsGuterBot            1457       -18        3399      
 83         chat_bot                  1449       -51        235       
-84         maia1                     1444       -11        204542    
-85         turochamp-2ply            1433       -7         1588      
+84         maia1                     1446       -8         204544    
+85         turochamp-2ply            1434       -14        1589      
 86         monchester                1400       -15        2640      
 87         StupidChessRobot          1377       11         701       
 88         Humaia                    1319       -23        848       
@@ -95,4 +95,4 @@ Rank       Bot                       Rating     Prog       Games
 94         OhniBOT                   1196       10         311       
 95         HulkBot                   1159       -53        670       
 96         knucklefish               1088       -7         3128      
-97         CHoMPBoT                  1045       -3         1513      
+97         CHoMPBoT                  1044       -3         1514      
