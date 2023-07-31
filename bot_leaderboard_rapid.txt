@@ -32,13 +32,13 @@ Rank       Bot                       Rating     Prog       Games
 31         clueless-bot              2373       10         711       
 32         Wahoo_Bot                 2353       45         65        
 33         ChessNoobComp             2346       -64        541       
-34         simpleEval                2328       -8         7449      
-35         fornax-engine             2321       -7         3600      
+34         fornax-engine             2321       -7         3600      
+35         simpleEval                2321       -15        7450      
 36         FataliiBot                2315       -1         2511      
 37         FlamingDragon_9000        2309       -12        1216      
 38         Nakshatra3                2256       -2         796       
-39         KhepriChess               2246       7          742       
-40         LunaChessEngine           2243       0          1027      
+39         LunaChessEngine           2251       8          1028      
+40         KhepriChess               2246       7          742       
 41         halcyonbot                2220       10         5867      
 42         eubos                     2216       14         4184      
 43         ELO_1500                  2190       47         2787      
@@ -79,7 +79,7 @@ Rank       Bot                       Rating     Prog       Games
 78         sargon-3ply               1584       -7         1136      
 79         sargon-4ply               1554       24         562       
 80         turochamp-2ply            1507       2          1057      
-81         maia1                     1487       16         228177    
+81         maia1                     1495       21         228178    
 82         DavidsGuterBot            1482       28         578       
 83         ZE_ROOK                   1463       -14        341       
 84         RoundMoundOfRebounds      1430       -27        330       
