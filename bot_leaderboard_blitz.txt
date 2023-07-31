@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
 1          TorBot                    2927       -2         1198      
-2          LoseisnotAvailablehe      2903       27         504       
+2          LoseisnotAvailablehe      2905       27         505       
 3          ProteusSF-Godot           2882       0          557       
 4          FireFishBOT_v2            2879       10         1105      
 5          YoBot_v2                  2875       -1         3405      
@@ -25,7 +25,7 @@ Rank       Bot                       Rating     Prog       Games
 24         pawn_git                  2506       -7         2247      
 25         SaxtonEngine              2504       13         2201      
 26         bot_adario                2477       14         2086      
-27         OpeningsBot               2476       2          661       
+27         OpeningsBot               2475       -2         662       
 28         Weiawaga                  2467       6          11417     
 29         catriever                 2459       6          581       
 30         Wahoo_Bot                 2435       12         247       
@@ -50,7 +50,7 @@ Rank       Bot                       Rating     Prog       Games
 49         redtail-zero              2067       16         349       
 50         Hyperopic                 2043       1          1839      
 51         LazyBotJr                 2033       24         1523      
-52         myopic-bot                2024       29         1679      
+52         myopic-bot                2027       26         1680      
 53         Elmichess                 2011       -26        3491      
 54         BLANK_BOT                 2007       -11        4542      
 55         Lynx_BOT                  2005       -14        48385     
@@ -63,7 +63,7 @@ Rank       Bot                       Rating     Prog       Games
 62         michabay05                1906       19         559       
 63         zeekat                    1903       -17        19904     
 64         zulu_bot                  1861       -3         992       
-65         baby_eubos                1841       28         7174      
+65         baby_eubos                1838       18         7175      
 66         FlounderBot               1809       -7         1338      
 67         notropis                  1795       13         6167      
 68         Fisk_Bot                  1745       16         1484      
@@ -75,13 +75,13 @@ Rank       Bot                       Rating     Prog       Games
 74         maia9                     1660       -14        98785     
 75         yeoldwiz                  1641       14         1600      
 76         maia5                     1621       7          99501     
-77         turkjs                    1548       2          10166     
-78         The_Marcus                1546       20         249       
+77         The_Marcus                1550       25         250       
+78         turkjs                    1548       2          10166     
 79         HardRok                   1532       3          737       
 80         sargon-3ply               1513       6          1750      
-81         ZE_ROOK                   1510       -3         2498      
-82         sargon-4ply               1507       -13        1828      
-83         maia1                     1503       1          204640    
+81         maia1                     1512       7          204641    
+82         ZE_ROOK                   1510       -3         2498      
+83         sargon-4ply               1507       -13        1828      
 84         ChamberiAjedrez           1470       -106       321       
 85         RoundMoundOfRebounds      1460       -8         1165      
 86         DavidsGuterBot            1454       -18        3401      
@@ -89,7 +89,7 @@ Rank       Bot                       Rating     Prog       Games
 88         TuroBot                   1444       5          4967      
 89         turochamp-2ply            1429       -15        1593      
 90         monchester                1394       -16        2643      
-91         StupidChessRobot          1366       -35        716       
+91         StupidChessRobot          1363       -39        717       
 92         Humaia                    1316       -17        850       
 93         sargon-2ply               1284       -20        2933      
 94         dragobot                  1269       -91        68        
