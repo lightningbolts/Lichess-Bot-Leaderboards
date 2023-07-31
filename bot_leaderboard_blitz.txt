@@ -23,7 +23,7 @@ Rank       Bot                       Rating     Prog       Games
 22         expositor                 2517       -5         6792      
 23         pawn_git                  2513       7          2236      
 24         SaxtonEngine              2492       -11        2191      
-25         OpeningsBot               2477       18         651       
+25         OpeningsBot               2473       8          652       
 26         bot_adario                2467       3          2078      
 27         Weiawaga                  2460       18         11404     
 28         catriever                 2450       3          577       
@@ -35,9 +35,9 @@ Rank       Bot                       Rating     Prog       Games
 34         FlamingDragon_9000        2323       19         3331      
 35         simpleEval                2271       -4         14359     
 36         FataliiBot                2263       -19        6391      
-37         LunaChessEngine           2257       -12        1537      
-38         Nakshatra3                2257       -1         1492      
-39         halcyonbot                2254       -10        8833      
+37         halcyonbot                2257       -10        8834      
+38         LunaChessEngine           2257       -12        1537      
+39         Nakshatra3                2257       -1         1492      
 40         ELO_1500                  2253       40         12884     
 41         KhepriChess               2247       13         1527      
 42         eubos                     2157       -2         13863     
@@ -83,7 +83,7 @@ Rank       Bot                       Rating     Prog       Games
 82         RoundMoundOfRebounds      1468       2          1161      
 83         DavidsGuterBot            1459       -18        3397      
 84         chat_bot                  1449       -51        235       
-85         maia1                     1445       6          204503    
+85         maia1                     1449       16         204504    
 86         turochamp-2ply            1433       -7         1588      
 87         monchester                1404       -3         2639      
 88         StupidChessRobot          1371       -1         695       
