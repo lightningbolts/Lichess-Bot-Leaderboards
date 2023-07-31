@@ -22,13 +22,13 @@ Rank       Bot                       Rating     Prog       Games
 21         expositor                 2483       21         19150     
 22         Weiawaga                  2478       -10        14984     
 23         AKS-Mantissa              2468       -4         10329     
-24         pawn_git                  2461       0          3751      
+24         pawn_git                  2459       -2         3752      
 25         bot_adario                2448       -10        2339      
 26         OpeningsBot               2440       15         433       
 27         admete_bot                2409       5          6000      
 28         odonata-bot               2383       2          6145      
 29         catriever                 2379       -7         1438      
-30         ChessNoobComp             2363       11         9444      
+30         ChessNoobComp             2365       17         9445      
 31         TuksuBot                  2359       2          6658      
 32         fornax-engine             2325       10         6768      
 33         clueless-bot              2321       -20        6933      
@@ -56,7 +56,7 @@ Rank       Bot                       Rating     Prog       Games
 55         ELO_1500                  1914       72         3112      
 56         zeekat                    1914       -7         18018     
 57         michabay05                1887       4          1448      
-58         FlounderBot               1869       17         2754      
+58         FlounderBot               1872       24         2755      
 59         QueensGamBOT              1844       -3         4913      
 60         notropis                  1800       4          3654      
 61         baby_eubos                1796       0          5104      
@@ -69,7 +69,7 @@ Rank       Bot                       Rating     Prog       Games
 68         turkjs                    1662       0          19194     
 69         TuroBot                   1649       25         2475      
 70         maia5                     1644       -11        38915     
-71         ZE_ROOK                   1642       -9         1690      
+71         ZE_ROOK                   1640       -13        1691      
 72         piglet_engine             1623       5          369       
 73         The_Marcus                1622       28         424       
 74         maia1                     1604       16         122198    
@@ -91,4 +91,3 @@ Rank       Bot                       Rating     Prog       Games
 90         OhniBOT                   1300       16         488       
 91         knucklefish               1260       -23        2723      
 92         pawnrobot                 1251       -10        3756      
-93         bobandi                   1210       -37        1075      
