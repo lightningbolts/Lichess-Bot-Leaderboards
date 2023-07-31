@@ -46,9 +46,11 @@ def get_bot_ratings_online(type):
         'GHDES',
         'caissa-test', 
         'Codingadventurebot',
-        'HappyFarmer3000',
         'RandomEngine-AI',
         'RandomEngine',
+        'OkayWhyYouReadinThis',
+        'HappyFarmer3000',
+        'HappyFarmerChallenge',
     ]
     online_bots = urllib.request.urlopen('https://lichess.org/api/bot/online')
     user_arr = []
