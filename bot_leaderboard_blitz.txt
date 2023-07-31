@@ -1,12 +1,12 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Godot           2882       0          557       
 2          EmptikVariantsBot         2875       17         509       
-3          YoBot_v2                  2873       -1         3399      
+3          YoBot_v2                  2873       -2         3400      
 4          TheMatrix2025             2868       -6         458       
-5          FireFishBOT_v2            2864       1          1017      
+5          FireFishBOT_v2            2864       1          1019      
 6          ToromBot                  2859       -9         2845      
 7          TorBot_v2                 2828       5          75        
-8          Mate-AI                   2824       -10        3023      
+8          Mate-AI                   2825       -9         3024      
 9          chessfyBOT                2819       -12        180       
 10         Shineshou90_BOT           2819       -7         1630      
 11         ResoluteBot               2807       -18        10832     
@@ -39,8 +39,8 @@ Rank       Bot                       Rating     Prog       Games
 38         FataliiBot                2260       -15        6394      
 39         LunaChessEngine           2255       1          1552      
 40         halcyonbot                2254       -9         8846      
-41         Nakshatra3                2251       -3         1494      
-42         KhepriChess               2250       11         1533      
+41         KhepriChess               2252       16         1534      
+42         Nakshatra3                2251       -3         1494      
 43         HistoryExplorer           2195       12         2605      
 44         eubos                     2155       -1         13871     
 45         GarboBot                  2130       0          8921      
@@ -54,7 +54,7 @@ Rank       Bot                       Rating     Prog       Games
 53         myopic-bot                2013       21         1677      
 54         Elmichess                 2011       -26        3491      
 55         Lynx_BOT                  2010       -6         48383     
-56         LeaMoreau                 2006       -20        226       
+56         LeaMoreau                 2004       -18        227       
 57         LeelaRogue                1997       28         2235      
 58         MaxtheDog                 1982       10         4067      
 59         Humaia-Strong             1975       -31        2355      
@@ -83,7 +83,7 @@ Rank       Bot                       Rating     Prog       Games
 82         RoundMoundOfRebounds      1461       -8         1163      
 83         DavidsGuterBot            1457       -18        3399      
 84         chat_bot                  1449       -51        235       
-85         maia1                     1445       -9         204540    
+85         maia1                     1440       -12        204541    
 86         turochamp-2ply            1433       -7         1588      
 87         monchester                1400       -15        2640      
 88         StupidChessRobot          1377       11         701       
