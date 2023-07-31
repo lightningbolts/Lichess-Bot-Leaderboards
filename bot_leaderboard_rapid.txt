@@ -8,7 +8,7 @@ Rank       Bot                       Rating     Prog       Games
 7          ReinforcementTrial        2874       0          4907      
 8          ArasanX                   2861       1          5031      
 9          YoBot_v2                  2859       -6         12889     
-10         TorBot_v2                 2848       -6         104       
+10         TorBot_v2                 2850       0          105       
 11         chessfyBOT                2845       -7         228       
 12         ResoluteBot               2844       -6         5153      
 13         Shineshou90_BOT           2843       -8         2443      
@@ -20,7 +20,7 @@ Rank       Bot                       Rating     Prog       Games
 19         AKS-Mantissa              2606       -8         3985      
 20         LazyBot                   2598       -23        721       
 21         expositor                 2588       1          4460      
-22         SaxtonEngine              2539       6          1364      
+22         SaxtonEngine              2538       5          1365      
 23         pawn_git                  2529       4          1191      
 24         Weiawaga                  2526       -14        9709      
 25         catriever                 2525       5          153       
@@ -79,8 +79,8 @@ Rank       Bot                       Rating     Prog       Games
 78         sargon-3ply               1584       -7         1136      
 79         sargon-4ply               1554       24         562       
 80         turochamp-2ply            1507       2          1057      
-81         TuroBot                   1503       25         3316      
-82         maia1                     1502       21         228187    
+81         maia1                     1505       10         228189    
+82         TuroBot                   1503       25         3316      
 83         DavidsGuterBot            1482       28         578       
 84         ZE_ROOK                   1463       -14        341       
 85         RoundMoundOfRebounds      1430       -27        330       
@@ -93,3 +93,4 @@ Rank       Bot                       Rating     Prog       Games
 92         sargon-1ply               1148       -13        8318      
 93         CHoMPBoT                  1129       -11        455       
 94         kireevi                   1112       27         557       
+95         G0thamB0t                 799        74         262       
