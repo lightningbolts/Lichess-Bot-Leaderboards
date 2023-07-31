@@ -11,7 +11,7 @@ Rank       Bot                       Rating     Prog       Games
 10         ReinforcementTrial        2866       -9         4919      
 11         YoBot_v2                  2863       -5         12890     
 12         EmptikBot247              2853       -3         119       
-13         TorBot_v2                 2849       1          115       
+13         TorBot_v2                 2850       0          116       
 14         LeelaMultiPoss            2847       7          208       
 15         chessfyBOT                2845       -7         228       
 16         ResoluteBot               2844       -6         5153      
@@ -28,7 +28,7 @@ Rank       Bot                       Rating     Prog       Games
 27         catriever                 2531       21         156       
 28         pawn_git                  2526       3          1193      
 29         Weiawaga                  2522       -7         9716      
-30         bot_adario                2473       22         1286      
+30         bot_adario                2472       16         1287      
 31         TuksuBot                  2443       1          1921      
 32         OpeningsBot               2434       -4         203       
 33         odonata-bot               2396       1          3675      
@@ -73,8 +73,8 @@ Rank       Bot                       Rating     Prog       Games
 72         AshNostromo               1755       -27        1201      
 73         dlvc-bot                  1736       -7         80        
 74         melsh_bot                 1733       -8         216       
-75         maia9                     1722       18         82414     
-76         maia5                     1689       25         99576     
+75         maia9                     1702       -2         82417     
+76         maia5                     1688       13         99581     
 77         turkjs                    1674       -1         5027      
 78         HulkBot                   1666       -32        404       
 79         HardRok                   1641       27         518       
@@ -99,4 +99,3 @@ Rank       Bot                       Rating     Prog       Games
 98         sargon-1ply               1152       -8         8320      
 99         CHoMPBoT                  1149       16         461       
 100        kireevi                   1112       27         557       
-101        bobandi                   862        1          699       
