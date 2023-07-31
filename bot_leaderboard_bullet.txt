@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Godot           2942       2          1411      
 2          FireFishBOT_v2            2930       0          314       
-3          ToromBot                  2925       2          59062     
+3          ToromBot                  2921       -4         59064     
 4          LeelaMultiPoss            2905       4          546       
 5          Nikitosikbot              2896       1          20738     
 6          ResoluteBot               2887       -4         24791     
@@ -23,8 +23,8 @@ Rank       Bot                       Rating     Prog       Games
 22         Elmichess                 2498       -9         3200      
 23         Weiawaga                  2492       -5         14970     
 24         AKS-Mantissa              2470       0          10320     
-25         pawn_git                  2462       4          3743      
-26         expositor                 2460       -1         19143     
+25         expositor                 2464       -4         19145     
+26         pawn_git                  2462       4          3743      
 27         bot_adario                2451       1          2335      
 28         OpeningsBot               2441       33         428       
 29         admete_bot                2405       9          5994      
@@ -37,7 +37,7 @@ Rank       Bot                       Rating     Prog       Games
 36         simpleEval                2308       9          24821     
 37         FataliiBot                2287       -2         5574      
 38         halcyonbot                2263       9          4973      
-39         Nakshatra3                2255       25         1423      
+39         Nakshatra3                2256       28         1424      
 40         LunaChessEngine           2209       0          1120      
 41         matmoi                    2138       -19        1364      
 42         GarboBot                  2135       -2         9384      
@@ -47,7 +47,7 @@ Rank       Bot                       Rating     Prog       Games
 46         Hyperopic                 2092       -22        1341      
 47         redtail-zero              2077       21         431       
 48         Humaia-Strong             2073       78         1306      
-49         LeaMoreau                 2049       -36        237       
+49         LeaMoreau                 2041       -37        238       
 50         myopic-bot                2023       7          1657      
 51         BLANK_BOT                 2015       -3         7058      
 52         MaxtheDog                 2006       15         13299     
@@ -55,9 +55,9 @@ Rank       Bot                       Rating     Prog       Games
 54         Demolito_L6               1956       12         162       
 55         Jobabot                   1936       -20        161       
 56         zeekat                    1934       -1         17997     
-57         michabay05                1882       -2         1431      
-58         ELO_1500                  1879       76         3106      
-59         FlounderBot               1857       -24        2735      
+57         ELO_1500                  1888       80         3107      
+58         michabay05                1882       -2         1431      
+59         FlounderBot               1856       -27        2736      
 60         QueensGamBOT              1847       0          4908      
 61         notropis                  1807       26         3648      
 62         baby_eubos                1794       2          5095      
