@@ -23,7 +23,7 @@ Rank       Bot                       Rating     Prog       Games
 22         expositor                 2530       17         6810      
 23         pawn_git                  2504       -5         2250      
 24         SaxtonEngine              2502       11         2203      
-25         bot_adario                2480       18         2087      
+25         bot_adario                2482       18         2088      
 26         OpeningsBot               2474       1          663       
 27         Weiawaga                  2469       0          11422     
 28         catriever                 2459       6          581       
@@ -37,15 +37,15 @@ Rank       Bot                       Rating     Prog       Games
 36         ELO_1500                  2296       36         12901     
 37         AjedrezChamberi           2294       110        255       
 38         simpleEval                2268       -3         14370     
-39         halcyonbot                2260       0          8868      
+39         halcyonbot                2258       0          8869      
 40         Nakshatra3                2253       3          1496      
 41         FataliiBot                2236       -27        6402      
-42         KhepriChess               2220       -25        1549      
-43         eubos                     2140       -15        13893     
-44         matmoi                    2137       6          1050      
+42         KhepriChess               2225       -25        1550      
+43         matmoi                    2137       6          1050      
+44         eubos                     2136       -15        13894     
 45         GarboBot                  2130       0          8932      
 46         jangine                   2089       11         3143      
-47         Boris-Trapsky             2078       -8         27847     
+47         Boris-Trapsky             2080       -1         27848     
 48         redtail-zero              2067       16         349       
 49         Hyperopic                 2043       1          1839      
 50         LazyBotJr                 2033       24         1523      
@@ -63,7 +63,7 @@ Rank       Bot                       Rating     Prog       Games
 62         michabay05                1897       9          561       
 63         zeekat                    1893       -10        19918     
 64         zulu_bot                  1861       -3         992       
-65         baby_eubos                1836       9          7179      
+65         baby_eubos                1834       4          7180      
 66         FlounderBot               1820       9          1340      
 67         notropis                  1794       -3         6170      
 68         Fisk_Bot                  1745       16         1484      
@@ -72,7 +72,7 @@ Rank       Bot                       Rating     Prog       Games
 71         AshNostromo               1683       -15        946       
 72         dlvc-bot                  1679       -10        1258      
 73         melsh_bot                 1679       -8         1800      
-74         maia9                     1652       -21        98803     
+74         maia9                     1645       -24        98804     
 75         yeoldwiz                  1641       14         1600      
 76         maia5                     1630       9          99512     
 77         The_Marcus                1564       28         256       
