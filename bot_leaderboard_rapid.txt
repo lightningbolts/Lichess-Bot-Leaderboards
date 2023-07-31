@@ -1,9 +1,9 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Godot           2888       15         137       
 2          Nikitosikbot              2883       16         8610      
-3          ToromBot                  2882       -4         1755      
-4          SelfLearnBOT              2881       1          113       
-5          TorBot                    2881       -4         793       
+3          SelfLearnBOT              2881       1          113       
+4          TorBot                    2881       -4         793       
+5          ToromBot                  2881       -5         1756      
 6          FireFishBOT_v2            2879       1          603       
 7          TheMatrix2025             2876       11         347       
 8          Mate-AI                   2869       -1         2414      
@@ -12,7 +12,7 @@ Rank       Bot                       Rating     Prog       Games
 11         YoBot_v2                  2863       -5         12890     
 12         EmptikBot247              2853       -3         119       
 13         TorBot_v2                 2849       1          115       
-14         LeelaMultiPoss            2846       6          207       
+14         LeelaMultiPoss            2847       7          208       
 15         chessfyBOT                2845       -7         228       
 16         ResoluteBot               2844       -6         5153      
 17         Shineshou90_BOT           2844       -8         2446      
@@ -73,7 +73,7 @@ Rank       Bot                       Rating     Prog       Games
 72         dlvc-bot                  1736       -7         80        
 73         melsh_bot                 1733       -8         216       
 74         maia9                     1722       18         82414     
-75         maia5                     1680       27         99571     
+75         maia5                     1689       37         99573     
 76         turkjs                    1674       -1         5027      
 77         HulkBot                   1666       -32        404       
 78         HardRok                   1641       27         518       
@@ -95,6 +95,6 @@ Rank       Bot                       Rating     Prog       Games
 94         pawnrobot                 1280       -21        608       
 95         schnecken_bot             1195       8          299       
 96         OhniBOT                   1160       -13        400       
-97         CHoMPBoT                  1147       13         460       
-98         sargon-1ply               1144       -11        8319      
+97         sargon-1ply               1152       -8         8320      
+98         CHoMPBoT                  1149       16         461       
 99         kireevi                   1112       27         557       
