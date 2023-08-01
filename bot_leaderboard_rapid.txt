@@ -6,7 +6,7 @@ Rank       Bot                       Rating     Prog       Games
 5          ReinforcementTrial        2877       8          4938      
 6          TorBot_v2                 2869       13         132       
 7          YoBot_v2                  2868       3          12892     
-8          ArasanX                   2867       0          5068      
+8          ArasanX                   2867       -1         5069      
 9          UltimateL                 2858       -9         326       
 10         EmptikBot247              2854       -3         122       
 11         chessfyBOT                2845       -7         228       
@@ -37,7 +37,7 @@ Rank       Bot                       Rating     Prog       Games
 36         FataliiBot                2308       -4         2523      
 37         KhepriChess               2275       5          767       
 38         ELO_1500                  2274       26         2812      
-39         Nakshatra3                2252       -9         802       
+39         Nakshatra3                2252       -3         803       
 40         RavenEngine               2242       58         364       
 41         eubos                     2215       8          4188      
 42         halcyonbot                2204       3          5901      
@@ -84,8 +84,8 @@ Rank       Bot                       Rating     Prog       Games
 83         dragobot                  1613       -233       36        
 84         sargon-3ply               1581       -16        1137      
 85         sargon-4ply               1553       16         563       
-86         TuroBot                   1501       14         3317      
-87         maia1                     1497       -3         228479    
+86         maia1                     1503       2          228481    
+87         TuroBot                   1501       14         3317      
 88         turochamp-2ply            1496       -2         1061      
 89         DavidsGuterBot            1480       8          580       
 90         sargon-2ply               1464       40         3274      
@@ -95,7 +95,7 @@ Rank       Bot                       Rating     Prog       Games
 94         Humaia                    1336       -18        2103      
 95         chat_bot                  1328       9          198       
 96         pawnrobot                 1279       -13        610       
-97         schnecken_bot             1193       14         301       
+97         schnecken_bot             1191       3          302       
 98         CHoMPBoT                  1157       27         465       
 99         OhniBOT                   1141       -18        422       
 100        sargon-1ply               1141       -13        8335      
