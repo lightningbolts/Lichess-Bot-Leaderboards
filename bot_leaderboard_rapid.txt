@@ -1,8 +1,8 @@
 Rank       Bot                       Rating     Prog       Games     
-1          SelfLearnBOT              2895       5          149       
+1          SelfLearnBOT              2895       5          150       
 2          ProteusSF-Godot           2888       15         137       
 3          ToromBot                  2878       -3         1768      
-4          ArasanX                   2873       4          5091      
+4          ArasanX                   2873       4          5092      
 5          ReinforcementTrial        2872       -4         4956      
 6          YoBot_v2                  2868       3          12892     
 7          TorBot_v2                 2865       -4         148       
@@ -23,12 +23,12 @@ Rank       Bot                       Rating     Prog       Games
 22         TuksuBot                  2447       5          1933      
 23         OpeningsBot               2428       -10        207       
 24         odonata-bot               2394       -4         3683      
-25         admete_bot                2389       5          4141      
-26         ChessNoobComp             2374       4          547       
-27         clueless-bot              2368       0          725       
+25         admete_bot                2389       1          4142      
+26         clueless-bot              2368       0          725       
+27         ChessNoobComp             2365       -13        548       
 28         RavenEngine               2332       92         372       
-29         fornax-engine             2323       7          3614      
-30         ELO_1500                  2317       30         2826      
+29         ELO_1500                  2324       33         2827      
+30         fornax-engine             2323       7          3614      
 31         simpleEval                2315       8          7477      
 32         FlamingDragon_9000        2309       -12        1216      
 33         FataliiBot                2288       -16        2529      
@@ -81,7 +81,7 @@ Rank       Bot                       Rating     Prog       Games
 80         dragobot                  1613       -233       36        
 81         sargon-3ply               1568       -25        1140      
 82         sargon-4ply               1552       9          564       
-83         maia1                     1515       30         228593    
+83         maia1                     1511       29         228594    
 84         turochamp-2ply            1498       -1         1062      
 85         DavidsGuterBot            1479       2          583       
 86         ZE_ROOK                   1463       -11        346       
