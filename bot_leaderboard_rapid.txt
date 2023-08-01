@@ -4,10 +4,10 @@ Rank       Bot                       Rating     Prog       Games
 3          Nikitosikbot              2883       16         8610      
 4          ToromBot                  2879       -3         1766      
 5          ReinforcementTrial        2877       0          4951      
-6          ArasanX                   2870       0          5084      
+6          ArasanX                   2871       6          5085      
 7          YoBot_v2                  2868       3          12892     
-8          TorBot_v2                 2866       -3         143       
-9          LeelaMultiPoss            2847       7          208       
+8          TorBot_v2                 2865       -4         144       
+9          LeelaMultiPoss            2847       6          209       
 10         chessfyBOT                2845       -7         228       
 11         ResoluteBot               2844       -6         5153      
 12         Shineshou90_BOT           2842       0          2452      
@@ -29,7 +29,7 @@ Rank       Bot                       Rating     Prog       Games
 28         admete_bot                2393       9          4139      
 29         clueless-bot              2375       -1         724       
 30         fornax-engine             2328       2          3610      
-31         simpleEval                2316       12         7475      
+31         simpleEval                2316       12         7476      
 32         FlamingDragon_9000        2309       -12        1216      
 33         RavenEngine               2308       79         370       
 34         FataliiBot                2303       -6         2527      
@@ -43,11 +43,11 @@ Rank       Bot                       Rating     Prog       Games
 42         HistoryExplorer           2162       16         1001      
 43         Elmichess                 2157       -19        1410      
 44         matmoi                    2104       -3         995       
-45         GarboBot                  2103       4          5936      
+45         GarboBot                  2096       -8         5937      
 46         redtail-zero              2094       -1         230       
 47         Hyperopic                 2079       2          350       
 48         MaxtheDog                 2074       -12        604       
-49         bcbchess                  2063       28         300       
+49         bcbchess                  2073       45         301       
 50         jangine                   2061       -6         1636      
 51         AjedrezChamberi           2057       42         110       
 52         Humaia-Strong             2043       -30        606       
@@ -75,7 +75,7 @@ Rank       Bot                       Rating     Prog       Games
 74         melsh_bot                 1732       -4         219       
 75         turkjs                    1672       -3         5030      
 76         HulkBot                   1666       -32        404       
-77         maia9                     1657       -13        82543     
+77         maia9                     1663       -6         82544     
 78         simplexitor               1647       -22        461       
 79         HardRok                   1645       6          527       
 80         yeoldwiz                  1637       16         634       
