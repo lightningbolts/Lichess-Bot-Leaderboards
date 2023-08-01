@@ -19,7 +19,7 @@ Rank       Bot                       Rating     Prog       Games
 18         SaxtonEngine              2509       10         2207      
 19         pawn_git                  2504       -5         2256      
 20         bot_adario                2476       11         2092      
-21         OpeningsBot               2472       -4         665       
+21         OpeningsBot               2475       -3         666       
 22         catriever                 2468       11         584       
 23         Weiawaga                  2441       -26        11428     
 24         odonata-bot               2419       10         5882      
@@ -31,8 +31,8 @@ Rank       Bot                       Rating     Prog       Games
 30         FlamingDragon_9000        2323       19         3331      
 31         ELO_1500                  2301       19         12907     
 32         Nakshatra3                2253       1          1498      
-33         KhepriChess               2239       12         1562      
-34         halcyonbot                2234       -19        8887      
+33         halcyonbot                2232       -17        8888      
+34         KhepriChess               2229       -1         1563      
 35         FataliiBot                2223       -37        6405      
 36         eubos                     2155       4          13911     
 37         matmoi                    2128       -5         1060      
@@ -52,8 +52,8 @@ Rank       Bot                       Rating     Prog       Games
 51         Humaia-Strong             1975       -31        2355      
 52         cbot801                   1963       -41        21        
 53         MaxtheDog                 1963       -12        4074      
-54         Jobabot                   1953       12         153       
-55         LTChessBot                1945       64         212       
+54         LTChessBot                1955       75         213       
+55         Jobabot                   1953       12         153       
 56         Melphess                  1914       115        43        
 57         zeekat                    1909       -9         19945     
 58         michabay05                1894       -4         576       
@@ -78,7 +78,7 @@ Rank       Bot                       Rating     Prog       Games
 77         sargon-3ply               1510       -5         1754      
 78         sargon-4ply               1505       -18        1829      
 79         ZE_ROOK                   1499       -25        2501      
-80         maia1                     1493       7          204778    
+80         maia1                     1488       1          204781    
 81         RoundMoundOfRebounds      1466       2          1170      
 82         DavidsGuterBot            1450       -17        3405      
 83         chat_bot                  1449       -51        235       
@@ -95,5 +95,6 @@ Rank       Bot                       Rating     Prog       Games
 94         OhniBOT                   1188       -8         312       
 95         sargon-1ply               1173       -22        7677      
 96         HulkBot                   1137       -46        672       
-97         knucklefish               1081       -16        3135      
-98         CHoMPBoT                  1057       -8         1532      
+97         TemporAI                  1136       11         88        
+98         knucklefish               1081       -16        3135      
+99         CHoMPBoT                  1057       -8         1532      
