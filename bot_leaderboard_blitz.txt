@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Godot           2882       0          557       
 2          YoBot_v2                  2874       -1         3408      
-3          ToromBot                  2862       0          2871      
+3          LeelaMultiPoss            2865       2          201       
 4          Nikitosikbot              2836       0          5820      
 5          TorBot_v2                 2832       9          77        
 6          faith_bot                 2830       -11        662       
@@ -15,7 +15,7 @@ Rank       Bot                       Rating     Prog       Games
 14         LazyBot                   2762       2          2000      
 15         RaspFish                  2756       -14        10951     
 16         CodingAdventureBot        2675       1          3149      
-17         AKS-Mantissa              2583       3          9253      
+17         AKS-Mantissa              2585       7          9254      
 18         expositor                 2534       10         6814      
 19         pawn_git                  2504       -5         2256      
 20         bot_adario                2477       11         2093      
@@ -31,7 +31,7 @@ Rank       Bot                       Rating     Prog       Games
 30         RavenEngine               2314       -55        1554      
 31         ELO_1500                  2311       24         12909     
 32         simpleEval                2265       -2         14374     
-33         Nakshatra3                2253       1          1498      
+33         Nakshatra3                2251       -5         1499      
 34         halcyonbot                2232       -17        8888      
 35         FataliiBot                2227       -25        6406      
 36         KhepriChess               2224       -9         1566      
@@ -60,12 +60,12 @@ Rank       Bot                       Rating     Prog       Games
 59         michabay05                1890       -16        577       
 60         zulu_bot                  1861       -3         992       
 61         Demolito_L6               1848       -24        239       
-62         FlounderBot               1840       17         1353      
+62         FlounderBot               1844       20         1354      
 63         baby_eubos                1823       -10        7195      
 64         notropis                  1793       1          6179      
 65         Fisk_Bot                  1748       14         1485      
 66         QueensGamBOT              1747       13         2866      
-67         Demolito_L5               1737       -4         942       
+67         Demolito_L5               1733       0          943       
 68         piglet_engine             1701       6          78        
 69         AshNostromo               1680       -13        949       
 70         dlvc-bot                  1679       -10        1258      
@@ -79,11 +79,11 @@ Rank       Bot                       Rating     Prog       Games
 78         sargon-3ply               1510       -5         1754      
 79         sargon-4ply               1505       -18        1829      
 80         ZE_ROOK                   1499       -25        2501      
-81         maia1                     1486       -9         204788    
+81         maia1                     1475       -23        204790    
 82         RoundMoundOfRebounds      1466       2          1170      
 83         DavidsGuterBot            1450       -17        3405      
 84         chat_bot                  1449       -51        235       
-85         TuroBot                   1431       5          4969      
+85         TuroBot                   1426       -15        4970      
 86         turochamp-2ply            1426       -5         1596      
 87         monchester                1387       -17        2650      
 88         StupidChessRobot          1369       7          745       
@@ -95,7 +95,7 @@ Rank       Bot                       Rating     Prog       Games
 94         schnecken_bot             1228       28         1920      
 95         OhniBOT                   1188       -8         312       
 96         sargon-1ply               1168       -25        7678      
-97         TemporAI                  1141       16         91        
+97         TemporAI                  1144       24         92        
 98         HulkBot                   1137       -46        672       
 99         knucklefish               1081       -16        3135      
 100        CHoMPBoT                  1069       1          1534      
