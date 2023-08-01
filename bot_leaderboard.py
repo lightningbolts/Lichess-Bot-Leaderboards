@@ -42,6 +42,8 @@ def get_bot_ratings_online(type):
         'SamuraiX_v1',
         'YellowFlash_v2',
         'NikitosikVariantsbot',
+        'CodingAdventureBot',
+        'NikitosikBot',
         'Anand_Bot',
         'GHDES',
         'caissa-test', 
