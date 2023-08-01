@@ -20,10 +20,10 @@ Rank       Bot                       Rating     Prog       Games
 19         KyoukoEngine              2490       208        25        
 20         expositor                 2481       -14        19257     
 21         AKS-Mantissa              2474       1          10368     
-22         Weiawaga                  2457       -2         15018     
-23         pawn_git                  2451       -4         3780      
+22         pawn_git                  2451       -4         3780      
+23         Weiawaga                  2451       -11        15019     
 24         bot_adario                2438       -4         2362      
-25         OpeningsBot               2414       -15        456       
+25         OpeningsBot               2421       -1         457       
 26         catriever                 2395       17         1448      
 27         admete_bot                2393       -21        6022      
 28         odonata-bot               2391       2          6159      
@@ -38,7 +38,7 @@ Rank       Bot                       Rating     Prog       Games
 37         Nakshatra3                2249       -1         1447      
 38         halcyonbot                2243       -36        5000      
 39         WasterNew                 2208       -20        232       
-40         LTChessBot                2193       10         367       
+40         LTChessBot                2197       17         368       
 41         jangine                   2140       6          2752      
 42         matmoi                    2136       -17        1442      
 43         GarboBot                  2135       -2         9384      
@@ -50,7 +50,7 @@ Rank       Bot                       Rating     Prog       Games
 49         bcbchess                  2062       -12        675       
 50         Hyperopic                 2062       17         1470      
 51         LeaMoreau                 2046       25         273       
-52         BLANK_BOT                 2034       17         7099      
+52         BLANK_BOT                 2030       16         7100      
 53         Nc3Nc6Bot                 2030       -17        896       
 54         myopic-bot                2023       10         1685      
 55         MaxtheDog                 2013       -10        13521     
@@ -87,10 +87,10 @@ Rank       Bot                       Rating     Prog       Games
 86         turochamp-1ply            1519       -10        1800      
 87         sargon-2ply               1490       4          2085      
 88         RoundMoundOfRebounds      1486       -12        1230      
-89         monchester                1469       -1         2345      
+89         monchester                1474       5          2346      
 90         yeoldwiz                  1450       18         791       
-91         StupidChessRobot          1428       -1         332       
-92         botTideEval               1426       6          1083      
+91         botTideEval               1427       4          1085      
+92         StupidChessRobot          1423       -4         333       
 93         sargon-1ply               1411       -24        4167      
 94         schnecken_bot             1356       4          895       
 95         OhniBOT                   1329       37         490       
