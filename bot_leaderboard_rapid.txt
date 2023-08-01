@@ -28,7 +28,7 @@ Rank       Bot                       Rating     Prog       Games
 27         odonata-bot               2396       -6         3680      
 28         admete_bot                2393       9          4139      
 29         clueless-bot              2376       3          723       
-30         DQN-chess                 2326       1          926       
+30         DQN-chess                 2325       -1         927       
 31         fornax-engine             2325       -3         3609      
 32         simpleEval                2316       15         7474      
 33         FlamingDragon_9000        2309       -12        1216      
@@ -37,14 +37,14 @@ Rank       Bot                       Rating     Prog       Games
 36         RavenEngine               2293       58         369       
 37         WasterNew                 2259       -39        89        
 38         KhepriChess               2253       -22        778       
-39         Nakshatra3                2252       -2         806       
+39         Nakshatra3                2253       -3         807       
 40         halcyonbot                2220       13         5913      
 41         eubos                     2215       8          4188      
 42         Boris-Trapsky             2170       29         27291     
 43         HistoryExplorer           2159       -1         999       
 44         Elmichess                 2156       -19        1409      
 45         GarboBot                  2107       14         5934      
-46         matmoi                    2102       -8         994       
+46         matmoi                    2104       -3         995       
 47         redtail-zero              2094       -1         230       
 48         Hyperopic                 2079       2          350       
 49         MaxtheDog                 2074       -12        604       
@@ -63,7 +63,7 @@ Rank       Bot                       Rating     Prog       Games
 62         myopic-bot                1949       5          304       
 63         Jobabot                   1946       -4         65        
 64         michabay05                1906       -12        64        
-65         Demolito_L6               1902       -15        151       
+65         Demolito_L6               1899       -14        152       
 66         Ptit-biscuit              1864       -28        72        
 67         notropis                  1861       -4         2171      
 68         Fisk_Bot                  1813       -19        224       
@@ -79,7 +79,7 @@ Rank       Bot                       Rating     Prog       Games
 78         simplexitor               1647       -22        461       
 79         HardRok                   1645       6          527       
 80         yeoldwiz                  1637       16         634       
-81         maia5                     1624       21         99727     
+81         maia5                     1631       22         99728     
 82         dragobot                  1613       -233       36        
 83         The_Marcus                1613       -8         22        
 84         sargon-3ply               1568       -25        1140      
@@ -90,7 +90,7 @@ Rank       Bot                       Rating     Prog       Games
 89         ZE_ROOK                   1463       -9         345       
 90         sargon-2ply               1459       13         3277      
 91         RoundMoundOfRebounds      1426       -41        331       
-92         maia1                     1413       2          228550    
+92         maia1                     1420       -1         228551    
 93         StupidChessRobot          1392       -67        26        
 94         turochamp-1ply            1388       -19        1532      
 95         Humaia                    1337       -4         2111      
@@ -101,3 +101,4 @@ Rank       Bot                       Rating     Prog       Games
 100        CHoMPBoT                  1158       24         468       
 101        OhniBOT                   1132       -9         433       
 102        kireevi                   1112       27         557       
+103        G0thamB0t                 796        75         264       
