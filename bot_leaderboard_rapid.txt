@@ -4,7 +4,7 @@ Rank       Bot                       Rating     Prog       Games
 3          Nikitosikbot              2883       16         8610      
 4          ToromBot                  2881       -2         1763      
 5          ReinforcementTrial        2880       3          4947      
-6          TorBot_v2                 2868       1          139       
+6          TorBot_v2                 2870       2          140       
 7          YoBot_v2                  2868       3          12892     
 8          ArasanX                   2866       0          5077      
 9          EmptikBot247              2855       -2         124       
@@ -17,7 +17,7 @@ Rank       Bot                       Rating     Prog       Games
 16         MrChessTheBot             2809       -5         2105      
 17         blundar_bot               2788       -16        1011      
 18         CodingAdventureBot        2621       -8         204       
-19         AKS-Mantissa              2602       -4         4000      
+19         AKS-Mantissa              2600       -4         4001      
 20         expositor                 2598       9          4467      
 21         LazyBot                   2598       -23        721       
 22         catriever                 2538       13         165       
@@ -29,7 +29,7 @@ Rank       Bot                       Rating     Prog       Games
 28         admete_bot                2393       9          4139      
 29         odonata-bot               2391       -7         3679      
 30         clueless-bot              2367       -7         721       
-31         DQN-chess                 2331       17         921       
+31         DQN-chess                 2333       17         922       
 32         fornax-engine             2321       -10        3608      
 33         simpleEval                2316       15         7474      
 34         FlamingDragon_9000        2309       -12        1216      
@@ -62,7 +62,7 @@ Rank       Bot                       Rating     Prog       Games
 61         Nc3Nc6Bot                 1971       -10        1396      
 62         baby_eubos                1953       11         872       
 63         myopic-bot                1949       5          304       
-64         Jobabot                   1944       -7         63        
+64         Jobabot                   1943       -3         64        
 65         michabay05                1906       -12        64        
 66         Demolito_L6               1905       -8         150       
 67         Ptit-biscuit              1864       -28        72        
@@ -82,7 +82,7 @@ Rank       Bot                       Rating     Prog       Games
 81         yeoldwiz                  1637       16         634       
 82         dragobot                  1613       -233       36        
 83         The_Marcus                1613       -8         22        
-84         maia5                     1611       -26        99715     
+84         maia5                     1603       -31        99716     
 85         sargon-3ply               1573       -23        1139      
 86         sargon-4ply               1552       9          564       
 87         TuroBot                   1509       32         3319      
@@ -90,7 +90,7 @@ Rank       Bot                       Rating     Prog       Games
 89         DavidsGuterBot            1480       8          580       
 90         sargon-2ply               1467       29         3276      
 91         ZE_ROOK                   1463       -9         345       
-92         maia1                     1437       -25        228522    
+92         maia1                     1432       -38        228523    
 93         RoundMoundOfRebounds      1426       -41        331       
 94         StupidChessRobot          1392       -67        26        
 95         turochamp-1ply            1388       -19        1532      
@@ -100,5 +100,6 @@ Rank       Bot                       Rating     Prog       Games
 99         schnecken_bot             1196       4          303       
 100        CHoMPBoT                  1164       35         466       
 101        sargon-1ply               1160       19         8346      
-102        OhniBOT                   1133       -9         432       
+102        OhniBOT                   1132       -9         433       
 103        kireevi                   1112       27         557       
+104        G0thamB0t                 796        75         264       
