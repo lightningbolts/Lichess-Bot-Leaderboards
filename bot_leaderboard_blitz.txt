@@ -17,7 +17,7 @@ Rank       Bot                       Rating     Prog       Games
 16         pawn_git                  2510       4          2258      
 17         bot_adario                2477       0          2097      
 18         OpeningsBot               2477       1          672       
-19         catriever                 2461       11         588       
+19         catriever                 2463       7          589       
 20         Weiawaga                  2449       4          11440     
 21         odonata-bot               2419       -3         5886      
 22         TuksuBot                  2389       -16        3818      
@@ -32,10 +32,10 @@ Rank       Bot                       Rating     Prog       Games
 31         Nakshatra3                2260       9          1508      
 32         FataliiBot                2230       -6         6425      
 33         KhepriChess               2224       -4         1587      
-34         halcyonbot                2209       10         8917      
+34         halcyonbot                2211       11         8919      
 35         matmoi                    2137       12         1091      
 36         eubos                     2122       -2         13946     
-37         GarboBot                  2113       -11        8947      
+37         GarboBot                  2109       -6         8948      
 38         Hyperopic                 2102       4          1946      
 39         redtail-zero              2083       15         356       
 40         jangine                   2081       -8         3154      
@@ -74,14 +74,14 @@ Rank       Bot                       Rating     Prog       Games
 73         The_Marcus                1615       -5         308       
 74         maia9                     1612       -4         98905     
 75         Dummyette                 1532       -21        2625      
-76         sargon-3ply               1509       -9         1757      
-77         sargon-4ply               1508       -10        1832      
-78         ZE_ROOK                   1507       11         2513      
+76         sargon-4ply               1514       -2         1833      
+77         sargon-3ply               1509       -9         1757      
+78         ZE_ROOK                   1501       5          2514      
 79         thicc_gopher              1477       51         196       
 80         DavidsGuterBot            1461       7          3412      
 81         RoundMoundOfRebounds      1461       1          1176      
 82         chat_bot                  1449       -51        235       
-83         maia1                     1426       10         204970    
+83         maia1                     1431       5          204972    
 84         turochamp-2ply            1414       -18        1601      
 85         monchester                1382       -12        2652      
 86         Humaia                    1355       27         856       
@@ -95,4 +95,4 @@ Rank       Bot                       Rating     Prog       Games
 94         OhniBOT                   1180       6          314       
 95         HulkBot                   1137       -46        672       
 96         knucklefish               1074       -7         3140      
-97         CHoMPBoT                  1064       -4         1546      
+97         CHoMPBoT                  1068       -1         1547      
