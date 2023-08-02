@@ -2,7 +2,7 @@ Rank       Bot                       Rating     Prog       Games
 1          ProteusSF-Godot           2942       2          1411      
 2          LeelaMultiPoss            2905       4          546       
 3          ResoluteBot               2887       -4         24791     
-4          ToromBot                  2879       -4         59488     
+4          ToromBot                  2879       -8         59489     
 5          UltimateL                 2875       -4         1556      
 6          YoBot_v2                  2870       -6         17485     
 7          TorBot_v2                 2863       -15        182       
@@ -12,7 +12,7 @@ Rank       Bot                       Rating     Prog       Games
 11         blundar_bot               2705       -12        5018      
 12         bluefake                  2704       -35        36        
 13         LazyBot                   2701       -9         1404      
-14         MrChessTheBot             2584       0          5383      
+14         MrChessTheBot             2563       -26        5387      
 15         FlamingDragon_9000        2524       -5         10619     
 16         Elmichess                 2498       -9         3200      
 17         expositor                 2496       8          19286     
@@ -20,7 +20,7 @@ Rank       Bot                       Rating     Prog       Games
 19         bot_adario                2446       8          2373      
 20         Weiawaga                  2446       -2         15032     
 21         pawn_git                  2442       -7         3793      
-22         OpeningsBot               2418       1          471       
+22         OpeningsBot               2417       1          472       
 23         catriever                 2394       6          1456      
 24         admete_bot                2386       -16        6031      
 25         odonata-bot               2383       -6         6167      
@@ -53,8 +53,8 @@ Rank       Bot                       Rating     Prog       Games
 52         Jobabot                   1968       9          226       
 53         Lynx_BOT                  1935       -17        6164      
 54         Demolito_L6               1889       -17        204       
-55         zeekat                    1884       -18        18096     
-56         michabay05                1882       -20        1559      
+55         zeekat                    1884       -23        18097     
+56         michabay05                1882       -17        1560      
 57         QueensGamBOT              1874       32         4954      
 58         FlounderBot               1851       16         2924      
 59         Ptit-biscuit              1842       -19        602       
