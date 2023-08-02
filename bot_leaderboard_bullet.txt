@@ -11,8 +11,8 @@ Rank       Bot                       Rating     Prog       Games
 10         blundar_bot               2707       -5         5019      
 11         LazyBot                   2701       -9         1404      
 12         faith_bot                 2665       7          3034      
-13         MrChessTheBot             2561       -26        5388      
-14         StormphraxEngine          2559       132        30        
+13         StormphraxEngine          2568       116        31        
+14         MrChessTheBot             2561       -26        5388      
 15         FlamingDragon_9000        2524       -5         10619     
 16         Elmichess                 2498       -9         3200      
 17         expositor                 2497       5          19287     
@@ -27,7 +27,7 @@ Rank       Bot                       Rating     Prog       Games
 26         clueless-bot              2372       21         6991      
 27         ChessNoobComp             2354       -4         9453      
 28         AjedrezChamberi           2341       13         526       
-29         TuksuBot                  2335       -20        6679      
+29         TuksuBot                  2332       -18        6680      
 30         fornax-engine             2316       8          6772      
 31         RavenEngine               2308       -21        8983      
 32         simpleEval                2283       -22        24845     
@@ -36,8 +36,8 @@ Rank       Bot                       Rating     Prog       Games
 35         Nakshatra3                2259       12         1454      
 36         halcyonbot                2241       2          5018      
 37         HistoryExplorer           2211       11         2449      
-38         GarboBot                  2135       -2         9384      
-39         jangine                   2134       -7         2764      
+38         jangine                   2136       -9         2765      
+39         GarboBot                  2135       -2         9384      
 40         matmoi                    2130       -2         1478      
 41         ELO_1500                  2119       42         3154      
 42         eubos                     2113       16         12287     
@@ -57,7 +57,7 @@ Rank       Bot                       Rating     Prog       Games
 56         michabay05                1888       -18        1561      
 57         zeekat                    1884       -23        18097     
 58         QueensGamBOT              1872       27         4955      
-59         FlounderBot               1851       5          2930      
+59         FlounderBot               1849       -4         2931      
 60         Ptit-biscuit              1842       -19        602       
 61         YouSafeBOT                1814       97         63        
 62         Demolito_L5               1778       -1         675       
@@ -83,10 +83,10 @@ Rank       Bot                       Rating     Prog       Games
 82         turochamp-1ply            1527       9          1815      
 83         monchester                1497       4          2362      
 84         sargon-2ply               1495       8          2104      
-85         RoundMoundOfRebounds      1469       17         1249      
+85         RoundMoundOfRebounds      1473       28         1250      
 86         yeoldwiz                  1450       18         791       
 87         StupidChessRobot          1436       21         362       
-88         botTideEval               1409       -38        1180      
+88         botTideEval               1404       -36        1181      
 89         sargon-1ply               1392       -6         4195      
 90         schnecken_bot             1388       18         919       
 91         OhniBOT                   1329       37         490       
