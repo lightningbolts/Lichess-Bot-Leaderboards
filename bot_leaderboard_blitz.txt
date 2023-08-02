@@ -20,7 +20,7 @@ Rank       Bot                       Rating     Prog       Games
 19         OpeningsBot               2477       1          672       
 20         catriever                 2463       7          589       
 21         Weiawaga                  2449       4          11440     
-22         odonata-bot               2419       -3         5886      
+22         odonata-bot               2422       -1         5887      
 23         TuksuBot                  2389       -16        3818      
 24         admete_bot                2379       -14        6267      
 25         ChessNoobComp             2367       1          1520      
@@ -31,7 +31,7 @@ Rank       Bot                       Rating     Prog       Games
 30         RavenEngine               2321       7          1565      
 31         Nakshatra3                2260       9          1508      
 32         simpleEval                2259       -9         14379     
-33         FataliiBot                2230       -6         6425      
+33         FataliiBot                2227       -13        6426      
 34         KhepriChess               2224       -4         1587      
 35         halcyonbot                2217       10         8921      
 36         DQN-chess                 2210       42         201       
@@ -65,7 +65,7 @@ Rank       Bot                       Rating     Prog       Games
 64         notropis                  1795       -13        6194      
 65         Fisk_Bot                  1748       14         1485      
 66         QueensGamBOT              1735       19         2872      
-67         Demolito_L5               1709       -10        965       
+67         Demolito_L5               1711       -4         966       
 68         melsh_bot                 1696       20         1816      
 69         piglet_engine             1688       -14        86        
 70         AshNostromo               1679       -9         952       
@@ -82,11 +82,11 @@ Rank       Bot                       Rating     Prog       Games
 81         ZE_ROOK                   1495       -5         2515      
 82         DavidsGuterBot            1464       7          3413      
 83         RoundMoundOfRebounds      1461       1          1176      
-84         chat_bot                  1449       -51        235       
-85         maia1                     1441       -16        204988    
+84         maia1                     1455       7          204990    
+85         chat_bot                  1449       -51        235       
 86         turochamp-2ply            1414       -18        1601      
 87         monchester                1376       -13        2653      
-88         StupidChessRobot          1357       -3         769       
+88         StupidChessRobot          1356       3          770       
 89         Humaia                    1355       27         856       
 90         sargon-2ply               1283       -1         2944      
 91         pawnrobot                 1275       34         1978      
