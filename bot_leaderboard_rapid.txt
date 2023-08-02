@@ -17,7 +17,7 @@ Rank       Bot                       Rating     Prog       Games
 16         expositor                 2604       20         4470      
 17         LazyBot                   2598       -23        721       
 18         catriever                 2537       6          168       
-19         Weiawaga                  2532       -8         9745      
+19         Weiawaga                  2535       -2         9746      
 20         pawn_git                  2528       0          1203      
 21         bot_adario                2483       22         1293      
 22         TuksuBot                  2447       7          1936      
@@ -30,7 +30,7 @@ Rank       Bot                       Rating     Prog       Games
 29         ELO_1500                  2338       44         2832      
 30         DQN-chess                 2322       -14        935       
 31         fornax-engine             2321       3          3615      
-32         simpleEval                2314       3          7479      
+32         simpleEval                2311       -5         7480      
 33         FlamingDragon_9000        2309       -12        1216      
 34         FataliiBot                2281       -30        2531      
 35         Nakshatra3                2256       1          810       
@@ -55,12 +55,12 @@ Rank       Bot                       Rating     Prog       Games
 54         LeelaRogue                1976       -2         2201      
 55         LazyBotJr                 1974       -29        1254      
 56         Nc3Nc6Bot                 1962       -6         1411      
-57         Jobabot                   1953       -2         67        
-58         zeekat                    1949       -24        8120      
+57         zeekat                    1954       -14        8121      
+58         Jobabot                   1953       -2         67        
 59         baby_eubos                1947       -4         874       
 60         myopic-bot                1945       -3         305       
 61         michabay05                1919       8          67        
-62         Demolito_L6               1895       0          164       
+62         Demolito_L6               1890       0          165       
 63         Ptit-biscuit              1860       -16        76        
 64         notropis                  1846       -18        2177      
 65         Fisk_Bot                  1813       -19        224       
@@ -72,9 +72,9 @@ Rank       Bot                       Rating     Prog       Games
 71         melsh_bot                 1726       -1         221       
 72         HulkBot                   1666       -32        404       
 73         Dummyette                 1652       1          2913      
-74         yeoldwiz                  1637       16         634       
-75         maia9                     1635       1          82600     
-76         maia5                     1629       -8         99794     
+74         maia5                     1638       3          99798     
+75         yeoldwiz                  1637       16         634       
+76         maia9                     1635       1          82600     
 77         The_Marcus                1623       10         23        
 78         dragobot                  1613       -233       36        
 79         thicc_gopher              1562       29         34        
