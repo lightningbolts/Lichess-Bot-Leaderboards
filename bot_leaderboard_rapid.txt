@@ -38,7 +38,7 @@ Rank       Bot                       Rating     Prog       Games
 37         Boris-Trapsky             2215       52         27300     
 38         eubos                     2215       4          4189      
 39         Elmichess                 2157       -19        1410      
-40         matmoi                    2117       9          1000      
+40         matmoi                    2121       16         1001      
 41         bcbchess                  2100       41         307       
 42         GarboBot                  2096       -8         5937      
 43         redtail-zero              2088       -13        231       
@@ -46,7 +46,7 @@ Rank       Bot                       Rating     Prog       Games
 45         MaxtheDog                 2068       -8         606       
 46         jangine                   2061       -6         1636      
 47         Humaia-Strong             2043       -30        606       
-48         Lynx_BOT                  2031       8          39489     
+48         Lynx_BOT                  2026       7          39490     
 49         hans68Bot                 2014       18         83        
 50         LeaMoreau                 2011       -10        256       
 51         BLANK_BOT                 1984       -2         1494      
@@ -68,7 +68,7 @@ Rank       Bot                       Rating     Prog       Games
 67         Demolito_L5               1738       -14        661       
 68         dlvc-bot                  1736       -7         80        
 69         melsh_bot                 1732       -4         219       
-70         maia9                     1676       -23        82566     
+70         maia9                     1683       -21        82567     
 71         HulkBot                   1666       -32        404       
 72         simplexitor               1654       -19        462       
 73         Dummyette                 1649       2          2910      
@@ -76,7 +76,7 @@ Rank       Bot                       Rating     Prog       Games
 75         yeoldwiz                  1637       16         634       
 76         The_Marcus                1623       10         23        
 77         dragobot                  1613       -233       36        
-78         maia5                     1607       -24        99758     
+78         maia5                     1612       -12        99759     
 79         sargon-3ply               1568       -25        1140      
 80         sargon-4ply               1552       9          564       
 81         maia1                     1498       5          228597    
@@ -95,4 +95,3 @@ Rank       Bot                       Rating     Prog       Games
 94         CHoMPBoT                  1158       16         469       
 95         OhniBOT                   1132       -9         433       
 96         kireevi                   1112       27         557       
-97         G0thamB0t                 796        75         264       
