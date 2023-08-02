@@ -2,7 +2,7 @@ Rank       Bot                       Rating     Prog       Games
 1          ProteusSF-Godot           2888       15         137       
 2          ToromBot                  2878       -3         1768      
 3          ReinforcementTrial        2874       -7         4961      
-4          ArasanX                   2871       0          5099      
+4          ArasanX                   2871       -1         5100      
 5          YoBot_v2                  2868       3          12892     
 6          TorBot_v2                 2864       -3         153       
 7          LeelaMultiPoss            2847       6          210       
@@ -25,7 +25,7 @@ Rank       Bot                       Rating     Prog       Games
 24         admete_bot                2389       1          4142      
 25         ChessNoobComp             2370       -3         549       
 26         clueless-bot              2368       0          725       
-27         RavenEngine               2343       105        374       
+27         RavenEngine               2341       99         375       
 28         ELO_1500                  2329       35         2830      
 29         fornax-engine             2321       3          3615      
 30         simpleEval                2314       8          7478      
@@ -68,7 +68,7 @@ Rank       Bot                       Rating     Prog       Games
 67         HulkBot                   1666       -32        404       
 68         simplexitor               1654       -19        462       
 69         Dummyette                 1649       2          2910      
-70         maia9                     1644       -23        82582     
+70         maia9                     1640       -22        82583     
 71         yeoldwiz                  1637       16         634       
 72         maia5                     1625       20         99772     
 73         The_Marcus                1623       10         23        
@@ -76,7 +76,7 @@ Rank       Bot                       Rating     Prog       Games
 75         sargon-3ply               1556       -42        1143      
 76         thicc_gopher              1549       53         18        
 77         sargon-4ply               1548       -2         565       
-78         maia1                     1503       -8         228605    
+78         maia1                     1500       -6         228606    
 79         turochamp-2ply            1491       -16        1063      
 80         DavidsGuterBot            1479       2          583       
 81         ZE_ROOK                   1463       -14        349       
