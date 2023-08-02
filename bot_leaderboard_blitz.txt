@@ -29,7 +29,7 @@ Rank       Bot                       Rating     Prog       Games
 28         clueless-bot              2352       14         2747      
 29         RavenEngine               2326       19         1568      
 30         FlamingDragon_9000        2323       19         3331      
-31         iPrimeSE-BOT              2314       166        92        
+31         iPrimeSE-BOT              2323       58         95        
 32         AjedrezChamberi           2294       110        255       
 33         simpleEval                2262       -2         14402     
 34         KhepriChess               2233       7          1596      
@@ -40,17 +40,17 @@ Rank       Bot                       Rating     Prog       Games
 39         LazyBotJr                 2207       44         1644      
 40         matmoi                    2140       -9         1114      
 41         bcbchess                  2132       -20        774       
-42         GarboBot                  2126       14         8957      
-43         eubos                     2125       1          13968     
+42         eubos                     2129       10         13969     
+43         GarboBot                  2126       14         8957      
 44         Hyperopic                 2102       4          1946      
 45         jangine                   2087       -8         3155      
 46         redtail-zero              2084       24         358       
 47         Boris-Trapsky             2050       -14        27883     
-48         Elmichess                 2011       -32        3495      
+48         Elmichess                 2013       -22        3496      
 49         myopic-bot                1999       -6         1707      
 50         LeelaRogue                1997       28         2235      
-51         BLANK_BOT                 1995       10         4570      
-52         LeaMoreau                 1991       -9         266       
+51         BLANK_BOT                 1991       3          4571      
+52         LeaMoreau                 1990       -11        267       
 53         MaxtheDog                 1985       27         4110      
 54         Lynx_BOT                  1982       -2         48416     
 55         Humaia-Strong             1981       2          2360      
@@ -91,7 +91,7 @@ Rank       Bot                       Rating     Prog       Games
 90         ZE_ROOK                   1456       -29        2528      
 91         chat_bot                  1449       -51        235       
 92         TuroBot                   1444       0          4978      
-93         maia1                     1427       8          205152    
+93         maia1                     1427       -3         205153    
 94         turochamp-2ply            1414       -18        1601      
 95         monchester                1379       -14        2656      
 96         StupidChessRobot          1366       -4         790       
@@ -103,5 +103,5 @@ Rank       Bot                       Rating     Prog       Games
 102        OhniBOT                   1194       10         315       
 103        sargon-1ply               1182       -23        7707      
 104        HulkBot                   1137       -46        672       
-105        knucklefish               1078       6          3143      
+105        knucklefish               1078       2          3144      
 106        CHoMPBoT                  1075       11         1557      
