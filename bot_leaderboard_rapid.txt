@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          SelfLearnBOT              2891       -4         161       
 2          ProteusSF-Godot           2888       15         137       
-3          TorBot_v2                 2867       3          165       
+3          TorBot_v2                 2866       2          166       
 4          YoBot_v2                  2866       7          12899     
 5          ReinforcementTrial        2865       3          4977      
 6          chessfyBOT                2845       -7         228       
@@ -10,7 +10,7 @@ Rank       Bot                       Rating     Prog       Games
 9          faith_bot                 2836       -7         696       
 10         LeelaMultiPoss            2836       -6         211       
 11         RaspFish                  2817       -11        5436      
-12         MrChessTheBot             2802       -6         2115      
+12         MrChessTheBot             2803       -6         2116      
 13         blundar_bot               2788       -20        1015      
 14         AKS-Mantissa              2613       5          4007      
 15         expositor                 2604       6          4473      
@@ -36,8 +36,8 @@ Rank       Bot                       Rating     Prog       Games
 35         halcyonbot                2217       1          5945      
 36         eubos                     2209       5          4192      
 37         Boris-Trapsky             2191       -26        27319     
-38         HistoryExplorer           2164       23         1004      
-39         Elmichess                 2157       -19        1410      
+38         Elmichess                 2157       -19        1410      
+39         HistoryExplorer           2156       11         1005      
 40         matmoi                    2152       14         1022      
 41         GarboBot                  2100       -18        5942      
 42         Hyperopic                 2079       2          350       
@@ -46,7 +46,7 @@ Rank       Bot                       Rating     Prog       Games
 45         MaxtheDog                 2058       -23        610       
 46         AjedrezChamberi           2057       42         110       
 47         Humaia-Strong             2043       -30        606       
-48         LeaMoreau                 2034       9          272       
+48         LeaMoreau                 2042       21         273       
 49         Lynx_BOT                  2033       15         39497     
 50         BLANK_BOT                 1985       -5         1500      
 51         LazyBotJr                 1974       -29        1254      
@@ -74,8 +74,8 @@ Rank       Bot                       Rating     Prog       Games
 73         HulkBot                   1666       -32        404       
 74         Dummyette                 1652       1          2913      
 75         HardRok                   1650       5          538       
-76         maia5                     1637       0          99905     
-77         yeoldwiz                  1637       16         634       
+76         yeoldwiz                  1637       16         634       
+77         maia5                     1635       6          99906     
 78         The_Marcus                1623       10         23        
 79         dragobot                  1613       -233       36        
 80         sargon-3ply               1564       -20        1147      
@@ -84,7 +84,7 @@ Rank       Bot                       Rating     Prog       Games
 83         turochamp-2ply            1496       -11        1066      
 84         ZE_ROOK                   1481       17         360       
 85         DavidsGuterBot            1465       -18        587       
-86         maia1                     1452       -11        228731    
+86         maia1                     1452       -1         228733    
 87         sargon-2ply               1449       -14        3286      
 88         RoundMoundOfRebounds      1436       -12        334       
 89         StupidChessRobot          1403       -44        28        
