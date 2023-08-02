@@ -23,7 +23,7 @@ Rank       Bot                       Rating     Prog       Games
 22         bot_adario                2488       24         1295      
 23         OpeningsBot               2440       6          211       
 24         TuksuBot                  2439       -9         1942      
-25         admete_bot                2398       9          4147      
+25         admete_bot                2398       9          4148      
 26         odonata-bot               2398       -6         3685      
 27         Wahoo_Bot                 2379       47         71        
 28         clueless-bot              2367       3          728       
@@ -77,7 +77,7 @@ Rank       Bot                       Rating     Prog       Games
 76         Dummyette                 1652       1          2913      
 77         HardRok                   1650       5          538       
 78         yeoldwiz                  1637       16         634       
-79         maia5                     1628       0          99898     
+79         maia5                     1629       -17        99901     
 80         The_Marcus                1623       10         23        
 81         dragobot                  1613       -233       36        
 82         sargon-3ply               1564       -20        1147      
@@ -90,7 +90,7 @@ Rank       Bot                       Rating     Prog       Games
 89         sargon-2ply               1449       -14        3286      
 90         RoundMoundOfRebounds      1436       -12        334       
 91         StupidChessRobot          1403       -44        28        
-92         turochamp-1ply            1380       -18        1537      
+92         turochamp-1ply            1385       -6         1538      
 93         Humaia                    1332       -6         2113      
 94         chat_bot                  1328       9          198       
 95         pawnrobot                 1271       -20        613       
@@ -98,5 +98,6 @@ Rank       Bot                       Rating     Prog       Games
 97         sargon-1ply               1152       -3         8353      
 98         CHoMPBoT                  1151       -6         476       
 99         OhniBOT                   1133       -3         441       
-100        B4ux1t3s-Bot              1007       -23        30        
-101        G0thamB0t                 796        75         265       
+100        kireevi                   1110       28         558       
+101        B4ux1t3s-Bot              1007       -23        30        
+102        G0thamB0t                 796        75         265       
