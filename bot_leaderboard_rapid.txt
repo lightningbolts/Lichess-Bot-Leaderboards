@@ -35,14 +35,14 @@ Rank       Bot                       Rating     Prog       Games
 34         simpleEval                2300       -17        7483      
 35         FataliiBot                2281       -30        2531      
 36         Nakshatra3                2256       1          810       
-37         KhepriChess               2245       -19        783       
+37         KhepriChess               2247       -16        784       
 38         halcyonbot                2223       -5         5935      
 39         eubos                     2220       10         4190      
 40         Boris-Trapsky             2207       -3         27315     
 41         HistoryExplorer           2162       16         1003      
 42         Elmichess                 2157       -19        1410      
-43         matmoi                    2138       21         1011      
-44         GarboBot                  2096       -8         5937      
+43         matmoi                    2132       11         1012      
+44         GarboBot                  2103       -1         5938      
 45         redtail-zero              2083       -3         234       
 46         Hyperopic                 2079       2          350       
 47         jangine                   2068       1          1639      
@@ -50,7 +50,7 @@ Rank       Bot                       Rating     Prog       Games
 49         AjedrezChamberi           2057       42         110       
 50         Humaia-Strong             2043       -30        606       
 51         Lynx_BOT                  2033       15         39495     
-52         LeaMoreau                 2018       6          263       
+52         LeaMoreau                 2016       6          264       
 53         BLANK_BOT                 1988       -5         1497      
 54         LeelaRogue                1976       -2         2201      
 55         LazyBotJr                 1974       -29        1254      
@@ -73,7 +73,7 @@ Rank       Bot                       Rating     Prog       Games
 72         HulkBot                   1666       -32        404       
 73         maia5                     1655       17         99809     
 74         Dummyette                 1652       1          2913      
-75         maia9                     1638       16         82602     
+75         maia9                     1639       21         82603     
 76         yeoldwiz                  1637       16         634       
 77         The_Marcus                1623       10         23        
 78         dragobot                  1613       -233       36        
@@ -82,8 +82,8 @@ Rank       Bot                       Rating     Prog       Games
 81         thicc_gopher              1547       -36        38        
 82         TuroBot                   1510       45         3321      
 83         turochamp-2ply            1496       -11        1066      
-84         maia1                     1484       -11        228646    
-85         DavidsGuterBot            1473       -8         585       
+84         DavidsGuterBot            1473       -8         585       
+85         maia1                     1473       -30        228648    
 86         ZE_ROOK                   1464       0          354       
 87         sargon-2ply               1460       0          3281      
 88         RoundMoundOfRebounds      1440       -26        332       
