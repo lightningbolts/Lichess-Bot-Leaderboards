@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Godot           2942       2          1411      
-2          ToromBot                  2904       -4         59390     
+2          ToromBot                  2905       -4         59391     
 3          ResoluteBot               2887       -4         24791     
 4          YoBot_v2                  2875       -2         17475     
 5          Hien-Vinh_Bot2            2874       -1         125       
@@ -16,7 +16,7 @@ Rank       Bot                       Rating     Prog       Games
 15         Elmichess                 2498       -9         3200      
 16         expositor                 2488       12         19270     
 17         AKS-Mantissa              2477       -3         10378     
-18         Weiawaga                  2454       -6         15025     
+18         Weiawaga                  2453       -6         15026     
 19         pawn_git                  2445       -6         3785      
 20         bot_adario                2437       -5         2363      
 21         OpeningsBot               2420       3          463       
@@ -47,8 +47,8 @@ Rank       Bot                       Rating     Prog       Games
 46         BLANK_BOT                 2032       10         7107      
 47         Nc3Nc6Bot                 2021       -18        906       
 48         myopic-bot                2018       -12        1693      
-49         MaxtheDog                 1973       -21        13548     
-50         Jobabot                   1962       18         216       
+49         Jobabot                   1968       23         217       
+50         MaxtheDog                 1968       -32        13549     
 51         Lynx_BOT                  1952       13         6153      
 52         zeekat                    1907       -7         18086     
 53         Demolito_L6               1900       -19        195       
@@ -68,8 +68,8 @@ Rank       Bot                       Rating     Prog       Games
 67         Humaia                    1665       68         398       
 68         The_Marcus                1665       -9         476       
 69         simplexitor               1660       -19        2184      
-70         maia9                     1645       2          60478     
-71         maia5                     1640       -14        38955     
+70         maia5                     1647       -3         38956     
+71         maia9                     1645       2          60478     
 72         ZE_ROOK                   1601       -39        1702      
 73         sargon-3ply               1586       -11        1218      
 74         DavidsGuterBot            1566       -7         5973      
@@ -91,3 +91,4 @@ Rank       Bot                       Rating     Prog       Games
 90         B4ux1t3s-Bot              1277       176        16        
 91         pawnrobot                 1270       18         3774      
 92         knucklefish               1260       -12        2730      
+93         bobandi                   1210       -37        1075      
