@@ -25,9 +25,9 @@ Rank       Bot                       Rating     Prog       Games
 24         admete_bot                2397       9          4146      
 25         clueless-bot              2370       11         727       
 26         Wahoo_Bot                 2366       42         69        
-27         RavenEngine               2348       83         377       
-28         ELO_1500                  2343       33         2835      
-29         fornax-engine             2321       3          3615      
+27         ELO_1500                  2348       31         2836      
+28         RavenEngine               2348       83         377       
+29         fornax-engine             2316       -1         3616      
 30         FlamingDragon_9000        2309       -12        1216      
 31         simpleEval                2302       -15        7484      
 32         FataliiBot                2282       -27        2533      
@@ -69,9 +69,9 @@ Rank       Bot                       Rating     Prog       Games
 68         dlvc-bot                  1736       -7         80        
 69         melsh_bot                 1726       -1         221       
 70         HulkBot                   1666       -32        404       
-71         maia9                     1653       14         82614     
-72         Dummyette                 1652       1          2913      
-73         maia5                     1651       0          99844     
+71         Dummyette                 1652       1          2913      
+72         maia5                     1651       0          99846     
+73         maia9                     1650       14         82615     
 74         HardRok                   1640       -6         534       
 75         yeoldwiz                  1637       16         634       
 76         The_Marcus                1623       10         23        
@@ -82,7 +82,7 @@ Rank       Bot                       Rating     Prog       Games
 81         turochamp-2ply            1496       -11        1066      
 82         ZE_ROOK                   1471       8          357       
 83         DavidsGuterBot            1465       -18        587       
-84         maia1                     1449       3          228697    
+84         maia1                     1449       4          228699    
 85         sargon-2ply               1449       -15        3285      
 86         RoundMoundOfRebounds      1440       -9         333       
 87         StupidChessRobot          1397       -56        27        
@@ -91,8 +91,8 @@ Rank       Bot                       Rating     Prog       Games
 90         chat_bot                  1328       9          198       
 91         pawnrobot                 1271       -20        613       
 92         schnecken_bot             1195       4          305       
-93         CHoMPBoT                  1159       10         472       
-94         sargon-1ply               1158       0          8350      
+93         sargon-1ply               1158       0          8350      
+94         CHoMPBoT                  1157       12         473       
 95         OhniBOT                   1133       -3         441       
 96         kireevi                   1110       28         558       
 97         B4ux1t3s-Bot              1009       -30        29        
