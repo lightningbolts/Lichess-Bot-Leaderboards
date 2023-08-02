@@ -37,7 +37,7 @@ Rank       Bot                       Rating     Prog       Games
 36         DQN-chess                 2210       42         201       
 37         HistoryExplorer           2191       -3         2620      
 38         matmoi                    2134       4          1095      
-39         eubos                     2125       -2         13947     
+39         eubos                     2129       1          13948     
 40         GarboBot                  2105       -2         8949      
 41         Hyperopic                 2102       4          1946      
 42         redtail-zero              2083       15         356       
@@ -50,8 +50,8 @@ Rank       Bot                       Rating     Prog       Games
 49         LeelaRogue                1997       28         2235      
 50         BLANK_BOT                 1993       -8         4562      
 51         Humaia-Strong             1981       2          2360      
-52         Lynx_BOT                  1980       -12        48406     
-53         Nc3Nc6Bot                 1980       -5         1255      
+52         Nc3Nc6Bot                 1980       -5         1255      
+53         Lynx_BOT                  1977       -12        48407     
 54         MaxtheDog                 1958       8          4099      
 55         Melphess                  1948       42         55        
 56         Jobabot                   1942       11         169       
@@ -85,7 +85,7 @@ Rank       Bot                       Rating     Prog       Games
 84         DavidsGuterBot            1464       3          3414      
 85         RoundMoundOfRebounds      1461       1          1176      
 86         chat_bot                  1449       -51        235       
-87         maia1                     1444       -2         204998    
+87         maia1                     1444       -8         205002    
 88         turochamp-2ply            1414       -18        1601      
 89         monchester                1376       -13        2653      
 90         StupidChessRobot          1364       10         772       
