@@ -1,8 +1,8 @@
 Rank       Bot                       Rating     Prog       Games     
-1          UltimateL                 2883       7          663       
-2          ProteusSF-Godot           2882       0          557       
+1          ProteusSF-Godot           2882       0          557       
+2          UltimateL                 2882       6          664       
 3          YoBot_v2                  2872       -1         3410      
-4          ToromBot                  2854       -12        2879      
+4          ToromBot                  2854       -10        2880      
 5          faith_bot                 2826       -10        664       
 6          Shineshou90_BOT           2825       7          1652      
 7          chessfyBOT                2819       -12        180       
@@ -13,8 +13,8 @@ Rank       Bot                       Rating     Prog       Games
 12         blundar_bot               2768       -1         916       
 13         LazyBot                   2762       46         2001      
 14         RaspFish                  2761       -5         10956     
-15         SharkBotFish              2688       52         49        
-16         AKS-Mantissa              2597       -8         9285      
+15         SharkBotFish              2692       42         51        
+16         AKS-Mantissa              2595       -4         9287      
 17         expositor                 2542       17         6820      
 18         pawn_git                  2506       0          2259      
 19         bot_adario                2486       4          2099      
@@ -32,12 +32,12 @@ Rank       Bot                       Rating     Prog       Games
 31         AjedrezChamberi           2294       110        255       
 32         Nakshatra3                2260       9          1508      
 33         simpleEval                2260       -8         14381     
-34         FataliiBot                2229       -7         6433      
-35         KhepriChess               2226       -3         1590      
-36         HistoryExplorer           2196       -7         2623      
+34         KhepriChess               2226       -3         1590      
+35         FataliiBot                2223       -9         6434      
+36         HistoryExplorer           2202       3          2624      
 37         halcyonbot                2191       -24        8933      
 38         matmoi                    2142       2          1101      
-39         eubos                     2124       4          13955     
+39         eubos                     2127       5          13956     
 40         GarboBot                  2107       13         8951      
 41         Hyperopic                 2102       4          1946      
 42         redtail-zero              2083       15         356       
@@ -57,7 +57,7 @@ Rank       Bot                       Rating     Prog       Games
 56         Jobabot                   1929       -10        171       
 57         zeekat                    1911       -7         19992     
 58         cbot801                   1906       -38        40        
-59         michabay05                1878       -6         594       
+59         michabay05                1875       -8         595       
 60         zulu_bot                  1861       -3         992       
 61         Ptit-biscuit              1840       14         467       
 62         FlounderBot               1830       -13        1383      
@@ -86,7 +86,7 @@ Rank       Bot                       Rating     Prog       Games
 85         RoundMoundOfRebounds      1457       -10        1177      
 86         chat_bot                  1449       -51        235       
 87         TuroBot                   1445       -5         4977      
-88         maia1                     1426       4          205053    
+88         maia1                     1424       4          205054    
 89         turochamp-2ply            1414       -18        1601      
 90         monchester                1376       -13        2653      
 91         StupidChessRobot          1370       19         779       
