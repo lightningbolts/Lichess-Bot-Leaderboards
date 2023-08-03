@@ -5,7 +5,7 @@ Rank       Bot                       Rating     Prog       Games
 4          ReinforcementTrial        2869       -1         5001      
 5          SF-NNUE                   2868       40         22        
 6          YoBot_v2                  2865       -2         12905     
-7          ArasanX                   2858       -12        5139      
+7          ArasanX                   2859       -12        5140      
 8          LeelaMultiPoss            2850       11         227       
 9          chessfyBOT                2845       -7         228       
 10         ResoluteBot               2844       -6         5153      
@@ -31,7 +31,7 @@ Rank       Bot                       Rating     Prog       Games
 30         ChessNoobComp             2368       5          568       
 31         fornax-engine             2324       2          3622      
 32         FlamingDragon_9000        2309       -12        1216      
-33         simpleEval                2295       -21        7486      
+33         simpleEval                2295       -21        7487      
 34         Nakshatra3                2273       21         817       
 35         FataliiBot                2268       -20        2540      
 36         KhepriChess               2243       -5         813       
@@ -72,7 +72,7 @@ Rank       Bot                       Rating     Prog       Games
 71         dlvc-bot                  1736       -7         80        
 72         Demolito_L5               1717       -14        692       
 73         melsh_bot                 1716       -9         226       
-74         maia9                     1674       -9         82736     
+74         maia9                     1673       -12        82737     
 75         HulkBot                   1666       -32        404       
 76         maia5                     1651       -25        100041    
 77         yeoldwiz                  1637       16         634       
@@ -83,8 +83,8 @@ Rank       Bot                       Rating     Prog       Games
 82         TuroBot                   1533       77         3325      
 83         turochamp-2ply            1496       -11        1066      
 84         ZE_ROOK                   1484       8          370       
-85         maia1                     1480       2          228899    
-86         DavidsGuterBot            1478       -2         592       
+85         DavidsGuterBot            1478       -2         592       
+86         maia1                     1478       -5         228900    
 87         RoundMoundOfRebounds      1448       5          336       
 88         sargon-2ply               1441       -26        3287      
 89         turochamp-1ply            1394       8          1545      
