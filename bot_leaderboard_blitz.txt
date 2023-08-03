@@ -22,7 +22,7 @@ Rank       Bot                       Rating     Prog       Games
 21         ELO_1500                  2402       26         12953     
 22         TuksuBot                  2402       -3         3833      
 23         admete_bot                2400       7          6287      
-24         ChessNoobComp             2391       12         1558      
+24         ChessNoobComp             2393       10         1559      
 25         odonata-bot               2388       -19        5905      
 26         fornax-engine             2358       -5         6391      
 27         RavenEngine               2345       30         1572      
@@ -33,13 +33,13 @@ Rank       Bot                       Rating     Prog       Games
 32         KhepriChess               2250       12         1626      
 33         Nakshatra3                2225       -19        1523      
 34         FataliiBot                2222       8          6464      
-35         halcyonbot                2211       15         8984      
+35         halcyonbot                2207       10         8985      
 36         LazyBotJr                 2207       44         1644      
 37         frogskittens_thebot       2181       -57        29        
 38         RrSimpelBot               2175       26         31        
 39         HistoryExplorer           2170       -26        2634      
 40         matmoi                    2133       -20        1140      
-41         eubos                     2130       32         14002     
+41         eubos                     2127       27         14003     
 42         GarboBot                  2121       -18        8978      
 43         Hyperopic                 2102       4          1946      
 44         redtail-zero              2092       25         362       
@@ -100,5 +100,6 @@ Rank       Bot                       Rating     Prog       Games
 99         sargon-1ply               1200       17         7728      
 100        OhniBOT                   1194       10         315       
 101        HulkBot                   1137       -46        672       
-102        knucklefish               1071       -11        3147      
-103        CHoMPBoT                  1067       0          1584      
+102        bobandi                   1072       0          1119      
+103        knucklefish               1071       -11        3148      
+104        CHoMPBoT                  1067       0          1584      
