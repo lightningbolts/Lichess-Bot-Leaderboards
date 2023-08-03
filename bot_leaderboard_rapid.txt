@@ -2,8 +2,8 @@ Rank       Bot                       Rating     Prog       Games
 1          SelfLearnBOT              2893       3          167       
 2          ProteusSF-Godot           2888       15         137       
 3          ToromBot                  2879       -2         1771      
-4          ReinforcementTrial        2867       -1         4982      
-5          YoBot_v2                  2866       7          12899     
+4          YoBot_v2                  2866       7          12899     
+5          ReinforcementTrial        2863       -5         4983      
 6          TorBot_v2                 2863       -5         174       
 7          chessfyBOT                2845       -7         228       
 8          ResoluteBot               2844       -6         5153      
@@ -16,8 +16,8 @@ Rank       Bot                       Rating     Prog       Games
 15         expositor                 2613       15         4478      
 16         LazyBot                   2598       -23        721       
 17         catriever                 2542       7          173       
-18         Weiawaga                  2535       5          9755      
-19         pawn_git                  2530       4          1204      
+18         pawn_git                  2535       9          1205      
+19         Weiawaga                  2535       5          9755      
 20         bot_adario                2486       18         1296      
 21         OpeningsBot               2442       6          212       
 22         TuksuBot                  2435       -13        1943      
@@ -80,7 +80,7 @@ Rank       Bot                       Rating     Prog       Games
 79         turochamp-2ply            1496       -11        1066      
 80         ZE_ROOK                   1485       14         361       
 81         DavidsGuterBot            1465       -18        587       
-82         maia1                     1459       24         228780    
+82         maia1                     1463       33         228781    
 83         sargon-2ply               1449       -14        3286      
 84         RoundMoundOfRebounds      1436       -12        334       
 85         StupidChessRobot          1403       -44        28        
