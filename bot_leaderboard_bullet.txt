@@ -6,7 +6,7 @@ Rank       Bot                       Rating     Prog       Games
 5          ResoluteBot               2887       -4         24791     
 6          YoBot_v2                  2876       8          17498     
 7          TorBot_v2                 2868       5          194       
-8          RaspFish                  2838       -10        49655     
+8          RaspFish                  2836       -7         49656     
 9          chessfyBOT                2788       -8         1404      
 10         Shineshou90_BOT           2738       -5         8038      
 11         LazyBot                   2701       -9         1404      
@@ -21,7 +21,7 @@ Rank       Bot                       Rating     Prog       Games
 20         Weiawaga                  2444       0          15047     
 21         pawn_git                  2443       -4         3824      
 22         OpeningsBot               2410       -5         485       
-23         catriever                 2385       -5         1463      
+23         catriever                 2385       -4         1464      
 24         odonata-bot               2379       -13        6173      
 25         clueless-bot              2377       14         7020      
 26         admete_bot                2365       -11        6045      
@@ -37,7 +37,7 @@ Rank       Bot                       Rating     Prog       Games
 36         halcyonbot                2237       8          5045      
 37         HistoryExplorer           2202       -9         2456      
 38         ELO_1500                  2192       47         3172      
-39         eubos                     2152       13         12313     
+39         eubos                     2150       15         12314     
 40         GarboBot                  2135       -2         9384      
 41         matmoi                    2123       -9         1512      
 42         jangine                   2115       -9         2793      
@@ -48,7 +48,7 @@ Rank       Bot                       Rating     Prog       Games
 47         myopic-bot                2040       21         1719      
 48         LeaMoreau                 2032       -1         312       
 49         BLANK_BOT                 2001       -15        7136      
-50         MaxtheDog                 1997       0          13621     
+50         MaxtheDog                 2000       -1         13622     
 51         Trollfish-Bot             1974       20         3138      
 52         Jobabot                   1967       29         256       
 53         Nc3Nc6Bot                 1966       -17        951       
@@ -56,7 +56,7 @@ Rank       Bot                       Rating     Prog       Games
 55         zeekat                    1893       -10        18145     
 56         michabay05                1877       10         1615      
 57         Demolito_L6               1870       -14        230       
-58         FlounderBot               1847       4          2975      
+58         FlounderBot               1850       12         2976      
 59         Ptit-biscuit              1843       1          619       
 60         QueensGamBOT              1833       -31        4973      
 61         notropis                  1787       -1         3707      
@@ -72,7 +72,7 @@ Rank       Bot                       Rating     Prog       Games
 71         rudim-bot                 1680       10         155       
 72         maia9                     1672       10         60502     
 73         piglet_engine             1665       -15        413       
-74         maia5                     1641       5          38976     
+74         maia5                     1639       3          38977     
 75         DavidsGuterBot            1591       24         5986      
 76         ZE_ROOK                   1585       -12        1717      
 77         sargon-3ply               1568       -26        1226      
@@ -92,4 +92,4 @@ Rank       Bot                       Rating     Prog       Games
 91         CHoMPBoT                  1292       -38        946       
 92         B4ux1t3s-Bot              1266       2          25        
 93         pawnrobot                 1263       3          3783      
-94         knucklefish               1260       -12        2730      
+94         knucklefish               1260       -12        2731      
