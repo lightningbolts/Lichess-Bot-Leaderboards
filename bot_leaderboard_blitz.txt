@@ -44,7 +44,7 @@ Rank       Bot                       Rating     Prog       Games
 43         Boris-Trapsky             2088       33         27893     
 44         jangine                   2088       1          3159      
 45         redtail-zero              2083       16         360       
-46         Elmichess                 2011       -14        3499      
+46         Elmichess                 2016       -2         3500      
 47         LeelaRogue                1997       28         2235      
 48         myopic-bot                1997       -14        1711      
 49         Lynx_BOT                  1992       20         48420     
@@ -76,7 +76,7 @@ Rank       Bot                       Rating     Prog       Games
 75         The_Marcus                1622       8          347       
 76         maia9                     1611       -32        99023     
 77         sun_bird                  1569       1          124       
-78         maia1                     1516       8          205236    
+78         maia1                     1528       23         205238    
 79         sargon-4ply               1516       8          1843      
 80         sargon-3ply               1506       -3         1768      
 81         ZE_ROOK                   1477       21         2539      
@@ -91,9 +91,10 @@ Rank       Bot                       Rating     Prog       Games
 90         sargon-2ply               1283       -4         2948      
 91         pawnrobot                 1267       22         1981      
 92         schnecken_bot             1250       24         1948      
-93         turochamp-1ply            1245       -25        1733      
-94         OhniBOT                   1194       10         315       
-95         sargon-1ply               1180       -12        7715      
-96         HulkBot                   1137       -46        672       
-97         knucklefish               1072       1          3145      
-98         CHoMPBoT                  1070       -11        1565      
+93         dragobot                  1249       -105       69        
+94         turochamp-1ply            1245       -25        1733      
+95         OhniBOT                   1194       10         315       
+96         sargon-1ply               1180       -12        7715      
+97         HulkBot                   1137       -46        672       
+98         knucklefish               1072       1          3145      
+99         CHoMPBoT                  1070       -11        1565      
