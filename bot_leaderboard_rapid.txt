@@ -1,12 +1,12 @@
 Rank       Bot                       Rating     Prog       Games     
 1          SelfLearnBOT              2893       3          167       
 2          ProteusSF-Godot           2888       15         137       
-3          ToromBot                  2881       3          1779      
+3          ToromBot                  2881       2          1780      
 4          ReinforcementTrial        2869       -1         5001      
 5          SF-NNUE                   2868       40         22        
 6          YoBot_v2                  2865       -2         12904     
 7          ArasanX                   2858       -12        5139      
-8          LeelaMultiPoss            2850       6          226       
+8          LeelaMultiPoss            2850       11         227       
 9          chessfyBOT                2845       -7         228       
 10         ResoluteBot               2844       -6         5153      
 11         Shineshou90_BOT           2837       -8         2468      
@@ -53,7 +53,7 @@ Rank       Bot                       Rating     Prog       Games
 52         BLANK_BOT                 1974       -10        1503      
 53         LazyBotJr                 1974       -29        1254      
 54         cbot801                   1973       -61        20        
-55         Nc3Nc6Bot                 1972       9          1447      
+55         Nc3Nc6Bot                 1973       15         1448      
 56         LeelaRogue                1963       -8         2208      
 57         Jobabot                   1953       9          74        
 58         zeekat                    1947       -7         8146      
@@ -74,7 +74,7 @@ Rank       Bot                       Rating     Prog       Games
 73         melsh_bot                 1716       -9         226       
 74         maia9                     1678       -5         82735     
 75         HulkBot                   1666       -32        404       
-76         maia5                     1656       -23        100039    
+76         maia5                     1655       -20        100040    
 77         yeoldwiz                  1637       16         634       
 78         HardRok                   1632       -9         546       
 79         The_Marcus                1617       24         24        
@@ -84,7 +84,7 @@ Rank       Bot                       Rating     Prog       Games
 83         turochamp-2ply            1496       -11        1066      
 84         ZE_ROOK                   1484       8          370       
 85         maia1                     1480       2          228899    
-86         DavidsGuterBot            1479       -2         591       
+86         DavidsGuterBot            1478       -2         592       
 87         RoundMoundOfRebounds      1448       5          336       
 88         sargon-2ply               1441       -26        3287      
 89         turochamp-1ply            1394       8          1545      
@@ -96,4 +96,5 @@ Rank       Bot                       Rating     Prog       Games
 95         sargon-1ply               1151       -8         8358      
 96         CHoMPBoT                  1148       -11        483       
 97         OhniBOT                   1127       -3         445       
-98         G0thamB0t                 796        75         265       
+98         kireevi                   1110       28         558       
+99         G0thamB0t                 796        75         265       
