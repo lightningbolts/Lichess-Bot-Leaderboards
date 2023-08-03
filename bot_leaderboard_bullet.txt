@@ -1,11 +1,11 @@
 Rank       Bot                       Rating     Prog       Games     
-1          EmptikBot                 2962       24         3145      
+1          EmptikBot                 2958       10         3149      
 2          ProteusSF-Godot           2942       2          1411      
 3          ToromBot                  2926       3          59647     
 4          LeelaMultiPoss            2905       4          546       
 5          ResoluteBot               2887       -4         24791     
 6          YoBot_v2                  2874       -2         17508     
-7          RaspFish                  2812       -10        49692     
+7          RaspFish                  2815       2          49696     
 8          chessfyBOT                2788       -8         1404      
 9          Shineshou90_BOT           2733       -9         8046      
 10         blundar_bot               2703       3          5032      
@@ -20,7 +20,7 @@ Rank       Bot                       Rating     Prog       Games
 19         Weiawaga                  2452       4          15055     
 20         pawn_git                  2442       -10        3826      
 21         OpeningsBot               2409       -7         488       
-22         catriever                 2390       5          1471      
+22         catriever                 2390       5          1472      
 23         odonata-bot               2382       -9         6174      
 24         clueless-bot              2380       13         7029      
 25         admete_bot                2372       -7         6047      
@@ -29,8 +29,8 @@ Rank       Bot                       Rating     Prog       Games
 28         TuksuBot                  2339       -9         6685      
 29         fornax-engine             2328       0          6780      
 30         RavenEngine               2317       19         8992      
-31         simpleEval                2267       9          24863     
-32         KhepriChess               2262       4          822       
+31         KhepriChess               2262       4          822       
+32         simpleEval                2262       6          24864     
 33         FataliiBot                2260       -25        5610      
 34         Nakshatra3                2255       2          1459      
 35         halcyonbot                2235       -6         5052      
@@ -61,7 +61,7 @@ Rank       Bot                       Rating     Prog       Games
 60         likeawizard-bot           1813       6          785       
 61         notropis                  1782       -5         3715      
 62         Demolito_L5               1774       2          694       
-63         baby_eubos                1771       22         5195      
+63         baby_eubos                1771       28         5196      
 64         Fisk_Bot                  1740       10         225       
 65         melsh_bot                 1724       -25        3973      
 66         The_Marcus                1719       32         527       
@@ -69,7 +69,7 @@ Rank       Bot                       Rating     Prog       Games
 68         dlvc-bot                  1685       46         178       
 69         Humaia                    1682       78         405       
 70         rudim-bot                 1680       10         155       
-71         maia9                     1669       10         60508     
+71         maia9                     1676       6          60510     
 72         maia5                     1662       18         38985     
 73         maia1                     1653       -3         122500    
 74         piglet_engine             1648       -16        420       
