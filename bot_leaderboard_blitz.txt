@@ -24,13 +24,13 @@ Rank       Bot                       Rating     Prog       Games
 23         TuksuBot                  2404       4          3831      
 24         ELO_1500                  2402       36         12950     
 25         admete_bot                2398       7          6286      
-26         odonata-bot               2389       -17        5901      
+26         odonata-bot               2393       -16        5902      
 27         fornax-engine             2357       -2         6390      
-28         RavenEngine               2337       26         1571      
+28         RavenEngine               2345       30         1572      
 29         clueless-bot              2336       -9         2759      
 30         FlamingDragon_9000        2323       19         3331      
-31         frogskittens_thebot       2308       1          13        
-32         AjedrezChamberi           2294       110        255       
+31         AjedrezChamberi           2294       110        255       
+32         frogskittens_thebot       2283       -24        14        
 33         simpleEval                2262       -6         14417     
 34         KhepriChess               2230       -5         1611      
 35         Nakshatra3                2220       -24        1522      
@@ -54,7 +54,7 @@ Rank       Bot                       Rating     Prog       Games
 53         LeaMoreau                 1977       -20        274       
 54         MaxtheDog                 1972       5          4126      
 55         Jobabot                   1958       29         187       
-56         zeekat                    1956       -8         20057     
+56         zeekat                    1958       -5         20058     
 57         cbot801                   1954       48         51        
 58         michabay05                1877       0          611       
 59         zulu_bot                  1861       -3         992       
@@ -74,7 +74,7 @@ Rank       Bot                       Rating     Prog       Games
 73         melsh_bot                 1675       -35        1836      
 74         yeoldwiz                  1641       14         1600      
 75         The_Marcus                1637       24         357       
-76         maia9                     1613       -1         99036     
+76         maia9                     1612       2          99037     
 77         HardRok                   1569       12         773       
 78         sun_bird                  1565       7          125       
 79         sargon-4ply               1514       0          1844      
@@ -91,7 +91,7 @@ Rank       Bot                       Rating     Prog       Games
 90         monchester                1381       -16        2658      
 91         StupidChessRobot          1354       -8         803       
 92         Humaia                    1348       29         859       
-93         sargon-2ply               1276       -11        2951      
+93         sargon-2ply               1278       -12        2952      
 94         pawnrobot                 1269       27         1983      
 95         turochamp-1ply            1255       -3         1739      
 96         schnecken_bot             1236       -7         1955      
@@ -99,4 +99,4 @@ Rank       Bot                       Rating     Prog       Games
 98         OhniBOT                   1194       10         315       
 99         HulkBot                   1137       -46        672       
 100        knucklefish               1071       -11        3147      
-101        CHoMPBoT                  1060       -15        1568      
+101        CHoMPBoT                  1058       -15        1569      
