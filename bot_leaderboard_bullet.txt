@@ -22,7 +22,7 @@ Rank       Bot                       Rating     Prog       Games
 21         catriever                 2390       5          1472      
 22         odonata-bot               2382       -9         6174      
 23         clueless-bot              2380       13         7029      
-24         admete_bot                2372       -7         6047      
+24         admete_bot                2375       1          6048      
 25         ChessNoobComp             2356       2          9464      
 26         AjedrezChamberi           2341       13         526       
 27         TuksuBot                  2339       -9         6685      
@@ -36,7 +36,7 @@ Rank       Bot                       Rating     Prog       Games
 35         ELO_1500                  2215       43         3178      
 36         HistoryExplorer           2200       -14        2459      
 37         eubos                     2155       -6         12327     
-38         RrSimpelBot               2143       -4         40        
+38         RrSimpelBot               2138       -17        41        
 39         GarboBot                  2135       -2         9384      
 40         jangine                   2126       9          2799      
 41         matmoi                    2102       -13        1531      
@@ -53,11 +53,11 @@ Rank       Bot                       Rating     Prog       Games
 52         Nc3Nc6Bot                 1950       -16        962       
 53         Lynx_BOT                  1947       16         6207      
 54         zeekat                    1896       -2         18162     
-55         michabay05                1882       19         1639      
+55         michabay05                1881       17         1640      
 56         Demolito_L6               1861       -20        235       
 57         FlounderBot               1851       13         3003      
 58         Ptit-biscuit              1848       17         624       
-59         QueensGamBOT              1831       -18        4980      
+59         QueensGamBOT              1832       -12        4981      
 60         likeawizard-bot           1812       3          786       
 61         notropis                  1782       -5         3715      
 62         Demolito_L5               1774       2          694       
@@ -71,8 +71,8 @@ Rank       Bot                       Rating     Prog       Games
 70         Humaia                    1682       78         405       
 71         rudim-bot                 1680       10         155       
 72         maia5                     1662       18         38985     
-73         maia1                     1653       -3         122500    
-74         piglet_engine             1648       -16        420       
+73         piglet_engine             1648       -16        420       
+74         maia1                     1644       -12        122501    
 75         TuroBot                   1618       -12        2494      
 76         DavidsGuterBot            1599       21         5994      
 77         ZE_ROOK                   1588       -3         1721      
@@ -84,7 +84,7 @@ Rank       Bot                       Rating     Prog       Games
 83         monchester                1491       -12        2364      
 84         sargon-2ply               1487       -8         2115      
 85         yeoldwiz                  1450       18         791       
-86         StupidChessRobot          1430       -2         389       
+86         StupidChessRobot          1439       5          390       
 87         botTideEval               1392       -8         1202      
 88         sargon-1ply               1389       0          4219      
 89         schnecken_bot             1389       -11        935       
