@@ -1,5 +1,5 @@
 Rank       Bot                       Rating     Prog       Games     
-1          FireFishBOT_v2            2887       5          1205      
+1          FireFishBOT_v2            2891       13         1206      
 2          ProteusSF-Godot           2882       0          557       
 3          EmptikBot                 2880       0          376       
 4          YoBot_v2                  2874       7          3427      
@@ -7,7 +7,7 @@ Rank       Bot                       Rating     Prog       Games
 6          Shineshou90_BOT           2824       -2         1665      
 7          chessfyBOT                2819       -12        180       
 8          ResoluteBot               2816       9          10844     
-9          ArasanX                   2785       -3         1665      
+9          ArasanX                   2781       -9         1666      
 10         MrChessTheBot             2776       2          1697      
 11         blundar_bot               2770       2          923       
 12         RaspFish                  2747       -8         10971     
@@ -68,12 +68,12 @@ Rank       Bot                       Rating     Prog       Games
 67         yeoldwiz                  1647       15         1601      
 68         maia9                     1635       18         99162     
 69         sun_bird                  1588       27         137       
-70         HardRok                   1569       13         776       
+70         HardRok                   1572       12         777       
 71         Dummyette                 1542       18         2635      
 72         sargon-4ply               1515       -2         1851      
 73         maia5                     1497       9          100012    
 74         sargon-3ply               1491       -20        1775      
-75         maia1                     1478       -8         205520    
+75         maia1                     1481       -11        205521    
 76         DavidsGuterBot            1477       14         3432      
 77         ZE_ROOK                   1477       -8         2561      
 78         ChamberiAjedrez           1470       -106       321       
@@ -81,7 +81,7 @@ Rank       Bot                       Rating     Prog       Games
 80         chat_bot                  1439       -61        236       
 81         TuroBot                   1439       10         4982      
 82         turochamp-2ply            1409       -14        1610      
-83         monchester                1374       -11        2662      
+83         monchester                1371       -11        2663      
 84         Humaia                    1357       33         862       
 85         StupidChessRobot          1356       6          838       
 86         pawnrobot                 1277       0          1998      
