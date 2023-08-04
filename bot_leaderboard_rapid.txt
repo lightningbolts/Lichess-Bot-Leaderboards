@@ -1,13 +1,13 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Godot           2888       15         137       
-2          SelfLearnBOT              2888       -6         176       
+2          SelfLearnBOT              2887       -7         177       
 3          ToromBot                  2880       1          1782      
 4          ReinforcementTrial        2869       -5         5010      
 5          YoBot_v2                  2869       3          12910     
 6          ArasanX                   2863       3          5152      
 7          chessfyBOT                2845       -7         228       
 8          ResoluteBot               2844       -6         5153      
-9          Shineshou90_BOT           2839       -6         2469      
+9          Shineshou90_BOT           2840       -5         2470      
 10         RaspFish                  2830       12         5448      
 11         MrChessTheBot             2807       5          2126      
 12         blundar_bot               2797       -5         1019      
@@ -79,7 +79,7 @@ Rank       Bot                       Rating     Prog       Games
 78         sargon-3ply               1574       6          1151      
 79         sargon-4ply               1562       6          571       
 80         turochamp-2ply            1502       -7         1067      
-81         maia1                     1485       -4         228964    
+81         maia1                     1489       4          228965    
 82         ZE_ROOK                   1481       2          373       
 83         DavidsGuterBot            1478       -2         592       
 84         RoundMoundOfRebounds      1448       5          336       
@@ -94,5 +94,4 @@ Rank       Bot                       Rating     Prog       Games
 93         CHoMPBoT                  1147       -10        484       
 94         OhniBOT                   1127       -3         445       
 95         kireevi                   1110       28         558       
-96         bobandi                   862        1          699       
-97         G0thamB0t                 796        75         265       
+96         G0thamB0t                 796        75         265       
