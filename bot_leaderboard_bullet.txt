@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          FireFishBOT_v2            2943       4          340       
 2          ProteusSF-Godot           2941       0          1415      
-3          ToromBot                  2916       -4         59757     
+3          ToromBot                  2912       -8         59758     
 4          LeelaMultiPoss            2908       -1         565       
 5          ResoluteBot               2892       1          24795     
 6          YoBot_v2                  2868       8          17529     
@@ -10,8 +10,8 @@ Rank       Bot                       Rating     Prog       Games
 9          Shineshou90_BOT           2726       -12        8064      
 10         blundar_bot               2704       7          5041      
 11         LazyBot                   2701       -9         1404      
-12         learningchess6_bot        2633       148        46        
-13         MrChessTheBot             2590       3          5477      
+12         learningchess6_bot        2658       95         50        
+13         MrChessTheBot             2594       9          5478      
 14         FlamingDragon_9000        2524       -5         10619     
 15         expositor                 2520       1          19359     
 16         Elmichess                 2497       -14        3203      
@@ -20,8 +20,8 @@ Rank       Bot                       Rating     Prog       Games
 19         pawn_git                  2425       -10        3841      
 20         catriever                 2403       0          1490      
 21         OpeningsBot               2395       -7         508       
-22         Weiawaga                  2390       -36        15094     
-23         admete_bot                2388       2          6063      
+22         admete_bot                2388       2          6063      
+23         Weiawaga                  2382       -28        15098     
 24         AjedrezChamberi           2341       13         526       
 25         fornax-engine             2339       17         6786      
 26         TuksuBot                  2333       0          6694      
@@ -69,9 +69,9 @@ Rank       Bot                       Rating     Prog       Games
 68         TuroBot                   1618       -9         2495      
 69         maia5                     1617       -12        39023     
 70         DavidsGuterBot            1603       8          6004      
-71         maia1                     1575       -1         122553    
-72         sargon-3ply               1575       -5         1233      
-73         sargon-4ply               1568       11         1601      
+71         sargon-3ply               1575       -5         1233      
+72         sargon-4ply               1570       13         1602      
+73         maia1                     1562       -13        122555    
 74         turochamp-2ply            1552       -3         1475      
 75         RoundMoundOfRebounds      1502       17         1268      
 76         turochamp-1ply            1501       -21        1827      
@@ -80,10 +80,10 @@ Rank       Bot                       Rating     Prog       Games
 79         yeoldwiz                  1450       18         791       
 80         StupidChessRobot          1431       -10        410       
 81         botTideEval               1397       -5         1206      
-82         sargon-1ply               1392       3          4230      
-83         schnecken_bot             1381       -2         944       
+82         schnecken_bot             1387       -2         945       
+83         sargon-1ply               1386       -8         4231      
 84         OhniBOT                   1327       28         492       
-85         CHoMPBoT                  1301       -3         954       
+85         CHoMPBoT                  1299       -1         955       
 86         HulkBot                   1292       -43        1185      
 87         pawnrobot                 1272       -3         3790      
 88         knucklefish               1259       -10        2732      
