@@ -21,7 +21,7 @@ Rank       Bot                       Rating     Prog       Games
 20         pawn_git                  2519       -7         2286      
 21         bot_adario                2489       3          2126      
 22         Weiawaga                  2482       15         11479     
-23         catriever                 2461       -4         611       
+23         catriever                 2465       -1         612       
 24         OpeningsBot               2459       -20        686       
 25         Cheng-4                   2453       8          6410      
 26         ELO_1500                  2411       9          12961     
@@ -30,8 +30,8 @@ Rank       Bot                       Rating     Prog       Games
 29         Pseudo-0                  2389       1          2785      
 30         odonata-bot               2382       -13        5911      
 31         Phalanx-XXV               2371       12         2511      
-32         clueless-bot              2347       10         2769      
-33         fornax-engine             2345       -14        6398      
+32         fornax-engine             2345       -14        6398      
+33         clueless-bot              2343       7          2770      
 34         FlamingDragon_9000        2323       19         3331      
 35         simpleEval                2237       -11        14436     
 36         halcyonbot                2233       15         9015      
@@ -61,8 +61,8 @@ Rank       Bot                       Rating     Prog       Games
 60         michabay05                1889       -9         647       
 61         DragonflyBOT              1843       7          1933      
 62         likeawizard-bot           1836       20         2037      
-63         Demolito_L6               1824       8          345       
-64         Ptit-biscuit              1820       16         511       
+63         Ptit-biscuit              1820       16         511       
+64         Demolito_L6               1816       -7         346       
 65         FlounderBot               1813       -5         1482      
 66         Trollfish-Bot             1805       -28        1642      
 67         baby_eubos                1799       -9         7345      
@@ -80,7 +80,7 @@ Rank       Bot                       Rating     Prog       Games
 79         ChessChildren             1648       9          21162     
 80         yeoldwiz                  1647       15         1601      
 81         maia9                     1640       -23        99219     
-82         sun_bird                  1630       38         145       
+82         sun_bird                  1640       51         146       
 83         ShallowRedBot             1607       -103       29        
 84         HardRok                   1565       13         778       
 85         Dummyette                 1546       19         2640      
