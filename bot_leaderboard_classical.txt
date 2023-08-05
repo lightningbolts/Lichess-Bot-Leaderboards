@@ -7,8 +7,8 @@ Rank       Bot                       Rating     Prog       Games
 6          ResoluteBot               2543       24         572       
 7          ArasanX                   2531       26         122       
 8          AKS-Mantissa              2397       7          980       
-9          ELO_1500                  2389       10         79        
-10         expositor                 2384       1          1095      
+9          expositor                 2384       1          1095      
+10         ELO_1500                  2381       -6         80        
 11         LazyBot                   2342       6          194       
 12         pawn_git                  2342       18         189       
 13         Cheng-4                   2289       12         1516      
@@ -17,7 +17,7 @@ Rank       Bot                       Rating     Prog       Games
 16         FlamingDragon_9000        2238       -18        514       
 17         TuksuBot                  2152       10         965       
 18         Pseudo-0                  2137       9          397       
-19         clueless-bot              2123       7          337       
+19         clueless-bot              2133       15         338       
 20         Phalanx-XXV               2106       -18        348       
 21         Boris-Trapsky             2078       6          10337     
 22         simpleEval                2071       -14        1829      
@@ -49,8 +49,8 @@ Rank       Bot                       Rating     Prog       Games
 48         yeoldwiz                  1587       11         306       
 49         DragonflyBOT              1583       -23        201       
 50         maia5                     1580       -12        22793     
-51         Dummyette                 1554       19         581       
-52         maia1                     1553       5          64015     
+51         maia1                     1558       6          64016     
+52         Dummyette                 1554       19         581       
 53         ZE_ROOK                   1552       30         98        
 54         Trollfish-Bot             1541       6          28        
 55         Humaia                    1516       15         1043      
