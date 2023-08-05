@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          BabyUltimate              2893       11         300       
 2          ProteusSF-Godot           2882       0          557       
-3          FireFishBOT_v2            2879       -5         1305      
+3          FireFishBOT_v2            2881       -3         1306      
 4          YoBot_v2                  2875       1          3438      
 5          TheMatrix2025             2870       1          475       
 6          ToromBot                  2864       2          2906      
@@ -14,7 +14,7 @@ Rank       Bot                       Rating     Prog       Games
 13         RaspFish                  2749       2          10975     
 14         LazyBot                   2743       -20        2013      
 15         AKS-Mantissa              2634       3          9350      
-16         expositor                 2582       -15        6862      
+16         expositor                 2580       -17        6863      
 17         pawn_git                  2518       -9         2287      
 18         bot_adario                2487       -3         2133      
 19         Weiawaga                  2483       1          11488     
@@ -39,8 +39,8 @@ Rank       Bot                       Rating     Prog       Games
 38         GarboBot                  2135       16         9003      
 39         matmoi                    2120       -6         1178      
 40         honzovy-sachy-2           2114       -2         6654      
-41         Hyperopic                 2102       4          1946      
-42         jangine                   2100       11         3176      
+41         jangine                   2103       19         3177      
+42         Hyperopic                 2102       4          1946      
 43         redtail-zero              2085       6          370       
 44         LeaMoreau                 2022       4          303       
 45         Elmichess                 2005       -23        3516      
@@ -51,8 +51,8 @@ Rank       Bot                       Rating     Prog       Games
 50         Jobabot                   1971       5          199       
 51         Lynx_BOT                  1969       -13        48452     
 52         Nc3Nc6Bot                 1961       -5         1318      
-53         zeekat                    1921       -9         20134     
-54         LeelaRogue                1920       -3         2309      
+53         LeelaRogue                1920       -3         2309      
+54         zeekat                    1918       -11        20135     
 55         michabay05                1885       -6         648       
 56         FlounderBot               1837       23         1495      
 57         DragonflyBOT              1833       6          1938      
@@ -82,12 +82,12 @@ Rank       Bot                       Rating     Prog       Games
 81         sargon-4ply               1521       7          1855      
 82         ZE_ROOK                   1499       10         2587      
 83         sargon-3ply               1493       -10        1777      
-84         DavidsGuterBot            1482       16         3445      
-85         maia5                     1477       -9         100092    
-86         maia1                     1476       18         205652    
+84         maia1                     1483       25         205656    
+85         DavidsGuterBot            1482       16         3445      
+86         maia5                     1477       -9         100092    
 87         ChamberiAjedrez           1470       -106       321       
 88         RoundMoundOfRebounds      1452       9          1197      
-89         turochamp-2ply            1409       -14        1610      
+89         turochamp-2ply            1411       -8         1611      
 90         chat_bot                  1401       -48        246       
 91         StupidChessRobot          1386       1          873       
 92         monchester                1369       -10        2666      
@@ -101,6 +101,6 @@ Rank       Bot                       Rating     Prog       Games
 100        OhniBOT                   1194       10         315       
 101        ABotWith3200Rating        1184       32         208       
 102        HulkBot                   1137       -46        672       
-103        CHoMPBoT                  1084       29         1607      
+103        CHoMPBoT                  1082       16         1608      
 104        knucklefish               1078       6          3152      
 105        bobandi                   1072       2          1120      
