@@ -91,8 +91,6 @@ def get_bot_ratings_online(type):
 def get_all_bot_ratings_online(type):
     online_bots = urllib.request.urlopen('https://lichess.org/api/bot/online')
     user_arr = []
-    num_prov = 0
-    num_est = 0
     count = 0
     banned = 0
     count2 = 1
