@@ -1,10 +1,10 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Godot           2888       13         138       
 2          SF-NNUE                   2885       15         37        
-3          FireFishBOT_v2            2880       -5         619       
-4          ReinforcementTrial        2877       5          5108      
+3          ReinforcementTrial        2877       6          5109      
+4          FireFishBOT_v2            2875       -10        620       
 5          YoBot_v2                  2865       -4         12927     
-6          Shineshou90_BOT           2858       4          2509      
+6          Shineshou90_BOT           2858       3          2510      
 7          ResoluteBot               2849       10         5173      
 8          chessfyBOT                2845       -7         228       
 9          RaspFish                  2825       0          5477      
@@ -20,7 +20,7 @@ Rank       Bot                       Rating     Prog       Games
 19         Cheng-4                   2467       16         3136      
 20         ELO_1500                  2453       28         2887      
 21         OpeningsBot               2430       -13        229       
-22         TuksuBot                  2417       -14        1965      
+22         TuksuBot                  2418       -13        1966      
 23         Wahoo_Bot                 2396       46         74        
 24         odonata-bot               2390       -12        3697      
 25         Phalanx-XXV               2371       -10        865       
@@ -54,7 +54,7 @@ Rank       Bot                       Rating     Prog       Games
 53         LazyBotJr                 1968       -37        1255      
 54         Jobabot                   1959       -1         91        
 55         myopic-bot                1953       12         323       
-56         zeekat                    1936       3          8229      
+56         zeekat                    1935       1          8230      
 57         baby_eubos                1925       -18        888       
 58         likeawizard-bot           1897       25         485       
 59         Ptit-biscuit              1872       16         88        
@@ -71,7 +71,7 @@ Rank       Bot                       Rating     Prog       Games
 70         DragonflyBOT              1750       -20        435       
 71         AshNostromo               1738       -10        1217      
 72         dlvc-bot                  1736       -7         80        
-73         maia9                     1734       6          83127     
+73         maia9                     1736       12         83129     
 74         NatesBot                  1719       1          40        
 75         melsh_bot                 1708       -18        232       
 76         Dummyette                 1683       44         2926      
@@ -86,7 +86,7 @@ Rank       Bot                       Rating     Prog       Games
 85         dragobot                  1517       -127       44        
 86         turochamp-2ply            1509       11         1073      
 87         DavidsGuterBot            1486       8          603       
-88         maia1                     1467       -2         229506    
+88         maia1                     1469       9          229508    
 89         RoundMoundOfRebounds      1449       10         343       
 90         sargon-2ply               1427       -10        3302      
 91         turochamp-1ply            1393       -5         1555      
