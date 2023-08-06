@@ -2,7 +2,7 @@ Rank       Bot                       Rating     Prog       Games
 1          ProteusSF-Godot           2944       3          1418      
 2          FireFishBOT_v2            2932       -4         386       
 3          ResoluteBot               2914       2          24897     
-4          RaspFish                  2882       -2         50176     
+4          RaspFish                  2884       -1         50177     
 5          YoBot_v2                  2872       -2         17580     
 6          chessfyBOT                2788       -8         1404      
 7          Nikitosik-ai              2776       12         1976      
@@ -10,7 +10,7 @@ Rank       Bot                       Rating     Prog       Games
 9          LazyBot                   2701       -11        1405      
 10         blundar_bot               2694       -1         5154      
 11         FlamingDragon_9000        2524       -5         10619     
-12         expositor                 2512       1          19469     
+12         expositor                 2511       0          19470     
 13         Elmichess                 2497       -14        3203      
 14         AKS-Mantissa              2489       -5         10517     
 15         Cheng-4                   2468       -8         13385     
@@ -57,7 +57,7 @@ Rank       Bot                       Rating     Prog       Games
 56         Ptit-biscuit              1869       18         669       
 57         DragonflyBOT              1849       20         2017      
 58         QueensGamBOT              1828       -3         5030      
-59         FlounderBot               1816       -1         3255      
+59         FlounderBot               1819       5          3256      
 60         honzovy-sachy             1809       37         4884      
 61         notropis                  1801       10         3761      
 62         NatesBot                  1786       68         15        
@@ -71,12 +71,12 @@ Rank       Bot                       Rating     Prog       Games
 70         melsh_bot                 1715       -1         4059      
 71         dlvc-bot                  1685       46         178       
 72         Humaia                    1682       78         405       
-73         rudim-bot                 1680       10         155       
-74         maia1                     1676       10         122759    
+73         maia1                     1680       18         122761    
+74         rudim-bot                 1680       10         155       
 75         maia5                     1649       -2         39118     
 76         maia9                     1641       6          60647     
-77         ZE_ROOK                   1612       -3         1769      
-78         DavidsGuterBot            1611       1          6030      
+77         DavidsGuterBot            1611       1          6030      
+78         ZE_ROOK                   1609       -4         1770      
 79         sargon-3ply               1590       14         1243      
 80         sargon-4ply               1562       -8         1615      
 81         StockbrotV1               1557       -196       17        
