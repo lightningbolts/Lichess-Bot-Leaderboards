@@ -1,10 +1,10 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Godot           2888       13         138       
 2          FireFishBOT_v2            2880       -5         622       
-3          ReinforcementTrial        2873       0          5113      
+3          ReinforcementTrial        2874       0          5114      
 4          YoBot_v2                  2864       -4         12928     
-5          Shineshou90_BOT           2859       8          2512      
-6          TorBot_v2                 2856       -11        180       
+5          Shineshou90_BOT           2859       7          2513      
+6          TorBot_v2                 2856       -10        181       
 7          ResoluteBot               2849       10         5173      
 8          chessfyBOT                2845       -7         228       
 9          RaspFish                  2820       -6         5478      
@@ -19,7 +19,7 @@ Rank       Bot                       Rating     Prog       Games
 18         bot_adario                2505       19         1311      
 19         Cheng-4                   2467       16         3136      
 20         ELO_1500                  2453       25         2888      
-21         OpeningsBot               2430       -13        229       
+21         OpeningsBot               2429       -13        230       
 22         TuksuBot                  2418       -13        1966      
 23         Wahoo_Bot                 2397       46         75        
 24         odonata-bot               2390       -12        3697      
@@ -58,8 +58,8 @@ Rank       Bot                       Rating     Prog       Games
 57         likeawizard-bot           1893       15         486       
 58         Ptit-biscuit              1872       20         89        
 59         Trollfish-Bot             1861       -5         177       
-60         Demolito_L6               1848       1          248       
-61         notropis                  1845       6          2218      
+60         notropis                  1851       10         2219      
+61         Demolito_L6               1842       -10        249       
 62         Fisk_Bot                  1813       -19        224       
 63         FlounderBot               1808       8          145       
 64         sun_bird                  1808       -62        26        
@@ -78,7 +78,7 @@ Rank       Bot                       Rating     Prog       Games
 77         HulkBot                   1666       -32        404       
 78         yeoldwiz                  1637       16         634       
 79         HardRok                   1631       -4         571       
-80         maia5                     1601       13         100431    
+80         maia5                     1602       12         100432    
 81         sargon-3ply               1571       10         1157      
 82         sargon-4ply               1555       7          576       
 83         ZE_ROOK                   1536       21         403       
