@@ -19,7 +19,7 @@ Rank       Bot                       Rating     Prog       Games
 18         Weiawaga                  2515       -3         9803      
 19         bot_adario                2505       19         1311      
 20         Cheng-4                   2467       16         3136      
-21         ELO_1500                  2457       23         2889      
+21         ELO_1500                  2458       19         2890      
 22         OpeningsBot               2429       -13        230       
 23         TuksuBot                  2418       -13        1966      
 24         Wahoo_Bot                 2397       46         75        
@@ -50,8 +50,8 @@ Rank       Bot                       Rating     Prog       Games
 49         LeaMoreau                 2024       -26        323       
 50         BLANK_BOT                 2005       19         1520      
 51         LeelaRogue                1977       12         2216      
-52         Nc3Nc6Bot                 1974       2          1530      
-53         LazyBotJr                 1968       -37        1255      
+52         LazyBotJr                 1968       -37        1255      
+53         Nc3Nc6Bot                 1966       -6         1531      
 54         Jobabot                   1959       -1         91        
 55         myopic-bot                1953       12         323       
 56         zeekat                    1935       -1         8231      
@@ -61,15 +61,15 @@ Rank       Bot                       Rating     Prog       Games
 60         Trollfish-Bot             1861       -5         177       
 61         notropis                  1851       10         2219      
 62         Demolito_L6               1842       -10        249       
-63         Fisk_Bot                  1813       -19        224       
-64         FlounderBot               1808       8          145       
-65         sun_bird                  1808       -62        26        
+63         sun_bird                  1834       3          27        
+64         Fisk_Bot                  1813       -19        224       
+65         FlounderBot               1808       8          145       
 66         honzovy-sachy             1777       17         917       
 67         Virutor                   1772       -25        3168      
 68         ChessChildren             1762       0          4388      
 69         Demolito_L5               1749       8          747       
 70         DragonflyBOT              1749       -18        436       
-71         NatesBot                  1739       -6         43        
+71         NatesBot                  1739       3          44        
 72         AshNostromo               1738       -10        1217      
 73         dlvc-bot                  1736       -7         80        
 74         maia9                     1730       -10        83155     
@@ -79,7 +79,7 @@ Rank       Bot                       Rating     Prog       Games
 78         HulkBot                   1666       -32        404       
 79         yeoldwiz                  1637       16         634       
 80         HardRok                   1631       -4         571       
-81         maia5                     1608       12         100433    
+81         maia5                     1608       6          100434    
 82         sargon-3ply               1571       10         1157      
 83         sargon-4ply               1555       7          576       
 84         ZE_ROOK                   1536       21         403       
@@ -99,6 +99,5 @@ Rank       Bot                       Rating     Prog       Games
 98         sargon-1ply               1182       -9         8394      
 99         CHoMPBoT                  1171       2          510       
 100        OhniBOT                   1146       -1         471       
-101        kireevi                   1120       41         559       
-102        bobandi                   867        22         707       
-103        G0thamB0t                 767        -10        289       
+101        bobandi                   867        22         707       
+102        G0thamB0t                 767        -10        289       
