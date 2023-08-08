@@ -26,7 +26,7 @@ Rank       Bot                       Rating     Prog       Games
 25         bot_adario                2512       26         1316      
 26         Weiawaga                  2512       -11        9833      
 27         ELO_1500                  2492       14         2912      
-28         Cheng-4                   2470       10         3141      
+28         Cheng-4                   2468       7          3142      
 29         OpeningsBot               2424       -12        236       
 30         TuksuBot                  2415       -3         1972      
 31         odonata-bot               2405       15         3711      
@@ -38,7 +38,7 @@ Rank       Bot                       Rating     Prog       Games
 37         FlamingDragon_9000        2309       -12        1216      
 38         simpleEval                2290       -9         7528      
 39         Nakshatra3                2287       14         828       
-40         LunaChessEngine           2262       17         1035      
+40         LunaChessEngine           2260       21         1036      
 41         FataliiBot                2241       -9         2578      
 42         halcyonbot                2239       -9         6030      
 43         eubos                     2207       -11        4217      
@@ -46,8 +46,8 @@ Rank       Bot                       Rating     Prog       Games
 45         Elmichess                 2163       11         1413      
 46         HistoryExplorer           2159       3          1016      
 47         matmoi                    2158       -13        1201      
-48         GarboBot                  2133       20         5987      
-49         Hyperopic                 2133       11         418       
+48         Hyperopic                 2135       14         419       
+49         GarboBot                  2133       20         5987      
 50         redtail-zero              2079       -9         265       
 51         LeaMoreau                 2073       3          353       
 52         camel_bot                 2070       -12        290       
@@ -82,18 +82,18 @@ Rank       Bot                       Rating     Prog       Games
 81         DragonflyBOT              1752       2          446       
 82         dlvc-bot                  1731       -24        81        
 83         melsh_bot                 1710       -9         235       
-84         The_Marcus                1704       42         38        
-85         maia9                     1692       -21        83362     
+84         maia9                     1705       -3         83365     
+85         The_Marcus                1704       42         38        
 86         Dummyette                 1682       0          2942      
 87         HulkBot                   1655       -39        405       
 88         simplexitor               1652       -17        463       
 89         yeoldwiz                  1637       16         634       
 90         HardRok                   1627       -4         582       
-91         maia5                     1596       -1         100702    
+91         maia5                     1591       -3         100703    
 92         sargon-4ply               1590       47         593       
 93         ZE_ROOK                   1573       27         416       
 94         sargon-3ply               1567       -7         1164      
-95         maia1                     1532       24         229893    
+95         maia1                     1536       22         229894    
 96         dragobot                  1510       -127       45        
 97         turochamp-2ply            1503       1          1078      
 98         DavidsGuterBot            1495       18         606       
@@ -111,4 +111,4 @@ Rank       Bot                       Rating     Prog       Games
 110        CodingAI                  1134       30         80        
 111        kireevi                   1109       29         561       
 112        bobandi                   862        0          710       
-113        G0thamB0t                 764        -1         302       
+113        G0thamB0t                 763        -1         306       
