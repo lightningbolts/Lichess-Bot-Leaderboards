@@ -23,7 +23,7 @@ Rank       Bot                       Rating     Prog       Games
 22         bot_adario                2503       21         1314      
 23         ELO_1500                  2481       18         2904      
 24         Cheng-4                   2467       10         3138      
-25         OpeningsBot               2429       -9         234       
+25         OpeningsBot               2421       -16        235       
 26         TuksuBot                  2413       -12        1970      
 27         odonata-bot               2392       2          3705      
 28         Phalanx-XXV               2370       3          874       
@@ -32,13 +32,13 @@ Rank       Bot                       Rating     Prog       Games
 31         RavenEngine               2357       -2         394       
 32         fornax-engine             2335       -4         3640      
 33         simpleEval                2297       4          7525      
-34         Nakshatra3                2286       11         826       
-35         halcyonbot                2248       11         6009      
+34         Nakshatra3                2290       15         827       
+35         halcyonbot                2256       17         6010      
 36         FataliiBot                2245       -26        2571      
 37         eubos                     2212       3          4213      
 38         Boris-Trapsky             2192       -32        27386     
-39         matmoi                    2165       23         1185      
-40         Elmichess                 2163       11         1413      
+39         Elmichess                 2163       11         1413      
+40         matmoi                    2161       14         1186      
 41         HistoryExplorer           2159       -5         1015      
 42         GarboBot                  2128       14         5981      
 43         Hyperopic                 2099       17         401       
@@ -86,7 +86,7 @@ Rank       Bot                       Rating     Prog       Games
 85         sargon-3ply               1563       -6         1163      
 86         sargon-4ply               1544       -11        579       
 87         TuroBot                   1542       29         3334      
-88         maia1                     1513       -2         229803    
+88         maia1                     1506       -8         229804    
 89         turochamp-2ply            1503       7          1077      
 90         DavidsGuterBot            1496       18         605       
 91         Flawed_Formula            1492       218        38        
@@ -100,7 +100,7 @@ Rank       Bot                       Rating     Prog       Games
 99         schnecken_bot             1228       4          329       
 100        sargon-1ply               1171       -2         8423      
 101        CHoMPBoT                  1146       -12        526       
-102        OhniBOT                   1136       -12        481       
+102        OhniBOT                   1134       -12        482       
 103        kireevi                   1110       29         560       
 104        bobandi                   862        -2         709       
 105        G0thamB0t                 764        -1         292       
