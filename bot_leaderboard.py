@@ -23,10 +23,10 @@ def get_user_rating(username, type):
 def get_user_rating_from_dict(username, dict, type):
     return [username, dict[type]]
 
-def get_file_name(type, dir):
-    return dir + type + '.txt'
+def get_file_name(type):
+    return os.path.join(dir, f"{type}.txt")
 
-def get_bot_ratings_online(type):
+def get_bot_ratings_online(type, all_bots=False):
     banned_bots = [
         'caissa-ai',
         'ProteusSF',
@@ -67,77 +67,62 @@ def get_bot_ratings_online(type):
         try:
             result = [d['username'], d['perfs'][type]['rating'], d['perfs'][type]['prog'], d['perfs'][type]['games']]
             print(count, result)
-            try: 
-                if d['perfs'][type]['prov'] == True:
-                    print('Provisional rating')
-                num_prov += 1
-            except:
-                num_est += 1
-                if result[0] in banned_bots:
-                    banned += 1
-                else:
-                    user_arr.append(result)
+            if all_bots:
+                user_arr.append(result)
+            else:
+                try:
+                    if d['perfs'][type]['prov'] == True:
+                        print('Provisional rating')
+                    num_prov += 1
+                except:
+                    num_est += 1
+                    if result[0] in banned_bots:
+                        banned += 1
+                    else:
+                        user_arr.append(result)
         except:
             print("No " + type + " rating available")
         count += 1
     resulting_arr = sorted(user_arr, key=lambda x: x[1], reverse=True)
-    with open(get_file_name(type, './bot_leaderboard/'), 'w') as f:
+    if all_bots:
+        dir = './all_bot_leaderboard/'
+    else:
+        dir = './bot_leaderboard/'
+    with open(get_file_name(type, dir), 'w') as f:
                 print("{0:<10} {1:<25} {2:<10} {3:<10} {4:<10}".format("Rank", "Bot", "Rating", "Prog", "Games"), file=f)
                 for j in resulting_arr:
                     print("{0:<10} {1:<25} {2:<10} {3:<10} {4:<10}".format(str(count2), j[0], str(j[1]), str(j[2]), str(j[3])), file=f)
                     count2 += 1
     return "\n" + "Banned bots: " + str(banned)
 
-def get_all_bot_ratings_online(type):
-    online_bots = urllib.request.urlopen('https://lichess.org/api/bot/online')
-    user_arr = []
-    count = 0
-    banned = 0
-    count2 = 1
-    
-    for i in online_bots:
-        d = orjson.loads(i)
-        try:
-            result = [d['username'], d['perfs'][type]['rating'], d['perfs'][type]['prog'], d['perfs'][type]['games']]
-            print(count, result)
-            user_arr.append(result)
-        except:
-            print("No " + type + " rating available")
-        count += 1
-    resulting_arr = sorted(user_arr, key=lambda x: x[1], reverse=True)
-    with open(get_file_name(type, './unrestricted_bot_leaderboard/'), 'w') as f:
-                print("{0:<10} {1:<25} {2:<10} {3:<10} {4:<10}".format("Rank", "Bot", "Rating", "Prog", "Games"), file=f)
-                for j in resulting_arr:
-                    print("{0:<10} {1:<25} {2:<10} {3:<10} {4:<10}".format(str(count2), j[0], str(j[1]), str(j[2]), str(j[3])), file=f)
-                    count2 += 1
-    return "\n" + "Banned bots: " + str(banned)
 while True:
-    get_all_bot_ratings_online('bullet')
+    get_bot_ratings_online('bullet', all_bots=True)
     get_bot_ratings_online('bullet')
-    get_all_bot_ratings_online('rapid')
+    get_bot_ratings_online('rapid', all_bots=True)
     get_bot_ratings_online('rapid')
-    get_all_bot_ratings_online('correspondence')
+    get_bot_ratings_online('correspondence', all_bots=True)
     get_bot_ratings_online('correspondence')
-    get_all_bot_ratings_online('atomic')
+    get_bot_ratings_online('atomic', all_bots=True)
     get_bot_ratings_online('atomic')
-    get_all_bot_ratings_online('crazyhouse')
+    get_bot_ratings_online('crazyhouse', all_bots=True)
     get_bot_ratings_online('crazyhouse')
-    get_all_bot_ratings_online('kingOfTheHill')
+    get_bot_ratings_online('kingOfTheHill', all_bots=True)
     get_bot_ratings_online('kingOfTheHill')
-    get_all_bot_ratings_online('threeCheck')
+    get_bot_ratings_online('threeCheck', all_bots=True)
     get_bot_ratings_online('threeCheck')
-    get_all_bot_ratings_online('blitz')
+    get_bot_ratings_online('blitz', all_bots=True)
     get_bot_ratings_online('blitz')
-    get_all_bot_ratings_online('classical')
+    get_bot_ratings_online('classical', all_bots=True)
     get_bot_ratings_online('classical')
-    get_all_bot_ratings_online('antichess')
+    get_bot_ratings_online('antichess', all_bots=True)
     get_bot_ratings_online('antichess')
-    get_all_bot_ratings_online('chess960')
+    get_bot_ratings_online('chess960', all_bots=True)
     get_bot_ratings_online('chess960')
-    get_all_bot_ratings_online('horde')
+    get_bot_ratings_online('horde', all_bots=True)
     get_bot_ratings_online('horde')
-    get_all_bot_ratings_online('racingKings')
+    get_bot_ratings_online('racingKings', all_bots=True)
     get_bot_ratings_online('racingKings')
+    time.sleep(300)
     time.sleep(300)
 
 #print(get_team('leaderboard-of-bots', 'bullet'))
