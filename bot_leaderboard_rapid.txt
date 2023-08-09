@@ -8,10 +8,10 @@ Rank       Bot                       Rating     Prog       Games
 7          EmptikBot247              2858       1          126       
 8          ArasanX                   2855       -1         5282      
 9          chessfyBOT                2845       -7         228       
-10         F0rgot                    2845       4          120       
-11         ResoluteBot               2845       -3         5183      
+10         ResoluteBot               2845       -3         5183      
+11         F0rgot                    2844       2          121       
 12         Nikitosik-ai              2819       -10        605       
-13         RaspFish                  2818       -1         5483      
+13         RaspFish                  2818       -2         5484      
 14         blundar_bot               2816       12         1040      
 15         Palisade                  2777       54         212       
 16         AKS-Mantissa              2616       -3         4038      
@@ -36,7 +36,7 @@ Rank       Bot                       Rating     Prog       Games
 35         FlamingDragon_9000        2309       -12        1216      
 36         simpleEval                2293       -7         7535      
 37         Nakshatra3                2288       11         831       
-38         halcyonbot                2252       -2         6046      
+38         halcyonbot                2249       3          6047      
 39         FataliiBot                2248       1          2581      
 40         eubos                     2203       -5         4220      
 41         Boris-Trapsky             2180       -12        27400     
@@ -45,8 +45,8 @@ Rank       Bot                       Rating     Prog       Games
 44         GarboBot                  2136       15         5990      
 45         Hyperopic                 2128       0          434       
 46         redtail-zero              2079       -12        268       
-47         camel_bot                 2070       -12        290       
-48         LeaMoreau                 2070       -1         362       
+47         LeaMoreau                 2072       6          363       
+48         camel_bot                 2070       -12        290       
 49         AjedrezChamberi           2061       34         117       
 50         jangine                   2060       -7         1677      
 51         MaxtheDog                 2050       -2         637       
@@ -81,7 +81,7 @@ Rank       Bot                       Rating     Prog       Games
 80         maia9                     1688       -7         83430     
 81         The_Marcus                1682       -26        42        
 82         Dummyette                 1675       -8         2945      
-83         maia5                     1666       29         100747    
+83         maia5                     1669       24         100748    
 84         simplexitor               1652       -18        465       
 85         yeoldwiz                  1637       16         634       
 86         HulkBot                   1635       -85        406       
@@ -91,7 +91,7 @@ Rank       Bot                       Rating     Prog       Games
 90         ZE_ROOK                   1562       -2         421       
 91         TuroBot                   1537       4          3336      
 92         dragobot                  1524       -74        48        
-93         maia1                     1515       -8         229995    
+93         maia1                     1520       4          229996    
 94         turochamp-2ply            1503       1          1078      
 95         DavidsGuterBot            1494       9          607       
 96         sargon-2ply               1421       -9         3315      
@@ -107,3 +107,4 @@ Rank       Bot                       Rating     Prog       Games
 106        CHoMPBoT                  1134       -13        532       
 107        kireevi                   1109       29         561       
 108        bobandi                   862        0          710       
+109        G0thamB0t                 761        -1         330       
