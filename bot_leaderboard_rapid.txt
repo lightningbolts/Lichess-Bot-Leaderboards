@@ -5,7 +5,7 @@ Rank       Bot                       Rating     Prog       Games
 4          ReinforcementTrial        2875       2          5144      
 5          Shineshou90_BOT           2865       0          2535      
 6          YoBot_v2                  2862       -2         12939     
-7          ArasanX                   2857       2          5293      
+7          ArasanX                   2857       6          5294      
 8          chessfyBOT                2845       -7         228       
 9          ResoluteBot               2845       -3         5183      
 10         Nikitosik-ai              2819       -10        605       
@@ -26,7 +26,7 @@ Rank       Bot                       Rating     Prog       Games
 25         Wahoo_Bot                 2413       34         82        
 26         odonata-bot               2399       3          3717      
 27         TuksuBot                  2391       -27        1977      
-28         Phalanx-XXV               2388       18         881       
+28         Phalanx-XXV               2387       17         882       
 29         clueless-bot              2372       8          753       
 30         RavenEngine               2364       -5         398       
 31         Pseudo-0                  2361       -6         1093      
@@ -93,7 +93,7 @@ Rank       Bot                       Rating     Prog       Games
 92         DavidsGuterBot            1502       18         608       
 93         turochamp-2ply            1499       -6         1079      
 94         Flawed_Formula            1498       210        39        
-95         maia1                     1487       9          230056    
+95         maia1                     1495       24         230057    
 96         sargon-2ply               1421       -9         3315      
 97         turochamp-1ply            1406       14         1563      
 98         Humaia                    1394       18         2192      
@@ -105,4 +105,3 @@ Rank       Bot                       Rating     Prog       Games
 104        CHoMPBoT                  1125       -24        535       
 105        kireevi                   1109       29         561       
 106        bobandi                   862        0          710       
-107        G0thamB0t                 761        -1         330       
