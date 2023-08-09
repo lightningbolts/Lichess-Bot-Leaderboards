@@ -1,10 +1,10 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Godot           2889       15         140       
 2          FireFishBOT_v2            2878       -2         629       
-3          ReinforcementTrial        2870       -2         5141      
+3          ReinforcementTrial        2876       4          5142      
 4          Shineshou90_BOT           2865       0          2532      
 5          YoBot_v2                  2862       -3         12937     
-6          ArasanX                   2858       -3         5278      
+6          ArasanX                   2853       -9         5279      
 7          chessfyBOT                2845       -7         228       
 8          ResoluteBot               2845       -3         5183      
 9          RaspFish                  2818       -1         5483      
@@ -84,8 +84,8 @@ Rank       Bot                       Rating     Prog       Games
 83         yeoldwiz                  1637       16         634       
 84         maia5                     1613       16         100733    
 85         sargon-4ply               1590       47         593       
-86         sargon-3ply               1567       -7         1164      
-87         ZE_ROOK                   1560       3          419       
+86         sargon-3ply               1572       -5         1165      
+87         ZE_ROOK                   1555       -5         420       
 88         TuroBot                   1537       4          3336      
 89         maia1                     1531       -9         229982    
 90         dragobot                  1529       -84        47        
@@ -100,7 +100,7 @@ Rank       Bot                       Rating     Prog       Games
 99         schnecken_bot             1238       11         332       
 100        ABotWith3200Rating        1231       -6         61        
 101        sargon-1ply               1168       -3         8429      
-102        OhniBOT                   1144       1          488       
+102        OhniBOT                   1143       1          489       
 103        CHoMPBoT                  1134       -13        532       
 104        kireevi                   1109       29         561       
 105        bobandi                   862        0          710       
