@@ -8,7 +8,7 @@ Rank       Bot                       Rating     Prog       Games
 7          ReinforcementTrial        2871       31         34        
 8          Nikitosik-ai              2850       1          2175      
 9          chessfyBOT                2788       -8         1404      
-10         RaspFish                  2749       6          50682     
+10         RaspFish                  2750       10         50683     
 11         Shineshou90_BOT           2745       -12        8218      
 12         blundar_bot               2698       4          5170      
 13         FrozenightEngine          2593       25         8462      
@@ -18,8 +18,8 @@ Rank       Bot                       Rating     Prog       Games
 17         expositor                 2486       1          19582     
 18         bot_adario                2484       16         2460      
 19         Elmichess                 2483       -29        3204      
-20         pawn_git                  2453       19         3933      
-21         Wahoo_Bot                 2453       -9         607       
+20         Wahoo_Bot                 2455       -3         609       
+21         pawn_git                  2453       19         3933      
 22         Weiawaga                  2450       0          15247     
 23         catriever                 2438       32         1576      
 24         OpeningsBot               2433       -13        607       
@@ -42,10 +42,10 @@ Rank       Bot                       Rating     Prog       Games
 41         GarboBot                  2146       -2         9472      
 42         matmoi                    2130       -12        1792      
 43         LeaMoreau                 2119       -1         482       
-44         camel_bot                 2095       14         748       
+44         camel_bot                 2094       15         749       
 45         eubos                     2092       -9         12555     
 46         jangine                   2086       -6         2919      
-47         myopic-bot                2080       21         1805      
+47         myopic-bot                2084       28         1806      
 48         WilliamEngine             2080       20         119       
 49         Humaia-Strong             2073       78         1306      
 50         redtail-zero              2053       -1         534       
@@ -54,8 +54,8 @@ Rank       Bot                       Rating     Prog       Games
 53         Jobabot                   2016       2          438       
 54         BLANK_BOT                 2006       12         7272      
 55         Trollfish-Bot             1967       3          3520      
-56         zeekat                    1958       6          18435     
-57         StrongMagnusCarlsen       1955       -40        267       
+56         StrongMagnusCarlsen       1955       -40        267       
+57         zeekat                    1954       5          18437     
 58         Nc3Nc6Bot                 1895       -32        1091      
 59         FlounderBot               1893       14         3426      
 60         likeawizard-bot           1892       31         959       
@@ -83,8 +83,8 @@ Rank       Bot                       Rating     Prog       Games
 82         maia9                     1610       11         60757     
 83         DavidsGuterBot            1608       -11        6082      
 84         sargon-3ply               1604       13         1257      
-85         ZE_ROOK                   1594       14         1819      
-86         maia5                     1591       -28        39197     
+85         maia5                     1594       -26        39198     
+86         ZE_ROOK                   1594       14         1819      
 87         sargon-4ply               1581       8          1631      
 88         turochamp-2ply            1544       -3         1491      
 89         turochamp-1ply            1516       8          1855      
