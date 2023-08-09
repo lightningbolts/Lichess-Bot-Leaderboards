@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
-1          FireFishBOT_v2            2891       -1         2064      
-2          ProteusSF-Godot           2890       0          759       
-3          ReinforcementTrial        2888       -1         317       
+1          FireFishBOT_v2            2891       -1         2066      
+2          ProteusSF-Godot           2890       0          761       
+3          ReinforcementTrial        2888       -2         318       
 4          YoBot_v2                  2877       -3         3491      
 5          ToromBot                  2873       0          2990      
 6          ResoluteBot               2858       3          10983     
@@ -23,7 +23,7 @@ Rank       Bot                       Rating     Prog       Games
 22         Wahoo_Bot                 2459       -6         313       
 23         Pseudo-0                  2422       8          2831      
 24         OpeningsBot               2401       -6         769       
-25         TuksuBot                  2391       -22        3899      
+25         TuksuBot                  2390       -29        3900      
 26         Phalanx-XXV               2389       11         2551      
 27         AjatarBot                 2386       -2         247       
 28         odonata-bot               2382       -5         5950      
@@ -46,7 +46,7 @@ Rank       Bot                       Rating     Prog       Games
 45         camel_bot                 2097       0          589       
 46         redtail-zero              2061       10         397       
 47         LeaMoreau                 2057       9          373       
-48         Boris-Trapsky             2055       2          28292     
+48         Boris-Trapsky             2056       2          28295     
 49         MaxtheDog                 2019       5          4265      
 50         Elmichess                 2016       -8         3519      
 51         myopic-bot                2003       1          1787      
