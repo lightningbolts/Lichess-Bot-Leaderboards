@@ -2,7 +2,7 @@ Rank       Bot                       Rating     Prog       Games
 1          caissa-x                  2953       -4         14513     
 2          ProteusSF-Godot           2934       -8         1455      
 3          FireFishBOT_v2            2918       -4         447       
-4          ToromBot                  2911       2          60461     
+4          ToromBot                  2912       2          60462     
 5          GeometricsBot             2909       39         34        
 6          ReinforcementTrial        2882       6          65        
 7          ResoluteBot               2880       2          25088     
@@ -25,7 +25,7 @@ Rank       Bot                       Rating     Prog       Games
 24         catriever                 2427       -12        1593      
 25         bfiedler-bot              2402       -93        77        
 26         OpeningsBot               2402       -16        639       
-27         Phalanx-XXV               2376       4          4125      
+27         Phalanx-XXV               2376       2          4126      
 28         RavenEngine               2374       5          9046      
 29         TuksuBot                  2365       15         6763      
 30         odonata-bot               2353       6          6249      
@@ -39,11 +39,11 @@ Rank       Bot                       Rating     Prog       Games
 38         FataliiBot                2296       22         5724      
 39         simpleEval                2296       -7         25006     
 40         halcyonbot                2281       -6         5222      
-41         HistoryExplorer           2254       28         2501      
+41         HistoryExplorer           2254       33         2502      
 42         honzovy-sachy-2           2170       7          6981      
 43         GarboBot                  2165       20         9487      
 44         matmoi                    2141       1          1816      
-45         jangine                   2116       20         2945      
+45         jangine                   2119       17         2946      
 46         myopic-bot                2113       37         1815      
 47         LeaMoreau                 2111       0          507       
 48         eubos                     2110       -3         12582     
@@ -58,9 +58,9 @@ Rank       Bot                       Rating     Prog       Games
 57         Lynx_BOT                  1992       -23        6434      
 58         Nc3Nc6Bot                 1971       25         1112      
 59         BLANK_BOT                 1965       -32        7301      
-60         zeekat                    1902       -13        18467     
+60         zeekat                    1900       -15        18468     
 61         likeawizard-bot           1898       0          990       
-62         FlounderBot               1888       -4         3471      
+62         FlounderBot               1884       -7         3472      
 63         Demolito_L6               1869       -3         347       
 64         notropis                  1856       13         3810      
 65         Ptit-biscuit              1844       -2         727       
@@ -79,7 +79,7 @@ Rank       Bot                       Rating     Prog       Games
 78         rudim-bot                 1680       10         155       
 79         ChessChildren             1667       -5         15360     
 80         maia1                     1663       0          123044    
-81         maia9                     1610       4          60760     
+81         maia9                     1614       -2         60761     
 82         ZE_ROOK                   1606       21         1829      
 83         DavidsGuterBot            1604       -18        6090      
 84         sargon-3ply               1597       12         1261      
@@ -91,7 +91,7 @@ Rank       Bot                       Rating     Prog       Games
 90         sargon-2ply               1466       -10        2181      
 91         botTideEval               1457       43         1239      
 92         yeoldwiz                  1450       18         791       
-93         Flawed_Formula            1429       26         308       
+93         Flawed_Formula            1428       16         309       
 94         StupidChessRobot          1412       1          482       
 95         schnecken_bot             1393       -8         1010      
 96         CHoMPBoT                  1373       8          987       
