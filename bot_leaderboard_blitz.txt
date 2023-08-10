@@ -21,8 +21,8 @@ Rank       Bot                       Rating     Prog       Games
 20         catriever                 2462       -3         675       
 21         AjatarBot                 2436       32         256       
 22         Pseudo-0                  2411       1          2836      
-23         OpeningsBot               2391       -18        776       
-24         Phalanx-XXV               2387       2          2557      
+23         OpeningsBot               2391       -14        777       
+24         Phalanx-XXV               2387       0          2558      
 25         TuksuBot                  2385       -33        3901      
 26         odonata-bot               2378       -12        5953      
 27         RavenEngine               2376       29         1588      
@@ -58,11 +58,11 @@ Rank       Bot                       Rating     Prog       Games
 57         zeekat                    1916       0          20466     
 58         zulu_bot                  1861       -3         992       
 59         baby_eubos                1851       22         7522      
-60         likeawizard-bot           1848       17         2415      
+60         likeawizard-bot           1847       10         2416      
 61         FlounderBot               1830       -3         1669      
 62         Demolito_L6               1819       -14        513       
 63         Trollfish-Bot             1815       -27        1784      
-64         Ptit-biscuit              1811       -3         583       
+64         Ptit-biscuit              1812       -2         584       
 65         NatesBot                  1797       -22        213       
 66         DragonflyBOT              1786       -5         2024      
 67         notropis                  1769       -17        6400      
@@ -76,8 +76,8 @@ Rank       Bot                       Rating     Prog       Games
 75         dlvc-bot                  1672       -15        1259      
 76         AshNostromo               1663       -16        963       
 77         yeoldwiz                  1647       15         1601      
-78         maia9                     1631       15         99820     
-79         ChessChildren             1627       -6         21230     
+78         ChessChildren             1627       -6         21230     
+79         maia9                     1620       1          99821     
 80         GeraldBOT                 1606       -23        32        
 81         ArduChessBot              1605       18         1255      
 82         Dummyette                 1545       2          2684      
@@ -91,8 +91,8 @@ Rank       Bot                       Rating     Prog       Games
 90         Flawed_Formula            1405       139        193       
 91         chat_bot                  1401       -48        246       
 92         monchester                1386       1          2688      
-93         StupidChessRobot          1370       -20        1034      
-94         Humaia                    1368       20         884       
+93         Humaia                    1368       20         884       
+94         StupidChessRobot          1366       -25        1035      
 95         sargon-2ply               1316       33         2999      
 96         turochamp-1ply            1283       12         1766      
 97         dragobot                  1282       44         83        
@@ -100,6 +100,6 @@ Rank       Bot                       Rating     Prog       Games
 99         pawnrobot                 1264       -9         2021      
 100        OhniBOT                   1193       0          316       
 101        HulkBot                   1119       -62        673       
-102        CHoMPBoT                  1106       0          1687      
-103        bobandi                   1102       3          1148      
+102        bobandi                   1106       7          1149      
+103        CHoMPBoT                  1106       0          1687      
 104        knucklefish               1087       -11        3181      
