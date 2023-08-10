@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ReinforcementTrial        2901       7          358       
-2          FireFishBOT_v2            2895       -1         2114      
+1          ReinforcementTrial        2902       7          359       
+2          FireFishBOT_v2            2897       4          2116      
 3          ProteusSF-Godot           2891       1          784       
 4          caissa-x                  2879       1          3134      
 5          ToromBot                  2875       2          2996      
@@ -8,7 +8,7 @@ Rank       Bot                       Rating     Prog       Games
 7          ResoluteBot               2860       4          10990     
 8          chessfyBOT                2819       -12        180       
 9          RaspFish                  2814       -4         11074     
-10         Shineshou90_BOT           2808       -4         1778      
+10         Shineshou90_BOT           2809       -4         1779      
 11         Nikitosik-ai              2780       5          312       
 12         blundar_bot               2772       5          947       
 13         LazyBot                   2720       -43        2015      
@@ -17,11 +17,11 @@ Rank       Bot                       Rating     Prog       Games
 16         pawn_git                  2499       -8         2346      
 17         Weiawaga                  2493       15         11583     
 18         bot_adario                2480       3          2215      
-19         Cheng-4                   2476       2          6470      
+19         Cheng-4                   2475       2          6471      
 20         ELO_1500                  2475       4          13018     
-21         catriever                 2461       -4         676       
+21         catriever                 2460       -4         677       
 22         AjatarBot                 2452       47         259       
-23         Pseudo-0                  2409       -15        2839      
+23         Pseudo-0                  2408       -10        2840      
 24         OpeningsBot               2391       -14        777       
 25         Phalanx-XXV               2387       -4         2560      
 26         TuksuBot                  2385       -33        3901      
@@ -62,9 +62,9 @@ Rank       Bot                       Rating     Prog       Games
 61         FlounderBot               1830       0          1675      
 62         likeawizard-bot           1819       -22        2428      
 63         Trollfish-Bot             1815       -28        1787      
-64         Ptit-biscuit              1813       3          586       
+64         Ptit-biscuit              1812       1          587       
 65         Demolito_L6               1806       -13        520       
-66         NatesBot                  1799       -16        219       
+66         NatesBot                  1799       -15        220       
 67         DragonflyBOT              1786       -5         2024      
 68         potato-chess-bot          1786       9          18        
 69         notropis                  1769       -17        6400      
