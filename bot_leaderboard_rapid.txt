@@ -43,11 +43,11 @@ Rank       Bot                       Rating     Prog       Games
 42         redtail-zero              2080       3          273       
 43         AjedrezChamberi           2061       34         117       
 44         jangine                   2059       -7         1682      
-45         GeraldBOT                 2056       37         603       
-46         LeaMoreau                 2056       -17        379       
+45         LeaMoreau                 2056       -17        379       
+46         GeraldBOT                 2055       23         607       
 47         MaxtheDog                 2048       1          641       
 48         Humaia-Strong             2044       -37        607       
-49         GeraldBOT2                2033       -36        176       
+49         GeraldBOT2                2034       -22        180       
 50         Lynx_BOT                  2005       2          39618     
 51         BLANK_BOT                 2004       9          1543      
 52         Jobabot                   1980       19         112       
@@ -57,8 +57,8 @@ Rank       Bot                       Rating     Prog       Games
 56         zeekat                    1953       5          8308      
 57         baby_eubos                1941       24         907       
 58         Nc3Nc6Bot                 1923       -6         1631      
-59         likeawizard-bot           1897       -11        566       
-60         Trollfish-Bot             1891       29         191       
+59         Trollfish-Bot             1897       29         192       
+60         likeawizard-bot           1891       -16        567       
 61         Demolito_L6               1874       7          325       
 62         Ptit-biscuit              1873       15         95        
 63         NatesBot                  1841       14         107       
@@ -82,7 +82,7 @@ Rank       Bot                       Rating     Prog       Games
 81         sargon-4ply               1587       17         597       
 82         ZE_ROOK                   1580       11         434       
 83         sargon-3ply               1566       -2         1169      
-84         maia5                     1551       -13        100898    
+84         maia5                     1558       7          100900    
 85         ArduChessBot              1538       -13        423       
 86         dragobot                  1533       -41        52        
 87         DavidsGuterBot            1511       21         611       
@@ -100,3 +100,4 @@ Rank       Bot                       Rating     Prog       Games
 99         OhniBOT                   1143       5          497       
 100        CHoMPBoT                  1128       -17        538       
 101        kireevi                   1123       47         562       
+102        bobandi                   872        1          715       
