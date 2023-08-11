@@ -19,10 +19,10 @@ Rank       Bot                       Rating     Prog       Games
 18         ELO_1500                  2515       6          2945      
 19         bot_adario                2507       -5         1327      
 20         Cheng-4                   2492       21         3157      
-21         AjatarBot                 2473       0          164       
+21         AjatarBot                 2471       0          165       
 22         OpeningsBot               2409       -7         250       
 23         clueless-bot              2387       19         762       
-24         odonata-bot               2382       -17        3727      
+24         odonata-bot               2384       -16        3728      
 25         Phalanx-XXV               2382       -2         888       
 26         TuksuBot                  2375       -8         1991      
 27         Pseudo-0                  2364       -6         1099      
@@ -49,14 +49,14 @@ Rank       Bot                       Rating     Prog       Games
 48         LeaMoreau                 2061       -3         391       
 49         MaxtheDog                 2050       3          644       
 50         Humaia-Strong             2044       -37        607       
-51         Lynx_BOT                  2018       6          39642     
+51         Lynx_BOT                  2017       -4         39643     
 52         BLANK_BOT                 1992       -9         1550      
 53         Jobabot                   1991       19         117       
 54         myopic-bot                1981       22         341       
 55         LeelaRogue                1978       9          2217      
 56         LazyBotJr                 1968       -37        1255      
 57         GeraldBOT2                1965       -41        299       
-58         zeekat                    1956       -2         8329      
+58         zeekat                    1957       1          8330      
 59         Nc3Nc6Bot                 1949       2          1654      
 60         baby_eubos                1943       19         912       
 61         Trollfish-Bot             1907       34         197       
@@ -83,8 +83,8 @@ Rank       Bot                       Rating     Prog       Games
 82         HardRok                   1626       0          600       
 83         HulkBot                   1610       -76        409       
 84         ZE_ROOK                   1590       11         449       
-85         sargon-4ply               1578       -3         599       
-86         maia5                     1571       18         100983    
+85         maia5                     1578       21         100984    
+86         sargon-4ply               1578       -3         599       
 87         sargon-3ply               1571       4          1172      
 88         TuroBot                   1550       19         3342      
 89         ArduChessBot              1545       -4         424       
@@ -102,4 +102,5 @@ Rank       Bot                       Rating     Prog       Games
 101        sargon-1ply               1167       -1         8440      
 102        OhniBOT                   1143       5          497       
 103        CHoMPBoT                  1128       -17        538       
-104        G0thamB0t                 761        -1         330       
+104        kireevi                   1123       47         562       
+105        G0thamB0t                 761        -1         330       
