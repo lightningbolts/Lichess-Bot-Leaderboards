@@ -53,7 +53,7 @@ Rank       Bot                       Rating     Prog       Games
 52         myopic-bot                1976       19         339       
 53         LazyBotJr                 1968       -37        1255      
 54         GeraldBOT2                1965       -41        299       
-55         zeekat                    1957       3          8316      
+55         zeekat                    1959       12         8317      
 56         Nc3Nc6Bot                 1947       24         1642      
 57         baby_eubos                1941       24         907       
 58         Trollfish-Bot             1897       31         194       
@@ -75,13 +75,13 @@ Rank       Bot                       Rating     Prog       Games
 74         DragonflyBOT              1731       -12        452       
 75         The_Marcus                1708       29         48        
 76         melsh_bot                 1697       -11        243       
-77         Dummyette                 1674       -12        2952      
+77         Dummyette                 1672       -10        2953      
 78         yeoldwiz                  1637       16         634       
-79         HulkBot                   1627       -73        408       
-80         HardRok                   1626       0          600       
-81         ZE_ROOK                   1585       9          442       
-82         sargon-4ply               1584       8          598       
-83         maia5                     1561       -7         100932    
+79         HardRok                   1626       0          600       
+80         HulkBot                   1610       -76        409       
+81         ZE_ROOK                   1591       15         443       
+82         maia5                     1584       19         100935    
+83         sargon-4ply               1584       8          598       
 84         sargon-3ply               1559       -6         1170      
 85         ArduChessBot              1545       -4         424       
 86         dragobot                  1545       -8         53        
@@ -98,4 +98,3 @@ Rank       Bot                       Rating     Prog       Games
 97         OhniBOT                   1143       5          497       
 98         CHoMPBoT                  1128       -17        538       
 99         kireevi                   1123       47         562       
-100        G0thamB0t                 761        -1         330       
