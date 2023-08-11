@@ -5,7 +5,7 @@ Rank       Bot                       Rating     Prog       Games
 4          ResoluteBot               2900       7          25130     
 5          YoBot_v2                  2864       0          17663     
 6          Coolman2021               2856       4          6000      
-7          RaspFish                  2836       -1         50919     
+7          RaspFish                  2838       5          50920     
 8          Mr_Chess_Berserk          2824       21         34        
 9          chessfyBOT                2788       -8         1404      
 10         Shineshou90_BOT           2765       -10        8260      
@@ -14,7 +14,7 @@ Rank       Bot                       Rating     Prog       Games
 13         blundar_bot               2698       4          5170      
 14         FrozenightEngine          2618       5          8520      
 15         FlamingDragon_9000        2524       -5         10619     
-16         Cheng-4                   2511       -6         13517     
+16         Cheng-4                   2510       -5         13518     
 17         Elmichess                 2483       -29        3204      
 18         pawn_git                  2479       8          3974      
 19         bot_adario                2477       -6         2502      
@@ -55,7 +55,7 @@ Rank       Bot                       Rating     Prog       Games
 54         Nc3Nc6Bot                 1967       -11        1136      
 55         BLANK_BOT                 1956       -23        7308      
 56         likeawizard-bot           1912       11         1021      
-57         FlounderBot               1882       1          3558      
+57         FlounderBot               1884       9          3559      
 58         Demolito_L6               1878       18         360       
 59         zeekat                    1873       -13        18511     
 60         Ptit-biscuit              1844       -4         752       
@@ -67,7 +67,7 @@ Rank       Bot                       Rating     Prog       Games
 66         honzovy-sachy             1788       18         4928      
 67         Virutor                   1776       9          6728      
 68         baby_eubos                1773       9          5381      
-69         The_Marcus                1772       5          767       
+69         The_Marcus                1772       10         768       
 70         ArduChessBot              1757       6          5432      
 71         melsh_bot                 1742       -24        4155      
 72         Fisk_Bot                  1740       10         225       
@@ -78,8 +78,8 @@ Rank       Bot                       Rating     Prog       Games
 77         TuroBot                   1669       -7         2539      
 78         piglet_engine             1668       -13        451       
 79         ZE_ROOK                   1616       18         1844      
-80         maia1                     1608       -20        123110    
-81         DavidsGuterBot            1607       -2         6108      
+80         maia1                     1612       -19        123112    
+81         DavidsGuterBot            1605       -2         6109      
 82         sargon-3ply               1595       2          1267      
 83         maia9                     1592       8          60821     
 84         maia5                     1588       13         39219     
@@ -96,5 +96,5 @@ Rank       Bot                       Rating     Prog       Games
 95         OhniBOT                   1344       40         493       
 96         sargon-1ply               1341       -30        4382      
 97         pawnrobot                 1298       15         3837      
-98         knucklefish               1291       29         2750      
+98         knucklefish               1290       15         2751      
 99         HulkBot                   1275       -59        1188      
