@@ -1,8 +1,8 @@
 Rank       Bot                       Rating     Prog       Games     
 1          FireFishBOT_v2            2898       12         2390      
 2          ProteusSF-Godot           2897       7          842       
-3          ReinforcementTrial        2881       2          594       
-4          ToromBot                  2875       -1         3041      
+3          ReinforcementTrial        2881       1          595       
+4          ToromBot                  2876       0          3042      
 5          YoBot_v2                  2874       -4         3521      
 6          ResoluteBot               2865       -8         11031     
 7          EmptikBot247              2833       9          113       
@@ -34,8 +34,8 @@ Rank       Bot                       Rating     Prog       Games
 33         FataliiBot                2249       12         6626      
 34         halcyonbot                2249       8          9234      
 35         WasterNew                 2229       16         389       
-36         HistoryExplorer           2191       -11        2669      
-37         WilliamEngine             2162       -13        1011      
+36         HistoryExplorer           2190       -7         2670      
+37         WilliamEngine             2162       -16        1012      
 38         Hyperopic                 2133       20         2214      
 39         eubos                     2119       -8         14270     
 40         honzovy-sachy-2           2109       -29        6729      
@@ -96,7 +96,7 @@ Rank       Bot                       Rating     Prog       Games
 95         TuroBot                   1448       2          5014      
 96         turochamp-2ply            1410       5          1638      
 97         chat_bot                  1405       -22        249       
-98         maia1                     1398       4          206935    
+98         maia1                     1397       5          206936    
 99         monchester                1375       -15        2694      
 100        Humaia                    1363       -5         889       
 101        StupidChessRobot          1360       -4         1078      
