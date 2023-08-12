@@ -1,11 +1,11 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ResoluteBot               2909       18         25253     
-2          FireFishBOT_v2            2900       -7         512       
+2          FireFishBOT_v2            2904       -1         513       
 3          ProteusSF-Godot           2890       17         1638      
-4          ReinforcementTrial        2876       -5         224       
+4          ReinforcementTrial        2875       -5         226       
 5          YoBot_v2                  2847       -5         17724     
-6          RaspberryIsFishy          2838       -19        118       
-7          RaspFish                  2813       4          51145     
+6          RaspberryIsFishy          2839       -9         120       
+7          RaspFish                  2809       0          51146     
 8          chessfyBOT                2788       -8         1404      
 9          Palisade                  2760       23         435       
 10         blundar_bot               2713       -16        5400      
@@ -35,7 +35,7 @@ Rank       Bot                       Rating     Prog       Games
 34         simpleEval                2305       10         25047     
 35         FataliiBot                2283       21         5763      
 36         HistoryExplorer           2245       -3         2517      
-37         halcyonbot                2225       -18        5295      
+37         halcyonbot                2229       -10        5296      
 38         WasterNew                 2195       12         270       
 39         honzovy-sachy-2           2167       22         7055      
 40         jangine                   2160       12         2995      
@@ -43,7 +43,7 @@ Rank       Bot                       Rating     Prog       Games
 42         GarboBot                  2140       -2         9528      
 43         Hyperopic                 2140       -17        2810      
 44         kulubot                   2136       -4         1016      
-45         matmoi                    2135       -6         1927      
+45         matmoi                    2131       -4         1928      
 46         Trollfish-Bot             2124       3          3733      
 47         myopic-bot                2121       1          1861      
 48         LazyBotJr                 2111       67         888       
@@ -82,7 +82,7 @@ Rank       Bot                       Rating     Prog       Games
 81         ShallowRedBot             1616       -38        63        
 82         maia1                     1607       26         123262    
 83         ZE_ROOK                   1607       -10        1866      
-84         maia5                     1595       -11        39245     
+84         maia5                     1601       -2         39247     
 85         sargon-4ply               1584       -4         1657      
 86         DavidsGuterBot            1582       -20        6129      
 87         sargon-3ply               1582       -13        1279      
