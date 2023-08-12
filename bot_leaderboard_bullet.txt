@@ -5,7 +5,7 @@ Rank       Bot                       Rating     Prog       Games
 4          ResoluteBot               2871       -7         25197     
 5          YoBot_v2                  2866       -5         17679     
 6          Nikitosik-ai              2847       -2         2181      
-7          RaspberryIsFishy          2841       -23        27        
+7          RaspberryIsFishy          2844       -15        28        
 8          ProteusSF-Godot           2834       6          1546      
 9          RaspFish                  2796       -5         51086     
 10         chessfyBOT                2788       -8         1404      
@@ -16,11 +16,11 @@ Rank       Bot                       Rating     Prog       Games
 15         Shineshou90_BOT           2608       23         8342      
 16         FlamingDragon_9000        2524       -5         10619     
 17         Elmichess                 2484       -7         3206      
-18         SaxtonEngine              2474       4          4021      
+18         SaxtonEngine              2472       -1         4022      
 19         bot_adario                2468       3          2519      
 20         Cheng-4                   2468       1          13573     
-21         AjatarBot                 2455       9          282       
-22         pawn_git                  2452       -11        4006      
+21         pawn_git                  2458       -3         4007      
+22         AjatarBot                 2449       0          283       
 23         catriever                 2427       11         1618      
 24         Weiawaga                  2411       8          15339     
 25         bfiedler-bot              2407       -88        78        
@@ -53,7 +53,7 @@ Rank       Bot                       Rating     Prog       Games
 52         LeaMoreau                 2070       -4         557       
 53         Jobabot                   2039       16         522       
 54         MaxtheDog                 2036       -10        14172     
-55         Trollfish-Bot             2012       -30        3682      
+55         Trollfish-Bot             2014       -24        3683      
 56         Nc3Nc6Bot                 2011       17         1171      
 57         redtail-zero              2011       -23        564       
 58         Lynx_BOT                  1997       -19        6478      
@@ -68,7 +68,7 @@ Rank       Bot                       Rating     Prog       Games
 67         DragonflyBOT              1819       -3         2072      
 68         Demolito_L5               1816       2          827       
 69         QueensGamBOT              1814       -19        5082      
-70         The_Marcus                1782       -10        803       
+70         The_Marcus                1779       -13        804       
 71         melsh_bot                 1775       24         4185      
 72         honzovy-sachy             1771       -26        4943      
 73         Virutor                   1771       8          6732      
@@ -83,7 +83,7 @@ Rank       Bot                       Rating     Prog       Games
 82         maia9                     1641       22         60840     
 83         TuroBot                   1640       -26        2551      
 84         ZE_ROOK                   1608       -15        1861      
-85         maia5                     1595       -11        39240     
+85         maia5                     1592       -12        39241     
 86         sargon-4ply               1584       -4         1657      
 87         DavidsGuterBot            1582       -26        6127      
 88         sargon-3ply               1579       -16        1278      
@@ -96,10 +96,10 @@ Rank       Bot                       Rating     Prog       Games
 95         sargon-2ply               1474       -10        2214      
 96         yeoldwiz                  1450       18         791       
 97         schnecken_bot             1397       -7         1013      
-98         botTideEval               1370       17         1423      
+98         botTideEval               1369       13         1424      
 99         StupidChessRobot          1367       -19        535       
 100        CHoMPBoT                  1361       -16        991       
 101        sargon-1ply               1352       10         4396      
 102        OhniBOT                   1343       48         494       
-103        pawnrobot                 1288       2          3855      
+103        pawnrobot                 1290       8          3856      
 104        knucklefish               1250       -33        2764      
