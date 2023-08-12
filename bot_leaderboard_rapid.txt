@@ -9,13 +9,13 @@ Rank       Bot                       Rating     Prog       Games
 8          chessfyBOT                2845       -7         228       
 9          blundar_bot               2806       -5         1046      
 10         Palisade                  2777       54         212       
-11         FrozenightEngine          2640       -1         4884      
+11         FrozenightEngine          2644       12         4885      
 12         LazyBot                   2599       -22        722       
 13         pawn_git                  2571       20         1243      
 14         catriever                 2554       0          207       
 15         SaxtonEngine              2552       21         1381      
 16         ELO_1500                  2541       15         2963      
-17         Cheng-4                   2522       30         3167      
+17         Cheng-4                   2518       26         3168      
 18         bot_adario                2505       6          1336      
 19         AjatarBot                 2477       2          216       
 20         OpeningsBot               2406       -1         258       
@@ -42,8 +42,8 @@ Rank       Bot                       Rating     Prog       Games
 41         hans68Bot                 2097       25         131       
 42         kulubot                   2086       -23        605       
 43         WilliamEngine             2083       101        32        
-44         redtail-zero              2078       -1         279       
-45         AjedrezChamberi           2075       24         120       
+44         AjedrezChamberi           2081       24         121       
+45         redtail-zero              2078       -1         279       
 46         jangine                   2059       3          1687      
 47         LeaMoreau                 2055       -7         407       
 48         Humaia-Strong             2045       -43        608       
@@ -69,8 +69,8 @@ Rank       Bot                       Rating     Prog       Games
 68         zulu_bot                  1776       3          110       
 69         Demolito_L5               1770       -3         889       
 70         ChessChildren             1757       -1         4416      
-71         maia9                     1746       -9         83859     
-72         AshNostromo               1745       -2         1223      
+71         AshNostromo               1745       -2         1223      
+72         maia9                     1741       -9         83860     
 73         DragonflyBOT              1737       -15        457       
 74         dlvc-bot                  1731       -24        81        
 75         The_Marcus                1725       43         54        
@@ -86,7 +86,7 @@ Rank       Bot                       Rating     Prog       Games
 85         dragobot                  1558       47         56        
 86         DavidsGuterBot            1515       28         613       
 87         turochamp-2ply            1504       7          1081      
-88         maia1                     1499       -15        230551    
+88         maia1                     1496       -17        230553    
 89         RoundMoundOfRebounds      1443       3          344       
 90         sargon-2ply               1414       -15        3317      
 91         turochamp-1ply            1400       9          1567      
