@@ -4,8 +4,8 @@ Rank       Bot                       Rating     Prog       Games
 3          ProteusSF-Godot           2890       17         1638      
 4          ReinforcementTrial        2870       -7         232       
 5          YoBot_v2                  2847       -5         17727     
-6          RaspberryIsFishy          2843       0          132       
-7          RaspFish                  2816       4          51153     
+6          RaspberryIsFishy          2842       -2         134       
+7          RaspFish                  2817       4          51155     
 8          chessfyBOT                2788       -8         1404      
 9          Palisade                  2760       23         435       
 10         blundar_bot               2709       -22        5401      
@@ -59,9 +59,9 @@ Rank       Bot                       Rating     Prog       Games
 58         likeawizard-bot           1922       6          1066      
 59         zeekat                    1912       -20        18575     
 60         Demolito_L6               1886       -2         380       
-61         Ptit-biscuit              1869       -15        775       
+61         Ptit-biscuit              1868       -10        776       
 62         FlounderBot               1867       -21        3678      
-63         NatesBot                  1852       18         92        
+63         NatesBot                  1853       18         93        
 64         notropis                  1844       -1         3837      
 65         DragonflyBOT              1824       3          2076      
 66         QueensGamBOT              1816       -10        5085      
@@ -94,10 +94,10 @@ Rank       Bot                       Rating     Prog       Games
 93         dragobot                  1465       137        50        
 94         yeoldwiz                  1450       18         791       
 95         sargon-2ply               1449       -3         2231      
-96         botTideEval               1413       8          1448      
+96         botTideEval               1412       5          1449      
 97         schnecken_bot             1397       -7         1013      
 98         StupidChessRobot          1358       -16        543       
-99         CHoMPBoT                  1345       -35        995       
+99         CHoMPBoT                  1346       -33        996       
 100        sargon-1ply               1344       -7         4401      
 101        OhniBOT                   1343       48         494       
 102        pawnrobot                 1285       -2         3857      
