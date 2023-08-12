@@ -1,13 +1,13 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ToromBot                  2906       7          60804     
-2          FireFishBOT_v2            2904       -3         504       
+1          FireFishBOT_v2            2904       -3         504       
+2          ToromBot                  2901       -5         60806     
 3          ReinforcementTrial        2899       -4         165       
-4          ResoluteBot               2893       -4         25172     
+4          ResoluteBot               2894       -3         25173     
 5          YoBot_v2                  2867       3          17675     
 6          Nikitosik-ai              2847       -2         2181      
 7          AttackingOrDefending      2831       1          146       
 8          ProteusSF-Godot           2800       -23        1517      
-9          RaspFish                  2794       -20        51059     
+9          RaspFish                  2796       -12        51060     
 10         chessfyBOT                2788       -8         1404      
 11         Palisade                  2760       23         435       
 12         blundar_bot               2707       12         5303      
@@ -18,7 +18,7 @@ Rank       Bot                       Rating     Prog       Games
 17         Elmichess                 2484       -7         3206      
 18         SaxtonEngine              2475       3          4020      
 19         bot_adario                2470       2          2516      
-20         Cheng-4                   2462       -8         13570     
+20         Cheng-4                   2465       -3         13572     
 21         AjatarBot                 2450       7          278       
 22         pawn_git                  2446       -22        4004      
 23         catriever                 2433       17         1614      
@@ -37,7 +37,7 @@ Rank       Bot                       Rating     Prog       Games
 36         simpleEval                2287       5          25037     
 37         FataliiBot                2260       1          5754      
 38         halcyonbot                2257       7          5269      
-39         jangine                   2165       21         2988      
+39         jangine                   2169       32         2989      
 40         Hyperopic                 2161       9          2798      
 41         honzovy-sachy-2           2159       0          7031      
 42         WilliamEngine             2149       -1         163       
@@ -48,7 +48,7 @@ Rank       Bot                       Rating     Prog       Games
 47         myopic-bot                2106       -13        1852      
 48         Humaia-Strong             2089       94         1307      
 49         LeaMoreau                 2084       4          552       
-50         MaxtheDog                 2055       16         14163     
+50         MaxtheDog                 2051       10         14164     
 51         Trollfish-Bot             2040       -10        3667      
 52         Jobabot                   2033       6          520       
 53         redtail-zero              2017       -9         563       
