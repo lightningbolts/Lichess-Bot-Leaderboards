@@ -2,8 +2,8 @@ Rank       Bot                       Rating     Prog       Games
 1          ProteusSF-Godot           2897       18         141       
 2          ReinforcementTrial        2882       4          5160      
 3          FireFishBOT_v2            2877       -3         633       
-4          Shineshou90_BOT           2868       3          2546      
-5          YoBot_v2                  2862       0          12948     
+4          Shineshou90_BOT           2868       2          2547      
+5          YoBot_v2                  2862       0          12949     
 6          ResoluteBot               2851       9          5197      
 7          chessfyBOT                2845       -7         228       
 8          RaspFish                  2831       15         5493      
@@ -37,7 +37,7 @@ Rank       Bot                       Rating     Prog       Games
 36         honzovy-sachy-2           2198       -2         3573      
 37         eubos                     2197       2          4232      
 38         Elmichess                 2161       7          1416      
-39         matmoi                    2150       7          1283      
+39         matmoi                    2142       7          1284      
 40         GarboBot                  2140       11         6008      
 41         Hyperopic                 2128       0          434       
 42         WilliamEngine             2083       121        30        
@@ -47,7 +47,7 @@ Rank       Bot                       Rating     Prog       Games
 46         LeaMoreau                 2056       -9         404       
 47         MaxtheDog                 2046       6          646       
 48         Humaia-Strong             2045       -43        608       
-49         Jobabot                   2006       15         125       
+49         Jobabot                   2014       25         126       
 50         Lynx_BOT                  2006       -12        39664     
 51         BLANK_BOT                 2002       7          1553      
 52         myopic-bot                1988       25         343       
@@ -68,7 +68,7 @@ Rank       Bot                       Rating     Prog       Games
 67         honzovy-sachy             1798       11         944       
 68         Virutor                   1783       6          3186      
 69         zulu_bot                  1776       3          110       
-70         Demolito_L5               1765       -13        876       
+70         Demolito_L5               1767       -5         877       
 71         ChessChildren             1747       -21        4414      
 72         AshNostromo               1745       -2         1223      
 73         DragonflyBOT              1734       -10        455       
@@ -78,9 +78,9 @@ Rank       Bot                       Rating     Prog       Games
 77         melsh_bot                 1695       -8         245       
 78         Dummyette                 1673       -1         2963      
 79         yeoldwiz                  1637       16         634       
-80         maia5                     1609       -21        101097    
-81         sargon-4ply               1574       -13        600       
-82         ZE_ROOK                   1572       -12        456       
+80         maia5                     1603       -23        101098    
+81         ZE_ROOK                   1578       0          457       
+82         sargon-4ply               1574       -13        600       
 83         sargon-3ply               1570       7          1174      
 84         ArduChessBot              1551       7          427       
 85         TuroBot                   1550       19         3342      
@@ -99,5 +99,4 @@ Rank       Bot                       Rating     Prog       Games
 98         sargon-1ply               1179       14         8443      
 99         OhniBOT                   1143       0          500       
 100        CHoMPBoT                  1128       -17        538       
-101        kireevi                   1123       47         562       
-102        G0thamB0t                 761        -1         330       
+101        G0thamB0t                 761        -1         330       
