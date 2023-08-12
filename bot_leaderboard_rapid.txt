@@ -38,7 +38,7 @@ Rank       Bot                       Rating     Prog       Games
 37         Boris-Trapsky             2201       16         27438     
 38         honzovy-sachy-2           2198       -2         3573      
 39         eubos                     2197       2          4232      
-40         Elmichess                 2173       20         1415      
+40         Elmichess                 2161       7          1416      
 41         matmoi                    2142       -11        1281      
 42         GarboBot                  2140       11         6008      
 43         Hyperopic                 2128       0          434       
@@ -72,10 +72,10 @@ Rank       Bot                       Rating     Prog       Games
 71         Demolito_L5               1769       -14        873       
 72         ChessChildren             1747       -21        4414      
 73         AshNostromo               1745       -2         1223      
-74         DragonflyBOT              1734       -10        455       
-75         The_Marcus                1734       40         52        
-76         dlvc-bot                  1731       -24        81        
-77         maia9                     1731       -22        83765     
+74         maia9                     1736       -13        83766     
+75         DragonflyBOT              1734       -10        455       
+76         The_Marcus                1734       40         52        
+77         dlvc-bot                  1731       -24        81        
 78         melsh_bot                 1695       -8         245       
 79         Dummyette                 1673       -1         2963      
 80         yeoldwiz                  1637       16         634       
@@ -87,7 +87,7 @@ Rank       Bot                       Rating     Prog       Games
 86         ArduChessBot              1541       1          425       
 87         DavidsGuterBot            1520       29         612       
 88         turochamp-2ply            1504       7          1081      
-89         maia1                     1450       14         230434    
+89         maia1                     1447       18         230435    
 90         RoundMoundOfRebounds      1443       3          344       
 91         sargon-2ply               1415       -15        3316      
 92         turochamp-1ply            1400       9          1567      
@@ -100,5 +100,4 @@ Rank       Bot                       Rating     Prog       Games
 99         OhniBOT                   1143       0          500       
 100        CHoMPBoT                  1128       -17        538       
 101        kireevi                   1123       47         562       
-102        bobandi                   879        14         719       
-103        G0thamB0t                 761        -1         330       
+102        G0thamB0t                 761        -1         330       
