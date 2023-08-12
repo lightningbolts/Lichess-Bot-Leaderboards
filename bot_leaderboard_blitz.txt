@@ -1,8 +1,8 @@
 Rank       Bot                       Rating     Prog       Games     
-1          FireFishBOT_v2            2940       -3         2449      
+1          FireFishBOT_v2            2941       -1         2450      
 2          ProteusSF-Godot           2897       7          842       
-3          ReinforcementTrial        2893       9          648       
-4          caissa-x                  2883       4          3142      
+3          ReinforcementTrial        2892       12         649       
+4          caissa-x                  2883       4          3143      
 5          YoBot_v2                  2869       -6         3525      
 6          ResoluteBot               2867       3          11041     
 7          ToromBot                  2864       -11        3049      
@@ -16,7 +16,7 @@ Rank       Bot                       Rating     Prog       Games
 15         Palisade                  2707       20         326       
 16         FrozenightEngine          2612       0          5761      
 17         bot_adario                2500       3          2274      
-18         pawn_git                  2499       5          2394      
+18         pawn_git                  2498       5          2395      
 19         ELO_1500                  2497       8          13041     
 20         SaxtonEngine              2488       -10        2227      
 21         Cheng-4                   2482       6          6512      
@@ -35,9 +35,9 @@ Rank       Bot                       Rating     Prog       Games
 34         FataliiBot                2269       17         6634      
 35         Nakshatra3                2256       -1         1609      
 36         halcyonbot                2248       -2         9250      
-37         frogskittens_thebot       2192       35         52        
-38         WilliamEngine             2129       -16        1052      
-39         matmoi                    2127       6          1429      
+37         frogskittens_thebot       2199       35         53        
+38         matmoi                    2127       6          1429      
+39         WilliamEngine             2124       -20        1053      
 40         Hyperopic                 2116       0          2239      
 41         GarboBot                  2111       8          9142      
 42         eubos                     2108       -14        14282     
@@ -56,7 +56,7 @@ Rank       Bot                       Rating     Prog       Games
 55         LeelaRogue                1959       16         2358      
 56         BLANK_BOT                 1937       0          4677      
 57         LazyBotJr                 1934       -17        1823      
-58         zeekat                    1911       12         20593     
+58         zeekat                    1903       4          20594     
 59         Trollfish-Bot             1864       6          1841      
 60         zulu_bot                  1861       -3         992       
 61         baby_eubos                1831       2          7587      
@@ -68,8 +68,8 @@ Rank       Bot                       Rating     Prog       Games
 67         FlounderBot               1809       5          1748      
 68         Demolito_L6               1805       -37        576       
 69         honzovy-sachy             1796       20         4958      
-70         NatesBot                  1761       26         293       
-71         notropis                  1757       4          6433      
+70         NatesBot                  1767       32         294       
+71         notropis                  1751       2          6434      
 72         Fisk_Bot                  1748       14         1485      
 73         Virutor                   1736       16         7390      
 74         The_Marcus                1721       -12        677       
@@ -85,7 +85,7 @@ Rank       Bot                       Rating     Prog       Games
 84         ChessChildren             1629       0          21261     
 85         maia5                     1551       14         100910    
 86         Dummyette                 1531       -17        2705      
-87         maia9                     1525       15         100137    
+87         maia9                     1531       14         100138    
 88         sargon-4ply               1521       -7         1921      
 89         ZE_ROOK                   1512       -11        2763      
 90         DavidsGuterBot            1492       7          3504      
