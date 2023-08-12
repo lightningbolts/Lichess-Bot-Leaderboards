@@ -2,9 +2,9 @@ Rank       Bot                       Rating     Prog       Games
 1          ResoluteBot               2907       18         25254     
 2          FireFishBOT_v2            2904       -1         513       
 3          ProteusSF-Godot           2890       17         1638      
-4          ReinforcementTrial        2874       -6         227       
-5          YoBot_v2                  2847       -5         17724     
-6          RaspberryIsFishy          2839       -2         124       
+4          ReinforcementTrial        2873       -6         228       
+5          YoBot_v2                  2848       -4         17725     
+6          RaspberryIsFishy          2840       2          125       
 7          chessfyBOT                2788       -8         1404      
 8          Palisade                  2760       23         435       
 9          blundar_bot               2709       -22        5401      
@@ -16,8 +16,8 @@ Rank       Bot                       Rating     Prog       Games
 15         bot_adario                2468       0          2530      
 16         SaxtonEngine              2466       3          4049      
 17         Cheng-4                   2454       -13        13606     
-18         pawn_git                  2446       -9         4025      
-19         AjatarBot                 2445       4          297       
+18         AjatarBot                 2445       4          297       
+19         pawn_git                  2444       -10        4026      
 20         catriever                 2411       -21        1628      
 21         bfiedler-bot              2407       -88        78        
 22         OpeningsBot               2389       -10        724       
@@ -63,7 +63,7 @@ Rank       Bot                       Rating     Prog       Games
 62         notropis                  1844       -1         3837      
 63         DragonflyBOT              1826       7          2075      
 64         QueensGamBOT              1816       -10        5085      
-65         Demolito_L5               1801       -21        833       
+65         Demolito_L5               1798       -17        834       
 66         Virutor                   1784       19         6734      
 67         The_Marcus                1771       -4         810       
 68         honzovy-sachy             1766       -17        4946      
@@ -79,8 +79,8 @@ Rank       Bot                       Rating     Prog       Games
 78         ChessChildren             1677       12         15395     
 79         turkjs                    1662       -6         19200     
 80         maia5                     1621       29         39252     
-81         ShallowRedBot             1614       -34        64        
-82         maia1                     1612       28         123264    
+81         ShallowRedBot             1619       -24        65        
+82         maia1                     1614       29         123265    
 83         ZE_ROOK                   1607       -10        1866      
 84         sargon-4ply               1584       -4         1657      
 85         DavidsGuterBot            1582       -20        6129      
@@ -88,11 +88,11 @@ Rank       Bot                       Rating     Prog       Games
 87         turochamp-2ply            1564       10         1518      
 88         monchester                1533       6          2463      
 89         RoundMoundOfRebounds      1524       11         1304      
-90         turochamp-1ply            1496       -2         1885      
+90         turochamp-1ply            1501       5          1886      
 91         dragobot                  1465       137        50        
 92         yeoldwiz                  1450       18         791       
 93         sargon-2ply               1449       -3         2231      
-94         botTideEval               1412       4          1446      
+94         botTideEval               1408       -1         1447      
 95         schnecken_bot             1397       -7         1013      
 96         StupidChessRobot          1358       -16        542       
 97         CHoMPBoT                  1345       -35        995       
