@@ -16,11 +16,11 @@ Rank       Bot                       Rating     Prog       Games
 15         LazyBot                   2599       -22        722       
 16         pawn_git                  2572       17         1246      
 17         SaxtonEngine              2559       31         1383      
-18         catriever                 2555       1          208       
+18         catriever                 2553       -1         209       
 19         ELO_1500                  2546       20         2965      
 20         Cheng-4                   2523       30         3169      
 21         bot_adario                2510       5          1337      
-22         AjatarBot                 2459       -17        226       
+22         AjatarBot                 2460       -17        227       
 23         OpeningsBot               2409       -5         259       
 24         TuksuBot                  2396       17         2001      
 25         odonata-bot               2384       -7         3732      
@@ -48,7 +48,7 @@ Rank       Bot                       Rating     Prog       Games
 47         MaxtheDog                 2042       -11        649       
 48         BLANK_BOT                 2014       18         1556      
 49         Jobabot                   2012       3          132       
-50         LeelaRogue                1999       10         2232      
+50         LeelaRogue                2004       10         2233      
 51         myopic-bot                1998       30         347       
 52         Lynx_BOT                  1996       -6         39685     
 53         LazyBotJr                 1968       -37        1255      
@@ -73,10 +73,10 @@ Rank       Bot                       Rating     Prog       Games
 72         dlvc-bot                  1731       -24        81        
 73         The_Marcus                1711       26         56        
 74         melsh_bot                 1706       -7         248       
-75         Dummyette                 1674       3          2970      
+75         Dummyette                 1674       9          2971      
 76         turkjs                    1665       -6         5031      
 77         yeoldwiz                  1643       20         635       
-78         maia5                     1583       8          101200    
+78         maia5                     1587       4          101201    
 79         sargon-3ply               1573       6          1177      
 80         sargon-4ply               1566       -28        603       
 81         dragobot                  1558       47         56        
@@ -84,7 +84,7 @@ Rank       Bot                       Rating     Prog       Games
 83         turochamp-2ply            1513       12         1082      
 84         DavidsGuterBot            1511       25         614       
 85         RoundMoundOfRebounds      1447       11         345       
-86         maia1                     1437       -8         230619    
+86         maia1                     1439       -1         230620    
 87         sargon-2ply               1414       -11        3318      
 88         turochamp-1ply            1400       9          1567      
 89         Humaia                    1381       -11        2209      
