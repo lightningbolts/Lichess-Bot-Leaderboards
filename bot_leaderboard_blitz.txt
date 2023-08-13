@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
-1          FireFishBOT_v2            2897       6          2691      
+1          FireFishBOT_v2            2898       8          2692      
 2          ProteusSF-Godot           2896       5          847       
-3          ReinforcementTrial        2892       7          840       
+3          ReinforcementTrial        2893       9          841       
 4          UltimateL                 2888       4          767       
 5          EmptikVariantsBot         2874       -1         526       
 6          ResoluteBot               2866       3          11098     
@@ -18,9 +18,9 @@ Rank       Bot                       Rating     Prog       Games
 17         Palisade                  2707       20         326       
 18         LazyBot                   2702       -40        2021      
 19         FrozenightEngine          2609       -12        5794      
-20         ELO_1500                  2511       6          13059     
+20         ELO_1500                  2510       2          13060     
 21         SaxtonEngine              2489       7          2252      
-22         Cheng-4                   2480       -6         6536      
+22         Cheng-4                   2479       -4         6537      
 23         pawn_git                  2478       -8         2424      
 24         bot_adario                2477       -13        2299      
 25         catriever                 2462       -1         724       
@@ -57,7 +57,7 @@ Rank       Bot                       Rating     Prog       Games
 56         Jobabot                   1979       6          341       
 57         LeelaRogue                1959       16         2358      
 58         BLANK_BOT                 1945       1          4703      
-59         likeawizard-bot           1932       11         2653      
+59         likeawizard-bot           1936       7          2654      
 60         LazyBotJr                 1931       -1         1836      
 61         aleph_bot_d6              1922       1          66        
 62         zeekat                    1866       -25        20698     
@@ -65,10 +65,10 @@ Rank       Bot                       Rating     Prog       Games
 64         baby_eubos                1828       22         7642      
 65         Trollfish-Bot             1823       -8         1881      
 66         Ptit-biscuit              1822       2          617       
-67         Demolito_L6               1821       10         618       
-68         NatesBot                  1791       -7         354       
+67         Demolito_L6               1821       13         619       
+68         NatesBot                  1788       -7         355       
 69         DragonflyBOT              1785       -20        2078      
-70         FlounderBot               1780       -22        1796      
+70         FlounderBot               1781       -18        1797      
 71         notropis                  1773       30         6451      
 72         honzovy-sachy             1771       -17        4981      
 73         Fisk_Bot                  1748       14         1485      
@@ -80,7 +80,7 @@ Rank       Bot                       Rating     Prog       Games
 79         melsh_bot                 1680       -11        1958      
 80         dlvc-bot                  1672       -15        1259      
 81         AshNostromo               1663       -16        963       
-82         maia9                     1658       -8         100395    
+82         maia9                     1662       2          100398    
 83         ChessChildren             1652       15         21276     
 84         yeoldwiz                  1644       8          1609      
 85         HardRok                   1603       -8         828       
@@ -88,8 +88,8 @@ Rank       Bot                       Rating     Prog       Games
 87         sargon-4ply               1533       25         1943      
 88         maia5                     1520       -18        101106    
 89         ZE_ROOK                   1507       -15        2800      
-90         maia1                     1503       -11        207270    
-91         sargon-3ply               1498       9          1849      
+90         sargon-3ply               1498       9          1849      
+91         maia1                     1497       -23        207271    
 92         DavidsGuterBot            1487       4          3525      
 93         ChamberiAjedrez           1470       -106       321       
 94         RoundMoundOfRebounds      1443       -23        1232      
