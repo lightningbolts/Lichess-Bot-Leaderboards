@@ -1,9 +1,9 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ReinforcementTrial        2897       12         844       
-2          FireFishBOT_v2            2896       1          2696      
+1          ReinforcementTrial        2898       12         845       
+2          FireFishBOT_v2            2897       3          2697      
 3          ProteusSF-Godot           2896       5          847       
 4          EmptikVariantsBot         2874       -1         526       
-5          YoBot_v2                  2867       -1         3552      
+5          YoBot_v2                  2867       0          3553      
 6          ResoluteBot               2866       4          11102     
 7          ProteusSF-Aureo           2864       1          16        
 8          ToromBot                  2863       0          3081      
@@ -19,8 +19,8 @@ Rank       Bot                       Rating     Prog       Games
 18         LazyBot                   2702       -40        2021      
 19         FrozenightEngine          2609       -12        5794      
 20         ELO_1500                  2511       -1         13061     
-21         SaxtonEngine              2488       3          2253      
-22         Cheng-4                   2479       -4         6537      
+21         SaxtonEngine              2487       3          2254      
+22         Cheng-4                   2478       -5         6538      
 23         pawn_git                  2478       -8         2424      
 24         bot_adario                2476       -13        2300      
 25         catriever                 2462       -1         724       
@@ -72,9 +72,9 @@ Rank       Bot                       Rating     Prog       Games
 71         notropis                  1773       30         6451      
 72         honzovy-sachy             1771       -17        4981      
 73         Fisk_Bot                  1748       14         1485      
-74         The_Marcus                1743       28         718       
+74         The_Marcus                1743       23         719       
 75         Virutor                   1732       -3         7410      
-76         maia9                     1703       33         100413    
+76         maia9                     1718       16         100419    
 77         Demolito_L5               1696       0          1303      
 78         QueensGamBOT              1696       -4         2962      
 79         piglet_engine             1681       -2         106       
@@ -89,8 +89,8 @@ Rank       Bot                       Rating     Prog       Games
 88         sargon-4ply               1533       25         1943      
 89         ZE_ROOK                   1507       -15        2800      
 90         maia5                     1506       -19        101109    
-91         maia1                     1504       -5         207273    
-92         sargon-3ply               1498       9          1849      
+91         sargon-3ply               1498       9          1849      
+92         maia1                     1495       -20        207277    
 93         DavidsGuterBot            1487       4          3525      
 94         ChamberiAjedrez           1470       -106       321       
 95         RoundMoundOfRebounds      1443       -23        1232      
@@ -104,7 +104,7 @@ Rank       Bot                       Rating     Prog       Games
 103        schnecken_bot             1289       -12        2045      
 104        turochamp-1ply            1279       -16        1782      
 105        pawnrobot                 1264       -8         2037      
-106        sargon-1ply               1252       -24        7889      
+106        sargon-1ply               1251       -19        7890      
 107        OhniBOT                   1217       24         318       
 108        bobandi                   1128       26         1156      
 109        knucklefish               1096       -15        3216      
