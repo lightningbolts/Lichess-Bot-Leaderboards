@@ -33,7 +33,7 @@ Rank       Bot                       Rating     Prog       Games
 32         DQN-chess                 2337       16         984       
 33         FlamingDragon_9000        2309       -12        1216      
 34         simpleEval                2306       7          7577      
-35         Nakshatra3                2272       -14        858       
+35         Nakshatra3                2272       -19        859       
 36         FataliiBot                2234       8          2613      
 37         halcyonbot                2228       -7         6163      
 38         honzovy-sachy-2           2190       -15        3580      
@@ -42,8 +42,8 @@ Rank       Bot                       Rating     Prog       Games
 41         Elmichess                 2166       12         1417      
 42         matmoi                    2139       -7         1326      
 43         GarboBot                  2137       12         6009      
-44         GeraldBOT                 2132       42         726       
-45         Hyperopic                 2128       0          434       
+44         Hyperopic                 2128       0          434       
+45         hans68Bot                 2105       27         135       
 46         kulubot                   2085       9          612       
 47         AjedrezChamberi           2081       24         121       
 48         jangine                   2060       3          1689      
@@ -89,7 +89,7 @@ Rank       Bot                       Rating     Prog       Games
 88         ZE_ROOK                   1553       -25        468       
 89         DavidsGuterBot            1510       14         615       
 90         turochamp-2ply            1509       -1         1083      
-91         maia1                     1466       -30        230713    
+91         maia1                     1457       -32        230715    
 92         RoundMoundOfRebounds      1447       11         345       
 93         sargon-2ply               1412       -1         3321      
 94         turochamp-1ply            1400       9          1567      
