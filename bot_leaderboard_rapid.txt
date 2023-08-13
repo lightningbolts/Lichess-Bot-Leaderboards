@@ -29,13 +29,13 @@ Rank       Bot                       Rating     Prog       Games
 28         odonata-bot               2379       -8         3733      
 29         clueless-bot              2369       -12        778       
 30         fornax-engine             2343       5          3658      
-31         DQN-chess                 2329       6          977       
+31         DQN-chess                 2331       13         978       
 32         FlamingDragon_9000        2309       -12        1216      
 33         simpleEval                2306       7          7576      
 34         Nakshatra3                2269       -10        855       
 35         FataliiBot                2238       -2         2608      
 36         halcyonbot                2237       2          6156      
-37         Boris-Trapsky             2191       -12        27451     
+37         Boris-Trapsky             2193       -3         27452     
 38         honzovy-sachy-2           2191       -14        3578      
 39         eubos                     2188       -5         4235      
 40         HistoryExplorer           2172       16         1021      
@@ -45,9 +45,9 @@ Rank       Bot                       Rating     Prog       Games
 44         Hyperopic                 2128       0          434       
 45         hans68Bot                 2104       23         133       
 46         AjedrezChamberi           2081       24         121       
-47         redtail-zero              2078       -1         279       
+47         redtail-zero              2076       -10        280       
 48         jangine                   2060       3          1689      
-49         LeaMoreau                 2054       -10        412       
+49         LeaMoreau                 2052       -8         413       
 50         Humaia-Strong             2047       -45        609       
 51         MaxtheDog                 2042       -11        649       
 52         Jobabot                   2028       14         137       
@@ -57,7 +57,7 @@ Rank       Bot                       Rating     Prog       Games
 56         myopic-bot                1984       7          351       
 57         LazyBotJr                 1968       -37        1255      
 58         baby_eubos                1945       2          922       
-59         zeekat                    1926       -10        8371      
+59         zeekat                    1928       -5         8372      
 60         likeawizard-bot           1913       18         625       
 61         Trollfish-Bot             1909       18         204       
 62         Ptit-biscuit              1886       13         106       
@@ -68,8 +68,8 @@ Rank       Bot                       Rating     Prog       Games
 67         NatesBot                  1802       6          158       
 68         honzovy-sachy             1789       3          949       
 69         Virutor                   1783       12         3189      
-70         zulu_bot                  1776       3          110       
-71         maia9                     1773       9          83912     
+70         maia9                     1778       19         83913     
+71         zulu_bot                  1776       3          110       
 72         ChessChildren             1757       -1         4416      
 73         Demolito_L5               1749       -11        902       
 74         AshNostromo               1745       -2         1223      
@@ -87,7 +87,7 @@ Rank       Bot                       Rating     Prog       Games
 86         ZE_ROOK                   1554       -18        467       
 87         turochamp-2ply            1513       12         1082      
 88         DavidsGuterBot            1511       25         614       
-89         maia1                     1489       22         230670    
+89         maia1                     1478       9          230672    
 90         RoundMoundOfRebounds      1447       11         345       
 91         sargon-2ply               1414       -11        3318      
 92         turochamp-1ply            1400       9          1567      
