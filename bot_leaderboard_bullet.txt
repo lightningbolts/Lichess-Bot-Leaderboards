@@ -7,8 +7,8 @@ Rank       Bot                       Rating     Prog       Games
 6          FireFishBOT_v2            2894       2          554       
 7          ResoluteBot               2885       -13        25349     
 8          ReinforcementTrial        2873       -6         304       
-9          RaspFish                  2856       -3         51365     
-10         YoBot_v2                  2848       -8         17768     
+9          RaspFish                  2856       0          51366     
+10         YoBot_v2                  2848       -9         17769     
 11         ProteusSF-Godot           2829       -46        1653      
 12         RaspberryIsFishy          2824       -5         300       
 13         chessfyBOT                2788       -8         1404      
@@ -28,13 +28,13 @@ Rank       Bot                       Rating     Prog       Games
 27         catriever                 2411       -9         1634      
 28         bfiedler-bot              2407       -88        78        
 29         OpeningsBot               2405       -2         759       
-30         clueless-bot              2370       7          7478      
+30         clueless-bot              2375       13         7479      
 31         ELO_1500                  2361       35         3223      
 32         odonata-bot               2346       -11        6303      
 33         TuksuBot                  2329       -4         6816      
 34         Pseudo-0                  2324       -11        3917      
-35         Phalanx-XXV               2323       -9         4244      
-36         fornax-engine             2322       9          6884      
+35         fornax-engine             2322       9          6884      
+36         Phalanx-XXV               2321       -16        4246      
 37         Nakshatra3                2307       1          1584      
 38         simpleEval                2303       20         25062     
 39         FataliiBot                2280       -5         5780      
@@ -45,7 +45,7 @@ Rank       Bot                       Rating     Prog       Games
 44         GarboBot                  2145       4          9546      
 45         myopic-bot                2139       18         1872      
 46         matmoi                    2136       1          1992      
-47         eubos                     2134       -14        12715     
+47         eubos                     2131       -19        12716     
 48         LazyBotJr                 2111       67         888       
 49         Humaia-Strong             2089       94         1307      
 50         LeaMoreau                 2082       6          598       
