@@ -24,7 +24,7 @@ Rank       Bot                       Rating     Prog       Games
 23         catriever                 2579       26         227       
 24         pawn_git                  2566       7          1249      
 25         SaxtonEngine              2564       31         1388      
-26         ELO_1500                  2551       -1         2981      
+26         ELO_1500                  2551       -3         2982      
 27         bot_adario                2518       14         1344      
 28         OpeningsBot               2416       17         273       
 29         TuksuBot                  2388       -3         2006      
@@ -72,7 +72,7 @@ Rank       Bot                       Rating     Prog       Games
 71         AshNostromo               1745       -2         1223      
 72         DragonflyBOT              1736       10         464       
 73         dlvc-bot                  1731       -24        81        
-74         The_Marcus                1724       -1         65        
+74         The_Marcus                1724       8          66        
 75         turkjs                    1656       -10        5037      
 76         HardRok                   1652       17         623       
 77         simplexitor               1648       -19        466       
@@ -100,4 +100,3 @@ Rank       Bot                       Rating     Prog       Games
 99         CHoMPBoT                  1118       -8         545       
 100        kireevi                   1117       12         564       
 101        bobandi                   876        14         720       
-102        G0thamB0t                 761        -1         330       
