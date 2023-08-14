@@ -1,11 +1,11 @@
 Rank       Bot                       Rating     Prog       Games     
-1          FireFishBOT_v2            2915       10         2729      
-2          ResoluteBot               2899       24         11117     
-3          ProteusSF-Godot           2896       5          847       
-4          ReinforcementTrial        2896       12         893       
+1          FireFishBOT_v2            2918       13         2730      
+2          ResoluteBot               2899       24         11118     
+3          ReinforcementTrial        2897       11         894       
+4          ProteusSF-Godot           2896       5          847       
 5          ToromBot                  2891       16         3099      
 6          EmptikVariantsBot         2874       -1         526       
-7          YoBot_v2                  2865       0          3560      
+7          YoBot_v2                  2865       -1         3561      
 8          ProteusSF-Aureo           2864       1          16        
 9          EmptikBot247              2833       9          113       
 10         Shineshou90_BOT           2833       11         1852      
@@ -15,7 +15,7 @@ Rank       Bot                       Rating     Prog       Games
 14         chessfyBOT                2819       -12        180       
 15         Coolman2021               2784       23         167       
 16         blundar_bot               2775       -11        970       
-17         LeelaMultiPoss            2748       -41        417       
+17         LeelaMultiPoss            2745       -40        418       
 18         Palisade                  2707       20         326       
 19         LazyBot                   2702       -40        2021      
 20         FrozenightEngine          2612       -4         5798      
@@ -25,7 +25,7 @@ Rank       Bot                       Rating     Prog       Games
 24         pawn_git                  2482       -1         2426      
 25         bot_adario                2476       -10        2305      
 26         catriever                 2467       7          726       
-27         AjatarBot                 2440       -25        383       
+27         AjatarBot                 2439       -25        384       
 28         OpeningsBot               2427       13         874       
 29         Pseudo-0                  2413       -3         2896      
 30         TuksuBot                  2411       3          3943      
@@ -81,8 +81,8 @@ Rank       Bot                       Rating     Prog       Games
 80         yeoldwiz                  1626       -26        1613      
 81         turkjs                    1563       -7         10187     
 82         sargon-4ply               1534       21         1945      
-83         maia5                     1507       -19        101151    
-84         ZE_ROOK                   1507       -15        2800      
+83         ZE_ROOK                   1507       -15        2800      
+84         maia5                     1501       -28        101152    
 85         sargon-3ply               1493       13         1852      
 86         DavidsGuterBot            1483       -2         3531      
 87         RoundMoundOfRebounds      1443       -23        1232      
