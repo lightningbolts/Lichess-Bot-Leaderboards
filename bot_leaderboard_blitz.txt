@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          FireFishBOT_v2            2918       13         2730      
 2          ResoluteBot               2902       27         11119     
-3          ReinforcementTrial        2897       11         894       
+3          ReinforcementTrial        2898       8          895       
 4          ProteusSF-Godot           2896       5          847       
 5          ToromBot                  2891       16         3099      
 6          EmptikVariantsBot         2874       -1         526       
@@ -24,7 +24,7 @@ Rank       Bot                       Rating     Prog       Games
 23         Cheng-4                   2482       -9         6542      
 24         pawn_git                  2482       -1         2426      
 25         bot_adario                2476       -10        2305      
-26         catriever                 2467       7          726       
+26         catriever                 2466       5          727       
 27         AjatarBot                 2439       -25        384       
 28         OpeningsBot               2427       13         874       
 29         Pseudo-0                  2413       -3         2896      
@@ -38,9 +38,9 @@ Rank       Bot                       Rating     Prog       Games
 37         FataliiBot                2251       -4         6666      
 38         HistoryExplorer           2199       10         2682      
 39         halcyonbot                2187       -20        9337      
-40         matmoi                    2150       20         1486      
+40         matmoi                    2144       9          1487      
 41         Hyperopic                 2116       0          2239      
-42         GarboBot                  2109       4          9160      
+42         GarboBot                  2115       14         9161      
 43         Boris-Trapsky             2101       29         28513     
 44         eubos                     2099       -9         14338     
 45         honzovy-sachy-2           2095       -3         6773      
@@ -88,7 +88,7 @@ Rank       Bot                       Rating     Prog       Games
 87         RoundMoundOfRebounds      1443       -23        1232      
 88         StupidChessRobot          1407       -13        1166      
 89         turochamp-2ply            1404       -3         1651      
-90         maia1                     1403       -22        207335    
+90         maia1                     1398       -29        207336    
 91         Humaia                    1389       18         918       
 92         monchester                1371       -22        2698      
 93         chat_bot                  1361       -51        258       
