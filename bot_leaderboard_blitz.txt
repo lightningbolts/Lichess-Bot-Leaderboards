@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          FireFishBOT_v2            2909       7          2725      
 2          ProteusSF-Godot           2896       5          847       
-3          ReinforcementTrial        2885       -8         879       
+3          ReinforcementTrial        2886       -6         880       
 4          ResoluteBot               2883       17         11113     
 5          ToromBot                  2883       14         3096      
 6          EmptikVariantsBot         2874       -1         526       
@@ -20,9 +20,9 @@ Rank       Bot                       Rating     Prog       Games
 19         FrozenightEngine          2612       -4         5798      
 20         ELO_1500                  2516       4          13063     
 21         SaxtonEngine              2491       9          2256      
-22         bot_adario                2477       -10        2304      
-23         Cheng-4                   2477       -9         6541      
-24         pawn_git                  2477       -8         2425      
+22         Cheng-4                   2477       -9         6541      
+23         pawn_git                  2477       -8         2425      
+24         bot_adario                2476       -10        2305      
 25         catriever                 2467       7          726       
 26         AjatarBot                 2452       -17        381       
 27         OpeningsBot               2425       10         873       
@@ -76,7 +76,7 @@ Rank       Bot                       Rating     Prog       Games
 75         dlvc-bot                  1672       -15        1259      
 76         AshNostromo               1663       -16        963       
 77         ChessChildren             1649       4          21277     
-78         maia9                     1639       -21        100497    
+78         maia9                     1637       -22        100498    
 79         yeoldwiz                  1636       -5         1611      
 80         HardRok                   1605       -12        829       
 81         ShallowRedBot             1586       11         88        
