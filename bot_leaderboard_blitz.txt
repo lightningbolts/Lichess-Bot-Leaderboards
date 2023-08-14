@@ -16,11 +16,11 @@ Rank       Bot                       Rating     Prog       Games
 15         chessfyBOT                2819       -12        180       
 16         faith_bot                 2819       -5         680       
 17         Nikitosik-ai              2780       5          312       
-18         MrChessTheBot             2775       5          1766      
+18         MrChessTheBot             2773       1          1767      
 19         blundar_bot               2771       -4         977       
 20         Palisade                  2707       20         326       
 21         LazyBot                   2702       -40        2021      
-22         FrozenightEngine          2596       -15        5816      
+22         FrozenightEngine          2599       -11        5817      
 23         expositor                 2571       3          6980      
 24         ELO_1500                  2531       12         13076     
 25         AKS-Mantissa              2525       4          9579      
@@ -59,7 +59,7 @@ Rank       Bot                       Rating     Prog       Games
 58         Jobabot                   1909       -27        366       
 59         zeekat                    1897       3          20762     
 60         zulu_bot                  1861       -3         992       
-61         Demolito_L6               1827       6          648       
+61         Demolito_L6               1830       14         649       
 62         onionbot                  1824       23         164       
 63         Ptit-biscuit              1812       -9         621       
 64         DragonflyBOT              1809       21         2094      
@@ -75,9 +75,9 @@ Rank       Bot                       Rating     Prog       Games
 74         Demolito_L5               1699       1          1338      
 75         piglet_engine             1679       -6         112       
 76         dlvc-bot                  1672       -15        1259      
-77         simplexitor               1666       2          2132      
-78         AshNostromo               1663       -16        963       
-79         maia9                     1610       3          100640    
+77         AshNostromo               1663       -16        963       
+78         simplexitor               1663       -4         2133      
+79         maia9                     1610       -2         100642    
 80         HardRok                   1606       2          832       
 81         yeoldwiz                  1606       -13        1626      
 82         turkjs                    1552       -6         10200     
@@ -101,7 +101,7 @@ Rank       Bot                       Rating     Prog       Games
 100        pawnrobot                 1256       -17        2039      
 101        sargon-1ply               1243       -15        7894      
 102        OhniBOT                   1210       27         319       
-103        bobandi                   1123       10         1161      
+103        bobandi                   1129       18         1162      
 104        knucklefish               1101       -10        3218      
-105        CHoMPBoT                  1097       -6         1731      
+105        CHoMPBoT                  1092       -10        1732      
 106        BetaTree                  1024       -41        72        
