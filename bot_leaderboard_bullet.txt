@@ -2,9 +2,9 @@ Rank       Bot                       Rating     Prog       Games
 1          LeelaMultiPoss            2915       7          591       
 2          ProteusSF-Aureo           2915       0          150       
 3          ReinforcementTrial        2897       12         358       
-4          ToromBot                  2897       -6         61161     
-5          FireFishBOT_v2            2893       2          602       
-6          ResoluteBot               2885       -1         25472     
+4          FireFishBOT_v2            2893       2          602       
+5          ToromBot                  2893       -10        61162     
+6          ResoluteBot               2889       3          25473     
 7          ProteusSF-Godot           2877       0          1716      
 8          MastacticaTeoriabot       2874       -2         587       
 9          Nikitosik-ai              2873       -3         2420      
@@ -14,14 +14,14 @@ Rank       Bot                       Rating     Prog       Games
 13         Shineshou90_BOT           2803       0          8489      
 14         chessfyBOT                2788       -8         1404      
 15         Palisade                  2760       23         435       
-16         blundar_bot               2728       9          5742      
+16         blundar_bot               2721       5          5744      
 17         LazyBot                   2701       -13        1408      
 18         faith_bot                 2696       5          3102      
-19         FrozenightEngine          2591       4          8633      
+19         FrozenightEngine          2595       9          8634      
 20         MrChessTheBot             2550       -15        5652      
 21         FlamingDragon_9000        2524       -5         10619     
 22         expositor                 2501       7          19632     
-23         AKS-Mantissa              2496       17         10673     
+23         AKS-Mantissa              2499       21         10674     
 24         Elmichess                 2484       -7         3206      
 25         bot_adario                2466       -3         2588      
 26         pawn_git                  2443       6          4092      
@@ -62,7 +62,7 @@ Rank       Bot                       Rating     Prog       Games
 61         Ptit-biscuit              1871       -3         779       
 62         NatesBot                  1866       -12        148       
 63         notropis                  1822       -17        3890      
-64         The_Marcus                1821       -10        929       
+64         The_Marcus                1822       -4         930       
 65         QueensGamBOT              1798       2          5119      
 66         dtsudo                    1790       109        34        
 67         Demolito_L5               1779       -34        884       
@@ -96,5 +96,5 @@ Rank       Bot                       Rating     Prog       Games
 95         OhniBOT                   1343       48         494       
 96         CHoMPBoT                  1305       -12        1014      
 97         pawnrobot                 1282       -6         3870      
-98         knucklefish               1278       31         2782      
+98         knucklefish               1278       36         2783      
 99         bobandi                   1240       30         1097      
