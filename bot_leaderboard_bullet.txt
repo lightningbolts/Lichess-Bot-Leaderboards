@@ -4,7 +4,7 @@ Rank       Bot                       Rating     Prog       Games
 3          ReinforcementTrial        2897       12         358       
 4          ToromBot                  2897       -6         61161     
 5          FireFishBOT_v2            2893       2          602       
-6          ResoluteBot               2888       2          25471     
+6          ResoluteBot               2885       -1         25472     
 7          ProteusSF-Godot           2877       0          1716      
 8          MastacticaTeoriabot       2874       -2         587       
 9          Nikitosik-ai              2873       -3         2420      
@@ -14,14 +14,14 @@ Rank       Bot                       Rating     Prog       Games
 13         Shineshou90_BOT           2803       0          8489      
 14         chessfyBOT                2788       -8         1404      
 15         Palisade                  2760       23         435       
-16         blundar_bot               2725       2          5741      
+16         blundar_bot               2728       9          5742      
 17         LazyBot                   2701       -13        1408      
 18         faith_bot                 2696       5          3102      
 19         FrozenightEngine          2591       4          8633      
 20         MrChessTheBot             2550       -15        5652      
 21         FlamingDragon_9000        2524       -5         10619     
 22         expositor                 2501       7          19632     
-23         AKS-Mantissa              2492       12         10672     
+23         AKS-Mantissa              2496       17         10673     
 24         Elmichess                 2484       -7         3206      
 25         bot_adario                2466       -3         2588      
 26         pawn_git                  2443       6          4092      
@@ -33,11 +33,11 @@ Rank       Bot                       Rating     Prog       Games
 32         ELO_1500                  2350       13         3226      
 33         fornax-engine             2342       5          6915      
 34         TuksuBot                  2341       -5         6858      
-35         clueless-bot              2328       -4         7568      
+35         clueless-bot              2324       -11        7569      
 36         simpleEval                2306       7          25103     
 37         halcyonbot                2274       2          5391      
 38         HistoryExplorer           2221       -20        2550      
-39         eubos                     2188       -2         12795     
+39         eubos                     2190       -4         12796     
 40         matmoi                    2175       4          2065      
 41         GarboBot                  2171       8          9583      
 42         myopic-bot                2130       -9         1894      
@@ -54,7 +54,7 @@ Rank       Bot                       Rating     Prog       Games
 53         BLANK_BOT                 1980       16         7413      
 54         Zagreus_Engine            1970       10         2967      
 55         likeawizard-bot           1967       2          1184      
-56         FlounderBot               1909       13         3880      
+56         FlounderBot               1907       7          3881      
 57         onionbot                  1905       6          95        
 58         zeekat                    1902       5          18711     
 59         Trollfish-Bot             1901       11         3901      
@@ -69,7 +69,7 @@ Rank       Bot                       Rating     Prog       Games
 68         baby_eubos                1767       -23        5486      
 69         Fisk_Bot                  1740       10         225       
 70         piglet_engine             1740       7          518       
-71         maia1                     1735       -13        123566    
+71         maia1                     1737       -12        123567    
 72         simplexitor               1707       18         2214      
 73         maia9                     1706       -3         60933     
 74         Humaia                    1702       37         409       
