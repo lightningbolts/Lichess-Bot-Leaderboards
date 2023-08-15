@@ -1,13 +1,13 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Aureo           2915       0          150       
-2          Coolman2021               2911       -5         6702      
+2          Coolman2021               2911       -5         6703      
 3          FireFishBOT_v2            2894       3          599       
 4          ResoluteBot               2891       -6         25434     
-5          ReinforcementTrial        2885       4          346       
-6          MastacticaTeoriabot       2878       -5         558       
+5          ReinforcementTrial        2885       4          347       
+6          MastacticaTeoriabot       2879       -10        559       
 7          ProteusSF-Godot           2875       -1         1712      
 8          Nikitosik-ai              2873       -3         2420      
-9          RaspFish                  2863       -1         51554     
+9          RaspFish                  2863       -1         51555     
 10         Mr_Chess_Berserk          2851       -2         159       
 11         YoBot_v2                  2850       10         17806     
 12         Shineshou90_BOT           2806       -3         8477      
@@ -50,7 +50,7 @@ Rank       Bot                       Rating     Prog       Games
 49         LeaMoreau                 2057       -5         647       
 50         Jobabot                   2053       -2         630       
 51         redtail-zero              2023       -15        594       
-52         MaxtheDog                 1979       -5         14339     
+52         MaxtheDog                 1982       1          14340     
 53         BLANK_BOT                 1964       -5         7402      
 54         Zagreus_Engine            1960       21         2956      
 55         likeawizard-bot           1950       -4         1169      
@@ -62,8 +62,8 @@ Rank       Bot                       Rating     Prog       Games
 61         Demolito_L6               1880       -31        446       
 62         Ptit-biscuit              1871       -3         779       
 63         notropis                  1836       -11        3881      
-64         maia1                     1823       -63        123511    
-65         The_Marcus                1821       21         912       
+64         The_Marcus                1827       29         914       
+65         maia1                     1823       -63        123511    
 66         Demolito_L5               1804       -10        875       
 67         DragonflyBOT              1803       -6         2107      
 68         QueensGamBOT              1796       0          5108      
@@ -90,7 +90,7 @@ Rank       Bot                       Rating     Prog       Games
 89         turochamp-1ply            1464       -10        1929      
 90         sargon-2ply               1456       -1         2267      
 91         yeoldwiz                  1450       18         791       
-92         TRACER_Bot                1433       -17        17        
+92         TRACER_Bot                1445       -5         18        
 93         botTideEval               1420       -13        1575      
 94         dragobot                  1399       -30        58        
 95         schnecken_bot             1397       -7         1013      
@@ -99,4 +99,4 @@ Rank       Bot                       Rating     Prog       Games
 98         CHoMPBoT                  1311       -14        1012      
 99         knucklefish               1282       42         2781      
 100        pawnrobot                 1282       -6         3870      
-101        bobandi                   1244       33         1096      
+101        bobandi                   1240       30         1097      
