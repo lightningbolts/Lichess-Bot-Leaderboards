@@ -77,7 +77,7 @@ Rank       Bot                       Rating     Prog       Games
 76         human_bot22               1615       58         61        
 77         maia5                     1593       3          101527    
 78         sargon-3ply               1567       1          1180      
-79         maia1                     1566       4          231125    
+79         maia1                     1566       -2         231126    
 80         sargon-4ply               1561       -35        606       
 81         dragobot                  1544       20         59        
 82         ZE_ROOK                   1542       -26        472       
@@ -93,5 +93,6 @@ Rank       Bot                       Rating     Prog       Games
 92         pawnrobot                 1231       -26        645       
 93         sargon-1ply               1213       1          8467      
 94         OhniBOT                   1150       9          505       
-95         CHoMPBoT                  1109       -19        550       
-96         bobandi                   876        14         721       
+95         kireevi                   1117       -2         565       
+96         CHoMPBoT                  1109       -19        550       
+97         bobandi                   876        14         721       
