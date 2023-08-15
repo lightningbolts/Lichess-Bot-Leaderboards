@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Aureo           2909       1          90        
-2          ResoluteBot               2898       -2         11151     
-3          ReinforcementTrial        2897       4          1040      
+2          ResoluteBot               2898       -2         11152     
+3          ReinforcementTrial        2897       3          1041      
 4          ProteusSF-Godot           2896       5          847       
 5          caissa-x                  2884       0          3173      
 6          FireFishBOT_v2            2883       -1         2901      
@@ -21,7 +21,7 @@ Rank       Bot                       Rating     Prog       Games
 20         FrozenightEngine          2592       -6         5826      
 21         expositor                 2574       8          6982      
 22         ELO_1500                  2529       8          13080     
-23         AKS-Mantissa              2528       8          9592      
+23         AKS-Mantissa              2523       2          9593      
 24         SaxtonEngine              2497       6          2272      
 25         pawn_git                  2496       7          2440      
 26         bot_adario                2482       9          2317      
@@ -35,7 +35,7 @@ Rank       Bot                       Rating     Prog       Games
 34         FlamingDragon_9000        2323       19         3331      
 35         simpleEval                2318       -13        14617     
 36         MisterRengar              2289       -19        71        
-37         halcyonbot                2250       30         9385      
+37         halcyonbot                2253       36         9386      
 38         HistoryExplorer           2184       -16        2694      
 39         matmoi                    2155       12         1528      
 40         eubos                     2122       -12        14381     
@@ -45,7 +45,7 @@ Rank       Bot                       Rating     Prog       Games
 44         Lynx_BOT                  2058       5          49053     
 45         jangine                   2052       -32        3297      
 46         camel_bot                 2048       14         629       
-47         redtail-zero              2040       4          441       
+47         redtail-zero              2038       -3         442       
 48         myopic-bot                2013       8          1870      
 49         Elmichess                 2011       21         3545      
 50         LeaMoreau                 1999       2          470       
@@ -77,7 +77,7 @@ Rank       Bot                       Rating     Prog       Games
 76         dlvc-bot                  1672       -15        1259      
 77         AshNostromo               1663       -16        963       
 78         simplexitor               1657       -15        2138      
-79         maia9                     1604       -9         100690    
+79         maia9                     1599       -19        100691    
 80         yeoldwiz                  1599       -19        1632      
 81         turkjs                    1551       3          10204     
 82         sargon-4ply               1523       -9         1957      
@@ -92,7 +92,7 @@ Rank       Bot                       Rating     Prog       Games
 91         Humaia                    1389       18         918       
 92         monchester                1377       1          2704      
 93         chat_bot                  1362       -25        263       
-94         sargon-2ply               1293       -26        3021      
+94         sargon-2ply               1296       -19        3022      
 95         schnecken_bot             1289       -12        2045      
 96         turochamp-1ply            1285       -10        1787      
 97         dragobot                  1283       -1         97        
@@ -101,5 +101,5 @@ Rank       Bot                       Rating     Prog       Games
 100        OhniBOT                   1210       27         319       
 101        bobandi                   1135       25         1163      
 102        knucklefish               1108       5          3222      
-103        CHoMPBoT                  1081       -27        1735      
+103        CHoMPBoT                  1078       -35        1736      
 104        BetaTree                  1024       -29        74        
