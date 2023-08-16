@@ -15,12 +15,12 @@ Rank       Bot                       Rating     Prog       Games
 14         MrChessTheBot             2811       6          2174      
 15         blundar_bot               2802       2          1075      
 16         Mr_Chess_Berserk          2744       305        22        
-17         FrozenightEngine          2661       0          4928      
+17         FrozenightEngine          2659       -7         4929      
 18         expositor                 2625       16         4563      
 19         AKS-Mantissa              2612       0          4062      
 20         LazyBot                   2599       -13        725       
-21         ELO_1500                  2564       12         3016      
-22         pawn_git                  2564       -2         1260      
+21         pawn_git                  2566       2          1261      
+22         ELO_1500                  2564       12         3016      
 23         catriever                 2563       -20        235       
 24         Cheng-4                   2544       18         3177      
 25         SaxtonEngine              2544       -27        1397      
@@ -88,7 +88,7 @@ Rank       Bot                       Rating     Prog       Games
 87         yeoldwiz                  1628       -12        642       
 88         maia5                     1613       -1         101625    
 89         sargon-4ply               1567       -17        609       
-90         maia1                     1565       4          231416    
+90         maia1                     1560       -4         231417    
 91         sargon-3ply               1560       -10        1184      
 92         dragobot                  1542       6          62        
 93         ZE_ROOK                   1540       -23        474       
