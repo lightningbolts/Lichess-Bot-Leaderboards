@@ -1,12 +1,12 @@
 Rank       Bot                       Rating     Prog       Games     
 1          VariantsTop               2972       -4         1421      
-2          ResoluteBot               2916       9          25518     
+2          ResoluteBot               2916       10         25520     
 3          LeelaMultiPoss            2915       7          591       
 4          ProteusSF-Aureo           2915       0          150       
 5          ReinforcementTrial        2904       -1         396       
 6          ShashChess_MsP            2904       4          259       
 7          FireFishBOT_v2            2895       0          630       
-8          RaspFish                  2878       3          51715     
+8          RaspFish                  2879       3          51716     
 9          MastacticaTeoriabot       2876       10         620       
 10         ProteusSF-Godot           2868       -8         1729      
 11         YoBot_v2                  2864       3          17838     
@@ -23,7 +23,7 @@ Rank       Bot                       Rating     Prog       Games
 22         expositor                 2502       2          19653     
 23         AKS-Mantissa              2489       -17        10687     
 24         Elmichess                 2484       -7         3206      
-25         bot_adario                2480       13         2592      
+25         bot_adario                2477       12         2593      
 26         pawn_git                  2441       0          4104      
 27         SaxtonEngine              2430       9          4165      
 28         catriever                 2416       10         1657      
@@ -34,7 +34,7 @@ Rank       Bot                       Rating     Prog       Games
 33         ELO_1500                  2361       20         3229      
 34         AjedrezChamberi           2352       15         529       
 35         fornax-engine             2336       -6         6921      
-36         clueless-bot              2328       -1         7603      
+36         clueless-bot              2330       6          7604      
 37         TuksuBot                  2327       -13        6875      
 38         simpleEval                2322       22         25117     
 39         halcyonbot                2263       -10        5413      
@@ -86,7 +86,7 @@ Rank       Bot                       Rating     Prog       Games
 85         RoundMoundOfRebounds      1549       9          1348      
 86         monchester                1540       4          2475      
 87         Flawed_Formula            1509       43         339       
-88         turochamp-1ply            1473       -5         1943      
+88         turochamp-1ply            1471       -6         1944      
 89         sargon-1ply               1461       -7         4471      
 90         sargon-2ply               1450       -7         2277      
 91         yeoldwiz                  1450       18         791       
@@ -96,6 +96,6 @@ Rank       Bot                       Rating     Prog       Games
 95         schnecken_bot             1397       -7         1013      
 96         StupidChessRobot          1358       -10        609       
 97         CHoMPBoT                  1305       -12        1014      
-98         pawnrobot                 1286       -4         3875      
+98         pawnrobot                 1289       3          3876      
 99         knucklefish               1277       36         2784      
 100        bobandi                   1239       13         1099      
