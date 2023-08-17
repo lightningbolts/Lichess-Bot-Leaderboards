@@ -33,7 +33,7 @@ Rank       Bot                       Rating     Prog       Games
 32         simpleEval                2298       -19        7602      
 33         Rinestro                  2274       -1         36        
 34         Boris-Trapsky             2228       20         27523     
-35         halcyonbot                2226       -1         6284      
+35         halcyonbot                2216       -14        6285      
 36         eubos                     2201       11         4259      
 37         Elmichess                 2166       12         1417      
 38         Hyperopic                 2128       0          434       
@@ -48,7 +48,7 @@ Rank       Bot                       Rating     Prog       Games
 47         Humaia-Strong             2052       -31        610       
 48         AjedrezChamberi           2048       -20        123       
 49         Jobabot                   2035       37         165       
-50         MaxtheDog                 2009       2          671       
+50         MaxtheDog                 2013       8          672       
 51         LeelaRogue                2006       5          2279      
 52         myopic-bot                1995       1          378       
 53         likeawizard-bot           1976       -2         713       
@@ -57,10 +57,10 @@ Rank       Bot                       Rating     Prog       Games
 56         LazyBotJr                 1938       -30        1266      
 57         zeekat                    1919       7          8455      
 58         baby_eubos                1907       -7         946       
-59         Trollfish-Bot             1894       -45        231       
-60         Nc3Nc6Bot                 1889       -31        1689      
+59         Nc3Nc6Bot                 1900       -16        1690      
+60         Trollfish-Bot             1894       -45        231       
 61         Ptit-biscuit              1881       -5         115       
-62         Demolito_L6               1868       -12        490       
+62         Demolito_L6               1865       -11        491       
 63         NatesBot                  1863       -2         239       
 64         notropis                  1850       23         2297      
 65         FlounderBot               1821       -4         189       
@@ -72,7 +72,7 @@ Rank       Bot                       Rating     Prog       Games
 71         maia9                     1745       5          84630     
 72         dlvc-bot                  1731       -24        81        
 73         melsh_bot                 1713       7          259       
-74         maia5                     1667       15         101748    
+74         maia5                     1661       8          101749    
 75         turkjs                    1652       -4         5050      
 76         HardRok                   1628       -25        641       
 77         yeoldwiz                  1623       -20        643       
@@ -81,7 +81,7 @@ Rank       Bot                       Rating     Prog       Games
 80         ZE_ROOK                   1539       -18        476       
 81         DavidsGuterBot            1527       8          623       
 82         turochamp-2ply            1512       7          1086      
-83         maia1                     1506       -36        231712    
+83         maia1                     1500       -37        231715    
 84         RoundMoundOfRebounds      1445       -8         350       
 85         Humaia                    1413       22         2246      
 86         sargon-2ply               1403       -8         3332      
@@ -94,3 +94,4 @@ Rank       Bot                       Rating     Prog       Games
 93         OhniBOT                   1168       22         510       
 94         kireevi                   1117       -2         565       
 95         bobandi                   944        59         735       
+96         G0thamB0t                 751        -11        336       
