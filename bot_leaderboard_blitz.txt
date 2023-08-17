@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Aureo           2909       1          90        
-2          VariantsTop               2897       0          320       
+2          VariantsTop               2895       -1         321       
 3          caissa-x                  2882       1          3199      
 4          YoBot_v2                  2881       10         3662      
 5          ProteusSF-Godot           2871       2          955       
@@ -15,9 +15,9 @@ Rank       Bot                       Rating     Prog       Games
 14         ArasanX                   2827       -3         1882      
 15         chessfyBOT                2819       -12        180       
 16         faith_bot                 2803       -19        693       
-17         MrChessTheBot             2799       -5         1850      
+17         MrChessTheBot             2800       0          1851      
 18         Nikitosik-ai              2781       11         313       
-19         blundar_bot               2758       -14        1009      
+19         blundar_bot               2760       -8         1010      
 20         LazyBot                   2684       -58        2023      
 21         FrozenightEngine          2605       7          5882      
 22         AKS-Mantissa              2586       10         9661      
@@ -38,7 +38,7 @@ Rank       Bot                       Rating     Prog       Games
 37         matmoi                    2149       5          1635      
 38         Boris-Trapsky             2137       21         28623     
 39         Lynx_BOT                  2127       -4         49270     
-40         GarboBot                  2122       26         9213      
+40         GarboBot                  2125       31         9214      
 41         eubos                     2120       6          14478     
 42         jangine                   2098       8          3335      
 43         Hyperopic                 2084       -35        2331      
@@ -55,7 +55,7 @@ Rank       Bot                       Rating     Prog       Games
 54         LeelaRogue                1964       28         2359      
 55         Jobabot                   1949       2          446       
 56         LazyBotJr                 1925       -6         1847      
-57         zeekat                    1894       10         20915     
+57         zeekat                    1892       8          20916     
 58         zulu_bot                  1861       -3         992       
 59         Demolito_L6               1826       -1         755       
 60         Ptit-biscuit              1811       23         657       
@@ -72,7 +72,7 @@ Rank       Bot                       Rating     Prog       Games
 71         dlvc-bot                  1672       -15        1259      
 72         AshNostromo               1653       -12        966       
 73         HardRok                   1604       5          841       
-74         maia5                     1590       -4         101627    
+74         maia5                     1599       9          101629    
 75         yeoldwiz                  1571       -31        1654      
 76         maia9                     1543       -25        101192    
 77         turkjs                    1535       -19        10231     
