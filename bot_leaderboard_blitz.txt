@@ -6,7 +6,7 @@ Rank       Bot                       Rating     Prog       Games
 5          ProteusSF-Godot           2871       1          959       
 6          FireFishBOT_v2            2870       1          3364      
 7          FireFishBOT               2861       2          1856      
-8          HansNiemannBot            2847       -26        2497      
+8          HansNiemannBot            2848       -23        2498      
 9          LeelaMultiPoss            2840       0          545       
 10         Mate-AI                   2840       0          3065      
 11         RaspFish                  2837       -9         11258     
@@ -14,7 +14,7 @@ Rank       Bot                       Rating     Prog       Games
 13         Mr_Chess_Berserk          2835       -9         156       
 14         chessfyBOT                2819       -12        180       
 15         faith_bot                 2807       -4         696       
-16         MrChessTheBot             2798       -8         1856      
+16         MrChessTheBot             2799       -8         1857      
 17         Nikitosik-ai              2781       11         313       
 18         blundar_bot               2763       -7         1011      
 19         LazyBot                   2684       -58        2023      
@@ -33,14 +33,14 @@ Rank       Bot                       Rating     Prog       Games
 32         simpleEval                2320       -9         14692     
 33         halcyonbot                2234       0          9511      
 34         Boris-Trapsky             2144       14         28627     
-35         eubos                     2127       14         14485     
+35         eubos                     2127       11         14486     
 36         GarboBot                  2127       10         9221      
-37         Lynx_BOT                  2126       -2         49286     
+37         Lynx_BOT                  2126       -11        49287     
 38         matmoi                    2126       -18        1641      
 39         jangine                   2110       17         3338      
 40         Hyperopic                 2084       -35        2331      
 41         MaxtheDog                 2033       26         4442      
-42         likeawizard-bot           2028       -12        2925      
+42         likeawizard-bot           2028       -8         2926      
 43         Elmichess                 2016       2          3551      
 44         myopic-bot                2002       18         1934      
 45         LeaMoreau                 1998       -10        535       
@@ -48,7 +48,7 @@ Rank       Bot                       Rating     Prog       Games
 47         redtail-zero              1995       -41        462       
 48         Zagreus_Engine            1987       3          4064      
 49         BLANK_BOT                 1972       -28        4783      
-50         Jobabot                   1966       22         452       
+50         Jobabot                   1969       27         453       
 51         LeelaRogue                1964       28         2359      
 52         LazyBotJr                 1935       17         1850      
 53         zeekat                    1887       9          20929     
@@ -57,7 +57,7 @@ Rank       Bot                       Rating     Prog       Games
 56         Ptit-biscuit              1815       23         658       
 57         baby_eubos                1791       20         7786      
 58         FlounderBot               1776       4          1947      
-59         NatesBot                  1775       -12        492       
+59         NatesBot                  1772       -10        493       
 60         Trollfish-Bot             1765       11         1977      
 61         notropis                  1762       -5         6509      
 62         potato-chess-bot          1754       -19        65        
@@ -88,7 +88,7 @@ Rank       Bot                       Rating     Prog       Games
 87         chat_bot                  1315       -1         293       
 88         turochamp-1ply            1293       8          1798      
 89         schnecken_bot             1289       -12        2045      
-90         sargon-2ply               1284       2          3051      
+90         sargon-2ply               1284       0          3052      
 91         pawnrobot                 1258       1          2057      
 92         sargon-1ply               1222       -8         7909      
 93         OhniBOT                   1219       45         320       
