@@ -19,10 +19,10 @@ Rank       Bot                       Rating     Prog       Games
 18         MrChessTheBot             2749       -6         1889      
 19         LazyBot                   2684       -58        2023      
 20         FrozenightEngine          2609       8          5913      
-21         AKS-Mantissa              2591       0          9689      
+21         AKS-Mantissa              2589       -2         9690      
 22         SaxtonEngine              2516       7          2318      
 23         bot_adario                2508       0          2349      
-24         Cheng-4                   2490       -1         6562      
+24         Cheng-4                   2491       -2         6563      
 25         Weiawaga                  2462       12         11734     
 26         pawn_git                  2438       -37        2493      
 27         catriever                 2435       0          760       
@@ -37,7 +37,7 @@ Rank       Bot                       Rating     Prog       Games
 36         fornax-engine             2347       -5         6534      
 37         FlamingDragon_9000        2323       19         3331      
 38         simpleEval                2320       -8         14723     
-39         halcyonbot                2233       8          9551      
+39         halcyonbot                2237       16         9553      
 40         HistoryExplorer           2137       -19        2721      
 41         matmoi                    2134       -27        1664      
 42         Lynx_BOT                  2130       4          49329     
@@ -46,7 +46,7 @@ Rank       Bot                       Rating     Prog       Games
 45         jangine                   2117       15         3343      
 46         GarboBot                  2102       -15        9234      
 47         honzovy-sachy-2           2102       7          6806      
-48         MaxtheDog                 2064       18         4461      
+48         MaxtheDog                 2061       19         4462      
 49         Elmichess                 2019       11         3552      
 50         myopic-bot                2019       21         1950      
 51         redtail-zero              2003       -22        466       
@@ -59,7 +59,7 @@ Rank       Bot                       Rating     Prog       Games
 58         LeelaRogue                1964       28         2359      
 59         Jobabot                   1950       -20        473       
 60         LazyBotJr                 1941       14         1855      
-61         zeekat                    1890       2          20971     
+61         zeekat                    1894       14         20972     
 62         Demolito_L6               1876       19         786       
 63         zulu_bot                  1861       -3         992       
 64         hans68Bot                 1859       18         106       
@@ -78,8 +78,8 @@ Rank       Bot                       Rating     Prog       Games
 77         Demolito_L5               1681       -6         1479      
 78         Virutor                   1681       -21        7435      
 79         dlvc-bot                  1672       -15        1259      
-80         QueensGamBOT              1669       -21        3015      
-81         AshNostromo               1647       -16        967       
+80         QueensGamBOT              1663       -30        3016      
+81         AshNostromo               1654       0          968       
 82         ChessChildren             1625       -14        21305     
 83         GuineaBot3                1617       11         92        
 84         HardRok                   1606       4          842       
