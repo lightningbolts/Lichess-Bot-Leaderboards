@@ -6,7 +6,7 @@ Rank       Bot                       Rating     Prog       Games
 5          caissa-x                  2885       -1         3035      
 6          FireFishBOT_v2            2881       0          648       
 7          RaspFish                  2881       16         5524      
-8          Mate-AI                   2878       5          2422      
+8          Mate-AI                   2877       5          2423      
 9          YoBot_v2                  2860       -5         13011     
 10         ArasanX                   2852       -4         5471      
 11         ResoluteBot               2848       -3         5232      
@@ -14,7 +14,7 @@ Rank       Bot                       Rating     Prog       Games
 13         chessfyBOT                2845       -7         228       
 14         Nikitosik-ai              2821       5          611       
 15         MrChessTheBot             2814       -1         2181      
-16         faith_bot                 2811       -1         892       
+16         faith_bot                 2812       -1         893       
 17         blundar_bot               2807       7          1082      
 18         Mr_Chess_Berserk          2776       51         31        
 19         FrozenightEngine          2658       -1         4940      
@@ -30,14 +30,14 @@ Rank       Bot                       Rating     Prog       Games
 29         odonata-bot               2370       -10        3748      
 30         fornax-engine             2350       0          3689      
 31         FlamingDragon_9000        2309       -12        1216      
-32         simpleEval                2298       -19        7602      
-33         Rinestro                  2287       28         38        
+32         Rinestro                  2300       86         39        
+33         simpleEval                2298       -19        7602      
 34         LunaChessEngine           2250       -1         1042      
 35         halcyonbot                2224       5          6287      
 36         Boris-Trapsky             2219       7          27525     
 37         eubos                     2205       10         4260      
 38         Elmichess                 2166       12         1417      
-39         Hyperopic                 2139       11         437       
+39         Hyperopic                 2135       0          438       
 40         matmoi                    2118       -13        1435      
 41         GarboBot                  2117       -5         6029      
 42         Lynx_BOT                  2083       6          39810     
@@ -64,8 +64,8 @@ Rank       Bot                       Rating     Prog       Games
 63         FlounderBot               1821       -4         189       
 64         Fisk_Bot                  1813       -19        224       
 65         zulu_bot                  1776       3          110       
-66         Demolito_L5               1763       -29        1031      
-67         AshNostromo               1758       20         1229      
+66         AshNostromo               1764       28         1230      
+67         Demolito_L5               1757       -28        1032      
 68         The_Marcus                1748       28         87        
 69         maia9                     1744       6          84637     
 70         dlvc-bot                  1731       -24        81        
@@ -78,7 +78,7 @@ Rank       Bot                       Rating     Prog       Games
 77         sargon-4ply               1567       -11        610       
 78         ZE_ROOK                   1539       -18        476       
 79         DavidsGuterBot            1527       8          623       
-80         maia1                     1517       12         231729    
+80         maia1                     1525       22         231730    
 81         turochamp-2ply            1512       7          1086      
 82         Flawed_Formula            1487       146        41        
 83         RoundMoundOfRebounds      1445       -8         350       
