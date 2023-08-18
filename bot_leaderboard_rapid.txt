@@ -8,7 +8,7 @@ Rank       Bot                       Rating     Prog       Games
 7          FireFishBOT_v2            2880       -1         649       
 8          Mate-AI                   2877       8          2424      
 9          YoBot_v2                  2861       -3         13014     
-10         ResoluteBot               2848       -5         5233      
+10         ResoluteBot               2848       -5         5234      
 11         Shineshou90_BOT           2846       -5         2590      
 12         chessfyBOT                2845       -7         228       
 13         Nikitosik-ai              2821       5          611       
@@ -37,10 +37,10 @@ Rank       Bot                       Rating     Prog       Games
 36         eubos                     2192       -8         4262      
 37         Elmichess                 2166       12         1417      
 38         Hyperopic                 2163       14         460       
-39         matmoi                    2121       -8         1439      
-40         GarboBot                  2117       -9         6031      
+39         matmoi                    2127       2          1440      
+40         GarboBot                  2112       -10        6032      
 41         redtail-zero              2077       15         305       
-42         Lynx_BOT                  2070       -12        39813     
+42         Lynx_BOT                  2070       -10        39814     
 43         jangine                   2053       -5         1723      
 44         Humaia-Strong             2052       -31        610       
 45         LeaMoreau                 2043       -9         480       
@@ -73,7 +73,7 @@ Rank       Bot                       Rating     Prog       Games
 72         maia5                     1638       -6         101772    
 73         HardRok                   1625       -27        643       
 74         yeoldwiz                  1623       -20        643       
-75         maia1                     1576       45         231750    
+75         maia1                     1581       47         231751    
 76         sargon-3ply               1571       4          1187      
 77         sargon-4ply               1567       -11        610       
 78         ZE_ROOK                   1547       -7         477       
@@ -90,5 +90,4 @@ Rank       Bot                       Rating     Prog       Games
 89         schnecken_bot             1238       11         332       
 90         sargon-1ply               1220       -4         8492      
 91         OhniBOT                   1168       22         510       
-92         kireevi                   1117       -1         566       
-93         bobandi                   944        59         735       
+92         bobandi                   944        59         735       
