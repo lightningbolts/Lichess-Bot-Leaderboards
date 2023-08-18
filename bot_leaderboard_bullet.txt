@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          VariantsTop               3000       3          1536      
 2          FireFishBOT               2931       5          1357      
-3          Mate-AI                   2924       -5         11901     
+3          Mate-AI                   2922       -6         11903     
 4          ProteusSF-Godot           2917       2          1995      
 5          LeelaMultiPoss            2915       7          591       
 6          ReinforcementTrial        2915       2          559       
@@ -11,8 +11,8 @@ Rank       Bot                       Rating     Prog       Games
 10         RaspFish                  2876       2          52032     
 11         Mr_Chess_Berserk          2872       14         321       
 12         HansNiemannBot            2869       15         4140      
-13         Shineshou90_BOT           2857       19         8629      
-14         Nikitosik-ai              2845       1          2715      
+13         Nikitosik-ai              2854       11         2719      
+14         Shineshou90_BOT           2851       12         8630      
 15         chessfyBOT                2788       -8         1404      
 16         blundar_bot               2770       -7         6302      
 17         faith_bot                 2731       14         3124      
@@ -31,7 +31,7 @@ Rank       Bot                       Rating     Prog       Games
 30         catriever                 2393       -9         1684      
 31         Rinestro                  2382       -6         176       
 32         AjedrezChamberi           2352       15         529       
-33         fornax-engine             2342       -9         6944      
+33         fornax-engine             2341       -9         6945      
 34         TuksuBot                  2340       7          6889      
 35         simpleEval                2334       -12        25151     
 36         halcyonbot                2257       -15        5472      
@@ -69,7 +69,7 @@ Rank       Bot                       Rating     Prog       Games
 68         melsh_bot                 1711       3          4277      
 69         rudim-bot                 1680       10         155       
 70         dlvc-bot                  1671       -3         184       
-71         maia1                     1662       30         123883    
+71         maia1                     1663       33         123884    
 72         turkjs                    1651       4          19263     
 73         beast_engine              1646       -68        29        
 74         maia5                     1623       -2         39371     
@@ -86,7 +86,7 @@ Rank       Bot                       Rating     Prog       Games
 85         yeoldwiz                  1450       18         791       
 86         botTideEval               1435       23         1690      
 87         sargon-1ply               1433       -31        4499      
-88         OhniBOT                   1421       107        500       
+88         OhniBOT                   1419       90         501       
 89         dragobot                  1399       -30        58        
 90         StupidChessRobot          1360       1          649       
 91         knucklefish               1276       20         2787      
