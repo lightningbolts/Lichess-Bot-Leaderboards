@@ -30,12 +30,12 @@ Rank       Bot                       Rating     Prog       Games
 29         fornax-engine             2352       0          3690      
 30         Rinestro                  2325       59         43        
 31         FlamingDragon_9000        2309       -12        1216      
-32         simpleEval                2304       -2         7606      
-33         halcyonbot                2224       -8         6300      
-34         Boris-Trapsky             2211       -5         27531     
+32         simpleEval                2308       3          7607      
+33         halcyonbot                2220       -8         6301      
+34         Boris-Trapsky             2209       -11        27532     
 35         eubos                     2180       -30        4265      
 36         Elmichess                 2166       12         1417      
-37         Hyperopic                 2136       -6         485       
+37         Hyperopic                 2137       -8         486       
 38         matmoi                    2134       15         1444      
 39         GarboBot                  2108       -9         6035      
 40         Lynx_BOT                  2084       -7         39818     
@@ -72,7 +72,7 @@ Rank       Bot                       Rating     Prog       Games
 71         beast_engine              1643       -63        34        
 72         maia5                     1626       -14        101796    
 73         yeoldwiz                  1623       -20        643       
-74         maia1                     1615       -3         231779    
+74         maia1                     1603       -16        231782    
 75         sargon-4ply               1578       3          611       
 76         sargon-3ply               1571       4          1187      
 77         ZE_ROOK                   1547       -7         477       
@@ -92,4 +92,3 @@ Rank       Bot                       Rating     Prog       Games
 91         OhniBOT                   1168       22         510       
 92         kireevi                   1117       -1         566       
 93         bobandi                   944        59         735       
-94         G0thamB0t                 751        -11        336       
