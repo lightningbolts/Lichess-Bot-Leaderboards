@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
-1          VariantsTop               2982       4          1514      
-2          Mate-AI                   2951       16         11788     
-3          caissa-x                  2950       -6         14519     
+1          VariantsTop               2983       7          1516      
+2          caissa-x                  2950       -6         14519     
+3          Mate-AI                   2948       14         11790     
 4          ProteusSF-Godot           2918       -4         1925      
 5          ProteusSF-Aureo           2915       0          150       
 6          ReinforcementTrial        2908       9          509       
@@ -9,10 +9,10 @@ Rank       Bot                       Rating     Prog       Games
 8          FireFishBOT               2900       15         1161      
 9          FireFishBOT_v2            2897       3          687       
 10         YoBot_v2                  2881       2          17884     
-11         RaspFish                  2858       -17        51924     
+11         RaspFish                  2860       -14        51925     
 12         Mr_Chess_Berserk          2852       8          276       
-13         Shineshou90_BOT           2847       24         8582      
-14         Nikitosik-ai              2829       -13        2529      
+13         Shineshou90_BOT           2847       21         8583      
+14         Nikitosik-ai              2832       -2         2534      
 15         chessfyBOT                2788       -8         1404      
 16         blundar_bot               2759       -2         6142      
 17         faith_bot                 2714       22         3111      
@@ -20,7 +20,7 @@ Rank       Bot                       Rating     Prog       Games
 19         FrozenightEngine          2621       14         8688      
 20         MrChessTheBot             2525       0          5745      
 21         FlamingDragon_9000        2524       -5         10619     
-22         AKS-Mantissa              2492       6          10733     
+22         AKS-Mantissa              2491       7          10734     
 23         Elmichess                 2484       -7         3206      
 24         bot_adario                2480       2          2606      
 25         pawn_git                  2431       -9         4140      
@@ -71,7 +71,7 @@ Rank       Bot                       Rating     Prog       Games
 70         dlvc-bot                  1671       -3         184       
 71         turkjs                    1657       16         19256     
 72         maia5                     1622       -19        39352     
-73         maia1                     1617       3          123792    
+73         maia1                     1610       -13        123794    
 74         maia9                     1609       -18        60991     
 75         DavidsGuterBot            1587       21         6207      
 76         sargon-4ply               1571       -7         1700      
