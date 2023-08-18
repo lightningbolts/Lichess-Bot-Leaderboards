@@ -35,14 +35,14 @@ Rank       Bot                       Rating     Prog       Games
 34         Boris-Trapsky             2211       -5         27531     
 35         eubos                     2180       -30        4265      
 36         Elmichess                 2166       12         1417      
-37         Hyperopic                 2143       5          484       
+37         Hyperopic                 2136       -6         485       
 38         matmoi                    2134       15         1444      
 39         GarboBot                  2108       -9         6035      
 40         Lynx_BOT                  2084       -7         39818     
 41         redtail-zero              2074       13         310       
 42         jangine                   2062       -2         1725      
-43         Humaia-Strong             2052       -31        610       
-44         LeaMoreau                 2049       2          483       
+43         LeaMoreau                 2056       5          484       
+44         Humaia-Strong             2052       -31        610       
 45         Jobabot                   2032       10         171       
 46         MaxtheDog                 2019       16         674       
 47         LeelaRogue                2006       5          2279      
@@ -72,7 +72,7 @@ Rank       Bot                       Rating     Prog       Games
 71         beast_engine              1643       -63        34        
 72         maia5                     1626       -14        101796    
 73         yeoldwiz                  1623       -20        643       
-74         maia1                     1619       -10        231778    
+74         maia1                     1615       -3         231779    
 75         sargon-4ply               1578       3          611       
 76         sargon-3ply               1571       4          1187      
 77         ZE_ROOK                   1547       -7         477       
@@ -92,3 +92,4 @@ Rank       Bot                       Rating     Prog       Games
 91         OhniBOT                   1168       22         510       
 92         kireevi                   1117       -1         566       
 93         bobandi                   944        59         735       
+94         G0thamB0t                 751        -11        336       
