@@ -1,13 +1,13 @@
 Rank       Bot                       Rating     Prog       Games     
-1          UltimateL                 2941       -13        1829      
-2          FireFishBOT               2935       -2         1384      
+1          UltimateL                 2941       -4         1832      
+2          FireFishBOT               2935       -2         1386      
 3          Mate-AI                   2930       1          11918     
 4          ProteusSF-Godot           2917       2          1995      
 5          ReinforcementTrial        2914       0          569       
 6          ResoluteBot               2910       7          25738     
 7          FireFishBOT_v2            2894       2          718       
-8          YoBot_v2                  2893       1          17915     
-9          RaspFish                  2892       4          52076     
+8          YoBot_v2                  2893       1          17916     
+9          RaspFish                  2892       4          52077     
 10         HansNiemannBot            2875       6          4155      
 11         Shineshou90_BOT           2868       11         8639      
 12         Mr_Chess_Berserk          2865       -7         332       
@@ -23,7 +23,7 @@ Rank       Bot                       Rating     Prog       Games
 22         AKS-Mantissa              2489       -1         10769     
 23         bot_adario                2478       -7         2618      
 24         pawn_git                  2438       10         4169      
-25         SaxtonEngine              2428       6          4226      
+25         SaxtonEngine              2428       7          4227      
 26         Cheng-4                   2423       -4         13679     
 27         Weiawaga                  2408       -6         15435     
 28         OpeningsBot               2402       4          896       
@@ -99,4 +99,3 @@ Rank       Bot                       Rating     Prog       Games
 98         StupidChessRobot          1349       -18        655       
 99         knucklefish               1276       20         2787      
 100        pawnrobot                 1270       -15        3890      
-101        bobandi                   1231       -10        1106      
