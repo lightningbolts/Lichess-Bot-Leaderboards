@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ProteusSF-Godot           2890       1          150       
-2          ProteusSF-Aureo           2889       -10        21        
+1          ToromBot                  2900       10         1856      
+2          ProteusSF-Godot           2890       1          150       
 3          ReinforcementTrial        2885       0          5195      
 4          FireFishBOT               2884       3          913       
 5          RaspFish                  2881       14         5525      
@@ -53,7 +53,7 @@ Rank       Bot                       Rating     Prog       Games
 52         Humaia-Strong             2052       -31        610       
 53         MaxtheDog                 2042       26         684       
 54         Jobabot                   2028       -2         190       
-55         LeelaRogue                2012       9          2301      
+55         LeelaRogue                2021       19         2303      
 56         likeawizard-bot           2000       19         757       
 57         myopic-bot                1998       -2         390       
 58         Zagreus_Engine            1976       3          1760      
@@ -80,13 +80,13 @@ Rank       Bot                       Rating     Prog       Games
 79         dlvc-bot                  1727       -30        85        
 80         melsh_bot                 1722       8          265       
 81         maia9                     1714       -20        84894     
-82         maia5                     1696       12         101964    
+82         maia5                     1690       12         101965    
 83         turkjs                    1655       -13        5066      
 84         HardRok                   1635       3          649       
 85         yeoldwiz                  1623       -20        643       
 86         sargon-4ply               1584       25         618       
-87         sargon-3ply               1575       8          1191      
-88         maia1                     1570       20         232265    
+87         maia1                     1579       28         232268    
+88         sargon-3ply               1575       8          1191      
 89         ZE_ROOK                   1559       17         483       
 90         dragobot                  1554       11         66        
 91         DavidsGuterBot            1533       14         627       
@@ -100,5 +100,6 @@ Rank       Bot                       Rating     Prog       Games
 99         pawnrobot                 1252       6          681       
 100        sargon-1ply               1216       -11        8499      
 101        OhniBOT                   1162       7          514       
-102        grandQ_AI                 747        6          1612      
-103        G0thamB0t                 736        -15        346       
+102        kireevi                   1117       -1         566       
+103        grandQ_AI                 747        6          1612      
+104        G0thamB0t                 736        -15        346       
