@@ -1,13 +1,13 @@
 Rank       Bot                       Rating     Prog       Games     
 1          FireFishBOT               2943       4          1403      
-2          ToromBot                  2928       -2         61610     
+2          ToromBot                  2928       -4         61611     
 3          Mate-AI                   2919       -11        11925     
 4          ProteusSF-Godot           2917       2          1995      
 5          ReinforcementTrial        2915       1          574       
 6          ResoluteBot               2910       7          25738     
 7          YoBot_v2                  2899       5          17923     
-8          FireFishBOT_v2            2896       2          730       
-9          RaspFish                  2885       -1         52102     
+8          FireFishBOT_v2            2896       2          731       
+9          RaspFish                  2885       -1         52103     
 10         Shineshou90_BOT           2868       3          8646      
 11         HansNiemannBot            2865       -8         4162      
 12         Mr_Chess_Berserk          2857       -17        341       
@@ -24,7 +24,7 @@ Rank       Bot                       Rating     Prog       Games
 23         AKS-Mantissa              2489       -4         10771     
 24         bot_adario                2476       -10        2620      
 25         pawn_git                  2446       18         4175      
-26         SaxtonEngine              2432       3          4230      
+26         SaxtonEngine              2431       3          4231      
 27         Cheng-4                   2421       -8         13682     
 28         Weiawaga                  2410       0          15442     
 29         OpeningsBot               2397       -2         899       
@@ -40,9 +40,9 @@ Rank       Bot                       Rating     Prog       Games
 39         HistoryExplorer           2217       0          2566      
 40         honzovy-sachy-2           2166       23         7129      
 41         eubos                     2148       -4         12912     
-42         matmoi                    2139       6          2191      
+42         matmoi                    2144       14         2192      
 43         GarboBot                  2130       -13        9651      
-44         jangine                   2107       -8         3113      
+44         jangine                   2102       -10        3114      
 45         Humaia-Strong             2101       87         1311      
 46         Lynx_BOT                  2090       14         6650      
 47         myopic-bot                2086       1          1934      
@@ -61,7 +61,7 @@ Rank       Bot                       Rating     Prog       Games
 60         FlounderBot               1884       11         4103      
 61         NatesBot                  1880       -1         197       
 62         Ptit-biscuit              1849       -6         825       
-63         Karl-bot                  1840       -29        1667      
+63         Karl-bot                  1848       -22        1668      
 64         QueensGamBOT              1813       -11        5161      
 65         notropis                  1807       -4         3934      
 66         honzovy-sachy             1784       5          4980      
@@ -74,7 +74,7 @@ Rank       Bot                       Rating     Prog       Games
 73         Humaia                    1717       37         411       
 74         baby_eubos                1711       -6         5611      
 75         maia1                     1709       11         123951    
-76         melsh_bot                 1705       -6         4284      
+76         melsh_bot                 1702       -10        4285      
 77         rudim-bot                 1680       10         155       
 78         dlvc-bot                  1671       -3         184       
 79         ChessChildren             1661       -6         15421     
@@ -98,3 +98,4 @@ Rank       Bot                       Rating     Prog       Games
 97         StupidChessRobot          1344       -19        657       
 98         knucklefish               1276       20         2787      
 99         pawnrobot                 1270       -15        3890      
+100        bobandi                   1231       -10        1106      
