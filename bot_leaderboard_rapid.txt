@@ -35,7 +35,7 @@ Rank       Bot                       Rating     Prog       Games
 34         DQN-chess                 2337       16         984       
 35         Rinestro                  2337       50         49        
 36         FlamingDragon_9000        2309       -12        1216      
-37         simpleEval                2304       -3         7622      
+37         simpleEval                2305       -6         7623      
 38         WasterNew                 2245       1          104       
 39         halcyonbot                2223       11         6344      
 40         eubos                     2193       7          4274      
@@ -58,7 +58,7 @@ Rank       Bot                       Rating     Prog       Games
 57         myopic-bot                2014       14         385       
 58         LeelaRogue                2000       -3         2287      
 59         likeawizard-bot           1987       21         751       
-60         Zagreus_Engine            1963       -4         1754      
+60         Zagreus_Engine            1967       -1         1755      
 61         BLANK_BOT                 1945       -7         1610      
 62         LazyBotJr                 1936       -40        1268      
 63         zeekat                    1926       -9         8489      
@@ -68,7 +68,7 @@ Rank       Bot                       Rating     Prog       Games
 67         Ptit-biscuit              1877       -9         117       
 68         NatesBot                  1859       6          261       
 69         notropis                  1849       -5         2317      
-70         Demolito_L6               1847       -9         527       
+70         Demolito_L6               1843       -18        528       
 71         Fisk_Bot                  1813       -19        224       
 72         FlounderBot               1809       -9         192       
 73         human_bot22               1802       163        73        
@@ -82,8 +82,8 @@ Rank       Bot                       Rating     Prog       Games
 81         ChessChildren             1734       -21        4431      
 82         melsh_bot                 1720       2          264       
 83         dlvc-bot                  1717       -29        84        
-84         maia9                     1703       -13        84864     
-85         maia5                     1682       3          101918    
+84         maia9                     1712       1          84865     
+85         maia5                     1684       7          101920    
 86         turkjs                    1650       -7         5063      
 87         HardRok                   1634       -5         648       
 88         yeoldwiz                  1623       -20        643       
@@ -93,7 +93,7 @@ Rank       Bot                       Rating     Prog       Games
 92         TuroBot                   1558       12         3344      
 93         dragobot                  1557       12         65        
 94         DavidsGuterBot            1527       12         624       
-95         maia1                     1525       16         232182    
+95         maia1                     1520       13         232183    
 96         turochamp-2ply            1504       1          1088      
 97         RoundMoundOfRebounds      1444       -8         351       
 98         Humaia                    1402       -17        2253      
