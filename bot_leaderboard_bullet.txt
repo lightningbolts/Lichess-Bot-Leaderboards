@@ -3,12 +3,12 @@ Rank       Bot                       Rating     Prog       Games
 2          Mate-AI                   2946       10         12006     
 3          ProteusSF-Godot           2929       1          2064      
 4          ReinforcementTrial        2920       5          634       
-5          ToromBot                  2917       -5         61750     
-6          FireFishBOT               2915       0          1635      
+5          FireFishBOT               2915       0          1635      
+6          ToromBot                  2912       -10        61751     
 7          ResoluteBot               2910       7          25738     
-8          FireFishBOT_v2            2902       2          762       
+8          FireFishBOT_v2            2902       1          763       
 9          YoBot_v2                  2902       4          17950     
-10         RaspFish                  2899       -4         52201     
+10         RaspFish                  2899       2          52202     
 11         HansNiemannBot            2871       4          4191      
 12         Mr_Chess_Berserk          2864       -2         382       
 13         Shineshou90_BOT           2856       -10        8682      
@@ -21,7 +21,7 @@ Rank       Bot                       Rating     Prog       Games
 20         FlamingDragon_9000        2524       -5         10619     
 21         AKS-Mantissa              2493       11         10796     
 22         Elmichess                 2480       -11        3222      
-23         bot_adario                2467       -9         2631      
+23         bot_adario                2472       -3         2632      
 24         pawn_git                  2439       -10        4192      
 25         Wahoo_Bot                 2439       22         686       
 26         SaxtonEngine              2429       -1         4251      
@@ -46,9 +46,9 @@ Rank       Bot                       Rating     Prog       Games
 45         matmoi                    2144       7          2238      
 46         GarboBot                  2142       2          9660      
 47         eubos                     2140       -9         12926     
-48         likeawizard-bot           2112       40         1349      
-49         jangine                   2104       -5         3122      
-50         MaxtheDog                 2103       -21        14524     
+48         MaxtheDog                 2109       -12        14525     
+49         likeawizard-bot           2106       37         1350      
+50         jangine                   2104       -5         3122      
 51         Humaia-Strong             2102       85         1312      
 52         Lynx_BOT                  2084       -13        6663      
 53         myopic-bot                2083       -3         1945      
@@ -64,7 +64,7 @@ Rank       Bot                       Rating     Prog       Games
 63         zeekat                    1908       6          18880     
 64         Demolito_L6               1898       -9         534       
 65         NatesBot                  1887       5          206       
-66         FlounderBot               1851       0          4174      
+66         FlounderBot               1854       5          4175      
 67         Karl-bot                  1850       0          1677      
 68         notropis                  1832       29         3946      
 69         honzovy-sachy             1800       9          4986      
@@ -81,7 +81,7 @@ Rank       Bot                       Rating     Prog       Games
 80         melsh_bot                 1700       3          4301      
 81         rudim-bot                 1680       10         155       
 82         dlvc-bot                  1671       -3         184       
-83         maia1                     1661       -29        124059    
+83         maia1                     1658       -35        124060    
 84         turkjs                    1653       2          19272     
 85         ChessChildren             1650       -22        15426     
 86         DavidsGuterBot            1606       3          6234      
