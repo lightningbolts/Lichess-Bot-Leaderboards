@@ -1,5 +1,5 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ReinforcementTrial        2879       13         1524      
+1          ReinforcementTrial        2878       8          1525      
 2          ToromBot                  2878       -2         3173      
 3          ResoluteBot               2874       4          11306     
 4          FireFishBOT_v2            2873       7          3513      
@@ -10,7 +10,7 @@ Rank       Bot                       Rating     Prog       Games
 9          Mr_Chess_Berserk          2827       -1         180       
 10         Shineshou90_BOT           2821       -5         1962      
 11         chessfyBOT                2819       -12        180       
-12         HansNiemannBot            2814       12         2551      
+12         HansNiemannBot            2815       12         2552      
 13         RaspFish                  2803       4          11286     
 14         faith_bot                 2792       4          716       
 15         Nikitosik-ai              2781       11         313       
@@ -46,8 +46,8 @@ Rank       Bot                       Rating     Prog       Games
 45         redtail-zero              2001       -11        468       
 46         Humaia-Strong             1993       12         2369      
 47         myopic-bot                1992       -12        1958      
-48         Zagreus_Engine            1984       11         4093      
-49         Nc3Nc6Bot                 1971       -22        1507      
+48         Zagreus_Engine            1989       10         4094      
+49         Nc3Nc6Bot                 1966       -27        1508      
 50         LeelaRogue                1964       28         2359      
 51         LeaMoreau                 1961       -24        548       
 52         BLANK_BOT                 1959       -12        4793      
@@ -75,9 +75,9 @@ Rank       Bot                       Rating     Prog       Games
 74         QueensGamBOT              1651       -33        3020      
 75         GuineaBot3                1617       11         92        
 76         ChessChildren             1615       -13        21308     
-77         maia9                     1598       -10        101384    
+77         maia9                     1596       -13        101386    
 78         yeoldwiz                  1573       -24        1655      
-79         maia5                     1542       0          101783    
+79         maia5                     1555       2          101785    
 80         turkjs                    1527       -11        10241     
 81         sargon-4ply               1496       -16        1998      
 82         sargon-3ply               1492       -10        1907      
