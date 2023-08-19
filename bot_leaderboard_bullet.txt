@@ -1,13 +1,13 @@
 Rank       Bot                       Rating     Prog       Games     
 1          Mate-AI                   2939       6          12002     
 2          ProteusSF-Godot           2929       1          2064      
-3          ToromBot                  2922       1          61730     
+3          ToromBot                  2922       1          61731     
 4          ReinforcementTrial        2921       5          633       
 5          FireFishBOT               2917       1          1628      
 6          ResoluteBot               2910       7          25738     
 7          FireFishBOT_v2            2902       2          762       
-8          RaspFish                  2902       6          52187     
-9          YoBot_v2                  2902       3          17949     
+8          YoBot_v2                  2902       3          17949     
+9          RaspFish                  2897       -3         52192     
 10         HansNiemannBot            2870       2          4190      
 11         Mr_Chess_Berserk          2863       -1         380       
 12         Shineshou90_BOT           2856       -10        8682      
@@ -37,8 +37,8 @@ Rank       Bot                       Rating     Prog       Games
 36         fornax-engine             2321       -22        6959      
 37         Pseudo-0                  2316       -11        3940      
 38         SimplerEval               2292       29         2598      
-39         WasterNew                 2271       8          319       
-40         halcyonbot                2263       20         5502      
+39         halcyonbot                2269       23         5503      
+40         WasterNew                 2265       3          320       
 41         HistoryExplorer           2240       25         2574      
 42         honzovy-sachy-2           2177       15         7145      
 43         matmoi                    2146       -2         2233      
@@ -79,7 +79,7 @@ Rank       Bot                       Rating     Prog       Games
 78         Humaia                    1717       37         411       
 79         melsh_bot                 1696       -3         4300      
 80         rudim-bot                 1680       10         155       
-81         maia1                     1674       -2         124053    
+81         maia1                     1676       1          124054    
 82         dlvc-bot                  1671       -3         184       
 83         turkjs                    1653       2          19272     
 84         ChessChildren             1650       -22        15426     
