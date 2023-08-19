@@ -8,9 +8,9 @@ Rank       Bot                       Rating     Prog       Games
 7          FireFishBOT_v2            2902       2          762       
 8          YoBot_v2                  2902       3          17948     
 9          RaspFish                  2901       10         52184     
-10         HansNiemannBot            2871       3          4189      
+10         HansNiemannBot            2870       2          4190      
 11         Mr_Chess_Berserk          2861       -1         377       
-12         Shineshou90_BOT           2855       -12        8681      
+12         Shineshou90_BOT           2856       -10        8682      
 13         tt-challenge              2840       -2         107       
 14         Nikitosik-ai              2825       -8         2750      
 15         blundar_bot               2817       6          6460      
@@ -57,8 +57,8 @@ Rank       Bot                       Rating     Prog       Games
 56         Nc3Nc6Bot                 1995       -16        1198      
 57         Zagreus_Engine            1976       -11        3082      
 58         human_bot22               1972       19         343       
-59         Trollfish-Bot             1966       12         4130      
-60         BLANK_BOT                 1964       32         7489      
+59         BLANK_BOT                 1967       31         7490      
+60         Trollfish-Bot             1966       12         4130      
 61         Demolito_L6               1905       -7         533       
 62         zeekat                    1895       -3         18876     
 63         NatesBot                  1887       5          206       
@@ -69,8 +69,8 @@ Rank       Bot                       Rating     Prog       Games
 68         Ramses-Chess              1785       26         172       
 69         Virutor                   1776       6          6781      
 70         The_Marcus                1769       3          1072      
-71         sun_bird                  1762       -11        28        
-72         piglet_engine             1755       -8         593       
+71         piglet_engine             1755       -8         593       
+72         sun_bird                  1748       -36        29        
 73         HardRok                   1743       -21        744       
 74         Demolito_L5               1741       -7         940       
 75         Fisk_Bot                  1740       10         225       
@@ -84,12 +84,12 @@ Rank       Bot                       Rating     Prog       Games
 83         ChessChildren             1650       -22        15426     
 84         maia9                     1614       1          61014     
 85         DavidsGuterBot            1606       3          6234      
-86         maia5                     1585       -14        39403     
-87         ZE_ROOK                   1585       34         1924      
+86         ZE_ROOK                   1585       34         1924      
+87         maia5                     1581       -19        39404     
 88         sargon-3ply               1580       7          1333      
 89         turochamp-2ply            1572       7          1569      
 90         sargon-4ply               1568       -7         1707      
-91         RoundMoundOfRebounds      1558       13         1378      
+91         RoundMoundOfRebounds      1566       17         1379      
 92         monchester                1537       -2         2491      
 93         turochamp-1ply            1508       23         2019      
 94         sargon-2ply               1485       15         2351      
@@ -100,6 +100,6 @@ Rank       Bot                       Rating     Prog       Games
 99         dragobot                  1373       -110       59        
 100        czesc-bot                 1346       -193       227       
 101        StupidChessRobot          1341       -8         666       
-102        pawnrobot                 1297       26         3903      
+102        pawnrobot                 1318       50         3905      
 103        knucklefish               1276       20         2787      
 104        grandQ_AI                 831        -8         837       
