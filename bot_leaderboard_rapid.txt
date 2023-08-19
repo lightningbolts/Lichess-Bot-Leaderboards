@@ -35,7 +35,7 @@ Rank       Bot                       Rating     Prog       Games
 34         Rinestro                  2337       37         50        
 35         FlamingDragon_9000        2309       -12        1216      
 36         simpleEval                2307       -7         7625      
-37         SimplerEval               2249       -4         1845      
+37         SimplerEval               2257       -7         1846      
 38         WasterNew                 2245       1          104       
 39         halcyonbot                2211       1          6351      
 40         eubos                     2193       12         4275      
@@ -43,7 +43,7 @@ Rank       Bot                       Rating     Prog       Games
 42         honzovy-sachy-2           2183       -4         3590      
 43         Elmichess                 2166       12         1417      
 44         HistoryExplorer           2164       4          1038      
-45         matmoi                    2130       1          1491      
+45         matmoi                    2127       -9         1492      
 46         Lynx_BOT                  2122       3          39863     
 47         GarboBot                  2108       -8         6050      
 48         redtail-zero              2102       25         322       
@@ -80,7 +80,7 @@ Rank       Bot                       Rating     Prog       Games
 79         ChessChildren             1738       -14        4433      
 80         dlvc-bot                  1727       -30        85        
 81         melsh_bot                 1722       8          265       
-82         maia9                     1718       -18        84898     
+82         maia9                     1704       -23        84902     
 83         maia5                     1685       12         101967    
 84         turkjs                    1655       -13        5066      
 85         HardRok                   1635       3          649       
@@ -101,6 +101,4 @@ Rank       Bot                       Rating     Prog       Games
 100        pawnrobot                 1252       6          681       
 101        sargon-1ply               1216       -11        8499      
 102        OhniBOT                   1162       7          514       
-103        kireevi                   1117       -1         566       
-104        grandQ_AI                 747        6          1612      
-105        G0thamB0t                 736        -15        346       
+103        grandQ_AI                 747        6          1612      
