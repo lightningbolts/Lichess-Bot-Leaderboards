@@ -1,5 +1,5 @@
 Rank       Bot                       Rating     Prog       Games     
-1          VariantsTop               2998       5          1545      
+1          VariantsTop               2995       -1         1546      
 2          Mate-AI                   2936       1          11995     
 3          ProteusSF-Godot           2929       1          2064      
 4          ReinforcementTrial        2921       5          628       
@@ -10,7 +10,7 @@ Rank       Bot                       Rating     Prog       Games
 9          RaspFish                  2899       4          52178     
 10         HansNiemannBot            2868       -1         4185      
 11         Shineshou90_BOT           2861       -12        8677      
-12         Mr_Chess_Berserk          2858       -8         374       
+12         Mr_Chess_Berserk          2860       -2         375       
 13         Nikitosik-ai              2825       -8         2750      
 14         blundar_bot               2814       4          6459      
 15         chessfyBOT                2788       -8         1404      
@@ -37,7 +37,7 @@ Rank       Bot                       Rating     Prog       Games
 36         Pseudo-0                  2325       4          3938      
 37         fornax-engine             2321       -22        6959      
 38         SimplerEval               2292       29         2598      
-39         halcyonbot                2258       13         5500      
+39         halcyonbot                2261       19         5501      
 40         WasterNew                 2257       -13        315       
 41         HistoryExplorer           2235       12         2572      
 42         Jussicas                  2181       35         117       
@@ -51,7 +51,7 @@ Rank       Bot                       Rating     Prog       Games
 50         Lynx_BOT                  2089       3          6659      
 51         myopic-bot                2086       -4         1943      
 52         redtail-zero              2077       20         636       
-53         likeawizard-bot           2072       82         1338      
+53         likeawizard-bot           2069       70         1339      
 54         LazyBotJr                 2033       -33        936       
 55         LeaMoreau                 2021       -20        726       
 56         Jobabot                   2009       6          741       
@@ -61,9 +61,9 @@ Rank       Bot                       Rating     Prog       Games
 60         human_bot22               1956       -16        331       
 61         BLANK_BOT                 1955       27         7487      
 62         Demolito_L6               1904       0          532       
-63         zeekat                    1903       9          18871     
+63         zeekat                    1902       6          18872     
 64         NatesBot                  1886       7          204       
-65         FlounderBot               1852       -1         4159      
+65         FlounderBot               1853       -2         4160      
 66         Ptit-biscuit              1849       -6         825       
 67         notropis                  1827       16         3944      
 68         QueensGamBOT              1798       -8         5170      
@@ -77,8 +77,8 @@ Rank       Bot                       Rating     Prog       Games
 76         baby_eubos                1718       4          5629      
 77         Humaia                    1717       37         411       
 78         melsh_bot                 1702       -2         4298      
-79         maia1                     1681       6          124052    
-80         rudim-bot                 1680       10         155       
+79         rudim-bot                 1680       10         155       
+80         maia1                     1674       -2         124053    
 81         dlvc-bot                  1671       -3         184       
 82         turkjs                    1653       2          19272     
 83         ChessChildren             1650       -22        15426     
