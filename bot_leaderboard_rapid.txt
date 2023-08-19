@@ -78,8 +78,8 @@ Rank       Bot                       Rating     Prog       Games
 77         ChessChildren             1742       -9         4432      
 78         dlvc-bot                  1727       -30        85        
 79         melsh_bot                 1720       2          264       
-80         maia9                     1705       -6         84873     
-81         maia5                     1685       -2         101932    
+80         maia9                     1712       5          84874     
+81         maia5                     1679       -9         101933    
 82         turkjs                    1648       -17        5064      
 83         HardRok                   1635       3          649       
 84         yeoldwiz                  1623       -20        643       
@@ -88,7 +88,7 @@ Rank       Bot                       Rating     Prog       Games
 87         ZE_ROOK                   1559       17         483       
 88         TuroBot                   1558       12         3344      
 89         dragobot                  1557       12         65        
-90         maia1                     1540       14         232215    
+90         maia1                     1555       32         232218    
 91         DavidsGuterBot            1533       14         627       
 92         turochamp-2ply            1504       1          1088      
 93         RoundMoundOfRebounds      1444       -8         351       
@@ -102,4 +102,3 @@ Rank       Bot                       Rating     Prog       Games
 101        OhniBOT                   1162       7          514       
 102        kireevi                   1117       -1         566       
 103        grandQ_AI                 747        6          1612      
-104        G0thamB0t                 736        -15        346       
