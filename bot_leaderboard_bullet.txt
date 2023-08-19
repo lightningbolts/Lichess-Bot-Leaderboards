@@ -4,7 +4,7 @@ Rank       Bot                       Rating     Prog       Games
 3          Mate-AI                   2924       0          11945     
 4          ReinforcementTrial        2916       1          586       
 5          LeelaMultiPoss            2915       7          591       
-6          ToromBot                  2915       3          61680     
+6          ToromBot                  2915       3          61681     
 7          ResoluteBot               2910       7          25738     
 8          FireFishBOT_v2            2899       2          745       
 9          YoBot_v2                  2899       6          17927     
@@ -22,7 +22,7 @@ Rank       Bot                       Rating     Prog       Games
 21         Elmichess                 2498       12         3218      
 22         AKS-Mantissa              2488       -4         10772     
 23         bot_adario                2473       -9         2624      
-24         pawn_git                  2451       18         4177      
+24         pawn_git                  2450       19         4178      
 25         SaxtonEngine              2434       6          4237      
 26         Cheng-4                   2422       -2         13685     
 27         Weiawaga                  2421       15         15445     
@@ -47,10 +47,10 @@ Rank       Bot                       Rating     Prog       Games
 46         redtail-zero              2075       17         631       
 47         LazyBotJr                 2033       -33        936       
 48         LeaMoreau                 2027       -13        717       
-49         Jobabot                   2012       -6         732       
+49         Jobabot                   2017       0          733       
 50         Nc3Nc6Bot                 1997       -20        1183      
-51         Zagreus_Engine            1980       8          3064      
-52         human_bot22               1974       -8         316       
+51         human_bot22               1974       -8         316       
+52         Zagreus_Engine            1974       -4         3065      
 53         likeawizard-bot           1962       -8         1309      
 54         Trollfish-Bot             1956       -2         4103      
 55         BLANK_BOT                 1936       -5         7479      
@@ -86,12 +86,12 @@ Rank       Bot                       Rating     Prog       Games
 85         monchester                1537       -2         2491      
 86         turochamp-1ply            1486       -8         1997      
 87         sargon-2ply               1470       13         2340      
-88         botTideEval               1462       -5         1746      
+88         botTideEval               1467       6          1747      
 89         yeoldwiz                  1450       18         791       
 90         sargon-1ply               1420       -19        4509      
 91         OhniBOT                   1419       90         501       
 92         dragobot                  1399       -30        58        
-93         czesc-bot                 1383       -236       222       
+93         czesc-bot                 1362       -244       223       
 94         StupidChessRobot          1342       -20        658       
 95         knucklefish               1276       20         2787      
 96         pawnrobot                 1267       -16        3891      
