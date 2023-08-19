@@ -7,7 +7,7 @@ Rank       Bot                       Rating     Prog       Games
 6          FireFishBOT_v2            2879       -1         650       
 7          Mate-AI                   2877       -1         2433      
 8          YoBot_v2                  2864       -3         13030     
-9          HansNiemannBot            2855       -12        2221      
+9          HansNiemannBot            2855       1          2222      
 10         BRAINLEARN11_NNUE         2854       5          544       
 11         ResoluteBot               2848       -4         5235      
 12         Shineshou90_BOT           2846       -4         2593      
@@ -44,7 +44,7 @@ Rank       Bot                       Rating     Prog       Games
 43         Elmichess                 2166       12         1417      
 44         HistoryExplorer           2163       3          1037      
 45         Lynx_BOT                  2122       1          39860     
-46         matmoi                    2121       -9         1485      
+46         matmoi                    2121       -15        1486      
 47         GarboBot                  2115       7          6046      
 48         redtail-zero              2102       25         322       
 49         kulubot                   2073       5          634       
@@ -65,9 +65,9 @@ Rank       Bot                       Rating     Prog       Games
 64         baby_eubos                1903       -4         952       
 65         Trollfish-Bot             1888       3          246       
 66         Ptit-biscuit              1877       -9         117       
-67         NatesBot                  1863       15         262       
-68         notropis                  1846       -5         2318      
-69         Demolito_L6               1843       -18        528       
+67         NatesBot                  1857       3          263       
+68         Demolito_L6               1849       -12        529       
+69         notropis                  1846       -5         2318      
 70         Fisk_Bot                  1813       -19        224       
 71         FlounderBot               1809       -9         192       
 72         human_bot22               1802       163        73        
@@ -81,7 +81,7 @@ Rank       Bot                       Rating     Prog       Games
 80         ChessChildren             1734       -21        4431      
 81         dlvc-bot                  1727       -30        85        
 82         melsh_bot                 1720       2          264       
-83         maia9                     1705       -3         84871     
+83         maia9                     1698       -18        84872     
 84         maia5                     1682       1          101927    
 85         turkjs                    1650       -7         5063      
 86         HardRok                   1634       -5         648       
@@ -92,7 +92,7 @@ Rank       Bot                       Rating     Prog       Games
 91         TuroBot                   1558       12         3344      
 92         dragobot                  1557       12         65        
 93         DavidsGuterBot            1527       12         624       
-94         maia1                     1519       4          232202    
+94         maia1                     1523       11         232203    
 95         turochamp-2ply            1504       1          1088      
 96         RoundMoundOfRebounds      1444       -8         351       
 97         Humaia                    1402       -17        2253      
@@ -103,5 +103,6 @@ Rank       Bot                       Rating     Prog       Games
 102        pawnrobot                 1252       6          681       
 103        sargon-1ply               1217       -12        8498      
 104        OhniBOT                   1162       7          514       
-105        grandQ_AI                 747        6          1612      
-106        G0thamB0t                 736        -15        346       
+105        kireevi                   1117       -1         566       
+106        grandQ_AI                 747        6          1612      
+107        G0thamB0t                 736        -15        346       
