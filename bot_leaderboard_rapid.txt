@@ -23,12 +23,12 @@ Rank       Bot                       Rating     Prog       Games
 22         Cheng-4                   2541       19         3182      
 23         SaxtonEngine              2539       -9         1405      
 24         bot_adario                2531       4          1365      
-25         Weiawaga                  2512       -8         9962      
+25         Weiawaga                  2516       -2         9963      
 26         OpeningsBot               2444       14         302       
 27         Pseudo-0                  2381       3          1130      
-28         Phalanx-XXV               2375       -8         926       
-29         TuksuBot                  2372       -10        2041      
-30         odonata-bot               2371       -10        3751      
+28         TuksuBot                  2372       -10        2041      
+29         odonata-bot               2371       -10        3751      
+30         Phalanx-XXV               2371       -10        927       
 31         admete_bot                2363       -17        4172      
 32         fornax-engine             2355       -4         3694      
 33         Rinestro                  2337       50         49        
@@ -79,7 +79,7 @@ Rank       Bot                       Rating     Prog       Games
 78         maia9                     1734       36         84883     
 79         dlvc-bot                  1727       -30        85        
 80         melsh_bot                 1722       8          265       
-81         maia5                     1673       4          101949    
+81         maia5                     1680       0          101950    
 82         turkjs                    1655       -13        5066      
 83         HardRok                   1635       3          649       
 84         yeoldwiz                  1623       -20        643       
@@ -87,8 +87,8 @@ Rank       Bot                       Rating     Prog       Games
 86         sargon-3ply               1575       8          1191      
 87         ZE_ROOK                   1559       17         483       
 88         TuroBot                   1558       12         3344      
-89         dragobot                  1554       11         66        
-90         maia1                     1551       -12        232257    
+89         maia1                     1557       -9         232258    
+90         dragobot                  1554       11         66        
 91         DavidsGuterBot            1533       14         627       
 92         turochamp-2ply            1504       1          1088      
 93         RoundMoundOfRebounds      1444       -8         351       
@@ -100,6 +100,5 @@ Rank       Bot                       Rating     Prog       Games
 99         pawnrobot                 1252       6          681       
 100        sargon-1ply               1216       -11        8499      
 101        OhniBOT                   1162       7          514       
-102        kireevi                   1117       -1         566       
-103        grandQ_AI                 747        6          1612      
-104        G0thamB0t                 736        -15        346       
+102        grandQ_AI                 747        6          1612      
+103        G0thamB0t                 736        -15        346       
