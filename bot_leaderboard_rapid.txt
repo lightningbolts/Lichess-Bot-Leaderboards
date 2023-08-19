@@ -5,7 +5,7 @@ Rank       Bot                       Rating     Prog       Games
 4          ReinforcementTrial        2885       0          5195      
 5          RaspFish                  2881       14         5525      
 6          FireFishBOT_v2            2879       -1         650       
-7          Mate-AI                   2877       -1         2433      
+7          Mate-AI                   2877       0          2434      
 8          YoBot_v2                  2864       -3         13030     
 9          HansNiemannBot            2855       -1         2223      
 10         BRAINLEARN11_NNUE         2854       5          544       
@@ -102,5 +102,6 @@ Rank       Bot                       Rating     Prog       Games
 101        pawnrobot                 1252       6          681       
 102        sargon-1ply               1217       -12        8498      
 103        OhniBOT                   1162       7          514       
-104        grandQ_AI                 747        6          1612      
-105        G0thamB0t                 736        -15        346       
+104        kireevi                   1117       -1         566       
+105        grandQ_AI                 747        6          1612      
+106        G0thamB0t                 736        -15        346       
