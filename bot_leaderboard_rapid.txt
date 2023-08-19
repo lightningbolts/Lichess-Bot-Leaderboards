@@ -3,7 +3,7 @@ Rank       Bot                       Rating     Prog       Games
 2          ProteusSF-Godot           2890       1          150       
 3          ReinforcementTrial        2886       6          5194      
 4          FireFishBOT               2885       2          912       
-5          caissa-x                  2884       -2         3037      
+5          caissa-x                  2884       -1         3038      
 6          RaspFish                  2881       14         5525      
 7          FireFishBOT_v2            2879       -1         650       
 8          Mate-AI                   2877       -2         2432      
@@ -44,8 +44,8 @@ Rank       Bot                       Rating     Prog       Games
 43         HistoryExplorer           2168       13         1036      
 44         Elmichess                 2166       12         1417      
 45         matmoi                    2136       27         1481      
-46         GarboBot                  2115       7          6046      
-47         Lynx_BOT                  2115       -9         39856     
+46         Lynx_BOT                  2117       2          39857     
+47         GarboBot                  2115       7          6046      
 48         redtail-zero              2106       32         321       
 49         kulubot                   2073       -8         632       
 50         jangine                   2056       -14        1728      
@@ -62,11 +62,11 @@ Rank       Bot                       Rating     Prog       Games
 61         LazyBotJr                 1936       -40        1268      
 62         zeekat                    1923       -13        8488      
 63         baby_eubos                1903       -4         952       
-64         Nc3Nc6Bot                 1898       10         1712      
+64         Nc3Nc6Bot                 1898       11         1713      
 65         Trollfish-Bot             1888       3          246       
 66         Ptit-biscuit              1877       -9         117       
 67         NatesBot                  1858       -3         259       
-68         Demolito_L6               1856       -1         525       
+68         Demolito_L6               1854       -9         526       
 69         notropis                  1849       -5         2317      
 70         Fisk_Bot                  1813       -19        224       
 71         FlounderBot               1809       -9         192       
@@ -81,7 +81,7 @@ Rank       Bot                       Rating     Prog       Games
 80         ChessChildren             1734       -21        4431      
 81         melsh_bot                 1720       2          264       
 82         dlvc-bot                  1717       -29        84        
-83         maia9                     1709       0          84858     
+83         maia9                     1712       -4         84859     
 84         beast_engine              1682       13         58        
 85         maia5                     1675       27         101905    
 86         turkjs                    1650       -7         5063      
@@ -93,7 +93,7 @@ Rank       Bot                       Rating     Prog       Games
 92         dragobot                  1557       12         65        
 93         DavidsGuterBot            1527       12         624       
 94         turochamp-2ply            1504       1          1088      
-95         maia1                     1499       12         232142    
+95         maia1                     1493       -1         232147    
 96         RoundMoundOfRebounds      1444       -8         351       
 97         StupidChessRobot          1403       57         49        
 98         Humaia                    1402       -17        2253      
@@ -103,5 +103,6 @@ Rank       Bot                       Rating     Prog       Games
 102        pawnrobot                 1252       6          681       
 103        sargon-1ply               1217       -12        8498      
 104        OhniBOT                   1162       7          514       
-105        grandQ_AI                 750        8          1611      
-106        G0thamB0t                 736        -15        346       
+105        kireevi                   1117       -1         566       
+106        grandQ_AI                 750        8          1611      
+107        G0thamB0t                 736        -15        346       
