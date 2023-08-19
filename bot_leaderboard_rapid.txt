@@ -42,7 +42,7 @@ Rank       Bot                       Rating     Prog       Games
 41         honzovy-sachy-2           2188       -2         3591      
 42         Boris-Trapsky             2187       -7         27550     
 43         Elmichess                 2166       12         1417      
-44         matmoi                    2127       3          1494      
+44         matmoi                    2120       -6         1495      
 45         Lynx_BOT                  2115       -4         39866     
 46         GarboBot                  2108       -8         6050      
 47         redtail-zero              2102       25         322       
@@ -51,15 +51,15 @@ Rank       Bot                       Rating     Prog       Games
 50         AjedrezChamberi           2053       14         124       
 51         Humaia-Strong             2052       -31        610       
 52         MaxtheDog                 2042       26         684       
-53         LeelaRogue                2020       23         2309      
-54         Jobabot                   2019       -11        193       
-55         likeawizard-bot           2006       27         759       
+53         Jobabot                   2026       -3         194       
+54         LeelaRogue                2020       23         2309      
+55         likeawizard-bot           2005       30         760       
 56         myopic-bot                1994       -10        391       
 57         Zagreus_Engine            1978       7          1761      
 58         BLANK_BOT                 1948       -4         1611      
 59         LazyBotJr                 1936       -40        1268      
 60         Nc3Nc6Bot                 1922       10         1726      
-61         zeekat                    1919       -10        8495      
+61         zeekat                    1921       -6         8496      
 62         baby_eubos                1911       -1         954       
 63         Trollfish-Bot             1882       -4         247       
 64         NatesBot                  1858       5          267       
@@ -99,5 +99,4 @@ Rank       Bot                       Rating     Prog       Games
 98         pawnrobot                 1252       6          681       
 99         sargon-1ply               1216       -11        8499      
 100        OhniBOT                   1162       7          514       
-101        kireevi                   1117       -1         566       
-102        grandQ_AI                 747        6          1612      
+101        grandQ_AI                 747        6          1612      
