@@ -1,8 +1,8 @@
 Rank       Bot                       Rating     Prog       Games     
-1          FireFishBOT               2941       3          1409      
+1          FireFishBOT               2941       3          1410      
 2          Mate-AI                   2925       -6         11927     
-3          ToromBot                  2922       -6         61620     
-4          ProteusSF-Godot           2920       4          2001      
+3          ToromBot                  2922       -6         61621     
+4          ProteusSF-Godot           2920       4          2002      
 5          ReinforcementTrial        2915       1          576       
 6          ResoluteBot               2910       7          25738     
 7          YoBot_v2                  2899       6          17924     
@@ -22,7 +22,7 @@ Rank       Bot                       Rating     Prog       Games
 21         FlamingDragon_9000        2524       -5         10619     
 22         Elmichess                 2498       12         3218      
 23         AKS-Mantissa              2489       -4         10771     
-24         bot_adario                2475       -10        2621      
+24         bot_adario                2475       -9         2622      
 25         pawn_git                  2446       18         4175      
 26         SaxtonEngine              2430       3          4232      
 27         Cheng-4                   2421       -7         13683     
@@ -35,12 +35,12 @@ Rank       Bot                       Rating     Prog       Games
 34         TuksuBot                  2342       -1         6895      
 35         Phalanx-XXV               2339       5          4289      
 36         simpleEval                2328       -7         25163     
-37         Pseudo-0                  2313       -2         3933      
+37         Pseudo-0                  2314       -5         3934      
 38         halcyonbot                2244       -16        5488      
 39         HistoryExplorer           2217       0          2566      
-40         honzovy-sachy-2           2170       32         7130      
-41         eubos                     2149       1          12913     
-42         matmoi                    2144       14         2192      
+40         honzovy-sachy-2           2164       21         7131      
+41         matmoi                    2150       15         2193      
+42         eubos                     2149       1          12913     
 43         GarboBot                  2130       -13        9651      
 44         jangine                   2102       -10        3114      
 45         Humaia-Strong             2101       87         1311      
@@ -56,7 +56,7 @@ Rank       Bot                       Rating     Prog       Games
 55         likeawizard-bot           1970       -1         1298      
 56         Trollfish-Bot             1962       21         4096      
 57         BLANK_BOT                 1932       -15        7478      
-58         zeekat                    1918       -2         18847     
+58         zeekat                    1916       -10        18848     
 59         Demolito_L6               1903       12         520       
 60         FlounderBot               1881       8          4105      
 61         NatesBot                  1880       -1         197       
@@ -80,8 +80,8 @@ Rank       Bot                       Rating     Prog       Games
 79         ChessChildren             1661       -6         15421     
 80         turkjs                    1654       -3         19267     
 81         maia9                     1616       12         61004     
-82         maia5                     1606       -14        39381     
-83         DavidsGuterBot            1603       6          6227      
+82         DavidsGuterBot            1603       6          6227      
+83         maia5                     1596       -27        39382     
 84         sargon-4ply               1574       -3         1703      
 85         turochamp-2ply            1570       -4         1560      
 86         sargon-3ply               1568       -16        1328      
