@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
-1          Mate-AI                   2949       -3         12099     
-2          ProteusSF-Godot           2939       2          2101      
-3          BRAINLEARN11_NNUE         2935       7          5396      
+1          Mate-AI                   2949       -2         12100     
+2          ProteusSF-Godot           2940       2          2102      
+3          BRAINLEARN11_NNUE         2936       6          5397      
 4          ReinforcementTrial        2918       0          695       
 5          ProteusSF-Aureo           2915       0          150       
 6          FireFishBOT               2909       -11        1817      
@@ -16,9 +16,9 @@ Rank       Bot                       Rating     Prog       Games
 15         chessfyBOT                2788       -8         1404      
 16         blundar_bot               2775       7          6605      
 17         LazyBot                   2701       -13        1408      
-18         FrozenightEngine          2567       23         8760      
+18         FrozenightEngine          2561       12         8761      
 19         FlamingDragon_9000        2524       -5         10619     
-20         expositor                 2507       -2         19724     
+20         expositor                 2506       -1         19725     
 21         AKS-Mantissa              2501       2          10821     
 22         Elmichess                 2458       -35        3224      
 23         bot_adario                2455       -4         2652      
@@ -63,7 +63,7 @@ Rank       Bot                       Rating     Prog       Games
 62         Demolito_L6               1932       34         545       
 63         zeekat                    1900       16         18915     
 64         NatesBot                  1899       0          219       
-65         FlounderBot               1835       0          4225      
+65         FlounderBot               1838       0          4226      
 66         notropis                  1831       4          3955      
 67         QueensGamBOT              1810       8          5184      
 68         honzovy-sachy             1795       5          4995      
@@ -83,8 +83,8 @@ Rank       Bot                       Rating     Prog       Games
 82         ChessChildren             1660       -4         15435     
 83         turkjs                    1644       -6         19282     
 84         maia1                     1609       5          124116    
-85         TuroBot                   1604       -36        2562      
-86         maia9                     1603       2          61032     
+85         maia9                     1603       2          61032     
+86         TuroBot                   1602       -36        2563      
 87         DavidsGuterBot            1592       -18        6244      
 88         maia5                     1586       -6         39411     
 89         RoundMoundOfRebounds      1586       20         1390      
@@ -105,4 +105,6 @@ Rank       Bot                       Rating     Prog       Games
 104        StupidChessRobot          1341       6          679       
 105        pawnrobot                 1337       40         3914      
 106        BerserkRandomMover        971        -4         403       
-107        grandQ_AI                 831        -8         837       
+107        StupidChess_Random        965        -3         2003      
+108        StupidChess_Sprinter      901        -28        1442      
+109        grandQ_AI                 831        -8         837       
