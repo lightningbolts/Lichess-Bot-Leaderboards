@@ -1,14 +1,14 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ToromBot                  2900       5          1857      
-2          FireFishBOT               2890       10         914       
-3          ProteusSF-Godot           2890       1          150       
+2          ProteusSF-Godot           2890       1          150       
+3          FireFishBOT               2889       3          915       
 4          ReinforcementTrial        2885       -1         5197      
 5          FireFishBOT_v2            2879       -1         650       
 6          RaspFish                  2879       8          5528      
 7          Mate-AI                   2877       0          2436      
 8          HansNiemannBot            2865       5          2242      
 9          YoBot_v2                  2863       -3         13033     
-10         ArasanX                   2854       3          5488      
+10         ArasanX                   2854       1          5489      
 11         ResoluteBot               2848       -4         5235      
 12         Shineshou90_BOT           2847       1          2596      
 13         chessfyBOT                2845       -7         228       
@@ -82,8 +82,8 @@ Rank       Bot                       Rating     Prog       Games
 81         ChessChildren             1738       -14        4437      
 82         dlvc-bot                  1727       -30        85        
 83         melsh_bot                 1714       4          267       
-84         maia9                     1678       21         84953     
-85         beast_engine              1664       -10        67        
+84         maia9                     1670       5          84954     
+85         beast_engine              1667       -11        68        
 86         simplexitor               1658       6          474       
 87         turkjs                    1658       2          5072      
 88         maia5                     1653       -11        102018    
@@ -96,7 +96,7 @@ Rank       Bot                       Rating     Prog       Games
 95         maia1                     1528       13         232392    
 96         turochamp-2ply            1504       1          1088      
 97         Flawed_Formula            1463       9          43        
-98         RoundMoundOfRebounds      1444       -8         351       
+98         RoundMoundOfRebounds      1439       -8         352       
 99         Humaia                    1399       -21        2256      
 100        StupidChessRobot          1396       57         50        
 101        sargon-2ply               1392       -17        3335      
