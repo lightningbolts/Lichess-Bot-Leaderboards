@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
-1          Mate-AI                   2949       -4         12094     
-2          ProteusSF-Godot           2939       3          2096      
+1          Mate-AI                   2949       -3         12096     
+2          ProteusSF-Godot           2939       3          2098      
 3          BRAINLEARN11_NNUE         2937       9          5395      
 4          ReinforcementTrial        2918       0          695       
 5          ProteusSF-Aureo           2915       0          150       
@@ -36,12 +36,12 @@ Rank       Bot                       Rating     Prog       Games
 35         Phalanx-XXV               2328       -16        4304      
 36         fornax-engine             2318       -21        6961      
 37         Pseudo-0                  2308       -17        3949      
-38         SimplerEval               2270       1          2602      
-39         WasterNew                 2267       5          327       
+38         WasterNew                 2267       5          327       
+39         SimplerEval               2258       -15        2603      
 40         halcyonbot                2240       -22        5520      
 41         HistoryExplorer           2231       2          2580      
-42         GarboBot                  2180       27         9673      
-43         matmoi                    2174       4          2266      
+42         matmoi                    2181       8          2267      
+43         GarboBot                  2180       27         9673      
 44         honzovy-sachy-2           2163       -16        7153      
 45         MaxtheDog                 2147       0          14568     
 46         eubos                     2140       -9         12926     
@@ -82,8 +82,8 @@ Rank       Bot                       Rating     Prog       Games
 81         dlvc-bot                  1671       -3         184       
 82         ChessChildren             1660       -4         15435     
 83         turkjs                    1644       -6         19282     
-84         TuroBot                   1607       -36        2561      
-85         maia1                     1606       -8         124115    
+84         maia1                     1606       -8         124115    
+85         TuroBot                   1604       -36        2562      
 86         maia9                     1603       2          61032     
 87         DavidsGuterBot            1592       -18        6244      
 88         maia5                     1586       -6         39411     
@@ -96,7 +96,7 @@ Rank       Bot                       Rating     Prog       Games
 95         turochamp-1ply            1499       5          2035      
 96         sargon-2ply               1498       30         2377      
 97         yeoldwiz                  1450       18         791       
-98         botTideEval               1444       -7         1874      
+98         botTideEval               1447       -7         1875      
 99         OhniBOT                   1419       90         501       
 100        sargon-1ply               1408       4          4539      
 101        dragobot                  1373       -110       59        
