@@ -8,7 +8,7 @@ Rank       Bot                       Rating     Prog       Games
 7          Mate-AI                   2877       0          2434      
 8          YoBot_v2                  2863       -4         13031     
 9          HansNiemannBot            2861       3          2237      
-10         ArasanX                   2853       1          5478      
+10         ArasanX                   2853       2          5479      
 11         Shineshou90_BOT           2850       -2         2595      
 12         ResoluteBot               2848       -4         5235      
 13         chessfyBOT                2845       -7         228       
@@ -27,7 +27,7 @@ Rank       Bot                       Rating     Prog       Games
 26         bot_adario                2531       4          1365      
 27         Weiawaga                  2510       -8         9968      
 28         OpeningsBot               2458       27         305       
-29         Pseudo-0                  2381       3          1130      
+29         Pseudo-0                  2381       4          1131      
 30         Phalanx-XXV               2372       -5         930       
 31         TuksuBot                  2372       -10        2041      
 32         odonata-bot               2371       -10        3751      
@@ -51,14 +51,14 @@ Rank       Bot                       Rating     Prog       Games
 50         Humaia-Strong             2052       -31        610       
 51         MaxtheDog                 2049       30         685       
 52         Jobabot                   2029       4          195       
-53         LeelaRogue                2019       -8         2319      
+53         LeelaRogue                2012       -8         2320      
 54         likeawizard-bot           2010       17         765       
 55         myopic-bot                1989       -11        392       
 56         Zagreus_Engine            1988       17         1764      
 57         BLANK_BOT                 1948       -4         1611      
 58         LazyBotJr                 1936       -40        1268      
-59         Nc3Nc6Bot                 1927       12         1728      
-60         zeekat                    1922       -4         8497      
+59         zeekat                    1928       2          8498      
+60         Nc3Nc6Bot                 1927       12         1728      
 61         baby_eubos                1916       5          955       
 62         Trollfish-Bot             1884       2          248       
 63         notropis                  1865       16         2325      
@@ -77,8 +77,8 @@ Rank       Bot                       Rating     Prog       Games
 76         ChessChildren             1734       -24        4435      
 77         dlvc-bot                  1727       -30        85        
 78         melsh_bot                 1720       7          266       
-79         maia9                     1671       -20        84919     
-80         maia5                     1654       -8         101992    
+79         maia9                     1668       -19        84920     
+80         maia5                     1662       15         101994    
 81         turkjs                    1652       -15        5067      
 82         HardRok                   1636       11         651       
 83         simplexitor               1628       -23        471       
@@ -87,8 +87,8 @@ Rank       Bot                       Rating     Prog       Games
 86         sargon-3ply               1575       8          1191      
 87         ZE_ROOK                   1558       17         484       
 88         dragobot                  1549       -8         67        
-89         maia1                     1536       -18        232298    
-90         DavidsGuterBot            1533       14         627       
+89         DavidsGuterBot            1533       14         627       
+90         maia1                     1532       -29        232299    
 91         turochamp-2ply            1504       1          1088      
 92         RoundMoundOfRebounds      1444       -8         351       
 93         Humaia                    1397       -18        2254      
