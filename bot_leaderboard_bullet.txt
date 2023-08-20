@@ -8,8 +8,8 @@ Rank       Bot                       Rating     Prog       Games
 7          FireFishBOT               2910       -1         1845      
 8          FireFishBOT_v2            2904       2          814       
 9          YoBot_v2                  2902       -1         17983     
-10         HansNiemannBot            2891       -1         4250      
-11         RaspFish                  2889       4          52349     
+10         HansNiemannBot            2891       -2         4251      
+11         RaspFish                  2889       4          52350     
 12         Shineshou90_BOT           2858       -10        8717      
 13         Mr_Chess_Berserk          2857       -3         436       
 14         Nikitosik-ai              2819       -10        2753      
@@ -20,12 +20,12 @@ Rank       Bot                       Rating     Prog       Games
 19         FrozenightEngine          2547       -20        8771      
 20         FlamingDragon_9000        2524       -5         10619     
 21         MrChessTheBot             2515       0          5794      
-22         expositor                 2503       -4         19735     
+22         expositor                 2502       -4         19736     
 23         AKS-Mantissa              2493       -12        10824     
 24         Elmichess                 2458       -35        3224      
 25         bot_adario                2455       -4         2652      
 26         Weiawaga                  2452       14         15494     
-27         IceBurnEngine             2438       31         218       
+27         IceBurnEngine             2442       26         219       
 28         Wahoo_Bot                 2431       -1         698       
 29         pawn_git                  2427       -9         4209      
 30         Cheng-4                   2412       15         13724     
@@ -66,7 +66,7 @@ Rank       Bot                       Rating     Prog       Games
 65         Demolito_L6               1909       0          549       
 66         NatesBot                  1895       -1         220       
 67         zeekat                    1895       -3         18931     
-68         FlounderBot               1851       0          4248      
+68         FlounderBot               1848       -7         4249      
 69         notropis                  1839       5          3959      
 70         QueensGamBOT              1813       18         5185      
 71         honzovy-sachy             1802       -3         4998      
@@ -82,7 +82,7 @@ Rank       Bot                       Rating     Prog       Games
 81         rudim-bot                 1680       10         155       
 82         dlvc-bot                  1671       -3         184       
 83         ChessChildren             1660       12         15444     
-84         turkjs                    1636       -11        19285     
+84         turkjs                    1639       -11        19286     
 85         maia9                     1606       3          61033     
 86         maia5                     1591       6          39414     
 87         DavidsGuterBot            1590       -4         6252      
