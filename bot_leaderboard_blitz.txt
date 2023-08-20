@@ -33,11 +33,11 @@ Rank       Bot                       Rating     Prog       Games
 32         Pseudo-0                  2403       -6         2925      
 33         Phalanx-XXV               2395       3          2630      
 34         admete_bot                2394       -4         6308      
-35         odonata-bot               2393       11         6051      
+35         odonata-bot               2391       10         6052      
 36         AjedrezChamberi           2373       31         270       
 37         fornax-engine             2355       2          6549      
 38         FlamingDragon_9000        2323       19         3331      
-39         LunaChessEngine           2296       47         1605      
+39         LunaChessEngine           2298       42         1606      
 40         simpleEval                2284       1          14774     
 41         SimplerEval               2269       -3         3248      
 42         halcyonbot                2218       10         9617      
@@ -88,7 +88,7 @@ Rank       Bot                       Rating     Prog       Games
 87         ChessChildren             1607       -13        21328     
 88         maia9                     1602       28         101521    
 89         yeoldwiz                  1574       -18        1656      
-90         maia5                     1564       -15        101916    
+90         maia5                     1570       -3         101917    
 91         turkjs                    1539       10         10250     
 92         sargon-3ply               1485       -8         1922      
 93         sargon-4ply               1476       -20        2009      
@@ -99,7 +99,7 @@ Rank       Bot                       Rating     Prog       Games
 98         ZE_ROOK                   1439       -5         2873      
 99         RoundMoundOfRebounds      1436       -7         1282      
 100        Flawed_Formula            1431       -20        218       
-101        StupidChessRobot          1419       -15        1394      
+101        StupidChessRobot          1417       -17        1395      
 102        maia1                     1389       -33        208462    
 103        turochamp-2ply            1376       -12        1682      
 104        Humaia                    1372       -2         979       
@@ -107,7 +107,7 @@ Rank       Bot                       Rating     Prog       Games
 106        chat_bot                  1323       -6         294       
 107        dragobot                  1320       -13        118       
 108        czesc-bot                 1319       -118       123       
-109        turochamp-1ply            1296       -4         1804      
+109        turochamp-1ply            1298       -1         1805      
 110        sargon-2ply               1264       -18        3067      
 111        pawnrobot                 1254       -4         2069      
 112        OhniBOT                   1230       25         328       
