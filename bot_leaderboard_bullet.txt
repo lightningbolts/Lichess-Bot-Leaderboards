@@ -1,14 +1,14 @@
 Rank       Bot                       Rating     Prog       Games     
 1          EmptikBot                 2973       -11        3412      
 2          Mate-AI                   2950       4          12017     
-3          ProteusSF-Godot           2929       1          2064      
-4          FireFishBOT               2927       -3         1656      
-5          ToromBot                  2922       0          61834     
-6          ReinforcementTrial        2919       -1         645       
+3          FireFishBOT               2932       2          1657      
+4          ProteusSF-Godot           2929       1          2064      
+5          ReinforcementTrial        2919       -1         646       
+6          ToromBot                  2917       -4         61836     
 7          ResoluteBot               2910       7          25738     
 8          FireFishBOT_v2            2902       0          779       
-9          YoBot_v2                  2902       -1         17958     
-10         RaspFish                  2899       7          52248     
+9          YoBot_v2                  2902       0          17959     
+10         RaspFish                  2900       10         52249     
 11         HansNiemannBot            2871       0          4202      
 12         Mr_Chess_Berserk          2859       -4         391       
 13         Shineshou90_BOT           2846       -20        8684      
@@ -27,7 +27,7 @@ Rank       Bot                       Rating     Prog       Games
 26         SaxtonEngine              2440       13         4253      
 27         Weiawaga                  2426       13         15468     
 28         OpeningsBot               2406       13         914       
-29         Cheng-4                   2398       -10        13712     
+29         Cheng-4                   2397       -9         13714     
 30         admete_bot                2382       -4         6078      
 31         catriever                 2378       -19        1698      
 32         odonata-bot               2366       -6         6389      
@@ -102,5 +102,4 @@ Rank       Bot                       Rating     Prog       Games
 101        StupidChessRobot          1346       3          669       
 102        pawnrobot                 1328       67         3908      
 103        knucklefish               1321       22         2800      
-104        bobandi                   1231       -10        1106      
-105        grandQ_AI                 831        -8         837       
+104        grandQ_AI                 831        -8         837       
