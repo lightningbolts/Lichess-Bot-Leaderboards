@@ -46,7 +46,7 @@ Rank       Bot                       Rating     Prog       Games
 45         Elmichess                 2166       12         1417      
 46         Boris-Trapsky             2149       -32        27558     
 47         matmoi                    2134       -1         1525      
-48         GarboBot                  2126       16         6058      
+48         GarboBot                  2130       17         6059      
 49         Lynx_BOT                  2115       5          39891     
 50         redtail-zero              2101       -1         331       
 51         WilliamEngine             2098       95         33        
@@ -58,7 +58,7 @@ Rank       Bot                       Rating     Prog       Games
 57         Jobabot                   2031       12         204       
 58         likeawizard-bot           2028       31         782       
 59         LeelaRogue                2005       -19        2321      
-60         Zagreus_Engine            1997       4          1781      
+60         Zagreus_Engine            1994       -4         1782      
 61         myopic-bot                1989       -25        396       
 62         BLANK_BOT                 1952       -3         1612      
 63         Nc3Nc6Bot                 1944       7          1755      
@@ -80,11 +80,11 @@ Rank       Bot                       Rating     Prog       Games
 79         The_Marcus                1742       -4         99        
 80         ChessChildren             1727       -9         4441      
 81         dlvc-bot                  1727       -30        85        
-82         maia9                     1708       7          85003     
+82         maia9                     1714       18         85004     
 83         melsh_bot                 1701       -10        271       
 84         turkjs                    1668       18         5079      
 85         simplexitor               1655       3          476       
-86         maia5                     1648       3          102080    
+86         maia5                     1650       9          102081    
 87         yeoldwiz                  1623       -20        643       
 88         Ramses-Chess              1622       127        41        
 89         HardRok                   1619       -8         657       
@@ -108,3 +108,4 @@ Rank       Bot                       Rating     Prog       Games
 107        kireevi                   1111       -6         567       
 108        BerserkRandomMover        855        6          54        
 109        grandQ_AI                 747        7          1613      
+110        G0thamB0t                 736        -15        347       
