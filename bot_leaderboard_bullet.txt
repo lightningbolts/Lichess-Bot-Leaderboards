@@ -2,7 +2,7 @@ Rank       Bot                       Rating     Prog       Games
 1          Mate-AI                   2947       -1         12114     
 2          ProteusSF-Godot           2941       1          2116      
 3          EmanPureNN                2928       4          4367      
-4          ResoluteBot               2924       7          25792     
+4          ResoluteBot               2927       6          25799     
 5          ReinforcementTrial        2918       0          697       
 6          ProteusSF-Aureo           2915       0          150       
 7          FireFishBOT               2910       -3         1821      
@@ -10,12 +10,12 @@ Rank       Bot                       Rating     Prog       Games
 9          YoBot_v2                  2902       0          17976     
 10         RaspFish                  2898       5          52317     
 11         HansNiemannBot            2893       7          4240      
-12         Mr_Chess_Berserk          2861       4          426       
+12         Mr_Chess_Berserk          2859       3          427       
 13         Shineshou90_BOT           2856       -10        8715      
 14         Nikitosik-ai              2819       -10        2753      
 15         chessfyBOT                2788       -8         1404      
-16         MarcusG123                2772       75         26        
-17         blundar_bot               2762       -5         6610      
+16         blundar_bot               2762       -5         6610      
+17         GeometricsBot             2715       7          92        
 18         LazyBot                   2701       -13        1408      
 19         FrozenightEngine          2561       10         8763      
 20         FlamingDragon_9000        2524       -5         10619     
@@ -105,5 +105,6 @@ Rank       Bot                       Rating     Prog       Games
 104        StupidChessRobot          1341       6          679       
 105        pawnrobot                 1339       31         3915      
 106        ABotWith3200Rating        1285       16         139       
-107        BerserkRandomMover        971        -4         403       
-108        grandQ_AI                 831        -8         837       
+107        bobandi                   1231       -10        1106      
+108        BerserkRandomMover        971        -4         403       
+109        grandQ_AI                 831        -8         837       
