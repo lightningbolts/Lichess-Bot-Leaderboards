@@ -4,9 +4,9 @@ Rank       Bot                       Rating     Prog       Games
 3          FireFishBOT               2925       10         1642      
 4          ReinforcementTrial        2920       -1         637       
 5          ResoluteBot               2910       7          25738     
-6          ToromBot                  2910       5          61778     
-7          FireFishBOT_v2            2902       0          771       
-8          RaspFish                  2901       2          52217     
+6          ToromBot                  2910       5          61779     
+7          FireFishBOT_v2            2902       0          773       
+8          RaspFish                  2901       1          52219     
 9          YoBot_v2                  2901       -3         17954     
 10         HansNiemannBot            2872       6          4192      
 11         Mr_Chess_Berserk          2866       5          384       
@@ -25,8 +25,8 @@ Rank       Bot                       Rating     Prog       Games
 24         bot_adario                2472       -3         2632      
 25         pawn_git                  2439       -10        4192      
 26         SaxtonEngine              2432       3          4252      
-27         Cheng-4                   2412       -8         13698     
-28         Weiawaga                  2411       -7         15463     
+27         Weiawaga                  2416       -1         15464     
+28         Cheng-4                   2412       -8         13698     
 29         OpeningsBot               2401       6          913       
 30         catriever                 2395       3          1696      
 31         admete_bot                2382       -4         6078      
@@ -34,7 +34,7 @@ Rank       Bot                       Rating     Prog       Games
 33         Rinestro                  2361       -18        182       
 34         TuksuBot                  2349       9          6900      
 35         Phalanx-XXV               2343       5          4299      
-36         simpleEval                2333       -4         25172     
+36         simpleEval                2329       -3         25173     
 37         fornax-engine             2324       -20        6960      
 38         Pseudo-0                  2319       -4         3941      
 39         SimplerEval               2298       35         2599      
@@ -57,7 +57,7 @@ Rank       Bot                       Rating     Prog       Games
 56         Nc3Nc6Bot                 1970       -36        1202      
 57         Zagreus_Engine            1970       -12        3087      
 58         BLANK_BOT                 1967       26         7491      
-59         human_bot22               1962       -16        355       
+59         human_bot22               1965       -12        356       
 60         Trollfish-Bot             1951       -15        4141      
 61         zeekat                    1909       7          18883     
 62         Demolito_L6               1903       0          535       
@@ -68,7 +68,7 @@ Rank       Bot                       Rating     Prog       Games
 67         honzovy-sachy             1806       16         4987      
 68         QueensGamBOT              1791       -17        5176      
 69         Virutor                   1779       16         6782      
-70         The_Marcus                1770       2          1081      
+70         The_Marcus                1768       -7         1082      
 71         piglet_engine             1756       5          595       
 72         HardRok                   1743       -21        744       
 73         Demolito_L5               1741       -7         940       
