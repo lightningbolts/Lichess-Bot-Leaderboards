@@ -49,7 +49,7 @@ Rank       Bot                       Rating     Prog       Games
 48         matmoi                    2128       1          1531      
 49         Sparring_Bot              2118       -11        138       
 50         Lynx_BOT                  2115       0          39902     
-51         WilliamEngine             2098       95         33        
+51         WilliamEngine             2109       95         34        
 52         redtail-zero              2095       -7         333       
 53         YourSparringBot           2060       -40        149       
 54         jangine                   2056       3          1734      
@@ -57,8 +57,8 @@ Rank       Bot                       Rating     Prog       Games
 56         MaxtheDog                 2051       16         690       
 57         likeawizard-bot           2040       28         787       
 58         Jobabot                   2030       2          208       
-59         Zagreus_Engine            2007       2          1787      
-60         LeelaRogue                2005       -19        2321      
+59         LeelaRogue                2005       -19        2321      
+60         Zagreus_Engine            2003       2          1788      
 61         myopic-bot                1984       -25        397       
 62         BLANK_BOT                 1952       -3         1612      
 63         baby_eubos                1938       35         963       
@@ -78,12 +78,12 @@ Rank       Bot                       Rating     Prog       Games
 77         AshNostromo               1756       6          1235      
 78         The_Marcus                1744       6          102       
 79         dlvc-bot                  1727       -30        85        
-80         maia9                     1727       4          85050     
+80         maia9                     1723       4          85051     
 81         ChessChildren             1716       -22        4444      
 82         melsh_bot                 1696       -15        274       
 83         turkjs                    1668       18         5079      
 84         simplexitor               1657       9          477       
-85         maia5                     1651       -10        102118    
+85         maia5                     1651       -12        102119    
 86         yeoldwiz                  1623       -20        643       
 87         sargon-4ply               1576       9          621       
 88         sargon-3ply               1559       -8         1196      
@@ -105,4 +105,3 @@ Rank       Bot                       Rating     Prog       Games
 104        kireevi                   1111       -6         567       
 105        BerserkRandomMover        855        11         55        
 106        grandQ_AI                 747        7          1613      
-107        G0thamB0t                 736        -15        347       
