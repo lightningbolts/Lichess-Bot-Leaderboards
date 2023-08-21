@@ -1,12 +1,12 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Godot           2942       0          2134      
-2          Mate-AI                   2930       -5         12157     
+2          Mate-AI                   2930       1          12158     
 3          ResoluteBot               2924       2          25828     
 4          FireFishBOT               2916       6          1870      
 5          FireFishBOT_v2            2915       10         831       
 6          ProteusSF-Aureo           2915       0          150       
 7          ReinforcementTrial        2915       -6         721       
-8          ToromBot                  2913       -3         62042     
+8          ToromBot                  2913       -3         62043     
 9          YoBot_v2                  2901       -1         17993     
 10         HansNiemannBot            2893       0          4267      
 11         Mr_Chess_Berserk          2869       13         446       
@@ -82,8 +82,8 @@ Rank       Bot                       Rating     Prog       Games
 81         maia9                     1598       -10        61036     
 82         DavidsGuterBot            1597       5          6255      
 83         ZE_ROOK                   1590       10         1939      
-84         sargon-3ply               1585       10         1342      
-85         turochamp-2ply            1584       16         1574      
+84         turochamp-2ply            1586       22         1575      
+85         sargon-3ply               1585       10         1342      
 86         RoundMoundOfRebounds      1579       6          1397      
 87         maia5                     1578       4          39417     
 88         maia1                     1574       -10        124171    
@@ -98,7 +98,7 @@ Rank       Bot                       Rating     Prog       Games
 97         dragobot                  1373       -110       59        
 98         knucklefish               1346       2          2818      
 99         StupidChessRobot          1338       -7         685       
-100        pawnrobot                 1329       1          3918      
+100        pawnrobot                 1327       -1         3919      
 101        czesc-bot                 1319       -31        237       
 102        ABotWith3200Rating        1283       21         140       
 103        BerserkRandomMover        971        -4         403       
