@@ -10,7 +10,7 @@ Rank       Bot                       Rating     Prog       Games
 9          FireFishBOT               2911       3          2027      
 10         ToromBot                  2909       1          62094     
 11         YoBot_v2                  2901       -1         18006     
-12         HansNiemannBot            2885       -3         4292      
+12         HansNiemannBot            2886       -1         4294      
 13         RaspFish                  2855       -2         52437     
 14         Shineshou90_BOT           2841       -4         8770      
 15         Nikitosik-ai              2811       -14        2756      
@@ -28,7 +28,7 @@ Rank       Bot                       Rating     Prog       Games
 27         bot_adario                2441       -16        2661      
 28         Weiawaga                  2437       -17        15510     
 29         pawn_git                  2419       -13        4223      
-30         Cheng-4                   2393       -25        13737     
+30         Cheng-4                   2392       -20        13738     
 31         Rinestro                  2362       -24        183       
 32         ELO_1500                  2361       14         3230      
 33         OpeningsBot               2355       -14        948       
@@ -38,7 +38,7 @@ Rank       Bot                       Rating     Prog       Games
 37         odonata-bot               2337       -24        6407      
 38         Phalanx-XXV               2333       1          4320      
 39         fornax-engine             2332       7          6975      
-40         Pseudo-0                  2320       9          3959      
+40         Pseudo-0                  2320       12         3960      
 41         simpleEval                2294       -26        25205     
 42         SimplerEval               2250       -41        2608      
 43         WasterNew                 2250       -30        335       
@@ -50,12 +50,12 @@ Rank       Bot                       Rating     Prog       Games
 49         honzovy-sachy-2           2153       0          7169      
 50         eubos                     2140       -9         12926     
 51         Lynx_BOT                  2138       3          6703      
-52         jangine                   2117       8          3152      
-53         MaxtheDog                 2115       -22        14624     
+52         MaxtheDog                 2120       -14        14625     
+53         jangine                   2117       8          3152      
 54         myopic-bot                2105       6          1967      
 55         Humaia-Strong             2102       85         1312      
 56         likeawizard-bot           2081       10         1419      
-57         redtail-zero              2068       7          667       
+57         redtail-zero              2063       6          668       
 58         LazyBotJr                 2026       -32        937       
 59         Jobabot                   1991       -8         792       
 60         BLANK_BOT                 1971       9          7512      
@@ -90,11 +90,11 @@ Rank       Bot                       Rating     Prog       Games
 89         RoundMoundOfRebounds      1579       6          1397      
 90         maia5                     1576       -10        39422     
 91         ZE_ROOK                   1576       -10        1945      
-92         sargon-4ply               1568       0          1718      
-93         maia1                     1562       -5         124265    
+92         sargon-4ply               1572       6          1719      
+93         maia1                     1551       -19        124266    
 94         monchester                1530       -7         2494      
 95         turochamp-1ply            1518       -14        2053      
-96         botTideEval               1490       16         1926      
+96         botTideEval               1486       16         1927      
 97         sargon-2ply               1486       3          2383      
 98         RookieRobot               1462       -49        13        
 99         yeoldwiz                  1450       18         791       
