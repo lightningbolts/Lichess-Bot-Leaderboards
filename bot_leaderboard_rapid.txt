@@ -9,7 +9,7 @@ Rank       Bot                       Rating     Prog       Games
 8          RaspFish                  2879       4          5532      
 9          HansNiemannBot            2877       2          2256      
 10         YoBot_v2                  2862       -2         13036     
-11         ArasanX                   2852       5          5507      
+11         ArasanX                   2855       5          5508      
 12         ResoluteBot               2847       -1         5243      
 13         Shineshou90_BOT           2847       2          2599      
 14         chessfyBOT                2845       -7         228       
@@ -18,7 +18,7 @@ Rank       Bot                       Rating     Prog       Games
 17         blundar_bot               2815       11         1088      
 18         MrChessTheBot             2813       1          2187      
 19         Mr_Chess_Berserk          2804       11         47        
-20         FrozenightEngine          2647       -10        4968      
+20         FrozenightEngine          2644       -16        4969      
 21         AKS-Mantissa              2638       8          4082      
 22         expositor                 2633       14         4569      
 23         LazyBot                   2601       3          730       
@@ -29,8 +29,8 @@ Rank       Bot                       Rating     Prog       Games
 28         Weiawaga                  2504       -6         9979      
 29         OpeningsBot               2452       16         309       
 30         Wahoo_Bot                 2408       6          91        
-31         Pseudo-0                  2377       6          1136      
-32         TuksuBot                  2377       -2         2045      
+31         TuksuBot                  2378       0          2046      
+32         Pseudo-0                  2377       6          1136      
 33         Phalanx-XXV               2374       0          936       
 34         odonata-bot               2371       1          3759      
 35         admete_bot                2363       -4         4185      
@@ -61,8 +61,8 @@ Rank       Bot                       Rating     Prog       Games
 60         myopic-bot                1989       -25        396       
 61         BLANK_BOT                 1952       -3         1612      
 62         baby_eubos                1938       35         963       
-63         Nc3Nc6Bot                 1937       -8         1758      
-64         LazyBotJr                 1936       -40        1268      
+63         LazyBotJr                 1936       -40        1268      
+64         Nc3Nc6Bot                 1936       -1         1759      
 65         zeekat                    1929       -6         8516      
 66         Trollfish-Bot             1867       -28        253       
 67         NatesBot                  1863       20         283       
@@ -81,7 +81,7 @@ Rank       Bot                       Rating     Prog       Games
 80         ChessChildren             1720       -22        4443      
 81         maia9                     1716       -25        85043     
 82         melsh_bot                 1699       -16        273       
-83         maia5                     1668       28         102103    
+83         maia5                     1675       31         102104    
 84         turkjs                    1668       18         5079      
 85         simplexitor               1655       3          476       
 86         HardRok                   1626       -8         659       
@@ -91,7 +91,7 @@ Rank       Bot                       Rating     Prog       Games
 90         ZE_ROOK                   1554       13         486       
 91         dragobot                  1547       -4         68        
 92         DavidsGuterBot            1538       22         630       
-93         maia1                     1513       17         232524    
+93         maia1                     1520       18         232525    
 94         turochamp-2ply            1499       -4         1089      
 95         RoundMoundOfRebounds      1453       6          353       
 96         Humaia                    1399       -18        2258      
