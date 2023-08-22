@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
-1          RaspFish                  2904       15         5551      
+1          RaspFish                  2904       15         5552      
 2          HansNiemannBot            2896       3          2313      
-3          ProteusSF-Godot           2893       1          171       
+3          ProteusSF-Godot           2893       2          172       
 4          ProteusSF-Aureo           2889       -10        21        
 5          Mate-AI                   2888       4          2453      
 6          ReinforcementTrial        2884       -3         5200      
@@ -27,10 +27,10 @@ Rank       Bot                       Rating     Prog       Games
 26         bot_adario                2524       -9         1375      
 27         Weiawaga                  2481       -1         9999      
 28         OpeningsBot               2448       6          312       
-29         odonata-bot               2381       8          3763      
-30         Pseudo-0                  2381       3          1146      
-31         TuksuBot                  2381       6          2054      
-32         admete_bot                2380       18         4197      
+29         admete_bot                2382       16         4198      
+30         odonata-bot               2381       8          3763      
+31         Pseudo-0                  2381       3          1146      
+32         TuksuBot                  2381       6          2054      
 33         Phalanx-XXV               2370       -5         942       
 34         fornax-engine             2350       1          3703      
 35         Rinestro                  2337       29         51        
@@ -45,7 +45,7 @@ Rank       Bot                       Rating     Prog       Games
 44         Boris-Trapsky             2148       3          27589     
 45         GarboBot                  2136       10         6069      
 46         matmoi                    2119       6          1572      
-47         Lynx_BOT                  2111       -13        39952     
+47         Lynx_BOT                  2109       -15        39953     
 48         WilliamEngine             2095       12         41        
 49         redtail-zero              2092       -9         347       
 50         AjedrezChamberi           2074       13         128       
@@ -90,7 +90,7 @@ Rank       Bot                       Rating     Prog       Games
 89         ZE_ROOK                   1554       13         486       
 90         DavidsGuterBot            1550       35         632       
 91         dragobot                  1547       -4         68        
-92         maia1                     1504       12         232869    
+92         maia1                     1500       5          232872    
 93         turochamp-2ply            1499       -4         1089      
 94         RoundMoundOfRebounds      1453       10         355       
 95         sargon-2ply               1392       -17        3336      
