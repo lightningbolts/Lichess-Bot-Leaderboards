@@ -2,7 +2,7 @@ Rank       Bot                       Rating     Prog       Games
 1          RaspFish                  2901       18         5547      
 2          HansNiemannBot            2894       2          2311      
 3          ProteusSF-Godot           2892       1          168       
-4          Mate-AI                   2887       3          2452      
+4          Mate-AI                   2888       4          2453      
 5          ReinforcementTrial        2884       -3         5200      
 6          FireFishBOT               2883       -4         931       
 7          FireFishBOT_v2            2882       -1         656       
@@ -12,8 +12,8 @@ Rank       Bot                       Rating     Prog       Games
 11         ttBOT                     2855       8          111       
 12         chessfyBOT                2845       -7         228       
 13         Shineshou90_BOT           2836       -11        2605      
-14         faith_bot                 2825       -16        982       
-15         Nikitosik-ai              2824       8          625       
+14         Nikitosik-ai              2824       8          625       
+15         faith_bot                 2821       -17        983       
 16         blundar_bot               2813       6          1096      
 17         Mr_Chess_Berserk          2807       3          56        
 18         expositor                 2651       3          4592      
@@ -22,7 +22,7 @@ Rank       Bot                       Rating     Prog       Games
 21         LazyBot                   2601       3          730       
 22         ELO_1500                  2591       9          3044      
 23         pawn_git                  2577       4          1277      
-24         Cheng-4                   2557       20         3196      
+24         Cheng-4                   2561       19         3197      
 25         catriever                 2527       -19        258       
 26         bot_adario                2524       -4         1374      
 27         Weiawaga                  2487       3          9997      
@@ -63,8 +63,8 @@ Rank       Bot                       Rating     Prog       Games
 62         LazyBotJr                 1936       -40        1268      
 63         baby_eubos                1932       -3         971       
 64         Nc3Nc6Bot                 1929       -3         1771      
-65         zeekat                    1929       -2         8540      
-66         NatesBot                  1902       11         314       
+65         zeekat                    1928       -2         8541      
+66         NatesBot                  1902       15         315       
 67         Trollfish-Bot             1873       -1         261       
 68         Demolito_L6               1853       -5         608       
 69         notropis                  1838       -17        2351      
@@ -79,8 +79,8 @@ Rank       Bot                       Rating     Prog       Games
 78         dtsudo                    1753       -130       18        
 79         The_Marcus                1735       -7         110       
 80         dlvc-bot                  1727       -30        85        
-81         ChessChildren             1726       8          4462      
-82         maia9                     1720       29         85230     
+81         maia9                     1727       32         85232     
+82         ChessChildren             1726       8          4462      
 83         simplexitor               1651       13         479       
 84         turkjs                    1642       -25        5086      
 85         yeoldwiz                  1630       -16        644       
@@ -92,7 +92,7 @@ Rank       Bot                       Rating     Prog       Games
 91         DavidsGuterBot            1550       35         632       
 92         dragobot                  1547       -4         68        
 93         turochamp-2ply            1499       -4         1089      
-94         maia1                     1498       15         232860    
+94         maia1                     1498       1          232862    
 95         RoundMoundOfRebounds      1453       10         355       
 96         sargon-2ply               1392       -17        3336      
 97         Humaia                    1391       -27        2260      
