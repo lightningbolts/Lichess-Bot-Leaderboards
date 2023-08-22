@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Aureo           2618       26         12        
 2          Shineshou90_BOT           2591       1          257       
-3          YoBot_v2                  2588       -1         423       
+3          YoBot_v2                  2585       -4         424       
 4          ProteusSF-Godot           2584       1          199       
 5          Mr_Chess_Berserk          2580       0          29        
 6          ResoluteBot               2580       0          609       
@@ -11,8 +11,8 @@ Rank       Bot                       Rating     Prog       Games
 10         HansNiemannBot            2548       18         266       
 11         Nikitosik-ai              2528       0          88        
 12         ELO_1500                  2420       12         229       
-13         FrozenightEngine          2391       -16        4260      
-14         expositor                 2389       12         1115      
+13         expositor                 2392       22         1116      
+14         FrozenightEngine          2391       -16        4260      
 15         AKS-Mantissa              2381       -1         1017      
 16         LazyBot                   2354       32         202       
 17         pawn_git                  2353       32         216       
@@ -59,9 +59,9 @@ Rank       Bot                       Rating     Prog       Games
 58         sargon-3ply               1591       -36        752       
 59         StupidChessRobot          1543       54         21        
 60         maia5                     1540       -28        23177     
-61         Trollfish-Bot             1520       -10        44        
-62         maia1                     1514       -23        65526     
-63         Humaia                    1503       -18        1204      
+61         maia1                     1518       -12        65528     
+62         Humaia                    1503       -18        1204      
+63         Trollfish-Bot             1501       -28        45        
 64         sargon-2ply               1441       -4         1221      
 65         turochamp-1ply            1409       16         812       
 66         kireevi                   1348       -38        242       
