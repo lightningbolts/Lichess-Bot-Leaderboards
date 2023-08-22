@@ -7,8 +7,8 @@ Rank       Bot                       Rating     Prog       Games
 6          ReinforcementTrial        2904       -6         837       
 7          YoBot_v2                  2903       1          18020     
 8          HansNiemannBot            2881       2          4366      
-9          FireFishBOT               2878       8          2255      
-10         RaspFish                  2869       -1         52580     
+9          FireFishBOT               2878       7          2256      
+10         RaspFish                  2869       -4         52581     
 11         Mr_Chess_Berserk          2858       -6         497       
 12         Shineshou90_BOT           2842       3          8820      
 13         Nikitosik-ai              2822       0          2957      
@@ -82,7 +82,7 @@ Rank       Bot                       Rating     Prog       Games
 81         dlvc-bot                  1677       -12        186       
 82         maia5                     1677       26         39463     
 83         ChessChildren             1660       1          15460     
-84         maia1                     1643       -33        124449    
+84         maia1                     1655       -21        124451    
 85         turkjs                    1630       -19        19300     
 86         sudobot_chess             1613       -141       225       
 87         DavidsGuterBot            1607       24         6282      
@@ -95,12 +95,12 @@ Rank       Bot                       Rating     Prog       Games
 94         monchester                1543       11         2498      
 95         turochamp-1ply            1518       -9         2068      
 96         sargon-2ply               1500       6          2399      
-97         botTideEval               1453       8          1993      
+97         botTideEval               1457       19         1994      
 98         yeoldwiz                  1450       18         791       
 99         OhniBOT                   1423       95         502       
 100        sargon-1ply               1374       -21        4554      
-101        knucklefish               1352       -10        2824      
-102        dragobot                  1349       -116       61        
+101        dragobot                  1349       -116       61        
+102        knucklefish               1348       -13        2825      
 103        StupidChessRobot          1341       -8         706       
 104        pawnrobot                 1322       -17        3926      
 105        czesc-bot                 1301       -40        239       
