@@ -60,13 +60,13 @@ Rank       Bot                       Rating     Prog       Games
 59         myopic-bot                1996       10         409       
 60         LeelaRogue                1992       -30        2323      
 61         BLANK_BOT                 1975       30         1621      
-62         chess-2-bot               1958       9          928       
+62         chess-2-bot               1970       17         929       
 63         LazyBotJr                 1936       -40        1268      
 64         zeekat                    1932       -3         8544      
 65         baby_eubos                1922       -15        973       
 66         NatesBot                  1913       13         320       
 67         Nc3Nc6Bot                 1911       -19        1777      
-68         Trollfish-Bot             1873       0          262       
+68         Trollfish-Bot             1868       -5         263       
 69         Demolito_L6               1853       -4         615       
 70         notropis                  1841       -10        2354      
 71         FlounderBot               1820       1          201       
@@ -84,7 +84,7 @@ Rank       Bot                       Rating     Prog       Games
 83         turkjs                    1642       -23        5087      
 84         yeoldwiz                  1630       -16        644       
 85         HardRok                   1625       6          668       
-86         maia5                     1620       -6         102307    
+86         maia5                     1610       -23        102309    
 87         sargon-4ply               1573       -6         623       
 88         sargon-3ply               1560       -11        1198      
 89         ZE_ROOK                   1554       13         486       
@@ -103,5 +103,6 @@ Rank       Bot                       Rating     Prog       Games
 102        sargon-1ply               1191       -6         8518      
 103        OhniBOT                   1158       12         517       
 104        kireevi                   1117       -6         573       
-105        BerserkRandomMover        806        -13        75        
-106        grandQ_AI                 737        -13        1622      
+105        bobandi                   956        12         744       
+106        BerserkRandomMover        806        -13        75        
+107        grandQ_AI                 737        -13        1622      
