@@ -32,7 +32,7 @@ Rank       Bot                       Rating     Prog       Games
 31         Phalanx-XXV               2410       6          2669      
 32         admete_bot                2390       4          6357      
 33         OpeningsBot               2388       -8         1057      
-34         odonata-bot               2384       -12        6075      
+34         odonata-bot               2387       -7         6076      
 35         Pseudo-0                  2379       -12        2952      
 36         AjedrezChamberi           2373       31         270       
 37         fornax-engine             2360       -2         6567      
@@ -41,9 +41,9 @@ Rank       Bot                       Rating     Prog       Games
 40         SimplerEval               2230       -38        3264      
 41         halcyonbot                2228       4          9717      
 42         Nakshatra3                2213       -6         1642      
-43         WilliamEngine             2193       11         1335      
+43         WilliamEngine             2190       0          1336      
 44         HistoryExplorer           2168       3          2748      
-45         Boris-Trapsky             2161       12         28763     
+45         Boris-Trapsky             2160       20         28765     
 46         matmoi                    2131       3          1790      
 47         eubos                     2125       -8         14582     
 48         jangine                   2122       -14        3400      
@@ -102,7 +102,7 @@ Rank       Bot                       Rating     Prog       Games
 101        turochamp-2ply            1373       -3         1693      
 102        monchester                1372       8          2724      
 103        chat_bot                  1334       11         305       
-104        maia1                     1326       2          209037    
+104        maia1                     1324       -4         209038    
 105        dragobot                  1307       -13        128       
 106        czesc-bot                 1297       -100       128       
 107        turochamp-1ply            1296       -10        1812      
