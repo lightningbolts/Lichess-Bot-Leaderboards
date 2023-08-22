@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
 1          RaspFish                  2901       18         5547      
-2          HansNiemannBot            2893       2          2308      
+2          HansNiemannBot            2894       3          2309      
 3          ProteusSF-Godot           2892       1          168       
 4          Mate-AI                   2887       3          2452      
 5          ReinforcementTrial        2884       -3         5200      
@@ -35,7 +35,7 @@ Rank       Bot                       Rating     Prog       Games
 34         Rinestro                  2337       29         51        
 35         FlamingDragon_9000        2309       -12        1216      
 36         simpleEval                2303       -4         7648      
-37         Nakshatra3                2271       -18        860       
+37         Nakshatra3                2271       -15        861       
 38         SimplerEval               2232       -19        1852      
 39         halcyonbot                2207       14         6424      
 40         eubos                     2196       22         4278      
@@ -64,7 +64,7 @@ Rank       Bot                       Rating     Prog       Games
 63         baby_eubos                1932       1          970       
 64         NatesBot                  1902       11         314       
 65         Trollfish-Bot             1873       -1         261       
-66         Demolito_L6               1854       -1         603       
+66         Demolito_L6               1857       -2         604       
 67         notropis                  1832       -17        2350      
 68         FlounderBot               1822       8          199       
 69         sun_bird                  1817       -3         39        
@@ -76,9 +76,9 @@ Rank       Bot                       Rating     Prog       Games
 75         AshNostromo               1756       5          1238      
 76         honzovy-sachy             1755       -18        973       
 77         The_Marcus                1735       -7         110       
-78         ChessChildren             1727       6          4460      
+78         ChessChildren             1728       5          4461      
 79         dlvc-bot                  1727       -30        85        
-80         maia9                     1699       0          85220     
+80         maia9                     1691       -19        85222     
 81         simplexitor               1651       13         479       
 82         turkjs                    1642       -25        5086      
 83         yeoldwiz                  1630       -16        644       
@@ -102,5 +102,5 @@ Rank       Bot                       Rating     Prog       Games
 101        OhniBOT                   1158       12         517       
 102        kireevi                   1111       -6         567       
 103        BerserkRandomMover        806        -13        75        
-104        grandQ_AI                 743        -8         1620      
+104        grandQ_AI                 740        -11        1621      
 105        G0thamB0t                 736        -15        347       
