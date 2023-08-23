@@ -6,18 +6,18 @@ Rank       Bot                       Rating     Prog       Games
 5          ResoluteBot               2869       3          11385     
 6          ToromBot                  2866       -2         3244      
 7          FireFishBOT               2863       -1         2156      
-8          HansNiemannBot            2860       -1         2729      
+8          HansNiemannBot            2860       -2         2730      
 9          YoBot_v2                  2854       -7         3748      
 10         Mate-AI                   2852       -1         3189      
 11         Mr_Chess_Berserk          2824       2          229       
 12         ArasanX                   2820       0          1960      
 13         chessfyBOT                2819       -12        180       
 14         Shineshou90_BOT           2813       -5         2038      
-15         RaspFish                  2812       -1         11374     
+15         RaspFish                  2811       -1         11375     
 16         faith_bot                 2774       -1         761       
 17         Nikitosik-ai              2772       9          376       
 18         blundar_bot               2757       -4         1092      
-19         Menganti                  2746       -8         181       
+19         Menganti                  2747       -3         182       
 20         LazyBot                   2690       -30        2026      
 21         expositor                 2594       11         7106      
 22         AKS-Mantissa              2588       10         9807      
@@ -38,7 +38,7 @@ Rank       Bot                       Rating     Prog       Games
 37         fornax-engine             2356       -12        6570      
 38         FlamingDragon_9000        2323       19         3331      
 39         LunaChessEngine           2313       5          1670      
-40         simpleEval                2297       -2         14828     
+40         simpleEval                2298       -8         14830     
 41         FataliiBot                2241       -10        6680      
 42         halcyonbot                2228       4          9717      
 43         SimplerEval               2214       -47        3268      
@@ -67,7 +67,7 @@ Rank       Bot                       Rating     Prog       Games
 66         zeekat                    1853       -22        21167     
 67         baby_eubos                1833       3          7965      
 68         NatesBot                  1820       12         674       
-69         Demolito_L6               1776       -1         922       
+69         Demolito_L6               1774       -8         923       
 70         honzovy-sachy             1769       5          5081      
 71         notropis                  1768       -9         6617      
 72         FlounderBot               1762       -9         2103      
@@ -77,7 +77,7 @@ Rank       Bot                       Rating     Prog       Games
 76         Demolito_L5               1705       27         1630      
 77         dlvc-bot                  1679       -5         1261      
 78         AshNostromo               1670       14         986       
-79         Virutor                   1660       -2         7494      
+79         Virutor                   1662       -4         7495      
 80         simplexitor               1659       17         2196      
 81         maia9                     1648       -2         101888    
 82         ChessChildren             1644       14         21371     
@@ -110,5 +110,5 @@ Rank       Bot                       Rating     Prog       Games
 109        ABotWith3200Rating        1228       42         231       
 110        sargon-1ply               1214       -2         7936      
 111        knucklefish               1070       -23        3258      
-112        BerserkRandomMover        921        -27        179       
+112        BerserkRandomMover        920        -27        180       
 113        grandQ_AI                 800        2          1234      
