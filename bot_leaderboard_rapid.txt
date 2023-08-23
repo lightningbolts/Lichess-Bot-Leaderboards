@@ -18,7 +18,7 @@ Rank       Bot                       Rating     Prog       Games
 17         blundar_bot               2815       0          1100      
 18         Mr_Chess_Berserk          2807       3          56        
 19         AKS-Mantissa              2640       -11        4101      
-20         FrozenightEngine          2636       -7         4994      
+20         FrozenightEngine          2633       -10        4995      
 21         expositor                 2632       -16        4602      
 22         LazyBot                   2604       5          732       
 23         ELO_1500                  2597       5          3056      
@@ -27,7 +27,7 @@ Rank       Bot                       Rating     Prog       Games
 26         bot_adario                2524       -9         1375      
 27         catriever                 2521       -19        261       
 28         Weiawaga                  2478       -4         10002     
-29         OpeningsBot               2456       5          315       
+29         OpeningsBot               2458       0          316       
 30         Wahoo_Bot                 2404       10         94        
 31         TuksuBot                  2381       6          2054      
 32         Pseudo-0                  2379       2          1149      
@@ -80,11 +80,11 @@ Rank       Bot                       Rating     Prog       Games
 79         dlvc-bot                  1727       -30        85        
 80         ChessChildren             1723       1          4464      
 81         maia9                     1675       -11        85283     
-82         maia5                     1670       23         102335    
+82         maia5                     1662       10         102336    
 83         simplexitor               1651       13         479       
 84         turkjs                    1642       -23        5087      
-85         HardRok                   1630       8          669       
-86         yeoldwiz                  1627       -10        645       
+85         yeoldwiz                  1627       -10        645       
+86         HardRok                   1622       -4         670       
 87         sargon-4ply               1563       -23        625       
 88         ZE_ROOK                   1562       15         488       
 89         sargon-3ply               1555       -21        1199      
@@ -92,7 +92,7 @@ Rank       Bot                       Rating     Prog       Games
 91         dragobot                  1540       -6         69        
 92         maia1                     1517       14         232956    
 93         turochamp-2ply            1494       -5         1090      
-94         RoundMoundOfRebounds      1449       2          356       
+94         RoundMoundOfRebounds      1462       15         357       
 95         Humaia                    1391       -27        2260      
 96         StupidChessRobot          1388       56         54        
 97         sargon-2ply               1386       -19        3338      
