@@ -1,10 +1,10 @@
 Rank       Bot                       Rating     Prog       Games     
 1          HansNiemannBot            2903       7          2326      
 2          RaspFish                  2903       -3         5560      
-3          ToromBot                  2900       3          1897      
+3          ToromBot                  2900       3          1898      
 4          ProteusSF-Godot           2899       7          176       
 5          ProteusSF-Aureo           2889       -10        21        
-6          FireFishBOT_v2            2887       7          660       
+6          FireFishBOT_v2            2887       8          661       
 7          Mate-AI                   2887       -2         2456      
 8          FireFishBOT               2884       -2         938       
 9          ReinforcementTrial        2884       -3         5201      
@@ -85,7 +85,7 @@ Rank       Bot                       Rating     Prog       Games
 84         sargon-3ply               1555       -21        1199      
 85         DavidsGuterBot            1550       35         632       
 86         dragobot                  1540       -6         69        
-87         maia1                     1534       3          232980    
+87         maia1                     1537       12         232982    
 88         turochamp-2ply            1494       -5         1090      
 89         RoundMoundOfRebounds      1462       15         357       
 90         Humaia                    1391       -27        2260      
@@ -97,5 +97,6 @@ Rank       Bot                       Rating     Prog       Games
 96         ABotWith3200Rating        1193       -75        65        
 97         sargon-1ply               1191       -6         8518      
 98         OhniBOT                   1158       12         517       
-99         BerserkRandomMover        806        -13        75        
-100        grandQ_AI                 737        -13        1622      
+99         kireevi                   1117       -6         573       
+100        BerserkRandomMover        806        -13        75        
+101        grandQ_AI                 737        -13        1622      
