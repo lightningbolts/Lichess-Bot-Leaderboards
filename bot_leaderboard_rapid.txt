@@ -20,7 +20,7 @@ Rank       Bot                       Rating     Prog       Games
 19         FrozenightEngine          2643       0          4999      
 20         AKS-Mantissa              2641       -4         4107      
 21         expositor                 2626       -28        4604      
-22         ELO_1500                  2604       8          3065      
+22         ELO_1500                  2605       9          3066      
 23         LazyBot                   2604       5          732       
 24         pawn_git                  2574       -5         1283      
 25         Cheng-4                   2554       11         3201      
@@ -44,7 +44,7 @@ Rank       Bot                       Rating     Prog       Games
 43         eubos                     2194       20         4279      
 44         honzovy-sachy-2           2174       -4         3607      
 45         Elmichess                 2166       12         1417      
-46         HistoryExplorer           2160       -5         1052      
+46         HistoryExplorer           2159       -9         1053      
 47         Boris-Trapsky             2156       13         27599     
 48         GarboBot                  2143       10         6074      
 49         matmoi                    2136       19         1602      
@@ -60,15 +60,15 @@ Rank       Bot                       Rating     Prog       Games
 59         myopic-bot                2002       5          413       
 60         BLANK_BOT                 1980       24         1625      
 61         LeelaRogue                1980       -49        2327      
-62         chess-2-bot               1942       -52        944       
-63         LazyBotJr                 1936       -40        1268      
-64         zeekat                    1935       -5         8561      
+62         LazyBotJr                 1936       -40        1268      
+63         zeekat                    1935       -5         8561      
+64         Nc3Nc6Bot                 1927       -7         1780      
 65         baby_eubos                1924       -14        975       
 66         NatesBot                  1899       -5         334       
 67         Trollfish-Bot             1878       14         265       
 68         Demolito_L6               1838       -12        633       
-69         notropis                  1837       3          2364      
-70         FlounderBot               1836       22         206       
+69         FlounderBot               1838       29         207       
+70         notropis                  1837       3          2364      
 71         Sem1Rose                  1833       88         14        
 72         sun_bird                  1827       57         41        
 73         Fisk_Bot                  1813       -19        224       
@@ -79,7 +79,7 @@ Rank       Bot                       Rating     Prog       Games
 78         AshNostromo               1750       -11        1242      
 79         The_Marcus                1742       2          114       
 80         ChessChildren             1733       6          4471      
-81         maia9                     1729       -9         85344     
+81         maia9                     1730       -4         85345     
 82         dlvc-bot                  1727       -30        85        
 83         simplexitor               1649       21         482       
 84         turkjs                    1642       -23        5087      
@@ -92,7 +92,7 @@ Rank       Bot                       Rating     Prog       Games
 91         DavidsGuterBot            1550       32         633       
 92         dragobot                  1541       -3         70        
 93         turochamp-2ply            1494       -5         1090      
-94         maia1                     1485       -11        233121    
+94         maia1                     1490       -3         233122    
 95         RoundMoundOfRebounds      1462       15         357       
 96         Humaia                    1403       1          2264      
 97         StupidChessRobot          1388       56         54        
