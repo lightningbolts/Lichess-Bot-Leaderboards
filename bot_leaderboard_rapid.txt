@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
-1          RaspFish                  2908       3          5580      
+1          RaspFish                  2908       -3         5581      
 2          UltimateL                 2905       20         399       
-3          ProteusSF-Godot           2896       -3         190       
+3          ProteusSF-Godot           2896       -3         191       
 4          HansNiemannBot            2889       -16        2341      
 5          ProteusSF-Aureo           2889       -10        21        
 6          FireFishBOT_v2            2887       10         664       
@@ -87,12 +87,12 @@ Rank       Bot                       Rating     Prog       Games
 86         yeoldwiz                  1628       -15        647       
 87         HardRok                   1627       0          671       
 88         maia5                     1625       -6         102406    
-89         ZE_ROOK                   1570       10         493       
+89         ZE_ROOK                   1569       10         494       
 90         sargon-3ply               1555       -21        1199      
 91         sargon-4ply               1554       -32        628       
 92         DavidsGuterBot            1550       32         633       
-93         dragobot                  1540       -6         69        
-94         maia1                     1494       -31        233100    
+93         dragobot                  1541       -3         70        
+94         maia1                     1495       -22        233101    
 95         turochamp-2ply            1494       -5         1090      
 96         RoundMoundOfRebounds      1462       15         357       
 97         Humaia                    1403       1          2264      
@@ -106,5 +106,4 @@ Rank       Bot                       Rating     Prog       Games
 105        kireevi                   1117       0          576       
 106        B4ux1t3s-Bot              1059       50         33        
 107        BerserkRandomMover        805        -10        76        
-108        G0thamB0t                 735        -16        348       
-109        grandQ_AI                 733        -13        1625      
+108        grandQ_AI                 733        -13        1625      
