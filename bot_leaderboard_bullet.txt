@@ -34,9 +34,9 @@ Rank       Bot                       Rating     Prog       Games
 33         TuksuBot                  2347       19         6951      
 34         LunaChessEngine           2346       -16        1211      
 35         admete_bot                2332       -14        6126      
-36         odonata-bot               2330       -7         6421      
-37         fornax-engine             2329       1          6982      
-38         Phalanx-XXV               2328       -5         4338      
+36         Phalanx-XXV               2331       2          4339      
+37         odonata-bot               2330       -7         6421      
+38         fornax-engine             2329       1          6982      
 39         Pseudo-0                  2309       -2         3968      
 40         Nakshatra3                2304       0          1592      
 41         simpleEval                2284       -7         25224     
@@ -48,9 +48,9 @@ Rank       Bot                       Rating     Prog       Games
 47         honzovy-sachy-2           2180       -1         7192      
 48         matmoi                    2143       2          2351      
 49         Lynx_BOT                  2126       -3         6745      
-50         MaxtheDog                 2114       27         14712     
-51         jangine                   2112       -3         3174      
-52         eubos                     2110       29         12976     
+50         jangine                   2112       -3         3174      
+51         MaxtheDog                 2111       31         14713     
+52         eubos                     2107       20         12977     
 53         Humaia-Strong             2102       85         1312      
 54         myopic-bot                2090       -24        1990      
 55         redtail-zero              2073       9          680       
@@ -59,7 +59,7 @@ Rank       Bot                       Rating     Prog       Games
 58         Trollfish-Bot             2005       35         4288      
 59         BLANK_BOT                 1987       14         7534      
 60         Zagreus_Engine            1965       16         3178      
-61         Jobabot                   1960       -15        826       
+61         Jobabot                   1963       -20        827       
 62         zeekat                    1925       11         19006     
 63         Demolito_L6               1907       1          584       
 64         NatesBot                  1875       -13        239       
@@ -105,6 +105,7 @@ Rank       Bot                       Rating     Prog       Games
 104        czesc-bot                 1289       -46        240       
 105        ABotWith3200Rating        1280       26         141       
 106        B4ux1t3s-Bot              1266       2          25        
-107        arny_bot                  1218       -72        14        
-108        BerserkRandomMover        970        -4         405       
-109        grandQ_AI                 829        -10        840       
+107        bobandi                   1231       -10        1106      
+108        arny_bot                  1218       -72        14        
+109        BerserkRandomMover        970        -4         405       
+110        grandQ_AI                 829        -10        840       
