@@ -4,8 +4,8 @@ Rank       Bot                       Rating     Prog       Games
 3          ResoluteBot               2920       2          25952     
 4          ProteusSF-Aureo           2915       0          150       
 5          FireFishBOT_v2            2910       1          899       
-6          ReinforcementTrial        2908       0          841       
-7          ToromBot                  2905       -12        62295     
+6          ReinforcementTrial        2908       1          842       
+7          ToromBot                  2905       -12        62296     
 8          YoBot_v2                  2902       0          18023     
 9          HansNiemannBot            2883       2          4386      
 10         FireFishBOT               2877       1          2268      
@@ -29,7 +29,7 @@ Rank       Bot                       Rating     Prog       Games
 28         catriever                 2433       -32        1754      
 29         Weiawaga                  2426       -2         15556     
 30         pawn_git                  2423       5          4247      
-31         ELO_1500                  2358       -2         3235      
+31         ELO_1500                  2359       10         3236      
 32         OpeningsBot               2352       4          970       
 33         TuksuBot                  2347       19         6951      
 34         Phalanx-XXV               2337       2          4340      
@@ -42,7 +42,7 @@ Rank       Bot                       Rating     Prog       Games
 41         simpleEval                2284       -7         25224     
 42         FataliiBot                2281       2          5789      
 43         SimplerEval               2265       -3         2623      
-44         halcyonbot                2255       3          5599      
+44         halcyonbot                2255       7          5600      
 45         HistoryExplorer           2251       0          2598      
 46         GarboBot                  2200       10         9700      
 47         honzovy-sachy-2           2180       -1         7192      
@@ -57,7 +57,7 @@ Rank       Bot                       Rating     Prog       Games
 56         likeawizard-bot           2050       -28        1466      
 57         LazyBotJr                 2026       0          945       
 58         Trollfish-Bot             2005       35         4288      
-59         BLANK_BOT                 1990       12         7535      
+59         BLANK_BOT                 1989       11         7536      
 60         Zagreus_Engine            1967       15         3179      
 61         Jobabot                   1963       -20        827       
 62         zeekat                    1925       11         19006     
@@ -76,7 +76,7 @@ Rank       Bot                       Rating     Prog       Games
 75         Demolito_L5               1727       -13        993       
 76         Humaia                    1719       42         413       
 77         simplexitor               1713       18         2253      
-78         The_Marcus                1695       6          1188      
+78         The_Marcus                1694       6          1189      
 79         maia5                     1692       17         39475     
 80         rudim-bot                 1687       7          156       
 81         dlvc-bot                  1677       -12        186       
@@ -105,6 +105,7 @@ Rank       Bot                       Rating     Prog       Games
 104        czesc-bot                 1289       -46        240       
 105        ABotWith3200Rating        1280       26         141       
 106        B4ux1t3s-Bot              1266       2          25        
-107        arny_bot                  1218       -72        14        
-108        BerserkRandomMover        970        -4         405       
-109        grandQ_AI                 829        -10        840       
+107        bobandi                   1231       -10        1106      
+108        arny_bot                  1218       -72        14        
+109        BerserkRandomMover        970        -4         405       
+110        grandQ_AI                 829        -10        840       
