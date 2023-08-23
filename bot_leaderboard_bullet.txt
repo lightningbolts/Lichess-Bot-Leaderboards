@@ -6,12 +6,12 @@ Rank       Bot                       Rating     Prog       Games
 5          FireFishBOT_v2            2909       1          901       
 6          ReinforcementTrial        2907       0          843       
 7          ToromBot                  2906       -11        62300     
-8          YoBot_v2                  2902       0          18023     
+8          YoBot_v2                  2901       0          18024     
 9          HansNiemannBot            2884       3          4388      
-10         FireFishBOT               2877       2          2269      
-11         RaspFish                  2864       12         52629     
+10         FireFishBOT               2882       7          2270      
+11         RaspFish                  2859       6          52630     
 12         Mr_Chess_Berserk          2858       -6         497       
-13         Shineshou90_BOT           2831       -12        8826      
+13         Shineshou90_BOT           2832       -10        8827      
 14         Nikitosik-ai              2810       -13        2961      
 15         faith_bot                 2791       3          3193      
 16         Menganti                  2791       19         146       
@@ -56,7 +56,7 @@ Rank       Bot                       Rating     Prog       Games
 55         LazyBotJr                 2026       0          945       
 56         Trollfish-Bot             2004       30         4289      
 57         BLANK_BOT                 1989       11         7536      
-58         Zagreus_Engine            1967       15         3179      
+58         Zagreus_Engine            1969       11         3180      
 59         Jobabot                   1963       -14        828       
 60         zeekat                    1922       -2         19007     
 61         Demolito_L6               1907       1          584       
@@ -73,8 +73,8 @@ Rank       Bot                       Rating     Prog       Games
 72         Demolito_L5               1727       -13        993       
 73         Humaia                    1719       42         413       
 74         simplexitor               1713       18         2253      
-75         The_Marcus                1694       6          1189      
-76         maia5                     1692       17         39475     
+75         maia5                     1692       17         39475     
+76         The_Marcus                1692       0          1190      
 77         rudim-bot                 1687       7          156       
 78         dlvc-bot                  1677       -12        186       
 79         ChessChildren             1660       1          15460     
@@ -102,6 +102,7 @@ Rank       Bot                       Rating     Prog       Games
 101        czesc-bot                 1289       -46        240       
 102        ABotWith3200Rating        1280       26         141       
 103        B4ux1t3s-Bot              1266       2          25        
-104        arny_bot                  1218       -72        14        
-105        BerserkRandomMover        970        -4         405       
-106        grandQ_AI                 829        -10        840       
+104        bobandi                   1231       -10        1106      
+105        arny_bot                  1218       -72        14        
+106        BerserkRandomMover        970        -4         405       
+107        grandQ_AI                 829        -10        840       
