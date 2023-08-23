@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
-1          RaspFish                  2907       -3         5585      
-2          UltimateL                 2904       1          408       
+1          RaspFish                  2907       -3         5586      
+2          UltimateL                 2904       -1         409       
 3          ToromBot                  2900       2          1918      
 4          ProteusSF-Godot           2897       3          194       
 5          HansNiemannBot            2890       -13        2344      
@@ -75,8 +75,8 @@ Rank       Bot                       Rating     Prog       Games
 74         Virutor                   1793       0          3216      
 75         zulu_bot                  1776       3          110       
 76         honzovy-sachy             1762       6          978       
-77         Demolito_L5               1751       -13        1174      
-78         AshNostromo               1750       -11        1242      
+77         AshNostromo               1750       -11        1242      
+78         Demolito_L5               1748       -19        1175      
 79         The_Marcus                1742       2          114       
 80         ChessChildren             1733       6          4471      
 81         maia9                     1730       -4         85345     
@@ -85,7 +85,7 @@ Rank       Bot                       Rating     Prog       Games
 84         turkjs                    1642       -23        5087      
 85         yeoldwiz                  1628       -15        647       
 86         HardRok                   1627       0          671       
-87         maia5                     1626       -9         102413    
+87         maia5                     1627       8          102415    
 88         ZE_ROOK                   1574       16         495       
 89         sargon-3ply               1555       -21        1199      
 90         sargon-4ply               1554       -32        628       
@@ -105,5 +105,4 @@ Rank       Bot                       Rating     Prog       Games
 104        kireevi                   1117       0          576       
 105        B4ux1t3s-Bot              1059       50         33        
 106        BerserkRandomMover        805        -10        76        
-107        G0thamB0t                 735        -16        348       
-108        grandQ_AI                 733        -13        1625      
+107        grandQ_AI                 733        -13        1625      
