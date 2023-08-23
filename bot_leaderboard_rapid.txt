@@ -1,11 +1,11 @@
 Rank       Bot                       Rating     Prog       Games     
 1          RaspFish                  2907       -3         5586      
-2          UltimateL                 2904       -1         409       
+2          UltimateL                 2904       -1         410       
 3          ToromBot                  2900       2          1918      
 4          ProteusSF-Godot           2897       3          194       
 5          HansNiemannBot            2890       -13        2344      
 6          ProteusSF-Aureo           2889       -10        21        
-7          FireFishBOT_v2            2887       10         664       
+7          FireFishBOT_v2            2888       6          665       
 8          Mate-AI                   2887       0          2463      
 9          ReinforcementTrial        2884       -3         5201      
 10         FireFishBOT               2881       -3         949       
@@ -75,8 +75,8 @@ Rank       Bot                       Rating     Prog       Games
 74         Virutor                   1793       0          3216      
 75         zulu_bot                  1776       3          110       
 76         honzovy-sachy             1762       6          978       
-77         AshNostromo               1750       -11        1242      
-78         Demolito_L5               1748       -19        1175      
+77         Demolito_L5               1752       -9         1176      
+78         AshNostromo               1750       -11        1242      
 79         The_Marcus                1742       2          114       
 80         ChessChildren             1733       6          4471      
 81         maia9                     1730       -4         85345     
@@ -92,7 +92,7 @@ Rank       Bot                       Rating     Prog       Games
 91         sargon-4ply               1554       -32        628       
 92         dragobot                  1541       -3         70        
 93         turochamp-2ply            1494       -5         1090      
-94         maia1                     1486       -11        233123    
+94         maia1                     1487       -11        233125    
 95         RoundMoundOfRebounds      1462       15         357       
 96         Humaia                    1403       1          2264      
 97         StupidChessRobot          1388       56         54        
@@ -102,6 +102,7 @@ Rank       Bot                       Rating     Prog       Games
 101        pawnrobot                 1221       -26        694       
 102        sargon-1ply               1185       -9         8533      
 103        OhniBOT                   1158       12         517       
-104        B4ux1t3s-Bot              1059       50         33        
-105        BerserkRandomMover        805        -10        76        
-106        grandQ_AI                 733        -13        1625      
+104        kireevi                   1117       0          576       
+105        B4ux1t3s-Bot              1059       50         33        
+106        BerserkRandomMover        805        -10        76        
+107        grandQ_AI                 733        -13        1625      
