@@ -6,9 +6,9 @@ Rank       Bot                       Rating     Prog       Games
 5          RaspFish                  2891       -19        5601      
 6          FireFishBOT_v2            2886       -1         675       
 7          ReinforcementTrial        2883       -3         5203      
-8          FireFishBOT               2879       -3         962       
+8          FireFishBOT               2879       -2         963       
 9          YoBot_v2                  2867       5          13066     
-10         faith_bot                 2862       13         1083      
+10         faith_bot                 2862       11         1084      
 11         ArasanX                   2861       -6         5630      
 12         ResoluteBot               2858       4          5270      
 13         chessfyBOT                2845       -7         228       
@@ -24,11 +24,11 @@ Rank       Bot                       Rating     Prog       Games
 23         SaxtonEngine              2536       -8         1408      
 24         bot_adario                2529       6          1382      
 25         catriever                 2522       -15        267       
-26         Weiawaga                  2482       10         10022     
+26         Weiawaga                  2480       4          10023     
 27         OpeningsBot               2462       15         324       
 28         TuksuBot                  2379       -1         2061      
 29         Pseudo-0                  2378       -9         1156      
-30         Phalanx-XXV               2372       2          953       
+30         Phalanx-XXV               2374       3          954       
 31         odonata-bot               2370       -9         3772      
 32         admete_bot                2354       -22        4217      
 33         RavenEngine               2353       -4         405       
@@ -106,3 +106,4 @@ Rank       Bot                       Rating     Prog       Games
 105        B4ux1t3s-Bot              1054       71         35        
 106        BerserkRandomMover        805        -10        76        
 107        grandQ_AI                 753        6          1627      
+108        G0thamB0t                 728        -22        349       
