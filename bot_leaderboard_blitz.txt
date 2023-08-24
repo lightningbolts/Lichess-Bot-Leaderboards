@@ -33,7 +33,7 @@ Rank       Bot                       Rating     Prog       Games
 32         Rinestro                  2459       21         106       
 33         LTChessBot                2420       16         370       
 34         odonata-bot               2406       8          6091      
-35         TuksuBot                  2400       -14        4043      
+35         TuksuBot                  2404       -7         4044      
 36         Phalanx-XXV               2393       -23        2684      
 37         admete_bot                2380       -2         6373      
 38         OpeningsBot               2380       -11        1088      
@@ -41,10 +41,10 @@ Rank       Bot                       Rating     Prog       Games
 40         AjedrezChamberi           2373       31         270       
 41         fornax-engine             2357       -3         6578      
 42         RavenEngine               2357       -5         1609      
-43         LunaChessEngine           2326       -7         1706      
-44         FlamingDragon_9000        2323       19         3331      
-45         simpleEval                2281       -4         14864     
-46         FataliiBot                2249       6          6720      
+43         FlamingDragon_9000        2323       19         3331      
+44         LunaChessEngine           2322       -6         1707      
+45         simpleEval                2281       -4         14865     
+46         FataliiBot                2251       9          6721      
 47         halcyonbot                2226       4          9738      
 48         SimplerEval               2193       -21        3279      
 49         HistoryExplorer           2184       18         2758      
@@ -56,8 +56,8 @@ Rank       Bot                       Rating     Prog       Games
 55         GarboBot                  2098       8          9362      
 56         eubos                     2096       -4         14642     
 57         MaxtheDog                 2069       22         4612      
-58         redtail-zero              2064       8          506       
-59         likeawizard-bot           2061       -19        3412      
+58         likeawizard-bot           2061       -19        3412      
+59         redtail-zero              2061       3          507       
 60         Elmichess                 2033       22         3559      
 61         myopic-bot                2019       36         2096      
 62         Humaia-Strong             2001       20         2370      
@@ -101,8 +101,8 @@ Rank       Bot                       Rating     Prog       Games
 100        ZE_ROOK                   1482       -3         2918      
 101        ChamberiAjedrez           1470       -106       321       
 102        DavidsGuterBot            1468       -13        3643      
-103        RoundMoundOfRebounds      1454       3          1317      
-104        maia1                     1450       -5         209304    
+103        maia1                     1461       3          209306    
+104        RoundMoundOfRebounds      1454       3          1317      
 105        RookieRobot               1423       8          43        
 106        Humaia                    1386       17         986       
 107        turochamp-2ply            1365       -4         1697      
