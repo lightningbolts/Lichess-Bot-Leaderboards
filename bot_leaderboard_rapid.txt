@@ -16,7 +16,7 @@ Rank       Bot                       Rating     Prog       Games
 15         Mr_Chess_Berserk          2809       5          58        
 16         AKS-Mantissa              2641       -2         4116      
 17         FrozenightEngine          2641       -5         5013      
-18         expositor                 2626       2          4617      
+18         expositor                 2623       1          4618      
 19         LazyBot                   2605       17         735       
 20         pawn_git                  2569       -6         1289      
 21         Cheng-4                   2549       -12        3208      
@@ -81,15 +81,15 @@ Rank       Bot                       Rating     Prog       Games
 80         melsh_bot                 1710       -2         279       
 81         simplexitor               1638       -17        487       
 82         turkjs                    1634       -24        5093      
-83         HardRok                   1630       0          680       
-84         maia5                     1628       32         102613    
+83         maia5                     1631       32         102615    
+84         HardRok                   1630       0          680       
 85         yeoldwiz                  1619       -14        652       
 86         ZE_ROOK                   1589       20         505       
 87         sargon-4ply               1552       -30        630       
 88         DavidsGuterBot            1551       18         638       
 89         sargon-3ply               1544       -34        1201      
 90         dragobot                  1541       -3         70        
-91         maia1                     1504       -3         233320    
+91         maia1                     1493       -2         233323    
 92         turochamp-2ply            1485       -19        1092      
 93         RoundMoundOfRebounds      1479       29         360       
 94         Humaia                    1413       19         2270      
@@ -102,5 +102,6 @@ Rank       Bot                       Rating     Prog       Games
 101        OhniBOT                   1177       9          521       
 102        kireevi                   1117       0          576       
 103        B4ux1t3s-Bot              1054       71         35        
-104        BerserkRandomMover        805        -10        76        
-105        grandQ_AI                 753        6          1627      
+104        bobandi                   956        12         744       
+105        BerserkRandomMover        805        -10        76        
+106        grandQ_AI                 753        6          1627      
