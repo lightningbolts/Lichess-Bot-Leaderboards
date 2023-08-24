@@ -1,5 +1,5 @@
 Rank       Bot                       Rating     Prog       Games     
-1          HansNiemannBot            2905       8          2364      
+1          HansNiemannBot            2901       4          2365      
 2          RaspFish                  2898       -9         5595      
 3          ProteusSF-Godot           2897       2          195       
 4          Mate-AI                   2896       9          2471      
@@ -18,7 +18,7 @@ Rank       Bot                       Rating     Prog       Games
 17         Mr_Chess_Berserk          2809       5          58        
 18         FrozenightEngine          2646       14         5008      
 19         AKS-Mantissa              2640       -5         4113      
-20         expositor                 2617       -20        4612      
+20         expositor                 2621       -11        4613      
 21         LazyBot                   2605       17         735       
 22         pawn_git                  2570       -3         1287      
 23         Cheng-4                   2545       -5         3206      
@@ -33,9 +33,9 @@ Rank       Bot                       Rating     Prog       Games
 32         admete_bot                2362       -13        4213      
 33         RavenEngine               2353       -4         405       
 34         fornax-engine             2348       -6         3711      
-35         Rinestro                  2337       13         52        
-36         LunaChessEngine           2332       -2         1101      
-37         simpleEval                2319       -1         7667      
+35         LunaChessEngine           2338       4          1102      
+36         Rinestro                  2337       13         52        
+37         simpleEval                2314       -7         7668      
 38         FlamingDragon_9000        2309       -12        1216      
 39         FataliiBot                2244       9          2629      
 40         SimplerEval               2227       -22        1856      
@@ -72,7 +72,7 @@ Rank       Bot                       Rating     Prog       Games
 71         Virutor                   1803       10         3221      
 72         zulu_bot                  1776       3          110       
 73         honzovy-sachy             1765       10         983       
-74         maia9                     1754       34         85456     
+74         maia9                     1760       33         85457     
 75         Demolito_L5               1753       7          1194      
 76         ChessChildren             1747       24         4475      
 77         AshNostromo               1744       -13        1243      
