@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
-1          RaspFish                  2904       -4         5591      
-2          HansNiemannBot            2898       3          2361      
+1          RaspFish                  2904       -4         5592      
+2          HansNiemannBot            2898       2          2362      
 3          Mate-AI                   2897       10         2470      
 4          ProteusSF-Godot           2897       2          195       
 5          ProteusSF-Aureo           2889       -10        21        
@@ -25,7 +25,7 @@ Rank       Bot                       Rating     Prog       Games
 24         Cheng-4                   2550       7          3203      
 25         SaxtonEngine              2536       -11        1406      
 26         bot_adario                2524       -1         1381      
-27         Weiawaga                  2476       0          10012     
+27         Weiawaga                  2480       2          10013     
 28         OpeningsBot               2463       13         321       
 29         Pseudo-0                  2378       -9         1156      
 30         TuksuBot                  2373       -5         2057      
@@ -36,7 +36,7 @@ Rank       Bot                       Rating     Prog       Games
 35         fornax-engine             2348       -6         3711      
 36         Rinestro                  2337       13         52        
 37         LunaChessEngine           2328       -15        1097      
-38         simpleEval                2327       17         7664      
+38         simpleEval                2324       10         7665      
 39         FlamingDragon_9000        2309       -12        1216      
 40         FataliiBot                2244       9          2629      
 41         SimplerEval               2227       -22        1856      
@@ -76,14 +76,14 @@ Rank       Bot                       Rating     Prog       Games
 75         AshNostromo               1744       -13        1243      
 76         ChessChildren             1743       17         4473      
 77         The_Marcus                1737       -5         118       
-78         maia9                     1732       -4         85429     
-79         dlvc-bot                  1727       -30        85        
+78         dlvc-bot                  1727       -30        85        
+79         maia9                     1724       -23        85430     
 80         melsh_bot                 1696       -24        277       
 81         simplexitor               1643       -15        486       
 82         turkjs                    1631       -37        5090      
 83         yeoldwiz                  1612       -42        649       
-84         maia5                     1587       12         102537    
-85         Ramses-Chess              1587       83         44        
+84         Ramses-Chess              1587       83         44        
+85         maia5                     1581       -2         102538    
 86         ZE_ROOK                   1573       10         500       
 87         sargon-3ply               1555       -21        1199      
 88         sargon-4ply               1554       -32        628       
