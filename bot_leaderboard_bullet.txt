@@ -7,11 +7,11 @@ Rank       Bot                       Rating     Prog       Games
 6          ProteusSF-Aureo           2920       1          180       
 7          ReinforcementTrial        2915       -2         909       
 8          FireFishBOT_v2            2914       -1         947       
-9          FireFishBOT               2905       -2         2486      
+9          FireFishBOT               2910       3          2487      
 10         YoBot_v2                  2896       -1         18052     
 11         ResoluteBot               2889       5          26084     
 12         HansNiemannBot            2877       3          4452      
-13         Mr_Chess_Berserk          2865       7          502       
+13         Mr_Chess_Berserk          2860       1          503       
 14         RaspFish                  2840       -12        52750     
 15         Nikitosik-ai              2811       -16        2999      
 16         Shineshou90_BOT           2810       -13        8876      
@@ -40,10 +40,10 @@ Rank       Bot                       Rating     Prog       Games
 39         odonata-bot               2330       -2         6427      
 40         fornax-engine             2323       -6         6991      
 41         Pseudo-0                  2312       -6         3974      
-42         simpleEval                2301       18         25237     
-43         LunaChessEngine           2295       -14        1231      
+42         LunaChessEngine           2301       -3         1232      
+43         simpleEval                2301       18         25237     
 44         FataliiBot                2283       -2         5798      
-45         SimplerEval               2279       13         2630      
+45         SimplerEval               2274       4          2631      
 46         halcyonbot                2245       -3         5621      
 47         GarboBot                  2178       -23        9705      
 48         honzovy-sachy-2           2172       -17        7212      
@@ -72,7 +72,7 @@ Rank       Bot                       Rating     Prog       Games
 71         honzovy-sachy             1778       -8         5017      
 72         baby_eubos                1761       13         5746      
 73         Humaia                    1755       47         419       
-74         The_Marcus                1743       10         1234      
+74         The_Marcus                1746       15         1235      
 75         Fisk_Bot                  1740       10         225       
 76         Dinora                    1739       -78        35        
 77         piglet_engine             1737       -8         629       
@@ -88,8 +88,8 @@ Rank       Bot                       Rating     Prog       Games
 87         ZE_ROOK                   1619       4          1985      
 88         maia9                     1613       -12        61111     
 89         sargon-3ply               1594       -16        1362      
-90         turochamp-2ply            1591       -1         1591      
-91         sudobot_chess             1590       -295       227       
+90         sudobot_chess             1590       -295       227       
+91         turochamp-2ply            1588       1          1592      
 92         DavidsGuterBot            1582       -11        6304      
 93         sargon-4ply               1582       1          1735      
 94         RoundMoundOfRebounds      1557       -32        1424      
