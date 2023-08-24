@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          RaspFish                  2907       -3         5587      
-2          ToromBot                  2898       -3         1927      
-3          HansNiemannBot            2897       7          2355      
+2          HansNiemannBot            2898       6          2356      
+3          ToromBot                  2898       -3         1927      
 4          ProteusSF-Godot           2897       2          195       
 5          Mate-AI                   2891       4          2468      
 6          ProteusSF-Aureo           2889       -10        21        
@@ -24,7 +24,7 @@ Rank       Bot                       Rating     Prog       Games
 23         pawn_git                  2574       -2         1285      
 24         Cheng-4                   2552       8          3202      
 25         SaxtonEngine              2536       -11        1406      
-26         bot_adario                2526       0          1380      
+26         bot_adario                2524       -1         1381      
 27         Weiawaga                  2472       -6         10011     
 28         OpeningsBot               2466       14         320       
 29         Pseudo-0                  2382       -6         1155      
@@ -60,7 +60,7 @@ Rank       Bot                       Rating     Prog       Games
 59         Zagreus_Engine            2001       -3         1842      
 60         BLANK_BOT                 1982       10         1630      
 61         LazyBotJr                 1936       -40        1268      
-62         zeekat                    1930       -1         8569      
+62         zeekat                    1928       0          8570      
 63         baby_eubos                1920       -28        977       
 64         NatesBot                  1908       10         343       
 65         Trollfish-Bot             1878       14         265       
@@ -69,7 +69,7 @@ Rank       Bot                       Rating     Prog       Games
 68         Demolito_L6               1833       -17        647       
 69         notropis                  1831       -11        2369      
 70         Fisk_Bot                  1813       -19        224       
-71         Virutor                   1799       9          3219      
+71         Virutor                   1801       13         3220      
 72         zulu_bot                  1776       3          110       
 73         honzovy-sachy             1767       14         981       
 74         AshNostromo               1750       -11        1242      
@@ -81,15 +81,15 @@ Rank       Bot                       Rating     Prog       Games
 80         melsh_bot                 1700       -22        276       
 81         simplexitor               1646       -12        485       
 82         turkjs                    1633       -30        5089      
-83         HardRok                   1624       9          675       
-84         yeoldwiz                  1620       -43        648       
-85         maia5                     1572       -15        102509    
+83         yeoldwiz                  1620       -43        648       
+84         HardRok                   1617       1          676       
+85         maia5                     1578       -8         102510    
 86         ZE_ROOK                   1569       7          499       
 87         sargon-3ply               1555       -21        1199      
 88         sargon-4ply               1554       -32        628       
 89         DavidsGuterBot            1551       18         638       
 90         dragobot                  1541       -3         70        
-91         maia1                     1517       0          233207    
+91         maia1                     1514       -10        233208    
 92         turochamp-2ply            1490       -10        1091      
 93         RoundMoundOfRebounds      1477       32         358       
 94         Humaia                    1398       7          2266      
