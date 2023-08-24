@@ -9,9 +9,9 @@ Rank       Bot                       Rating     Prog       Games
 8          faith_bot                 2555       16         194       
 9          HansNiemannBot            2550       21         267       
 10         Nikitosik-ai              2526       2          94        
-11         ELO_1500                  2423       3          240       
+11         ELO_1500                  2422       1          241       
 12         FrozenightEngine          2398       7          4271      
-13         expositor                 2382       0          1124      
+13         expositor                 2383       -8         1125      
 14         AKS-Mantissa              2379       -1         1018      
 15         LazyBot                   2354       32         202       
 16         SaxtonEngine              2351       30         451       
@@ -67,3 +67,4 @@ Rank       Bot                       Rating     Prog       Games
 66         sargon-1ply               1294       5          3354      
 67         grandQ_AI                 878        38         785       
 68         BerserkRandomMover        838        -22        70        
+69         G0thamB0t                 834        -69        185       
