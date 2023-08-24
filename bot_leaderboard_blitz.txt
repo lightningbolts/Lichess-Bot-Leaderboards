@@ -2,12 +2,12 @@ Rank       Bot                       Rating     Prog       Games
 1          ProteusSF-Aureo           2908       0          91        
 2          ProteusSF-Godot           2882       3          1102      
 3          ReinforcementTrial        2880       5          2148      
-4          FireFishBOT_v2            2874       5          4248      
+4          FireFishBOT_v2            2874       5          4249      
 5          FireFishBOT               2871       4          2238      
 6          lord-bot                  2870       -4         451       
-7          Anand_bot                 2865       -3         93        
+7          Anand_bot                 2865       -4         94        
 8          caissa-x                  2865       -8         3255      
-9          Mate-AI                   2862       2          3227      
+9          Mate-AI                   2862       2          3228      
 10         HansNiemannBot            2858       0          2780      
 11         ResoluteBot               2855       -4         11441     
 12         YoBot_v2                  2852       -1         3762      
@@ -16,7 +16,7 @@ Rank       Bot                       Rating     Prog       Games
 15         Shineshou90_BOT           2811       -3         2066      
 16         ArasanX                   2804       -6         1997      
 17         RaspFish                  2804       -1         11394     
-18         Nikitosik-ai              2790       3          498       
+18         Nikitosik-ai              2785       -4         499       
 19         faith_bot                 2783       9          771       
 20         blundar_bot               2753       5          1112      
 21         LazyBot                   2690       -30        2026      
@@ -61,8 +61,8 @@ Rank       Bot                       Rating     Prog       Games
 60         Humaia-Strong             2001       20         2370      
 61         Jobabot                   2000       -10        609       
 62         BLANK_BOT                 1976       -10        4896      
-63         Zagreus_Engine            1964       18         4229      
-64         LeelaRogue                1961       26         2361      
+63         LeelaRogue                1966       27         2362      
+64         Zagreus_Engine            1964       18         4229      
 65         LazyBotJr                 1947       8          1901      
 66         sun_bird                  1914       -8         379       
 67         zeekat                    1869       12         21213     
@@ -100,7 +100,7 @@ Rank       Bot                       Rating     Prog       Games
 99         ChamberiAjedrez           1470       -106       321       
 100        DavidsGuterBot            1468       -13        3643      
 101        RoundMoundOfRebounds      1459       7          1316      
-102        maia1                     1433       -7         209288    
+102        maia1                     1442       4          209289    
 103        RookieRobot               1406       -20        42        
 104        Humaia                    1386       17         986       
 105        StupidChessRobot          1367       -14        1547      
