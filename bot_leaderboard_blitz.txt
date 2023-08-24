@@ -4,16 +4,16 @@ Rank       Bot                       Rating     Prog       Games
 3          lord-bot                  2874       27         440       
 4          ToromBot                  2874       2          3306      
 5          FireFishBOT_v2            2870       3          4226      
-6          FireFishBOT               2863       -1         2220      
-7          ReinforcementTrial        2862       0          2109      
+6          ReinforcementTrial        2867       5          2110      
+7          FireFishBOT               2863       -1         2220      
 8          ResoluteBot               2859       -5         11430     
 9          HansNiemannBot            2858       7          2769      
 10         Mate-AI                   2858       -4         3220      
 11         YoBot_v2                  2852       -1         3762      
 12         chessfyBOT                2819       -12        180       
 13         Shineshou90_BOT           2810       -4         2060      
-14         RaspFish                  2809       -2         11391     
-15         ArasanX                   2807       -4         1991      
+14         ArasanX                   2807       -4         1991      
+15         RaspFish                  2804       -6         11392     
 16         Nikitosik-ai              2792       8          461       
 17         faith_bot                 2781       8          769       
 18         blundar_bot               2751       -10        1107      
@@ -49,7 +49,7 @@ Rank       Bot                       Rating     Prog       Games
 48         eubos                     2119       -24        14625     
 49         jangine                   2108       -10        3419      
 50         GarboBot                  2105       4          9357      
-51         Lynx_BOT                  2094       -4         49777     
+51         Lynx_BOT                  2094       -4         49778     
 52         likeawizard-bot           2075       9          3389      
 53         redtail-zero              2070       19         505       
 54         MaxtheDog                 2040       12         4599      
@@ -111,5 +111,5 @@ Rank       Bot                       Rating     Prog       Games
 110        OhniBOT                   1230       25         328       
 111        sargon-1ply               1209       -14        7938      
 112        knucklefish               1068       -25        3260      
-113        BerserkRandomMover        851        -15        211       
+113        BerserkRandomMover        851        -13        212       
 114        grandQ_AI                 810        5          1235      
