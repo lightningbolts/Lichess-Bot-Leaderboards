@@ -74,8 +74,8 @@ Rank       Bot                       Rating     Prog       Games
 73         zulu_bot                  1776       3          110       
 74         honzovy-sachy             1766       11         984       
 75         Demolito_L5               1754       13         1195      
-76         ChessChildren             1747       24         4475      
-77         maia9                     1747       0          85465     
+76         maia9                     1749       -5         85467     
+77         ChessChildren             1747       24         4475      
 78         AshNostromo               1746       -9         1244      
 79         The_Marcus                1734       -7         119       
 80         dlvc-bot                  1727       -30        85        
@@ -91,7 +91,7 @@ Rank       Bot                       Rating     Prog       Games
 90         sargon-4ply               1554       -32        628       
 91         DavidsGuterBot            1551       18         638       
 92         dragobot                  1541       -3         70        
-93         maia1                     1511       -11        233256    
+93         maia1                     1521       3          233259    
 94         turochamp-2ply            1490       -10        1091      
 95         RoundMoundOfRebounds      1477       32         358       
 96         Humaia                    1407       8          2269      
@@ -106,3 +106,4 @@ Rank       Bot                       Rating     Prog       Games
 105        B4ux1t3s-Bot              1056       54         34        
 106        BerserkRandomMover        805        -10        76        
 107        grandQ_AI                 732        -14        1626      
+108        G0thamB0t                 728        -22        349       
