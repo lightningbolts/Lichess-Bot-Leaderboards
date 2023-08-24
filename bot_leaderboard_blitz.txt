@@ -5,9 +5,9 @@ Rank       Bot                       Rating     Prog       Games
 4          ToromBot                  2872       -1         3327      
 5          FireFishBOT_v2            2870       0          4235      
 6          FireFishBOT               2867       4          2231      
-7          ReinforcementTrial        2865       3          2131      
+7          ReinforcementTrial        2865       3          2132      
 8          HansNiemannBot            2859       6          2774      
-9          Mate-AI                   2858       -4         3222      
+9          Mate-AI                   2858       -4         3223      
 10         ResoluteBot               2857       -4         11435     
 11         YoBot_v2                  2852       -1         3762      
 12         chessfyBOT                2819       -12        180       
@@ -22,7 +22,7 @@ Rank       Bot                       Rating     Prog       Games
 21         AKS-Mantissa              2611       6          9840      
 22         expositor                 2606       3          7124      
 23         FrozenightEngine          2558       -15        6054      
-24         ELO_1500                  2556       11         13136     
+24         ELO_1500                  2557       11         13137     
 25         SaxtonEngine              2503       -3         2343      
 26         MQBot                     2500       30         77        
 27         Weiawaga                  2478       -6         11820     
@@ -49,7 +49,7 @@ Rank       Bot                       Rating     Prog       Games
 48         honzovy-sachy-2           2134       5          6936      
 49         Lynx_BOT                  2112       8          49800     
 50         jangine                   2110       6          3421      
-51         eubos                     2100       -28        14631     
+51         eubos                     2099       -20        14632     
 52         GarboBot                  2099       1          9358      
 53         likeawizard-bot           2076       1          3400      
 54         redtail-zero              2070       19         505       
@@ -80,13 +80,13 @@ Rank       Bot                       Rating     Prog       Games
 79         Demolito_L5               1696       2          1674      
 80         dlvc-bot                  1676       -12        1262      
 81         Virutor                   1669       -1         7511      
-82         maia9                     1668       -11        101992    
+82         maia9                     1668       -14        101994    
 83         AshNostromo               1665       11         990       
 84         simplexitor               1659       0          2205      
 85         QueensGamBOT              1638       -15        3047      
 86         ChessChildren             1632       -8         21394     
 87         GuineaBot3                1575       -42        103       
-88         maia5                     1542       24         102372    
+88         maia5                     1548       25         102373    
 89         yeoldwiz                  1542       -1         1699      
 90         sudobot_chess             1539       -74        402       
 91         turkjs                    1524       -22        10279     
@@ -99,7 +99,7 @@ Rank       Bot                       Rating     Prog       Games
 98         maia1                     1432       17         209270    
 99         RookieRobot               1408       -15        41        
 100        Humaia                    1386       17         986       
-101        StupidChessRobot          1377       -8         1540      
+101        StupidChessRobot          1381       -2         1541      
 102        turochamp-2ply            1365       -4         1697      
 103        monchester                1353       -14        2733      
 104        chat_bot                  1326       0          309       
