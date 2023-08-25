@@ -72,11 +72,11 @@ Rank       Bot                       Rating     Prog       Games
 71         zulu_bot                  1776       3          110       
 72         honzovy-sachy             1760       -2         985       
 73         AshNostromo               1752       -7         1245      
-74         Demolito_L5               1745       -5         1214      
+74         Demolito_L5               1747       -7         1215      
 75         ChessChildren             1741       12         4479      
 76         The_Marcus                1733       -13        124       
 77         dlvc-bot                  1727       -30        85        
-78         maia9                     1724       5          85544     
+78         maia9                     1716       1          85545     
 79         melsh_bot                 1710       -2         279       
 80         maia5                     1656       -7         102650    
 81         turkjs                    1637       -19        5094      
@@ -84,8 +84,8 @@ Rank       Bot                       Rating     Prog       Games
 83         yeoldwiz                  1613       -15        653       
 84         ZE_ROOK                   1587       14         509       
 85         DavidsGuterBot            1549       5          639       
-86         sargon-4ply               1546       -30        632       
-87         sargon-3ply               1544       -34        1201      
+86         sargon-3ply               1544       -34        1201      
+87         sargon-4ply               1544       -31        633       
 88         dragobot                  1541       -3         70        
 89         maia1                     1509       -8         233367    
 90         turochamp-2ply            1485       -19        1092      
@@ -102,3 +102,4 @@ Rank       Bot                       Rating     Prog       Games
 101        B4ux1t3s-Bot              1054       71         35        
 102        BerserkRandomMover        805        -10        76        
 103        grandQ_AI                 753        6          1627      
+104        G0thamB0t                 728        -22        349       
