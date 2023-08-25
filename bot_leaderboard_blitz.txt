@@ -2,7 +2,7 @@ Rank       Bot                       Rating     Prog       Games
 1          ProteusSF-Aureo           2908       0          91        
 2          ProteusSF-Godot           2895       0          1237      
 3          ReinforcementTrial        2887       3          2278      
-4          FireFishBOT_v2            2885       -5         4466      
+4          FireFishBOT_v2            2884       -5         4467      
 5          EmanPureNN                2882       0          1362      
 6          FireFishBOT               2882       0          2332      
 7          ResoluteBot               2860       3          11483     
@@ -11,7 +11,7 @@ Rank       Bot                       Rating     Prog       Games
 10         RaspFish                  2830       5          11456     
 11         chessfyBOT                2819       -12        180       
 12         ArasanX                   2807       -17        2034      
-13         Shineshou90_BOT           2798       -12        2094      
+13         Shineshou90_BOT           2800       -11        2095      
 14         mphoBot                   2787       8          44        
 15         blundar_bot               2747       0          1131      
 16         LazyBot                   2690       -30        2026      
@@ -31,8 +31,8 @@ Rank       Bot                       Rating     Prog       Games
 30         Phalanx-XXV               2405       2          2692      
 31         admete_bot                2385       7          6383      
 32         Pseudo-0                  2385       8          2984      
-33         OpeningsBot               2377       -4         1100      
-34         AjedrezChamberi           2375       27         272       
+33         AjedrezChamberi           2375       27         272       
+34         OpeningsBot               2368       -17        1101      
 35         RavenEngine               2354       5          1612      
 36         fornax-engine             2348       -11        6587      
 37         FlamingDragon_9000        2323       19         3331      
@@ -47,7 +47,7 @@ Rank       Bot                       Rating     Prog       Games
 46         matmoi                    2109       -15        1890      
 47         jangine                   2104       -23        3442      
 48         MaxtheDog                 2101       16         4652      
-49         GarboBot                  2082       2          9380      
+49         GarboBot                  2091       6          9381      
 50         redtail-zero              2058       -5         513       
 51         myopic-bot                2037       -1         2116      
 52         onionbot                  2036       26         320       
@@ -81,12 +81,12 @@ Rank       Bot                       Rating     Prog       Games
 80         dlvc-bot                  1676       -12        1262      
 81         AshNostromo               1666       13         994       
 82         Virutor                   1655       1          7531      
-83         maia9                     1652       -41        102187    
+83         maia9                     1651       -41        102188    
 84         QueensGamBOT              1632       1          3062      
 85         simplexitor               1625       -6         2224      
 86         ChessChildren             1624       4          21419     
 87         HardRok                   1624       11         886       
-88         maia5                     1598       8          102596    
+88         maia5                     1592       -4         102598    
 89         sudobot_chess             1539       -74        402       
 90         yeoldwiz                  1536       -6         1710      
 91         ZE_ROOK                   1519       -2         2949      
@@ -96,7 +96,7 @@ Rank       Bot                       Rating     Prog       Games
 95         sargon-3ply               1482       -2         1952      
 96         ChamberiAjedrez           1470       -106       321       
 97         DavidsGuterBot            1468       3          3656      
-98         maia1                     1461       17         209550    
+98         maia1                     1452       0          209552    
 99         RoundMoundOfRebounds      1446       -10        1325      
 100        StupidChessRobot          1380       -21        1601      
 101        turochamp-2ply            1369       -2         1702      
