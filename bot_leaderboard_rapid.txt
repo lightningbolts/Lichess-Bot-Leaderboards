@@ -39,14 +39,14 @@ Rank       Bot                       Rating     Prog       Games
 38         simpleEval                2311       -17        7673      
 39         FlamingDragon_9000        2309       -12        1216      
 40         FataliiBot                2249       20         2635      
-41         halcyonbot                2229       10         6448      
+41         halcyonbot                2228       4          6449      
 42         SimplerEval               2216       -25        1861      
 43         eubos                     2190       9          4282      
 44         honzovy-sachy-2           2174       -1         3610      
 45         Boris-Trapsky             2167       23         27616     
 46         Elmichess                 2166       12         1417      
 47         GarboBot                  2152       9          6087      
-48         Lynx_BOT                  2141       -4         39998     
+48         Lynx_BOT                  2142       1          39999     
 49         matmoi                    2118       13         1642      
 50         redtail-zero              2088       13         362       
 51         MaxtheDog                 2076       16         707       
@@ -55,7 +55,7 @@ Rank       Bot                       Rating     Prog       Games
 54         Humaia-Strong             2052       -31        610       
 55         Jobabot                   2044       1          235       
 56         jangine                   2041       -6         1761      
-57         Zagreus_Engine            2026       -8         1870      
+57         Zagreus_Engine            2029       -5         1871      
 58         myopic-bot                2018       20         423       
 59         LeelaRogue                1989       -7         2343      
 60         BLANK_BOT                 1975       -3         1639      
@@ -69,7 +69,7 @@ Rank       Bot                       Rating     Prog       Games
 68         notropis                  1840       11         2381      
 69         FlounderBot               1836       16         212       
 70         Fisk_Bot                  1813       -19        224       
-71         Sem1Rose                  1811       115        38        
+71         Sem1Rose                  1806       86         39        
 72         Virutor                   1794       4          3224      
 73         zulu_bot                  1776       3          110       
 74         honzovy-sachy             1761       -1         986       
@@ -104,3 +104,4 @@ Rank       Bot                       Rating     Prog       Games
 103        B4ux1t3s-Bot              1054       71         35        
 104        BerserkRandomMover        805        -6         77        
 105        grandQ_AI                 753        6          1627      
+106        G0thamB0t                 728        -22        349       
