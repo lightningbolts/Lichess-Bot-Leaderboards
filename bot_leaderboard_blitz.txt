@@ -6,11 +6,11 @@ Rank       Bot                       Rating     Prog       Games
 5          ProteusSF-Godot           2882       3          1102      
 6          ToromBot                  2878       -1         3378      
 7          FireFishBOT               2877       1          2298      
-8          HansNiemannBot            2858       3          2813      
+8          HansNiemannBot            2857       2          2814      
 9          ResoluteBot               2855       2          11467     
 10         YoBot_v2                  2853       1          3773      
 11         Mr_Chess_Berserk          2824       -1         247       
-12         ArasanX                   2820       10         2017      
+12         ArasanX                   2821       12         2018      
 13         chessfyBOT                2819       -12        180       
 14         Shineshou90_BOT           2811       -4         2082      
 15         RaspFish                  2798       15         11429     
@@ -20,7 +20,7 @@ Rank       Bot                       Rating     Prog       Games
 19         AKS-Mantissa              2602       -2         9861      
 20         expositor                 2600       -1         7141      
 21         FrozenightEngine          2571       12         6074      
-22         MQBot                     2519       10         84        
+22         MQBot                     2521       10         85        
 23         SaxtonEngine              2496       -6         2356      
 24         Weiawaga                  2486       12         11837     
 25         pawn_git                  2479       4          2546      
@@ -45,7 +45,7 @@ Rank       Bot                       Rating     Prog       Games
 44         matmoi                    2131       4          1875      
 45         eubos                     2129       5          14677     
 46         Boris-Trapsky             2124       -10        28828     
-47         Lynx_BOT                  2118       -1         49892     
+47         Lynx_BOT                  2119       0          49894     
 48         jangine                   2109       -12        3438      
 49         MaxtheDog                 2092       10         4638      
 50         GarboBot                  2085       -8         9372      
@@ -61,7 +61,7 @@ Rank       Bot                       Rating     Prog       Games
 60         LazyBotJr                 1937       -17        1911      
 61         Trollfish-Bot             1883       35         2128      
 62         zeekat                    1877       -17        21263     
-63         sun_bird                  1874       4          437       
+63         sun_bird                  1872       11         438       
 64         zulu_bot                  1861       -3         992       
 65         baby_eubos                1824       -15        8036      
 66         notropis                  1809       -8         6675      
@@ -72,7 +72,7 @@ Rank       Bot                       Rating     Prog       Games
 71         Fisk_Bot                  1748       14         1485      
 72         honzovy-sachy             1732       -9         5120      
 73         melsh_bot                 1720       16         2080      
-74         The_Marcus                1712       1          1225      
+74         The_Marcus                1714       -4         1226      
 75         piglet_engine             1708       0          141       
 76         dlvc-bot                  1676       -12        1262      
 77         Demolito_L5               1674       11         1703      
@@ -88,7 +88,7 @@ Rank       Bot                       Rating     Prog       Games
 87         ZE_ROOK                   1515       19         2939      
 88         turkjs                    1510       -30        10285     
 89         sargon-4ply               1501       21         2045      
-90         arny_bot                  1481       0          547       
+90         arny_bot                  1479       0          548       
 91         sargon-3ply               1478       -3         1947      
 92         DavidsGuterBot            1455       -28        3647      
 93         RoundMoundOfRebounds      1440       -10        1323      
