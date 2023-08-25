@@ -3,8 +3,8 @@ Rank       Bot                       Rating     Prog       Games
 2          ProteusSF-Godot           2897       2          195       
 3          HansNiemannBot            2896       -1         2378      
 4          ToromBot                  2895       -3         1942      
-5          Mate-AI                   2894       8          2475      
-6          RaspFish                  2891       -13        5602      
+5          Mate-AI                   2894       4          2476      
+6          RaspFish                  2891       -13        5603      
 7          FireFishBOT_v2            2886       -1         675       
 8          ReinforcementTrial        2883       -3         5203      
 9          FireFishBOT               2879       -1         964       
@@ -26,7 +26,7 @@ Rank       Bot                       Rating     Prog       Games
 25         SaxtonEngine              2536       -8         1408      
 26         bot_adario                2529       6          1382      
 27         catriever                 2522       -9         268       
-28         Weiawaga                  2480       4          10023     
+28         Weiawaga                  2482       2          10024     
 29         OpeningsBot               2462       15         324       
 30         TuksuBot                  2379       -1         2061      
 31         Pseudo-0                  2378       -9         1156      
@@ -41,7 +41,7 @@ Rank       Bot                       Rating     Prog       Games
 40         FataliiBot                2245       14         2634      
 41         halcyonbot                2232       19         6445      
 42         SimplerEval               2222       -20        1859      
-43         eubos                     2192       15         4281      
+43         eubos                     2190       9          4282      
 44         honzovy-sachy-2           2174       -1         3610      
 45         Elmichess                 2166       12         1417      
 46         Boris-Trapsky             2160       2          27611     
@@ -77,7 +77,7 @@ Rank       Bot                       Rating     Prog       Games
 76         ChessChildren             1745       19         4478      
 77         The_Marcus                1735       -13        123       
 78         dlvc-bot                  1727       -30        85        
-79         maia9                     1717       -15        85529     
+79         maia9                     1718       -9         85531     
 80         melsh_bot                 1710       -2         279       
 81         maia5                     1663       16         102639    
 82         turkjs                    1637       -19        5094      
@@ -89,7 +89,7 @@ Rank       Bot                       Rating     Prog       Games
 88         sargon-4ply               1546       -30        632       
 89         sargon-3ply               1544       -34        1201      
 90         dragobot                  1541       -3         70        
-91         maia1                     1514       25         233351    
+91         maia1                     1518       21         233352    
 92         turochamp-2ply            1485       -19        1092      
 93         RoundMoundOfRebounds      1479       29         360       
 94         Humaia                    1413       19         2270      
@@ -100,6 +100,7 @@ Rank       Bot                       Rating     Prog       Games
 99         pawnrobot                 1212       -29        698       
 100        sargon-1ply               1189       12         8538      
 101        OhniBOT                   1177       9          521       
-102        B4ux1t3s-Bot              1054       71         35        
-103        BerserkRandomMover        805        -10        76        
-104        grandQ_AI                 753        6          1627      
+102        kireevi                   1117       0          576       
+103        B4ux1t3s-Bot              1054       71         35        
+104        BerserkRandomMover        805        -10        76        
+105        grandQ_AI                 753        6          1627      
