@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Aureo           2908       8          22        
 2          ProteusSF-Godot           2897       2          195       
-3          HansNiemannBot            2895       -4         2404      
+3          HansNiemannBot            2895       2          2405      
 4          RaspFish                  2891       -3         5627      
 5          FireFishBOT_v2            2887       1          690       
 6          EmanPureNN                2884       17         232       
@@ -27,7 +27,7 @@ Rank       Bot                       Rating     Prog       Games
 26         OpeningsBot               2465       2          332       
 27         TuksuBot                  2378       -4         2063      
 28         Pseudo-0                  2373       -8         1157      
-29         Phalanx-XXV               2371       3          957       
+29         Phalanx-XXV               2371       3          958       
 30         odonata-bot               2370       -9         3772      
 31         admete_bot                2356       -20        4220      
 32         RavenEngine               2346       -10        406       
@@ -92,7 +92,7 @@ Rank       Bot                       Rating     Prog       Games
 91         sargon-3ply               1539       -36        1202      
 92         turochamp-2ply            1488       -19        1098      
 93         RoundMoundOfRebounds      1479       29         360       
-94         maia1                     1445       -10        233573    
+94         maia1                     1442       -11        233576    
 95         Humaia                    1430       39         2273      
 96         StupidChessRobot          1413       49         56        
 97         sargon-2ply               1386       -22        3340      
@@ -106,3 +106,4 @@ Rank       Bot                       Rating     Prog       Games
 105        B4ux1t3s-Bot              900        -107       42        
 106        BerserkRandomMover        774        -34        78        
 107        grandQ_AI                 729        -11        1632      
+108        G0thamB0t                 722        -25        351       
