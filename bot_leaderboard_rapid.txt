@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Aureo           2908       8          22        
 2          ProteusSF-Godot           2897       2          195       
-3          HansNiemannBot            2892       -5         2396      
+3          HansNiemannBot            2892       -5         2397      
 4          RaspFish                  2892       -3         5623      
 5          FireFishBOT_v2            2887       1          688       
 6          ReinforcementTrial        2882       -2         5209      
@@ -13,7 +13,7 @@ Rank       Bot                       Rating     Prog       Games
 12         chessfyBOT                2845       -7         228       
 13         Shineshou90_BOT           2826       -6         2622      
 14         blundar_bot               2821       10         1119      
-15         mphoBot                   2806       -5         66        
+15         mphoBot                   2812       9          67        
 16         AKS-Mantissa              2641       -2         4121      
 17         expositor                 2626       4          4620      
 18         FrozenightEngine          2621       -20        5024      
@@ -24,7 +24,7 @@ Rank       Bot                       Rating     Prog       Games
 23         SaxtonEngine              2552       12         1412      
 24         bot_adario                2540       15         1385      
 25         catriever                 2526       -2         271       
-26         Weiawaga                  2474       -8         10029     
+26         Weiawaga                  2472       -14        10030     
 27         OpeningsBot               2465       2          332       
 28         TuksuBot                  2379       0          2062      
 29         Pseudo-0                  2378       -9         1156      
@@ -38,7 +38,7 @@ Rank       Bot                       Rating     Prog       Games
 37         FlamingDragon_9000        2309       -12        1216      
 38         FataliiBot                2255       16         2637      
 39         halcyonbot                2227       -4         6453      
-40         SimplerEval               2218       -19        1862      
+40         SimplerEval               2217       -15        1863      
 41         eubos                     2190       9          4282      
 42         Boris-Trapsky             2175       19         27621     
 43         honzovy-sachy-2           2174       -1         3610      
@@ -85,14 +85,14 @@ Rank       Bot                       Rating     Prog       Games
 84         yeoldwiz                  1616       -14        655       
 85         ZE_ROOK                   1615       33         518       
 86         HardRok                   1610       -13        685       
-87         maia5                     1577       -19        102695    
+87         maia5                     1576       -22        102697    
 88         DavidsGuterBot            1542       4          641       
 89         sargon-3ply               1539       -36        1202      
 90         sargon-4ply               1539       -34        634       
 91         dragobot                  1536       -5         71        
 92         RoundMoundOfRebounds      1479       29         360       
 93         turochamp-2ply            1478       -35        1093      
-94         maia1                     1452       -1         233515    
+94         maia1                     1445       -21        233518    
 95         Humaia                    1430       39         2273      
 96         StupidChessRobot          1413       49         56        
 97         sargon-2ply               1386       -22        3340      
@@ -105,4 +105,4 @@ Rank       Bot                       Rating     Prog       Games
 104        B4ux1t3s-Bot              1054       71         35        
 105        BerserkRandomMover        805        -6         77        
 106        grandQ_AI                 762        16         1628      
-107        G0thamB0t                 728        -22        349       
+107        G0thamB0t                 722        -25        351       
