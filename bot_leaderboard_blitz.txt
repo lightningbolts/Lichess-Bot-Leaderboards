@@ -1,13 +1,13 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Aureo           2908       0          91        
 2          ProteusSF-Godot           2895       0          1237      
-3          FireFishBOT               2887       -1         2351      
+3          FireFishBOT               2887       -1         2352      
 4          FireFishBOT_v2            2886       -2         4503      
 5          EmanPureNN                2880       -3         1374      
 6          ResoluteBot               2861       4          11485     
 7          HansNiemannBot            2853       -5         2834      
 8          YoBot_v2                  2852       0          3786      
-9          RaspFish                  2847       21         11463     
+9          RaspFish                  2847       20         11464     
 10         chessfyBOT                2819       -12        180       
 11         ArasanX                   2811       -2         2037      
 12         Shineshou90_BOT           2790       -4         2101      
@@ -41,8 +41,8 @@ Rank       Bot                       Rating     Prog       Games
 40         SimplerEval               2191       -7         3291      
 41         honzovy-sachy-2           2139       -12        6974      
 42         Lynx_BOT                  2139       9          49952     
-43         Boris-Trapsky             2127       5          28843     
-44         eubos                     2127       2          14697     
+43         eubos                     2135       4          14698     
+44         Boris-Trapsky             2127       5          28843     
 45         matmoi                    2116       13         1894      
 46         camel_bot                 2114       14         695       
 47         jangine                   2108       -10        3447      
@@ -70,7 +70,7 @@ Rank       Bot                       Rating     Prog       Games
 69         FlounderBot               1785       18         2200      
 70         Genetic_Chess_Bot         1753       -9         1067      
 71         Fisk_Bot                  1748       14         1485      
-72         Demolito_L5               1729       42         1728      
+72         Demolito_L5               1734       41         1729      
 73         j1-chessnost              1724       1          89        
 74         honzovy-sachy             1722       -10        5131      
 75         melsh_bot                 1714       -6         2091      
@@ -92,7 +92,7 @@ Rank       Bot                       Rating     Prog       Games
 91         sargon-4ply               1500       15         2049      
 92         sargon-3ply               1486       4          1953      
 93         ChamberiAjedrez           1470       -106       321       
-94         DavidsGuterBot            1468       8          3657      
+94         DavidsGuterBot            1467       12         3658      
 95         arny_bot                  1466       -22        602       
 96         RoundMoundOfRebounds      1439       -20        1327      
 97         maia1                     1409       2          209585    
