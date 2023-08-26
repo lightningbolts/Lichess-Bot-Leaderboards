@@ -5,8 +5,8 @@ Rank       Bot                       Rating     Prog       Games
 4          HansNiemannBot            2896       -2         2424      
 5          FireFishBOT_v2            2892       5          702       
 6          ToromBot                  2892       -2         1972      
-7          ReinforcementTrial        2887       5          5222      
-8          EmanPureNN                2883       -1         249       
+7          ReinforcementTrial        2887       5          5223      
+8          EmanPureNN                2883       -1         250       
 9          FireFishBOT               2881       1          994       
 10         RaspFish                  2878       -12        5651      
 11         TorBot                    2874       3          806       
@@ -28,7 +28,7 @@ Rank       Bot                       Rating     Prog       Games
 27         Cheng-4                   2552       -6         3211      
 28         catriever                 2519       -3         279       
 29         Weiawaga                  2472       -6         10044     
-30         OpeningsBot               2463       -6         338       
+30         OpeningsBot               2466       -2         339       
 31         Pseudo-0                  2381       1          1158      
 32         TuksuBot                  2380       -1         2065      
 33         Phalanx-XXV               2376       -1         962       
@@ -39,7 +39,7 @@ Rank       Bot                       Rating     Prog       Games
 38         FlamingDragon_9000        2309       -12        1216      
 39         simpleEval                2303       -9         7684      
 40         FataliiBot                2268       23         2644      
-41         halcyonbot                2235       -5         6475      
+41         halcyonbot                2232       -12        6476      
 42         WasterNew                 2226       -30        112       
 43         SimplerEval               2196       -26        1870      
 44         eubos                     2194       -4         4287      
@@ -47,7 +47,7 @@ Rank       Bot                       Rating     Prog       Games
 46         Boris-Trapsky             2173       -2         27632     
 47         HistoryExplorer           2172       -5         1059      
 48         Elmichess                 2166       12         1417      
-49         GarboBot                  2155       2          6097      
+49         GarboBot                  2157       5          6098      
 50         Lynx_BOT                  2129       -12        40025     
 51         matmoi                    2117       -4         1672      
 52         likeawizard-bot           2087       24         884       
@@ -57,7 +57,7 @@ Rank       Bot                       Rating     Prog       Games
 56         jangine                   2058       22         1769      
 57         Humaia-Strong             2052       -31        610       
 58         Jobabot                   2049       7          243       
-59         Zagreus_Engine            2036       0          1885      
+59         Zagreus_Engine            2038       10         1886      
 60         myopic-bot                2028       8          437       
 61         LeelaRogue                1989       -7         2343      
 62         BLANK_BOT                 1967       -18        1643      
@@ -67,7 +67,7 @@ Rank       Bot                       Rating     Prog       Games
 66         Trollfish-Bot             1886       18         274       
 67         sun_bird                  1878       83         48        
 68         NatesBot                  1862       -10        388       
-69         Demolito_L6               1852       -2         701       
+69         Demolito_L6               1856       4          702       
 70         notropis                  1836       -6         2396      
 71         FlounderBot               1821       -15        217       
 72         Fisk_Bot                  1813       -19        224       
@@ -75,7 +75,7 @@ Rank       Bot                       Rating     Prog       Games
 74         honzovy-sachy             1779       14         994       
 75         zulu_bot                  1776       3          110       
 76         Demolito_L5               1761       14         1255      
-77         AshNostromo               1752       -8         1247      
+77         AshNostromo               1748       -12        1248      
 78         The_Marcus                1745       11         130       
 79         ChessChildren             1738       -7         4489      
 80         melsh_bot                 1730       30         287       
