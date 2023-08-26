@@ -44,7 +44,7 @@ Rank       Bot                       Rating     Prog       Games
 43         Elmichess                 2166       12         1417      
 44         HistoryExplorer           2166       -4         1057      
 45         GarboBot                  2156       8          6089      
-46         Lynx_BOT                  2135       -10        40012     
+46         Lynx_BOT                  2135       -5         40013     
 47         hans68Bot                 2131       25         150       
 48         matmoi                    2127       4          1658      
 49         MaxtheDog                 2087       15         712       
@@ -70,7 +70,7 @@ Rank       Bot                       Rating     Prog       Games
 69         Fisk_Bot                  1813       -19        224       
 70         Virutor                   1792       -1         3227      
 71         zulu_bot                  1776       3          110       
-72         Genetic_Chess_Bot         1769       -7         267       
+72         Genetic_Chess_Bot         1774       -6         268       
 73         AshNostromo               1758       2          1246      
 74         honzovy-sachy             1757       0          987       
 75         ChessChildren             1741       -1         4487      
@@ -80,9 +80,9 @@ Rank       Bot                       Rating     Prog       Games
 79         melsh_bot                 1709       5          281       
 80         maia9                     1694       13         85657     
 81         turkjs                    1643       12         5101      
-82         beast_engine              1639       -23        84        
-83         simplexitor               1624       -24        491       
-84         maia5                     1619       30         102758    
+82         beast_engine              1635       -22        85        
+83         maia5                     1627       34         102759    
+84         simplexitor               1624       -24        491       
 85         ZE_ROOK                   1614       27         520       
 86         yeoldwiz                  1613       -6         657       
 87         arny_bot                  1596       -99        19        
@@ -104,7 +104,7 @@ Rank       Bot                       Rating     Prog       Games
 103        sargon-1ply               1174       -13        8550      
 104        OhniBOT                   1145       -16        526       
 105        kireevi                   1117       0          576       
-106        B4ux1t3s-Bot              812        -73        51        
+106        B4ux1t3s-Bot              812        -81        52        
 107        BerserkRandomMover        765        -32        82        
 108        grandQ_AI                 729        -11        1632      
 109        G0thamB0t                 722        -25        351       
