@@ -55,11 +55,11 @@ Rank       Bot                       Rating     Prog       Games
 54         BLANK_BOT                 2038       14         7603      
 55         LazyBotJr                 2026       13         947       
 56         redtail-zero              2025       -8         715       
-57         Jobabot                   2000       26         916       
-58         Zagreus_Engine            1997       0          3280      
+57         Zagreus_Engine            1997       0          3280      
+58         Jobabot                   1994       24         917       
 59         Trollfish-Bot             1980       21         4495      
-60         sun_bird                  1930       -14        427       
-61         j1-chessnost              1928       17         241       
+60         j1-chessnost              1935       19         242       
+61         sun_bird                  1930       -14        427       
 62         Demolito_L6               1910       10         628       
 63         zeekat                    1903       -1         19168     
 64         FlounderBot               1851       -6         4673      
@@ -74,7 +74,7 @@ Rank       Bot                       Rating     Prog       Games
 73         simplexitor               1747       0          2294      
 74         Fisk_Bot                  1740       10         225       
 75         Demolito_L5               1737       13         1037      
-76         piglet_engine             1726       -13        663       
+76         piglet_engine             1723       -8         664       
 77         honzovy-sachy             1720       -33        5047      
 78         Virutor                   1703       1          6865      
 79         melsh_bot                 1690       -7         4398      
@@ -82,8 +82,8 @@ Rank       Bot                       Rating     Prog       Games
 81         rudim-bot                 1687       7          156       
 82         dlvc-bot                  1677       -12        186       
 83         turkjs                    1655       -18        19336     
-84         maia5                     1640       3          39579     
-85         ZE_ROOK                   1640       10         2030      
+84         ZE_ROOK                   1640       10         2030      
+85         maia5                     1635       -7         39580     
 86         turochamp-2ply            1606       7          1616      
 87         beast_engine              1605       -17        46        
 88         monchester                1600       30         2527      
@@ -92,8 +92,8 @@ Rank       Bot                       Rating     Prog       Games
 91         sargon-3ply               1584       11         1391      
 92         RoundMoundOfRebounds      1565       10         1454      
 93         maia9                     1561       -21        61190     
-94         DavidsGuterBot            1533       -11        6334      
-95         maia1                     1513       7          124906    
+94         DavidsGuterBot            1536       -7         6335      
+95         maia1                     1517       7          124907    
 96         sargon-2ply               1498       19         2452      
 97         turochamp-1ply            1496       -6         2105      
 98         botTideEval               1470       -12        2218      
