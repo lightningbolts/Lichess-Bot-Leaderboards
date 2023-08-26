@@ -6,8 +6,8 @@ Rank       Bot                       Rating     Prog       Games
 5          ShashChess_MsP            2894       11         722       
 6          FireFishBOT_v2            2893       6          701       
 7          ReinforcementTrial        2887       5          5219      
-8          EmanPureNN                2884       7          241       
-9          FireFishBOT               2880       0          990       
+8          EmanPureNN                2884       0          242       
+9          FireFishBOT               2881       1          991       
 10         RaspFish                  2878       -12        5645      
 11         YoBot_v2                  2872       6          13079     
 12         ResoluteBot               2861       4          5278      
@@ -79,7 +79,7 @@ Rank       Bot                       Rating     Prog       Games
 78         ChessChildren             1736       -2         4488      
 79         melsh_bot                 1730       34         285       
 80         dlvc-bot                  1727       -30        85        
-81         maia9                     1712       -36        85721     
+81         maia9                     1707       -46        85722     
 82         turkjs                    1637       12         5102      
 83         maia5                     1623       -6         102786    
 84         simplexitor               1620       -33        492       
@@ -93,7 +93,7 @@ Rank       Bot                       Rating     Prog       Games
 92         DavidsGuterBot            1541       -9         643       
 93         turochamp-2ply            1488       -19        1098      
 94         RoundMoundOfRebounds      1486       42         362       
-95         maia1                     1478       -10        233733    
+95         maia1                     1470       -21        233735    
 96         Humaia                    1430       27         2276      
 97         StupidChessRobot          1413       49         56        
 98         sargon-2ply               1377       -25        3344      
