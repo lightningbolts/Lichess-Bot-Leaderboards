@@ -34,7 +34,7 @@ Rank       Bot                       Rating     Prog       Games
 33         fornax-engine             2347       0          3716      
 34         RavenEngine               2341       -21        408       
 35         FlamingDragon_9000        2309       -12        1216      
-36         simpleEval                2301       -13        7679      
+36         simpleEval                2304       -11        7680      
 37         FataliiBot                2266       19         2643      
 38         halcyonbot                2244       17         6465      
 39         SimplerEval               2202       -25        1867      
@@ -45,13 +45,13 @@ Rank       Bot                       Rating     Prog       Games
 44         Elmichess                 2166       12         1417      
 45         GarboBot                  2148       -6         6092      
 46         Lynx_BOT                  2141       0          40014     
-47         matmoi                    2123       9          1666      
+47         matmoi                    2120       -2         1667      
 48         camel_bot                 2091       6          378       
 49         likeawizard-bot           2086       21         879       
 50         MaxtheDog                 2081       8          713       
 51         redtail-zero              2065       -8         369       
 52         Humaia-Strong             2052       -31        610       
-53         Jobabot                   2047       -4         241       
+53         Jobabot                   2049       3          242       
 54         jangine                   2043       4          1764      
 55         Zagreus_Engine            2041       12         1882      
 56         myopic-bot                2016       -6         433       
@@ -63,7 +63,7 @@ Rank       Bot                       Rating     Prog       Games
 62         Trollfish-Bot             1883       14         271       
 63         NatesBot                  1870       1          385       
 64         sun_bird                  1870       75         47        
-65         Demolito_L6               1856       4          692       
+65         Demolito_L6               1853       8          693       
 66         notropis                  1837       -3         2394      
 67         FlounderBot               1821       -15        217       
 68         Fisk_Bot                  1813       -19        224       
@@ -88,7 +88,7 @@ Rank       Bot                       Rating     Prog       Games
 87         sargon-3ply               1546       -25        1203      
 88         sargon-4ply               1546       -14        637       
 89         dragobot                  1545       2          72        
-90         maia1                     1498       -27        233675    
+90         maia1                     1493       -24        233676    
 91         turochamp-2ply            1488       -19        1098      
 92         RoundMoundOfRebounds      1474       29         361       
 93         Humaia                    1430       27         2276      
@@ -104,4 +104,4 @@ Rank       Bot                       Rating     Prog       Games
 103        B4ux1t3s-Bot              812        -81        52        
 104        BerserkRandomMover        765        -32        82        
 105        grandQ_AI                 729        -11        1632      
-106        G0thamB0t                 703        -37        355       
+106        G0thamB0t                 698        -40        356       
