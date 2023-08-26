@@ -36,7 +36,7 @@ Rank       Bot                       Rating     Prog       Games
 35         FlamingDragon_9000        2309       -12        1216      
 36         simpleEval                2304       -11        7680      
 37         FataliiBot                2266       19         2643      
-38         halcyonbot                2244       17         6465      
+38         halcyonbot                2248       21         6466      
 39         SimplerEval               2202       -25        1867      
 40         eubos                     2194       1          4286      
 41         honzovy-sachy-2           2181       7          3612      
@@ -44,7 +44,7 @@ Rank       Bot                       Rating     Prog       Games
 43         HistoryExplorer           2168       -3         1058      
 44         Elmichess                 2166       12         1417      
 45         GarboBot                  2148       -6         6092      
-46         Lynx_BOT                  2141       0          40014     
+46         Lynx_BOT                  2137       -3         40015     
 47         matmoi                    2120       -2         1667      
 48         camel_bot                 2091       6          378       
 49         likeawizard-bot           2086       21         879       
@@ -88,7 +88,7 @@ Rank       Bot                       Rating     Prog       Games
 87         sargon-3ply               1546       -25        1203      
 88         sargon-4ply               1546       -14        637       
 89         dragobot                  1545       2          72        
-90         maia1                     1493       -24        233676    
+90         maia1                     1496       -28        233677    
 91         turochamp-2ply            1488       -19        1098      
 92         RoundMoundOfRebounds      1474       29         361       
 93         Humaia                    1430       27         2276      
@@ -104,4 +104,4 @@ Rank       Bot                       Rating     Prog       Games
 103        B4ux1t3s-Bot              812        -81        52        
 104        BerserkRandomMover        765        -32        82        
 105        grandQ_AI                 729        -11        1632      
-106        G0thamB0t                 698        -40        356       
+106        G0thamB0t                 694        -42        357       
