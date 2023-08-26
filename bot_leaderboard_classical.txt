@@ -1,8 +1,8 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Aureo           2641       49         14        
 2          TorBot                    2619       21         38        
-3          ProteusSF-Godot           2598       10         255       
-4          ReinforcementTrial        2598       9          21        
+3          ReinforcementTrial        2605       16         22        
+4          ProteusSF-Godot           2598       10         255       
 5          YoBot_v2                  2589       -1         491       
 6          Shineshou90_BOT           2586       0          275       
 7          ResoluteBot               2584       -5         635       
@@ -10,7 +10,7 @@ Rank       Bot                       Rating     Prog       Games
 9          HansNiemannBot            2558       20         274       
 10         ELO_1500                  2419       -3         247       
 11         FrozenightEngine          2385       -1         4296      
-12         AKS-Mantissa              2381       2          1029      
+12         AKS-Mantissa              2379       -6         1030      
 13         expositor                 2375       -13        1131      
 14         LazyBot                   2354       32         202       
 15         pawn_git                  2344       6          224       
@@ -57,9 +57,9 @@ Rank       Bot                       Rating     Prog       Games
 56         yeoldwiz                  1590       25         309       
 57         sargon-3ply               1583       -35        753       
 58         chat_bot                  1580       16         43        
-59         maia5                     1547       -7         23242     
-60         StupidChessRobot          1543       54         21        
-61         maia1                     1531       -4         65889     
+59         StupidChessRobot          1543       54         21        
+60         maia5                     1541       -16        23243     
+61         maia1                     1535       1          65890     
 62         Trollfish-Bot             1497       -57        46        
 63         Humaia                    1489       -16        1214      
 64         sargon-2ply               1454       15         1223      
