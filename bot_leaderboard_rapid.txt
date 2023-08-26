@@ -25,7 +25,7 @@ Rank       Bot                       Rating     Prog       Games
 24         bot_adario                2541       17         1386      
 25         catriever                 2526       5          275       
 26         Weiawaga                  2472       -5         10039     
-27         OpeningsBot               2464       5          334       
+27         OpeningsBot               2460       -2         335       
 28         Wahoo_Bot                 2421       34         98        
 29         TuksuBot                  2384       3          2064      
 30         Pseudo-0                  2381       1          1158      
@@ -38,7 +38,7 @@ Rank       Bot                       Rating     Prog       Games
 37         FlamingDragon_9000        2309       -12        1216      
 38         simpleEval                2301       -13        7679      
 39         FataliiBot                2266       19         2643      
-40         halcyonbot                2234       14         6461      
+40         halcyonbot                2237       12         6462      
 41         SimplerEval               2213       -27        1866      
 42         eubos                     2190       -3         4285      
 43         honzovy-sachy-2           2181       7          3612      
@@ -47,7 +47,7 @@ Rank       Bot                       Rating     Prog       Games
 46         GarboBot                  2148       -6         6092      
 47         Lynx_BOT                  2141       0          40014     
 48         matmoi                    2117       -5         1663      
-49         camel_bot                 2093       6          374       
+49         camel_bot                 2095       -1         375       
 50         likeawizard-bot           2084       23         877       
 51         MaxtheDog                 2081       8          713       
 52         redtail-zero              2070       -9         368       
@@ -73,15 +73,15 @@ Rank       Bot                       Rating     Prog       Games
 72         Genetic_Chess_Bot         1774       -6         268       
 73         AshNostromo               1758       2          1246      
 74         honzovy-sachy             1755       -1         988       
-75         Demolito_L5               1741       17         1243      
+75         Demolito_L5               1747       19         1244      
 76         ChessChildren             1736       -2         4488      
-77         The_Marcus                1734       1          127       
-78         maia9                     1732       -1         85690     
-79         melsh_bot                 1731       32         284       
+77         maia9                     1734       -10        85692     
+78         The_Marcus                1734       1          127       
+79         melsh_bot                 1730       34         285       
 80         dlvc-bot                  1727       -30        85        
 81         beast_engine              1641       9          90        
 82         turkjs                    1637       12         5102      
-83         maia5                     1632       -1         102776    
+83         maia5                     1634       5          102777    
 84         simplexitor               1624       -24        491       
 85         ZE_ROOK                   1610       17         521       
 86         yeoldwiz                  1606       -22        658       
@@ -90,7 +90,7 @@ Rank       Bot                       Rating     Prog       Games
 89         sargon-3ply               1546       -25        1203      
 90         sargon-4ply               1546       -14        637       
 91         dragobot                  1545       2          72        
-92         maia1                     1507       2          233644    
+92         maia1                     1513       14         233645    
 93         turochamp-2ply            1488       -19        1098      
 94         RoundMoundOfRebounds      1474       29         361       
 95         Humaia                    1430       27         2276      
