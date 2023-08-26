@@ -1,5 +1,5 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ReinforcementTrial        2621       24         35        
+1          ReinforcementTrial        2619       23         36        
 2          ProteusSF-Godot           2600       1          274       
 3          ResoluteBot               2586       -3         639       
 4          YoBot_v2                  2586       -1         495       
@@ -7,8 +7,8 @@ Rank       Bot                       Rating     Prog       Games
 6          Mr_Chess_Berserk          2580       -7         34        
 7          ttBOT                     2575       48         42        
 8          ShashChess_MsP            2574       -1         92        
-9          HansNiemannBot            2567       20         277       
-10         RaspFish                  2567       -11        554       
+9          RaspFish                  2568       -7         555       
+10         HansNiemannBot            2567       20         277       
 11         Nikitosik-ai              2520       1          98        
 12         ELO_1500                  2428       5          254       
 13         FrozenightEngine          2386       -4         4303      
@@ -62,7 +62,7 @@ Rank       Bot                       Rating     Prog       Games
 61         sargon-3ply               1583       -35        753       
 62         maia5                     1548       -3         23262     
 63         StupidChessRobot          1543       54         21        
-64         maia1                     1505       6          66010     
+64         maia1                     1505       12         66011     
 65         Trollfish-Bot             1497       -57        46        
 66         Humaia                    1477       -19        1223      
 67         sargon-2ply               1454       15         1223      
@@ -70,6 +70,6 @@ Rank       Bot                       Rating     Prog       Games
 69         kireevi                   1345       -39        243       
 70         RoundMoundOfRebounds      1328       -21        121       
 71         sargon-1ply               1284       -7         3369      
-72         grandQ_AI                 854        -17        800       
+72         grandQ_AI                 851        -16        802       
 73         BerserkRandomMover        832        -27        72        
 74         G0thamB0t                 817        -56        189       
