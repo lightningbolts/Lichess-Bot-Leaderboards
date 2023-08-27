@@ -5,12 +5,12 @@ Rank       Bot                       Rating     Prog       Games
 4          ReinforcementTrial        2890       -1         2335      
 5          EmptikBot                 2882       2          481       
 6          FireFishBOT               2881       -2         2452      
-7          FireFishBOT_v2            2879       3          4717      
+7          FireFishBOT_v2            2879       3          4719      
 8          EmptikVariantsBot         2878       4          536       
 9          caissa-x                  2868       3          3265      
 10         ResoluteBot               2862       5          11550     
 11         RaspFish                  2856       0          11551     
-12         HansNiemannBot            2849       3          2880      
+12         HansNiemannBot            2850       3          2881      
 13         YoBot_v2                  2846       -4         3820      
 14         EmptikBotLc0              2830       28         61        
 15         chessfyBOT                2819       -12        180       
@@ -25,7 +25,7 @@ Rank       Bot                       Rating     Prog       Games
 24         expositor                 2597       1          7185      
 25         FrozenightEngine          2595       12         6114      
 26         ELO_1500                  2566       -5         13154     
-27         SaxtonEngine              2511       7          2384      
+27         SaxtonEngine              2509       4          2385      
 28         pawn_git                  2491       5          2565      
 29         catriever                 2490       27         833       
 30         Cheng-4                   2488       -3         6655      
@@ -99,7 +99,7 @@ Rank       Bot                       Rating     Prog       Games
 98         ZE_ROOK                   1529       9          2996      
 99         turkjs                    1519       11         10303     
 100        yeoldwiz                  1514       -32        1743      
-101        maia5                     1505       -33        102787    
+101        maia5                     1503       -36        102790    
 102        beast_engine              1501       10         153       
 103        sargon-3ply               1495       16         1966      
 104        arny_bot                  1491       -15        766       
@@ -108,7 +108,7 @@ Rank       Bot                       Rating     Prog       Games
 107        RoundMoundOfRebounds      1438       -7         1347      
 108        DavidsGuterBot            1424       22         3697      
 109        turochamp-2ply            1381       13         1712      
-110        maia1                     1375       -19        209837    
+110        maia1                     1372       -27        209839    
 111        Humaia                    1352       -20        992       
 112        monchester                1351       11         2748      
 113        StupidChessRobot          1325       13         1670      
