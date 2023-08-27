@@ -35,7 +35,7 @@ Rank       Bot                       Rating     Prog       Games
 34         Pseudo-0                  2389       8          3004      
 35         AjedrezChamberi           2375       27         273       
 36         RavenEngine               2360       10         1624      
-37         fornax-engine             2350       -1         6599      
+37         fornax-engine             2354       4          6600      
 38         simpleEval                2344       -13        15001     
 39         OpeningsBot               2332       -24        1121      
 40         FlamingDragon_9000        2323       19         3331      
@@ -45,7 +45,7 @@ Rank       Bot                       Rating     Prog       Games
 44         halcyonbot                2225       11         9860      
 45         Nakshatra3                2199       -3         1658      
 46         SimplerEval               2193       3          3313      
-47         eubos                     2181       -7         14777     
+47         eubos                     2178       -6         14778     
 48         matmoi                    2172       14         1974      
 49         honzovy-sachy-2           2138       -5         7006      
 50         Lynx_BOT                  2137       -8         50137     
@@ -80,7 +80,7 @@ Rank       Bot                       Rating     Prog       Games
 79         Fisk_Bot                  1748       14         1485      
 80         honzovy-sachy             1696       -11        5176      
 81         melsh_bot                 1686       -3         2127      
-82         The_Marcus                1684       -6         1377      
+82         The_Marcus                1685       -4         1378      
 83         dlvc-bot                  1676       -12        1262      
 84         piglet_engine             1671       -22        158       
 85         AshNostromo               1669       4          1001      
@@ -98,7 +98,7 @@ Rank       Bot                       Rating     Prog       Games
 97         arny_bot                  1515       -3         818       
 98         sargon-3ply               1495       22         1967      
 99         RavenEngine_Depth2        1487       -81        61        
-100        maia5                     1473       1          102861    
+100        maia5                     1478       0          102862    
 101        ChamberiAjedrez           1470       -106       321       
 102        sargon-4ply               1469       -12        2074      
 103        RoundMoundOfRebounds      1451       15         1357      
@@ -113,7 +113,7 @@ Rank       Bot                       Rating     Prog       Games
 112        turochamp-1ply            1266       -8         1840      
 113        dragobot                  1257       -30        154       
 114        pawnrobot                 1254       6          2134      
-115        sargon-2ply               1249       -16        3136      
+115        sargon-2ply               1248       -15        3137      
 116        OhniBOT                   1230       25         328       
 117        czesc-bot                 1228       -60        145       
 118        sargon-1ply               1217       -9         7983      
