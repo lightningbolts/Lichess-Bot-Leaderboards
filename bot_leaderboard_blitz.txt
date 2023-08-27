@@ -39,7 +39,7 @@ Rank       Bot                       Rating     Prog       Games
 38         FlamingDragon_9000        2323       19         3331      
 39         bekbot                    2293       20         1398      
 40         FataliiBot                2293       9          6783      
-41         halcyonbot                2235       7          9821      
+41         halcyonbot                2238       13         9822      
 42         Nakshatra3                2192       -12        1651      
 43         SimplerEval               2192       -2         3308      
 44         Lynx_BOT                  2167       17         50090     
@@ -50,7 +50,7 @@ Rank       Bot                       Rating     Prog       Games
 49         Boris-Trapsky             2107       4          28887     
 50         GarboBot                  2097       17         9416      
 51         MaxtheDog                 2082       7          4699      
-52         jangine                   2079       -9         3478      
+52         jangine                   2076       -17        3479      
 53         redtail-zero              2073       9          526       
 54         myopic-bot                2056       36         2143      
 55         likeawizard-bot           2050       16         3603      
@@ -62,8 +62,8 @@ Rank       Bot                       Rating     Prog       Games
 61         Zagreus_Engine            1956       11         4306      
 62         sun_bird                  1946       -4         585       
 63         LazyBotJr                 1940       3          1922      
-64         zeekat                    1895       -7         21377     
-65         Trollfish-Bot             1875       -16        2174      
+64         zeekat                    1889       -9         21378     
+65         Trollfish-Bot             1881       -17        2175      
 66         zulu_bot                  1861       -3         992       
 67         NatesBot                  1855       9          825       
 68         Dinora                    1825       15         84        
@@ -84,10 +84,10 @@ Rank       Bot                       Rating     Prog       Games
 83         QueensGamBOT              1650       15         3085      
 84         simplexitor               1616       -5         2242      
 85         ChessChildren             1602       6          21452     
-86         maia9                     1555       4          102364    
+86         maia9                     1555       -1         102365    
 87         sudobot_chess             1539       -74        402       
 88         maia5                     1534       9          102774    
-89         yeoldwiz                  1533       -3         1737      
+89         yeoldwiz                  1533       4          1738      
 90         ZE_ROOK                   1521       -18        2990      
 91         turkjs                    1513       4          10301     
 92         arny_bot                  1502       11         753       
@@ -100,10 +100,10 @@ Rank       Bot                       Rating     Prog       Games
 99         Humaia                    1360       -18        991       
 100        maia1                     1351       -30        209813    
 101        monchester                1351       11         2748      
-102        chat_bot                  1316       -8         311       
-103        StupidChessRobot          1314       -5         1666      
-104        dragobot                  1270       -20        150       
-105        turochamp-1ply            1269       -4         1836      
+102        StupidChessRobot          1319       1          1667      
+103        chat_bot                  1316       -8         311       
+104        turochamp-1ply            1269       -4         1836      
+105        dragobot                  1265       -28        151       
 106        pawnrobot                 1263       -5         2129      
 107        sargon-2ply               1261       4          3130      
 108        rust-bot                  1243       -62        26        
