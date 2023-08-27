@@ -9,7 +9,7 @@ Rank       Bot                       Rating     Prog       Games
 8          HansNiemannBot            2567       20         277       
 9          ArasanX                   2557       -1         147       
 10         Nikitosik-ai              2520       1          98        
-11         ELO_1500                  2419       0          258       
+11         ELO_1500                  2420       -4         259       
 12         FrozenightEngine          2385       -3         4308      
 13         AKS-Mantissa              2380       -3         1034      
 14         expositor                 2376       -2         1143      
@@ -20,10 +20,10 @@ Rank       Bot                       Rating     Prog       Games
 19         Cheng-4                   2285       -1         1543      
 20         Weiawaga                  2253       1          5727      
 21         FlamingDragon_9000        2238       -18        514       
-22         Pseudo-0                  2128       -2         415       
-23         EmptikVariantsBot         2127       77         52        
-24         Boris-Trapsky             2118       -5         10452     
-25         TuksuBot                  2113       -19        989       
+22         EmptikVariantsBot         2146       87         53        
+23         Pseudo-0                  2128       -2         415       
+24         TuksuBot                  2113       -19        989       
+25         Boris-Trapsky             2112       -15        10453     
 26         Phalanx-XXV               2082       -5         372       
 27         simpleEval                2050       -11        1850      
 28         bekbot                    2035       11         97        
@@ -45,7 +45,7 @@ Rank       Bot                       Rating     Prog       Games
 44         LazyBotJr                 1831       -23        220       
 45         LeelaRogue                1825       2          648       
 46         Demolito_L6               1768       -63        32        
-47         ChessChildren             1762       40         1194      
+47         ChessChildren             1762       32         1195      
 48         maia9                     1745       10         21452     
 49         Demolito_L5               1737       -32        68        
 50         Virutor                   1730       21         632       
