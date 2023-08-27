@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ProteusSF-Aureo           2908       8          22        
-2          HansNiemannBot            2907       11         2468      
+1          HansNiemannBot            2908       10         2469      
+2          ProteusSF-Aureo           2908       8          22        
 3          ProteusSF-Godot           2897       2          195       
 4          FireFishBOT_v2            2896       4          718       
 5          FireFishBOT               2886       5          1022      
@@ -37,7 +37,7 @@ Rank       Bot                       Rating     Prog       Games
 36         fornax-engine             2347       -1         3721      
 37         RavenEngine               2347       -18        414       
 38         LunaChessEngine           2339       10         1103      
-39         simpleEval                2316       21         7693      
+39         simpleEval                2316       17         7694      
 40         FlamingDragon_9000        2309       -12        1216      
 41         bekbot                    2296       9          1155      
 42         Nakshatra3                2265       -3         875       
@@ -48,15 +48,15 @@ Rank       Bot                       Rating     Prog       Games
 47         WasterNew                 2215       -18        117       
 48         honzovy-sachy-2           2173       -1         3622      
 49         Elmichess                 2166       12         1417      
-50         Lynx_BOT                  2152       13         40045     
-51         GarboBot                  2148       -5         6106      
+50         GarboBot                  2152       -2         6107      
+51         Lynx_BOT                  2152       13         40045     
 52         Boris-Trapsky             2147       2          27655     
 53         matmoi                    2111       -11        1707      
 54         redtail-zero              2104       24         391       
 55         hans68Bot                 2099       -31        161       
 56         MaxtheDog                 2095       13         719       
 57         jangine                   2068       27         1773      
-58         likeawizard-bot           2060       -2         911       
+58         likeawizard-bot           2056       0          912       
 59         Humaia-Strong             2052       -31        610       
 60         Zagreus_Engine            2048       14         1907      
 61         Jobabot                   2037       -11        257       
@@ -84,7 +84,7 @@ Rank       Bot                       Rating     Prog       Games
 83         Demolito_L5               1741       -17        1297      
 84         melsh_bot                 1727       20         291       
 85         dlvc-bot                  1712       -30        87        
-86         maia9                     1671       -5         85977     
+86         maia9                     1664       -15        85978     
 87         turkjs                    1638       3          5109      
 88         maia5                     1629       -14        103025    
 89         simplexitor               1615       -29        494       
