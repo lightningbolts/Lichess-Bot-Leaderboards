@@ -1,9 +1,9 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ToromBot                  2898       11         3474      
-2          ProteusSF-Godot           2896       1          1243      
+1          ProteusSF-Godot           2896       1          1243      
+2          ToromBot                  2896       9          3475      
 3          ReinforcementTrial        2891       4          2326      
-4          FireFishBOT               2885       2          2438      
-5          EmptikBot                 2884       4          480       
+4          EmptikBot                 2884       4          480       
+5          FireFishBOT               2884       1          2439      
 6          FireFishBOT_v2            2880       -5         4692      
 7          RaspFish                  2860       1          11534     
 8          ResoluteBot               2856       -6         11538     
@@ -11,9 +11,9 @@ Rank       Bot                       Rating     Prog       Games
 10         HansNiemannBot            2846       7          2869      
 11         chessfyBOT                2819       -12        180       
 12         Mr_Chess_Berserk          2811       -8         257       
-13         Nikitosik-ai              2809       8          552       
+13         Nikitosik-ai              2810       8          553       
 14         ArasanX                   2807       -6         2051      
-15         Shineshou90_BOT           2792       -1         2115      
+15         Shineshou90_BOT           2794       0          2116      
 16         CaissaChessEngine         2769       18         73        
 17         blundar_bot               2750       -4         1154      
 18         LazyBot                   2690       -30        2026      
@@ -30,7 +30,7 @@ Rank       Bot                       Rating     Prog       Games
 29         Phalanx-XXV               2422       17         2703      
 30         TuksuBot                  2416       15         4070      
 31         odonata-bot               2410       0          6107      
-32         admete_bot                2387       6          6407      
+32         admete_bot                2389       8          6408      
 33         Pseudo-0                  2384       -2         2998      
 34         RavenEngine               2361       10         1618      
 35         fornax-engine             2355       3          6593      
@@ -40,7 +40,7 @@ Rank       Bot                       Rating     Prog       Games
 39         FataliiBot                2296       7          6778      
 40         halcyonbot                2236       6          9816      
 41         SimplerEval               2185       -12        3307      
-42         Lynx_BOT                  2150       15         50070     
+42         Lynx_BOT                  2147       9          50071     
 43         matmoi                    2146       6          1936      
 44         eubos                     2145       -7         14744     
 45         honzovy-sachy-2           2140       -8         6994      
