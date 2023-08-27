@@ -51,10 +51,10 @@ Rank       Bot                       Rating     Prog       Games
 50         MaxtheDog                 2084       -1         4694      
 51         redtail-zero              2077       16         523       
 52         myopic-bot                2045       25         2137      
-53         likeawizard-bot           2030       0          3583      
-54         Elmichess                 2026       12         3560      
-55         Humaia-Strong             2001       20         2370      
-56         Jobabot                   2001       -21        672       
+53         Elmichess                 2026       12         3560      
+54         likeawizard-bot           2024       -10        3584      
+55         Jobabot                   2007       -14        673       
+56         Humaia-Strong             2001       20         2370      
 57         LeelaRogue                1992       8          2403      
 58         BLANK_BOT                 1966       2          4936      
 59         Zagreus_Engine            1950       -11        4296      
@@ -82,7 +82,7 @@ Rank       Bot                       Rating     Prog       Games
 81         QueensGamBOT              1649       22         3083      
 82         simplexitor               1620       -3         2239      
 83         HardRok                   1611       -12        900       
-84         ChessChildren             1596       -6         21447     
+84         ChessChildren             1600       6          21448     
 85         RavenEngine_Depth2        1585       -79        48        
 86         maia9                     1579       1          102332    
 87         GuineaBot3                1575       -42        103       
@@ -91,9 +91,9 @@ Rank       Bot                       Rating     Prog       Games
 90         ZE_ROOK                   1521       -42        2984      
 91         turkjs                    1515       0          10300     
 92         maia5                     1511       -24        102746    
-93         arny_bot                  1496       12         734       
-94         beast_engine              1496       -12        138       
-95         sargon-3ply               1495       16         1966      
+93         beast_engine              1496       -12        138       
+94         sargon-3ply               1495       16         1966      
+95         arny_bot                  1492       10         735       
 96         sargon-4ply               1478       -2         2066      
 97         RoundMoundOfRebounds      1440       7          1340      
 98         DavidsGuterBot            1420       18         3694      
