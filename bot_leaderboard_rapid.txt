@@ -3,7 +3,7 @@ Rank       Bot                       Rating     Prog       Games
 2          HansNiemannBot            2901       6          2462      
 3          ProteusSF-Godot           2897       2          195       
 4          FireFishBOT_v2            2896       4          718       
-5          ToromBot                  2891       0          1997      
+5          ToromBot                  2889       -1         1998      
 6          ReinforcementTrial        2887       -4         5248      
 7          FireFishBOT               2886       5          1017      
 8          RaspFish                  2871       -10        5675      
@@ -35,7 +35,7 @@ Rank       Bot                       Rating     Prog       Games
 34         fornax-engine             2347       -1         3721      
 35         RavenEngine               2347       -18        414       
 36         FlamingDragon_9000        2309       -12        1216      
-37         simpleEval                2305       -1         7688      
+37         simpleEval                2308       7          7689      
 38         bekbot                    2298       14         1154      
 39         Nakshatra3                2265       -3         875       
 40         FataliiBot                2239       -29        2655      
@@ -49,7 +49,7 @@ Rank       Bot                       Rating     Prog       Games
 48         Boris-Trapsky             2156       3          27652     
 49         Lynx_BOT                  2140       18         40039     
 50         CadabraBot                2127       8          953       
-51         matmoi                    2117       -18        1699      
+51         matmoi                    2114       -16        1700      
 52         redtail-zero              2107       34         387       
 53         MaxtheDog                 2095       13         719       
 54         camel_bot                 2090       9          404       
@@ -81,16 +81,16 @@ Rank       Bot                       Rating     Prog       Games
 80         AshNostromo               1745       -7         1250      
 81         melsh_bot                 1727       20         291       
 82         dlvc-bot                  1712       -30        87        
-83         maia9                     1704       -1         85917     
+83         maia9                     1698       -9         85919     
 84         beast_engine              1636       32         150       
 85         turkjs                    1631       -5         5108      
 86         simplexitor               1615       -29        494       
 87         ZE_ROOK                   1610       -5         530       
-88         maia5                     1606       40         102962    
-89         yeoldwiz                  1603       -9         661       
+88         yeoldwiz                  1603       -9         661       
+89         maia5                     1602       30         102963    
 90         HardRok                   1567       -9         702       
 91         dragobot                  1564       15         78        
-92         maia1                     1556       11         234044    
+92         maia1                     1560       11         234048    
 93         sargon-4ply               1548       -4         640       
 94         sargon-3ply               1546       -25        1203      
 95         arny_bot                  1545       -79        24        
