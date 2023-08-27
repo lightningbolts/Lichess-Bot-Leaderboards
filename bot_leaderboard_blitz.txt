@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Godot           2896       1          1243      
-2          ToromBot                  2894       5          3468      
+2          ToromBot                  2895       6          3469      
 3          ReinforcementTrial        2891       4          2324      
 4          FireFishBOT               2887       4          2432      
 5          EmptikBot                 2884       4          480       
@@ -21,7 +21,7 @@ Rank       Bot                       Rating     Prog       Games
 20         expositor                 2595       -3         7177      
 21         FrozenightEngine          2582       6          6105      
 22         ELO_1500                  2570       13         13151     
-23         SaxtonEngine              2513       20         2376      
+23         SaxtonEngine              2512       17         2377      
 24         Cheng-4                   2490       13         6646      
 25         pawn_git                  2485       10         2559      
 26         catriever                 2463       5          822       
@@ -42,7 +42,7 @@ Rank       Bot                       Rating     Prog       Games
 41         halcyonbot                2223       -14        9814      
 42         SimplerEval               2190       -10        3306      
 43         eubos                     2144       -11        14740     
-44         Lynx_BOT                  2143       9          50062     
+44         Lynx_BOT                  2139       7          50063     
 45         CadabraBot                2137       -17        1352      
 46         honzovy-sachy-2           2137       -13        6993      
 47         matmoi                    2136       -6         1933      
@@ -65,7 +65,7 @@ Rank       Bot                       Rating     Prog       Games
 64         zeekat                    1913       -18        21361     
 65         Trollfish-Bot             1894       11         2168      
 66         zulu_bot                  1861       -3         992       
-67         NatesBot                  1846       -3         814       
+67         NatesBot                  1850       2          815       
 68         hans68Bot                 1841       -25        139       
 69         Dinora                    1824       9          83        
 70         Demolito_L6               1814       -7         1024      
@@ -79,7 +79,7 @@ Rank       Bot                       Rating     Prog       Games
 78         melsh_bot                 1714       -3         2106      
 79         Virutor                   1677       24         7548      
 80         dlvc-bot                  1676       -12        1262      
-81         The_Marcus                1673       -13        1329      
+81         The_Marcus                1673       -11        1330      
 82         AshNostromo               1668       -2         997       
 83         piglet_engine             1668       -43        150       
 84         QueensGamBOT              1649       22         3083      
@@ -87,8 +87,8 @@ Rank       Bot                       Rating     Prog       Games
 86         simplexitor               1620       -3         2239      
 87         HardRok                   1609       -19        898       
 88         ChessChildren             1594       -5         21445     
-89         maia9                     1578       9          102329    
-90         GuineaBot3                1575       -42        103       
+89         GuineaBot3                1575       -42        103       
+90         maia9                     1567       -13        102330    
 91         yeoldwiz                  1541       1          1731      
 92         sudobot_chess             1539       -74        402       
 93         ZE_ROOK                   1521       -42        2984      
@@ -114,6 +114,6 @@ Rank       Bot                       Rating     Prog       Games
 113        OhniBOT                   1230       25         328       
 114        sargon-1ply               1224       -1         7967      
 115        knucklefish               1051       -24        3268      
-116        B4ux1t3s-Bot              1020       -18        52        
+116        B4ux1t3s-Bot              1019       -19        53        
 117        BerserkRandomMover        854        -6         233       
 118        grandQ_AI                 801        4          1239      
