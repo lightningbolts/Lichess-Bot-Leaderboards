@@ -7,12 +7,12 @@ Rank       Bot                       Rating     Prog       Games
 6          ResoluteBot               2873       7          11584     
 7          HansNiemannBot            2861       1          2914      
 8          YoBot_v2                  2855       7          3849      
-9          RaspFish                  2843       -17        11589     
-10         Mr_Chess_Berserk          2822       5          286       
+9          RaspFish                  2842       -18        11590     
+10         Mr_Chess_Berserk          2822       4          287       
 11         chessfyBOT                2819       -12        180       
 12         Nikitosik-ai              2813       -5         605       
 13         ArasanX                   2797       -6         2073      
-14         Shineshou90_BOT           2789       7          2142      
+14         Shineshou90_BOT           2789       6          2143      
 15         blundar_bot               2746       -13        1174      
 16         Palisade                  2707       20         326       
 17         LazyBot                   2690       -30        2026      
@@ -35,9 +35,9 @@ Rank       Bot                       Rating     Prog       Games
 34         fornax-engine             2356       13         6601      
 35         OpeningsBot               2333       -22        1122      
 36         LunaChessEngine           2329       17         1744      
-37         simpleEval                2328       -6         15010     
+37         simpleEval                2328       -11        15011     
 38         FlamingDragon_9000        2323       19         3331      
-39         bekbot                    2303       26         1405      
+39         bekbot                    2302       23         1406      
 40         FataliiBot                2240       -21        6815      
 41         HistoryExplorer           2230       4          2784      
 42         halcyonbot                2228       11         9882      
@@ -84,7 +84,7 @@ Rank       Bot                       Rating     Prog       Games
 83         piglet_engine             1671       -22        158       
 84         AshNostromo               1664       4          1003      
 85         melsh_bot                 1664       -28        2132      
-86         Virutor                   1661       -11        7582      
+86         Virutor                   1654       -15        7583      
 87         QueensGamBOT              1645       2          3093      
 88         simplexitor               1626       -16        2258      
 89         ChessChildren             1599       -3         21464     
@@ -101,7 +101,7 @@ Rank       Bot                       Rating     Prog       Games
 100        RavenEngine_Depth2        1457       -69        66        
 101        RoundMoundOfRebounds      1451       20         1361      
 102        DavidsGuterBot            1426       7          3704      
-103        maia1                     1409       11         210012    
+103        maia1                     1405       9          210013    
 104        turochamp-2ply            1358       -15        1720      
 105        monchester                1353       8          2754      
 106        Humaia                    1352       -20        992       
