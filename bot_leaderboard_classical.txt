@@ -10,7 +10,7 @@ Rank       Bot                       Rating     Prog       Games
 9          HansNiemannBot            2574       17         281       
 10         ArasanX                   2546       -10        166       
 11         Nikitosik-ai              2520       1          98        
-12         ELO_1500                  2426       9          280       
+12         ELO_1500                  2428       11         281       
 13         expositor                 2399       23         1152      
 14         AKS-Mantissa              2376       -2         1039      
 15         FrozenightEngine          2375       -4         4323      
@@ -23,7 +23,7 @@ Rank       Bot                       Rating     Prog       Games
 22         FlamingDragon_9000        2238       -18        514       
 23         TuksuBot                  2113       -16        990       
 24         Boris-Trapsky             2109       -3         10464     
-25         simpleEval                2037       -35        1854      
+25         simpleEval                2035       -34        1855      
 26         bekbot                    2023       -3         99        
 27         SimplerEval               1991       32         216       
 28         Humaia-Strong             1990       17         233       
@@ -54,8 +54,8 @@ Rank       Bot                       Rating     Prog       Games
 53         turkjs                    1624       25         913       
 54         chat_bot                  1591       34         44        
 55         yeoldwiz                  1590       25         309       
-56         maia5                     1588       10         23317     
-57         Dummyette                 1584       19         588       
+56         Dummyette                 1584       19         588       
+57         maia5                     1584       11         23318     
 58         sargon-3ply               1584       -11        757       
 59         StupidChessRobot          1543       55         22        
 60         maia1                     1527       23         66159     
@@ -66,6 +66,7 @@ Rank       Bot                       Rating     Prog       Games
 65         kireevi                   1345       -39        243       
 66         RoundMoundOfRebounds      1328       -21        121       
 67         sargon-1ply               1289       2          3371      
-68         grandQ_AI                 851        -16        802       
-69         BerserkRandomMover        832        -27        72        
-70         G0thamB0t                 815        -39        192       
+68         bobandi                   1158       19         184       
+69         grandQ_AI                 851        -16        802       
+70         BerserkRandomMover        832        -27        72        
+71         G0thamB0t                 815        -39        192       
