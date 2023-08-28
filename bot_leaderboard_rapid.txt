@@ -1,10 +1,10 @@
 Rank       Bot                       Rating     Prog       Games     
-1          HansNiemannBot            2908       -1         2483      
+1          HansNiemannBot            2908       -2         2484      
 2          ProteusSF-Aureo           2908       8          22        
 3          ProteusSF-Godot           2897       2          195       
 4          FireFishBOT_v2            2896       -1         722       
-5          ReinforcementTrial        2886       -1         5260      
-6          FireFishBOT               2885       -1         1032      
+5          ReinforcementTrial        2886       0          5261      
+6          FireFishBOT               2885       -1         1033      
 7          YoBot_v2                  2868       -4         13095     
 8          ResoluteBot               2855       -4         5306      
 9          ArasanX                   2846       0          5682      
@@ -58,7 +58,7 @@ Rank       Bot                       Rating     Prog       Games
 57         myopic-bot                2028       1          447       
 58         LeelaRogue                1989       -7         2343      
 59         BLANK_BOT                 1964       -11        1649      
-60         Nc3Nc6Bot                 1960       2          1806      
+60         Nc3Nc6Bot                 1960       0          1807      
 61         zeekat                    1950       -15        8659      
 62         LazyBotJr                 1943       -39        1270      
 63         baby_eubos                1935       15         1000      
@@ -76,7 +76,7 @@ Rank       Bot                       Rating     Prog       Games
 75         ChessChildren             1748       12         4499      
 76         AshNostromo               1741       -13        1251      
 77         Demolito_L5               1738       -3         1306      
-78         maia9                     1734       1          86033     
+78         maia9                     1737       -1         86034     
 79         melsh_bot                 1725       16         292       
 80         dlvc-bot                  1716       -18        88        
 81         Dummyette                 1672       -1         2974      
