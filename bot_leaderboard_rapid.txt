@@ -36,7 +36,7 @@ Rank       Bot                       Rating     Prog       Games
 35         odonata-bot               2359       -9         3787      
 36         RavenEngine               2347       -18        414       
 37         DQN-chess                 2337       16         984       
-38         LunaChessEngine           2329       -10        1115      
+38         LunaChessEngine           2331       -13        1116      
 39         FlamingDragon_9000        2309       -12        1216      
 40         simpleEval                2307       4          7697      
 41         bekbot                    2287       -9         1166      
@@ -54,8 +54,8 @@ Rank       Bot                       Rating     Prog       Games
 53         CadabraBot                2120       -4         956       
 54         matmoi                    2116       4          1720      
 55         MaxtheDog                 2096       10         722       
-56         camel_bot                 2093       7          411       
-57         redtail-zero              2092       0          395       
+56         redtail-zero              2092       0          395       
+57         camel_bot                 2090       1          412       
 58         jangine                   2068       11         1778      
 59         Zagreus_Engine            2053       5          1917      
 60         Humaia-Strong             2052       -31        610       
