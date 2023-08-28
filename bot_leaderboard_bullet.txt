@@ -38,7 +38,7 @@ Rank       Bot                       Rating     Prog       Games
 37         odonata-bot               2336       5          6454      
 38         Pseudo-0                  2332       12         3999      
 39         LunaChessEngine           2316       15         1243      
-40         halcyonbot                2306       5          5710      
+40         halcyonbot                2306       4          5714      
 41         OpeningsBot               2305       -23        1013      
 42         Nakshatra3                2288       -17        1602      
 43         simpleEval                2285       -7         25278     
@@ -59,10 +59,10 @@ Rank       Bot                       Rating     Prog       Games
 58         LazyBotJr                 2026       10         949       
 59         redtail-zero              2012       -12        724       
 60         BLANK_BOT                 2006       -2         7634      
-61         Zagreus_Engine            1994       -10        3308      
+61         Zagreus_Engine            1999       -5         3309      
 62         Nc3Nc6Bot                 1972       11         1259      
-63         sun_bird                  1966       10         499       
-64         Trollfish-Bot             1964       -19        4569      
+63         Trollfish-Bot             1964       -19        4569      
+64         sun_bird                  1960       1          500       
 65         zeekat                    1923       -4         19222     
 66         Demolito_L6               1909       -13        658       
 67         FlounderBot               1897       11         4760      
@@ -78,8 +78,8 @@ Rank       Bot                       Rating     Prog       Games
 77         Humaia                    1741       25         422       
 78         Fisk_Bot                  1740       10         225       
 79         Demolito_L5               1736       -9         1056      
-80         Virutor                   1730       23         6877      
-81         honzovy-sachy             1728       9          5059      
+80         honzovy-sachy             1728       9          5059      
+81         Virutor                   1726       10         6878      
 82         piglet_engine             1713       14         685       
 83         melsh_bot                 1704       8          4424      
 84         rudim-bot                 1687       7          156       
@@ -102,8 +102,8 @@ Rank       Bot                       Rating     Prog       Games
 101        maia1                     1481       14         125035    
 102        yeoldwiz                  1450       18         791       
 103        rust-bot                  1435       -16        42        
-104        OhniBOT                   1423       95         502       
-105        StupidChessRobot          1422       -4         792       
+104        StupidChessRobot          1426       5          793       
+105        OhniBOT                   1423       95         502       
 106        botTideEval               1415       -7         2292      
 107        sargon-1ply               1383       28         4600      
 108        dragobot                  1349       -100       62        
