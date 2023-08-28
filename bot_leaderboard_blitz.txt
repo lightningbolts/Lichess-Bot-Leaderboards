@@ -1,9 +1,9 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Aureo           2908       0          91        
-2          EmptikBot                 2897       3          508       
+2          EmptikBot                 2897       -2         509       
 3          ProteusSF-Godot           2896       1          1243      
 4          FireFishBOT_v2            2892       4          4956      
-5          VariantsTop               2887       11         522       
+5          VariantsTop               2887       5          523       
 6          FireFishBOT               2886       -1         2534      
 7          ReinforcementTrial        2876       -2         2385      
 8          ResoluteBot               2864       -5         11613     
@@ -22,8 +22,8 @@ Rank       Bot                       Rating     Prog       Games
 21         ELO_1500                  2583       15         13169     
 22         expositor                 2572       -12        7213      
 23         SaxtonEngine              2505       1          2402      
-24         Weiawaga                  2491       -25        11907     
-25         catriever                 2485       6          839       
+24         catriever                 2502       16         842       
+25         Weiawaga                  2491       -25        11907     
 26         pawn_git                  2478       -9         2571      
 27         bot_adario                2465       11         2439      
 28         TuksuBot                  2444       14         4086      
@@ -48,12 +48,12 @@ Rank       Bot                       Rating     Prog       Games
 47         Boris-Trapsky             2125       15         28970     
 48         Lynx_BOT                  2120       0          50204     
 49         camel_bot                 2118       5          791       
-50         WejBek                    2106       121        52        
+50         WejBek                    2115       118        53        
 51         GarboBot                  2080       -3         9462      
 52         MaxtheDog                 2078       -2         4737      
 53         jangine                   2072       -5         3498      
 54         redtail-zero              2069       -2         532       
-55         likeawizard-bot           2061       5          3704      
+55         likeawizard-bot           2056       -6         3705      
 56         Elmichess                 2043       -4         3622      
 57         myopic-bot                2038       -20        2182      
 58         Humaia-Strong             2001       20         2370      
@@ -72,7 +72,7 @@ Rank       Bot                       Rating     Prog       Games
 71         Dinora                    1806       -15        99        
 72         StellarBOT                1802       -2         77        
 73         baby_eubos                1781       9          8149      
-74         FlounderBot               1780       -10        2300      
+74         FlounderBot               1776       -17        2301      
 75         notropis                  1751       -15        6761      
 76         Fisk_Bot                  1748       14         1485      
 77         The_Marcus                1687       10         1403      
@@ -98,8 +98,8 @@ Rank       Bot                       Rating     Prog       Games
 97         RoundMoundOfRebounds      1453       16         1365      
 98         DavidsGuterBot            1444       24         3709      
 99         RavenEngine_Depth2        1444       -43        72        
-100        maia1                     1390       -13        210120    
-101        turochamp-2ply            1382       12         1727      
+100        maia1                     1390       -7         210121    
+101        turochamp-2ply            1387       19         1728      
 102        Humaia                    1364       -13        998       
 103        monchester                1354       6          2760      
 104        chat_bot                  1309       -11        312       
