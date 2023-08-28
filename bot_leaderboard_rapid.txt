@@ -3,13 +3,13 @@ Rank       Bot                       Rating     Prog       Games
 2          HansNiemannBot            2905       -3         2480      
 3          ProteusSF-Godot           2897       2          195       
 4          FireFishBOT_v2            2896       -1         722       
-5          ToromBot                  2890       4          2011      
+5          ToromBot                  2890       4          2012      
 6          ReinforcementTrial        2886       -1         5259      
-7          FireFishBOT               2885       -1         1030      
+7          FireFishBOT               2885       -1         1031      
 8          YoBot_v2                  2868       -4         13095     
 9          RaspFish                  2867       -15        5682      
 10         ResoluteBot               2855       -4         5306      
-11         ArasanX                   2845       0          5680      
+11         ArasanX                   2845       0          5681      
 12         chessfyBOT                2845       -7         228       
 13         Shineshou90_BOT           2840       16         2639      
 14         Nikitosik-ai              2832       6          640       
@@ -37,7 +37,7 @@ Rank       Bot                       Rating     Prog       Games
 36         fornax-engine             2353       6          3724      
 37         RavenEngine               2347       -18        414       
 38         LunaChessEngine           2338       6          1106      
-39         simpleEval                2313       11         7695      
+39         simpleEval                2312       7          7696      
 40         FlamingDragon_9000        2309       -12        1216      
 41         Nakshatra3                2260       -6         877       
 42         FataliiBot                2224       -34        2659      
@@ -61,7 +61,7 @@ Rank       Bot                       Rating     Prog       Games
 60         myopic-bot                2032       9          445       
 61         LeelaRogue                1989       -7         2343      
 62         BLANK_BOT                 1960       -13        1648      
-63         Nc3Nc6Bot                 1954       22         1802      
+63         Nc3Nc6Bot                 1955       14         1803      
 64         zeekat                    1952       -11        8658      
 65         LazyBotJr                 1943       -39        1270      
 66         baby_eubos                1932       9          999       
@@ -79,7 +79,7 @@ Rank       Bot                       Rating     Prog       Games
 78         The_Marcus                1751       13         139       
 79         Demolito_L5               1743       5          1303      
 80         AshNostromo               1741       -13        1251      
-81         maia9                     1737       9          86025     
+81         maia9                     1735       13         86026     
 82         melsh_bot                 1727       20         291       
 83         dlvc-bot                  1712       -30        87        
 84         turkjs                    1644       3          5110      
@@ -94,7 +94,7 @@ Rank       Bot                       Rating     Prog       Games
 93         DavidsGuterBot            1540       -9         650       
 94         maia1                     1518       -11        234214    
 95         RoundMoundOfRebounds      1492       39         364       
-96         turochamp-2ply            1476       -18        1101      
+96         turochamp-2ply            1475       -15        1102      
 97         Humaia                    1450       14         2288      
 98         StupidChessRobot          1419       15         59        
 99         sargon-2ply               1384       4          3354      
@@ -105,7 +105,8 @@ Rank       Bot                       Rating     Prog       Games
 104        sargon-1ply               1171       -8         8555      
 105        OhniBOT                   1151       -18        531       
 106        kireevi                   1117       0          577       
-107        BerserkRandomMover        765        -30        83        
-108        grandQ_AI                 752        19         1636      
-109        B4ux1t3s-Bot              744        -104       60        
-110        G0thamB0t                 673        -44        363       
+107        bobandi                   956        12         744       
+108        BerserkRandomMover        765        -30        83        
+109        grandQ_AI                 752        19         1636      
+110        B4ux1t3s-Bot              744        -104       60        
+111        G0thamB0t                 673        -44        363       
