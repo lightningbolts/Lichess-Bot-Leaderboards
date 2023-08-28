@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Aureo           2908       0          91        
-2          ProteusSF-Godot           2896       1          1243      
-3          ToromBot                  2896       -9         3541      
+2          ToromBot                  2900       -5         3542      
+3          ProteusSF-Godot           2896       1          1243      
 4          FireFishBOT               2888       7          2501      
 5          FireFishBOT_v2            2884       -1         4855      
 6          ReinforcementTrial        2880       -6         2354      
@@ -13,7 +13,7 @@ Rank       Bot                       Rating     Prog       Games
 12         chessfyBOT                2819       -12        180       
 13         Nikitosik-ai              2815       -3         601       
 14         Shineshou90_BOT           2788       5          2139      
-15         blundar_bot               2750       -8         1173      
+15         blundar_bot               2746       -13        1174      
 16         Palisade                  2707       20         326       
 17         LazyBot                   2690       -30        2026      
 18         FrozenightEngine          2604       9          6130      
@@ -41,7 +41,7 @@ Rank       Bot                       Rating     Prog       Games
 40         FataliiBot                2265       4          6805      
 41         HistoryExplorer           2224       11         2781      
 42         halcyonbot                2218       7          9867      
-43         Nakshatra3                2191       -1         1662      
+43         Nakshatra3                2194       1          1663      
 44         SimplerEval               2189       4          3315      
 45         eubos                     2188       7          14781     
 46         matmoi                    2167       -3         1978      
@@ -60,7 +60,7 @@ Rank       Bot                       Rating     Prog       Games
 59         LeelaRogue                1992       8          2403      
 60         BLANK_BOT                 1991       22         4952      
 61         Jobabot                   1979       -4         695       
-62         sun_bird                  1974       -17        638       
+62         sun_bird                  1972       -17        639       
 63         Zagreus_Engine            1961       5          4330      
 64         Nc3Nc6Bot                 1956       8          1600      
 65         LazyBotJr                 1940       3          1922      
@@ -95,8 +95,8 @@ Rank       Bot                       Rating     Prog       Games
 94         sudobot_chess             1539       -74        402       
 95         turkjs                    1539       22         10317     
 96         yeoldwiz                  1533       19         1753      
-97         arny_bot                  1495       -13        835       
-98         sargon-3ply               1495       22         1967      
+97         sargon-3ply               1495       22         1967      
+98         arny_bot                  1491       -16        836       
 99         maia5                     1490       -1         102878    
 100        RavenEngine_Depth2        1487       -81        61        
 101        sargon-4ply               1469       -18        2075      
@@ -115,7 +115,7 @@ Rank       Bot                       Rating     Prog       Games
 114        sargon-2ply               1248       -15        3137      
 115        OhniBOT                   1230       25         328       
 116        czesc-bot                 1228       -60        145       
-117        sargon-1ply               1215       -15        7984      
+117        sargon-1ply               1219       -15        7985      
 118        knucklefish               1051       -19        3269      
 119        B4ux1t3s-Bot              998        -32        55        
 120        BerserkRandomMover        853        -4         235       
