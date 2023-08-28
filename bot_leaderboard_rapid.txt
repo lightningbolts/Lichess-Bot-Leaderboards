@@ -38,9 +38,9 @@ Rank       Bot                       Rating     Prog       Games
 37         LunaChessEngine           2329       -10        1115      
 38         FlamingDragon_9000        2309       -12        1216      
 39         simpleEval                2307       4          7697      
-40         bekbot                    2287       -11        1165      
+40         bekbot                    2287       -9         1166      
 41         Nakshatra3                2263       3          879       
-42         halcyonbot                2233       11         6531      
+42         halcyonbot                2237       13         6532      
 43         FataliiBot                2228       -29        2661      
 44         eubos                     2220       30         4296      
 45         SimplerEval               2211       33         1884      
@@ -84,10 +84,10 @@ Rank       Bot                       Rating     Prog       Games
 83         Demolito_L5               1732       -1         1309      
 84         melsh_bot                 1725       16         292       
 85         dlvc-bot                  1716       -18        88        
-86         maia9                     1684       -38        86048     
+86         maia9                     1690       -28        86049     
 87         Dummyette                 1672       -1         2974      
 88         turkjs                    1641       -6         5111      
-89         maia5                     1632       -6         103058    
+89         maia5                     1637       3          103059    
 90         yeoldwiz                  1628       9          663       
 91         ZE_ROOK                   1620       -2         538       
 92         simplexitor               1617       -23        495       
@@ -95,7 +95,7 @@ Rank       Bot                       Rating     Prog       Games
 94         maia1                     1548       -13        234256    
 95         sargon-4ply               1546       -3         642       
 96         sargon-3ply               1541       -21        1206      
-97         DavidsGuterBot            1540       -4         651       
+97         DavidsGuterBot            1540       -2         652       
 98         arny_bot                  1535       -108       25        
 99         RoundMoundOfRebounds      1492       39         364       
 100        turochamp-2ply            1475       -15        1102      
@@ -105,7 +105,7 @@ Rank       Bot                       Rating     Prog       Games
 104        czesc-bot                 1372       -170       84        
 105        turochamp-1ply            1370       -14        1591      
 106        chat_bot                  1318       -32        216       
-107        pawnrobot                 1259       29         716       
+107        pawnrobot                 1265       39         717       
 108        sargon-1ply               1177       5          8560      
 109        OhniBOT                   1151       -18        531       
 110        kireevi                   1117       0          577       
