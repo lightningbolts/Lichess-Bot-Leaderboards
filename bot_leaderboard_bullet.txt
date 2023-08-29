@@ -5,8 +5,8 @@ Rank       Bot                       Rating     Prog       Games
 4          FireFishBOT_v2            2933       -1         1056      
 5          ToromBot                  2928       2          62740     
 6          ReinforcementTrial        2916       -1         1153      
-7          FireFishBOT               2913       6          3526      
-8          YoBot_v2                  2903       -3         18292     
+7          FireFishBOT               2913       4          3528      
+8          YoBot_v2                  2903       -1         18294     
 9          RaspFish                  2877       0          53109     
 10         HansNiemannBot            2875       -4         4747      
 11         Shineshou90_BOT           2874       13         9177      
@@ -31,7 +31,7 @@ Rank       Bot                       Rating     Prog       Games
 30         odonata-bot               2338       8          6462      
 31         simpleEval                2304       5          25305     
 32         OpeningsBot               2300       -16        1028      
-33         Nakshatra3                2290       -11        1620      
+33         Nakshatra3                2293       -4         1621      
 34         bekbot                    2271       -11        1457      
 35         halcyonbot                2269       -12        5769      
 36         FataliiBot                2267       -1         5880      
@@ -41,7 +41,7 @@ Rank       Bot                       Rating     Prog       Games
 40         matmoi                    2142       -5         2622      
 41         myopic-bot                2132       1          2092      
 42         eubos                     2124       -6         13165     
-43         MaxtheDog                 2110       -10        15035     
+43         MaxtheDog                 2107       -17        15036     
 44         Humaia-Strong             2102       85         1312      
 45         jangine                   2076       -18        3260      
 46         camel_bot                 2065       6          977       
@@ -51,12 +51,12 @@ Rank       Bot                       Rating     Prog       Games
 50         BLANK_BOT                 1978       -10        7659      
 51         Trollfish-Bot             1969       1          4645      
 52         Zagreus_Engine            1965       -11        3344      
-53         WejBek                    1947       80         99        
+53         WejBek                    1954       82         100       
 54         Nc3Nc6Bot                 1946       11         1289      
-55         zeekat                    1915       1          19269     
+55         zeekat                    1902       -10        19271     
 56         notropis                  1828       -13        4080      
 57         NatesBot                  1820       -4         304       
-58         Dinora                    1762       4          80        
+58         Dinora                    1770       15         81        
 59         simplexitor               1753       -5         2327      
 60         Humaia                    1741       25         422       
 61         The_Marcus                1730       13         1436      
@@ -77,10 +77,10 @@ Rank       Bot                       Rating     Prog       Games
 76         RoundMoundOfRebounds      1560       -3         1481      
 77         maia1                     1558       -11        125086    
 78         sargon-3ply               1558       0          1430      
-79         RavenEngine_Depth2        1522       -47        22        
+79         RavenEngine_Depth2        1539       -21        23        
 80         DavidsGuterBot            1517       -11        6367      
 81         turochamp-1ply            1475       -18        2123      
-82         botTideEval               1469       34         2356      
+82         botTideEval               1465       24         2357      
 83         yeoldwiz                  1450       18         791       
 84         sargon-2ply               1441       -18        2496      
 85         StupidChessRobot          1425       6          806       
