@@ -4,9 +4,9 @@ Rank       Bot                       Rating     Prog       Games
 3          FireFishBOT_v2            2894       -2         727       
 4          HansNiemannBot            2892       3          2509      
 5          ToromBot                  2887       -4         2035      
-6          EmanPureNN                2885       0          273       
+6          EmanPureNN                2885       0          274       
 7          FireFishBOT               2884       1          1054      
-8          ReinforcementTrial        2882       3          5288      
+8          ReinforcementTrial        2882       3          5289      
 9          YoBot_v2                  2869       1          13113     
 10         ResoluteBot               2865       -3         5324      
 11         RaspFish                  2864       -9         5703      
@@ -14,13 +14,13 @@ Rank       Bot                       Rating     Prog       Games
 13         blundar_bot               2818       -2         1143      
 14         Mr_Chess_Berserk          2796       -17        70        
 15         FrozenightEngine          2647       18         5064      
-16         ELO_1500                  2643       6          3124      
+16         ELO_1500                  2645       6          3125      
 17         AKS-Mantissa              2634       1          4142      
 18         expositor                 2604       -14        4644      
 19         LazyBot                   2593       -11        743       
 20         pawn_git                  2565       -4         1304      
-21         bot_adario                2552       13         1396      
-22         SaxtonEngine              2552       3          1428      
+21         SaxtonEngine              2552       3          1428      
+22         bot_adario                2552       13         1396      
 23         catriever                 2524       -7         301       
 24         Weiawaga                  2516       0          10083     
 25         OpeningsBot               2475       9          350       
@@ -28,7 +28,7 @@ Rank       Bot                       Rating     Prog       Games
 27         admete_bot                2366       -8         4247      
 28         fornax-engine             2360       15         3733      
 29         odonata-bot               2359       -5         3792      
-30         RavenEngine               2357       18         418       
+30         RavenEngine               2354       13         419       
 31         simpleEval                2320       7          7706      
 32         halcyonbot                2280       10         6558      
 33         Nakshatra3                2257       -4         888       
@@ -51,8 +51,8 @@ Rank       Bot                       Rating     Prog       Games
 50         AjedrezChamberi           2036       -33        130       
 51         myopic-bot                2031       6          451       
 52         Zagreus_Engine            2030       -24        1933      
-53         LeelaRogue                1989       -7         2343      
-54         Nc3Nc6Bot                 1989       11         1844      
+53         Nc3Nc6Bot                 1989       11         1844      
+54         LeelaRogue                1989       -7         2343      
 55         BLANK_BOT                 1971       4          1656      
 56         LazyBotJr                 1943       -39        1270      
 57         zeekat                    1928       -10        8677      
@@ -66,7 +66,7 @@ Rank       Bot                       Rating     Prog       Games
 65         AshNostromo               1735       -9         1254      
 66         Demolito_L5               1722       -7         1319      
 67         dlvc-bot                  1716       -18        88        
-68         maia9                     1673       10         86154     
+68         maia9                     1688       21         86157     
 69         turkjs                    1646       6          5116      
 70         maia5                     1639       -14        103189    
 71         ZE_ROOK                   1627       15         546       
