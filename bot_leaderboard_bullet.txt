@@ -17,7 +17,7 @@ Rank       Bot                       Rating     Prog       Games
 16         chessfyBOT                2788       -8         1404      
 17         LazyBot                   2682       -6         1420      
 18         FrozenightEngine          2614       3          8986      
-19         attackbot2023             2586       42         659       
+19         attackbot2023             2589       40         660       
 20         expositor                 2567       5          20050     
 21         FlamingDragon_9000        2524       -5         10619     
 22         AKS-Mantissa              2486       1          11059     
@@ -35,7 +35,7 @@ Rank       Bot                       Rating     Prog       Games
 34         RavenEngine               2346       -10        9117      
 35         odonata-bot               2340       10         6461      
 36         OpeningsBot               2309       1          1025      
-37         simpleEval                2296       -3         25299     
+37         simpleEval                2295       -4         25301     
 38         Nakshatra3                2290       -11        1620      
 39         HistoryExplorer           2275       13         2624      
 40         halcyonbot                2270       -4         5762      
@@ -58,10 +58,10 @@ Rank       Bot                       Rating     Prog       Games
 57         BLANK_BOT                 1978       -4         7658      
 58         Trollfish-Bot             1959       -12        4637      
 59         Nc3Nc6Bot                 1936       0          1283      
-60         FlounderBot               1912       24         4837      
-61         zeekat                    1912       9          19260     
+60         zeekat                    1912       9          19260     
+61         FlounderBot               1911       21         4838      
 62         Demolito_L6               1896       -18        673       
-63         StellarBOT                1827       30         83        
+63         StellarBOT                1829       30         84        
 64         notropis                  1822       -14        4079      
 65         NatesBot                  1816       -4         303       
 66         QueensGamBOT              1767       -24        5243      
@@ -73,7 +73,7 @@ Rank       Bot                       Rating     Prog       Games
 72         Demolito_L5               1727       -3         1066      
 73         piglet_engine             1722       9          696       
 74         ShallowRedBot             1719       15         168       
-75         The_Marcus                1714       -11        1426      
+75         The_Marcus                1717       -8         1427      
 76         baby_eubos                1709       -13        5872      
 77         rudim-bot                 1687       7          156       
 78         maia5                     1682       -1         39642     
@@ -87,9 +87,9 @@ Rank       Bot                       Rating     Prog       Games
 86         monchester                1569       -12        2551      
 87         RoundMoundOfRebounds      1566       -8         1478      
 88         sargon-4ply               1566       20         1797      
-89         RavenEngine_Depth2        1558       -11        19        
-90         sargon-3ply               1554       -10        1426      
-91         DavidsGuterBot            1528       8          6364      
+89         sargon-3ply               1554       -10        1426      
+90         RavenEngine_Depth2        1550       -19        20        
+91         DavidsGuterBot            1525       11         6365      
 92         turochamp-1ply            1480       -16        2121      
 93         botTideEval               1453       4          2348      
 94         yeoldwiz                  1450       18         791       
