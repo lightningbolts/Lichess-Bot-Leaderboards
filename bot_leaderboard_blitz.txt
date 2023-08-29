@@ -2,7 +2,7 @@ Rank       Bot                       Rating     Prog       Games
 1          EmptikBot                 2907       7          528       
 2          ProteusSF-Godot           2896       1          1243      
 3          FireFishBOT               2882       -2         2578      
-4          FireFishBOT_v2            2880       -1         5055      
+4          FireFishBOT_v2            2882       1          5056      
 5          ReinforcementTrial        2877       1          2401      
 6          ToromBot                  2874       -4         3624      
 7          EmanPureNN                2873       0          1443      
@@ -16,7 +16,7 @@ Rank       Bot                       Rating     Prog       Games
 15         LazyBot                   2690       -30        2026      
 16         AKS-Mantissa              2619       1          9963      
 17         FrozenightEngine          2596       4          6165      
-18         expositor                 2576       3          7227      
+18         expositor                 2575       2          7228      
 19         ELO_1500                  2570       -12        13178     
 20         SaxtonEngine              2517       9          2409      
 21         catriever                 2503       -13        856       
@@ -33,16 +33,16 @@ Rank       Bot                       Rating     Prog       Games
 32         fornax-engine             2355       6          6607      
 33         bekbot                    2296       -8         1424      
 34         FataliiBot                2251       5          6834      
-35         WejBek                    2235       73         68        
+35         WejBek                    2241       72         69        
 36         HistoryExplorer           2224       -2         2793      
 37         Nakshatra3                2221       13         1685      
 38         halcyonbot                2210       -14        9935      
-39         eubos                     2175       -1         14819     
-40         SimplerEval               2172       -18        3325      
+39         SimplerEval               2172       -18        3325      
+40         eubos                     2170       -7         14820     
 41         matmoi                    2158       6          2019      
 42         camel_bot                 2119       -8         811       
 43         Boris-Trapsky             2111       -8         28982     
-44         Lynx_BOT                  2099       -14        50253     
+44         Lynx_BOT                  2100       -9         50254     
 45         MaxtheDog                 2087       6          4751      
 46         GarboBot                  2083       3          9473      
 47         jangine                   2081       4          3510      
@@ -63,7 +63,7 @@ Rank       Bot                       Rating     Prog       Games
 62         baby_eubos                1811       9          8172      
 63         Dinora                    1808       -2         107       
 64         NatesBot                  1800       -6         896       
-65         notropis                  1772       17         6773      
+65         notropis                  1771       21         6774      
 66         Demolito_L5               1710       -15        1846      
 67         The_Marcus                1693       -8         1438      
 68         piglet_engine             1687       19         161       
@@ -76,7 +76,7 @@ Rank       Bot                       Rating     Prog       Games
 75         turkjs                    1540       -1         10337     
 76         sudobot_chess             1539       -74        402       
 77         yeoldwiz                  1527       -4         1763      
-78         maia5                     1514       -1         102983    
+78         maia5                     1513       -9         102984    
 79         sargon-3ply               1480       2          1974      
 80         sargon-4ply               1476       -1         2089      
 81         RoundMoundOfRebounds      1461       14         1370      
