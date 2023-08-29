@@ -1,8 +1,8 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Godot           2945       5          2174      
-2          ResoluteBot               2940       0          26536     
+2          ResoluteBot               2939       -2         26540     
 3          FireFishBOT_v2            2937       5          1071      
-4          ProteusSF-Aureo           2930       8          246       
+4          ProteusSF-Aureo           2930       1          250       
 5          ttBOT                     2920       -2         1312      
 6          Polochon-Bot              2919       6          102       
 7          ReinforcementTrial        2910       2          1193      
@@ -50,7 +50,7 @@ Rank       Bot                       Rating     Prog       Games
 49         MaxtheDog                 2089       2          15057     
 50         jangine                   2078       1          3267      
 51         camel_bot                 2051       -9         993       
-52         likeawizard-bot           2050       -1         1715      
+52         likeawizard-bot           2042       -3         1716      
 53         LazyBotJr                 2026       10         949       
 54         sun_bird                  2024       1          579       
 55         redtail-zero              2015       9          741       
@@ -77,11 +77,11 @@ Rank       Bot                       Rating     Prog       Games
 76         sudobot_chess             1590       -295       227       
 77         turochamp-2ply            1587       0          1643      
 78         monchester                1571       -9         2552      
-79         RoundMoundOfRebounds      1568       2          1489      
-80         RavenEngine_Depth2        1568       46         33        
+79         RavenEngine_Depth2        1568       46         33        
+80         RoundMoundOfRebounds      1568       2          1489      
 81         sargon-3ply               1557       8          1434      
-82         maia1                     1555       8          125101    
-83         sargon-4ply               1550       -7         1800      
+82         sargon-4ply               1550       -7         1800      
+83         maia1                     1547       -5         125102    
 84         DavidsGuterBot            1524       6          6374      
 85         turochamp-1ply            1458       -33        2127      
 86         yeoldwiz                  1450       18         791       
