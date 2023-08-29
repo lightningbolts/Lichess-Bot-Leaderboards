@@ -4,10 +4,10 @@ Rank       Bot                       Rating     Prog       Games
 3          FireFishBOT_v2            2894       -2         727       
 4          HansNiemannBot            2892       3          2509      
 5          ToromBot                  2886       -4         2036      
-6          EmanPureNN                2885       0          274       
-7          FireFishBOT               2884       1          1054      
-8          ReinforcementTrial        2882       3          5289      
-9          YoBot_v2                  2869       1          13113     
+6          FireFishBOT               2884       1          1054      
+7          EmanPureNN                2884       -1         275       
+8          ReinforcementTrial        2882       3          5290      
+9          YoBot_v2                  2869       1          13115     
 10         ResoluteBot               2865       -3         5324      
 11         RaspFish                  2864       -9         5703      
 12         Shineshou90_BOT           2841       2          2649      
@@ -20,8 +20,8 @@ Rank       Bot                       Rating     Prog       Games
 19         expositor                 2604       -14        4644      
 20         LazyBot                   2593       -11        743       
 21         pawn_git                  2565       -4         1304      
-22         bot_adario                2552       13         1396      
-23         SaxtonEngine              2552       3          1428      
+22         SaxtonEngine              2552       3          1428      
+23         bot_adario                2552       13         1396      
 24         catriever                 2524       -7         301       
 25         Weiawaga                  2516       0          10083     
 26         OpeningsBot               2475       9          350       
@@ -84,7 +84,7 @@ Rank       Bot                       Rating     Prog       Games
 83         turochamp-1ply            1378       7          1602      
 84         sargon-2ply               1375       -11        3358      
 85         czesc-bot                 1372       -170       84        
-86         chat_bot                  1324       6          227       
+86         chat_bot                  1320       7          228       
 87         pawnrobot                 1271       32         719       
 88         ABotWith3200Rating        1193       -75        65        
 89         sargon-1ply               1178       6          8563      
