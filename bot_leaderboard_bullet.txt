@@ -11,7 +11,7 @@ Rank       Bot                       Rating     Prog       Games
 10         HansNiemannBot            2884       -1         4755      
 11         RaspFish                  2871       -5         53119     
 12         Mr_Chess_Berserk          2856       20         683       
-13         blundar_bot               2783       5          8062      
+13         blundar_bot               2784       5          8063      
 14         Palisade                  2760       23         435       
 15         LazyBot                   2682       -6         1420      
 16         FrozenightEngine          2615       -2         8998      
@@ -28,13 +28,13 @@ Rank       Bot                       Rating     Prog       Games
 27         ELO_1500                  2377       0          3251      
 28         admete_bot                2356       -2         6187      
 29         AjedrezChamberi           2352       15         530       
-30         fornax-engine             2344       -9         7035      
+30         fornax-engine             2343       -9         7036      
 31         RavenEngine               2341       -16        9124      
 32         odonata-bot               2338       5          6464      
 33         simpleEval                2305       9          25308     
 34         Nakshatra3                2293       -4         1621      
 35         OpeningsBot               2290       -23        1035      
-36         halcyonbot                2281       11         5773      
+36         halcyonbot                2284       17         5774      
 37         HistoryExplorer           2268       11         2626      
 38         FataliiBot                2267       -1         5880      
 39         bekbot                    2242       -29        1463      
@@ -42,7 +42,7 @@ Rank       Bot                       Rating     Prog       Games
 41         Humaia-Strong             2165       68         1319      
 42         Lynx_BOT                  2158       -20        7010      
 43         GarboBot                  2146       -25        9747      
-44         matmoi                    2142       0          2630      
+44         matmoi                    2139       -8         2631      
 45         myopic-bot                2128       0          2094      
 46         eubos                     2127       -13        13168     
 47         MaxtheDog                 2091       -19        15043     
@@ -79,8 +79,8 @@ Rank       Bot                       Rating     Prog       Games
 78         RoundMoundOfRebounds      1571       1          1485      
 79         monchester                1569       -12        2551      
 80         sargon-4ply               1557       -1         1799      
-81         RavenEngine_Depth2        1554       -30        24        
-82         sargon-3ply               1554       1          1432      
+81         sargon-3ply               1554       1          1432      
+82         RavenEngine_Depth2        1554       -30        24        
 83         maia1                     1553       -13        125089    
 84         DavidsGuterBot            1524       5          6370      
 85         turochamp-1ply            1455       -41        2125      
