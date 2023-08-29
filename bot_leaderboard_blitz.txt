@@ -1,12 +1,12 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Godot           2896       1          1243      
 2          FireFishBOT               2882       -2         2582      
-3          FireFishBOT_v2            2881       -2         5069      
+3          FireFishBOT_v2            2881       -2         5070      
 4          ReinforcementTrial        2876       0          2404      
 5          ToromBot                  2874       -1         3630      
 6          EmanPureNN                2873       5          1448      
 7          YoBot_v2                  2866       -2         3874      
-8          ResoluteBot               2863       -2         11640     
+8          ResoluteBot               2864       -2         11641     
 9          HansNiemannBot            2858       -4         2959      
 10         Mr_Chess_Berserk          2823       10         311       
 11         RaspFish                  2816       -1         11668     
@@ -24,7 +24,7 @@ Rank       Bot                       Rating     Prog       Games
 23         pawn_git                  2474       -17        2576      
 24         bot_adario                2469       4          2450      
 25         TuksuBot                  2438       -3         4092      
-26         odonata-bot               2416       -9         6126      
+26         odonata-bot               2412       -8         6127      
 27         admete_bot                2399       10         6443      
 28         AjedrezChamberi           2375       23         274       
 29         RavenEngine               2371       4          1641      
@@ -40,7 +40,7 @@ Rank       Bot                       Rating     Prog       Games
 39         SimplerEval               2172       -18        3325      
 40         eubos                     2170       -7         14820     
 41         matmoi                    2158       6          2019      
-42         camel_bot                 2112       -8         814       
+42         camel_bot                 2116       0          815       
 43         Boris-Trapsky             2111       -8         28982     
 44         Lynx_BOT                  2098       -16        50257     
 45         GarboBot                  2094       11         9475      
@@ -72,7 +72,7 @@ Rank       Bot                       Rating     Prog       Games
 71         ShallowRedBot             1647       -21        198       
 72         simplexitor               1642       3          2266      
 73         ZE_ROOK                   1550       -1         3044      
-74         maia9                     1543       28         102640    
+74         maia9                     1547       39         102641    
 75         turkjs                    1540       2          10338     
 76         sudobot_chess             1539       -74        402       
 77         yeoldwiz                  1527       -4         1763      
@@ -96,5 +96,5 @@ Rank       Bot                       Rating     Prog       Games
 95         czesc-bot                 1221       -67        147       
 96         bobandi                   1129       -13        1179      
 97         grandQ_AI                 1091       205        1254      
-98         knucklefish               1089       38         3281      
+98         knucklefish               1089       31         3282      
 99         B4ux1t3s-Bot              960        -72        58        
