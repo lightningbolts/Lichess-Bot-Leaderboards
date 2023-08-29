@@ -4,8 +4,8 @@ Rank       Bot                       Rating     Prog       Games
 3          ProteusSF-Godot           2896       1          1243      
 4          FireFishBOT_v2            2888       0          5017      
 5          FireFishBOT               2884       -2         2566      
-6          ToromBot                  2879       4          3610      
-7          ReinforcementTrial        2876       -1         2390      
+6          ReinforcementTrial        2876       -1         2390      
+7          ToromBot                  2876       2          3611      
 8          YoBot_v2                  2869       9          3866      
 9          ResoluteBot               2865       2          11628     
 10         HansNiemannBot            2855       -4         2946      
@@ -18,7 +18,7 @@ Rank       Bot                       Rating     Prog       Games
 17         Shineshou90_BOT           2792       7          2171      
 18         blundar_bot               2747       1          1185      
 19         LazyBot                   2690       -30        2026      
-20         AKS-Mantissa              2615       -7         9955      
+20         AKS-Mantissa              2619       -8         9956      
 21         FrozenightEngine          2594       -1         6161      
 22         ELO_1500                  2576       -1         13174     
 23         expositor                 2571       -1         7224      
@@ -70,11 +70,11 @@ Rank       Bot                       Rating     Prog       Games
 69         FlounderBot               1782       -5         2317      
 70         notropis                  1759       10         6770      
 71         Fisk_Bot                  1748       14         1485      
-72         Demolito_L5               1720       -9         1836      
+72         Demolito_L5               1714       -18        1837      
 73         The_Marcus                1701       -1         1426      
 74         piglet_engine             1684       6          160       
-75         dlvc-bot                  1676       -12        1262      
-76         AshNostromo               1673       8          1007      
+75         AshNostromo               1680       12         1008      
+76         dlvc-bot                  1676       -12        1262      
 77         ShallowRedBot             1670       -4         193       
 78         simplexitor               1641       3          2264      
 79         QueensGamBOT              1639       -9         3107      
@@ -90,7 +90,7 @@ Rank       Bot                       Rating     Prog       Games
 89         RoundMoundOfRebounds      1456       4          1369      
 90         DavidsGuterBot            1445       22         3711      
 91         RavenEngine_Depth2        1433       -41        74        
-92         maia1                     1422       -7         210194    
+92         maia1                     1423       -11        210198    
 93         turochamp-2ply            1387       21         1729      
 94         Humaia                    1364       -13        998       
 95         monchester                1354       6          2760      
