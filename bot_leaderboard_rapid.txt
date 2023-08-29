@@ -5,8 +5,8 @@ Rank       Bot                       Rating     Prog       Games
 4          HansNiemannBot            2890       -5         2516      
 5          FireFishBOT               2884       0          1057      
 6          ReinforcementTrial        2879       0          5295      
-7          TorBot                    2874       3          806       
-8          YoBot_v2                  2869       1          13117     
+7          TorBot                    2873       0          807       
+8          YoBot_v2                  2870       2          13118     
 9          ResoluteBot               2865       -3         5324      
 10         RaspFish                  2859       -9         5707      
 11         ttBOT                     2855       8          111       
@@ -65,11 +65,11 @@ Rank       Bot                       Rating     Prog       Games
 64         The_Marcus                1769       23         146       
 65         AshNostromo               1735       -9         1254      
 66         dlvc-bot                  1716       -18        88        
-67         Demolito_L5               1706       -16        1330      
-68         maia9                     1700       -16        86193     
-69         maia5                     1649       -14        103219    
-70         turkjs                    1648       21         5118      
-71         ZE_ROOK                   1644       30         551       
+67         Demolito_L5               1708       -7         1331      
+68         maia9                     1696       -27        86194     
+69         turkjs                    1648       21         5118      
+70         ZE_ROOK                   1644       30         551       
+71         maia5                     1642       -17        103220    
 72         yeoldwiz                  1620       4          667       
 73         simplexitor               1616       -22        498       
 74         sargon-3ply               1541       -21        1206      
@@ -83,7 +83,7 @@ Rank       Bot                       Rating     Prog       Games
 82         sargon-2ply               1379       -9         3359      
 83         turochamp-1ply            1378       7          1602      
 84         czesc-bot                 1372       -170       84        
-85         chat_bot                  1311       -7         248       
+85         chat_bot                  1321       6          249       
 86         pawnrobot                 1265       18         721       
 87         schnecken_bot             1238       11         332       
 88         ABotWith3200Rating        1193       -75        65        
