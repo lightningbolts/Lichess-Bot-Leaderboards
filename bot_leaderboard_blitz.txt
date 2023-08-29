@@ -1,10 +1,10 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Godot           2896       1          1243      
 2          FireFishBOT               2882       -2         2582      
-3          FireFishBOT_v2            2880       -3         5071      
+3          FireFishBOT_v2            2880       -3         5072      
 4          ReinforcementTrial        2876       0          2404      
 5          ToromBot                  2876       1          3631      
-6          EmanPureNN                2873       5          1448      
+6          EmanPureNN                2873       -1         1449      
 7          YoBot_v2                  2866       -2         3874      
 8          ResoluteBot               2864       -2         11642     
 9          HansNiemannBot            2858       -4         2959      
@@ -59,7 +59,7 @@ Rank       Bot                       Rating     Prog       Games
 58         LazyBotJr                 1940       3          1922      
 59         zeekat                    1884       -13        21464     
 60         zulu_bot                  1861       -3         992       
-61         Trollfish-Bot             1857       -7         2223      
+61         Trollfish-Bot             1857       0          2224      
 62         Dinora                    1815       11         108       
 63         NatesBot                  1808       3          898       
 64         baby_eubos                1805       -1         8174      
@@ -71,8 +71,8 @@ Rank       Bot                       Rating     Prog       Games
 70         dlvc-bot                  1676       -12        1262      
 71         ShallowRedBot             1647       -21        198       
 72         simplexitor               1642       3          2266      
-73         ZE_ROOK                   1550       -1         3044      
-74         maia9                     1547       39         102641    
+73         maia9                     1550       38         102642    
+74         ZE_ROOK                   1550       -1         3044      
 75         turkjs                    1540       2          10338     
 76         sudobot_chess             1539       -74        402       
 77         yeoldwiz                  1527       -4         1763      
