@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          HansNiemannBot            2899       5          2555      
-2          FireFishBOT_v2            2896       2          743       
-3          UltimateL                 2894       -5         425       
+2          FireFishBOT_v2            2896       2          744       
+3          UltimateL                 2894       -1         426       
 4          YoBot_v2                  2894       24         13136     
 5          FireFishBOT               2884       4          1085      
 6          ToromBot                  2883       4          2080      
@@ -17,7 +17,7 @@ Rank       Bot                       Rating     Prog       Games
 16         Palisade                  2777       54         212       
 17         ELO_1500                  2644       -5         3148      
 18         FrozenightEngine          2643       -2         5079      
-19         AKS-Mantissa              2624       -12        4152      
+19         AKS-Mantissa              2627       -7         4153      
 20         expositor                 2613       9          4657      
 21         LazyBot                   2578       -30        748       
 22         pawn_git                  2575       12         1313      
@@ -46,9 +46,9 @@ Rank       Bot                       Rating     Prog       Games
 45         Lynx_BOT                  2149       4          40105     
 46         GarboBot                  2145       -1         6123      
 47         Boris-Trapsky             2143       -5         27685     
-48         matmoi                    2105       4          1793      
-49         MaxtheDog                 2102       8          736       
-50         redtail-zero              2096       -7         411       
+48         MaxtheDog                 2105       5          737       
+49         redtail-zero              2102       5          412       
+50         matmoi                    2100       -1         1794      
 51         jangine                   2074       6          1785      
 52         likeawizard-bot           2047       10         964       
 53         AjedrezChamberi           2036       -33        130       
@@ -58,7 +58,7 @@ Rank       Bot                       Rating     Prog       Games
 57         Nc3Nc6Bot                 1988       -19        1878      
 58         BLANK_BOT                 1970       15         1665      
 59         LazyBotJr                 1956       8          1276      
-60         zeekat                    1942       -4         8711      
+60         zeekat                    1939       -16        8712      
 61         sun_bird                  1903       32         56        
 62         baby_eubos                1901       -26        1014      
 63         NatesBot                  1875       17         470       
@@ -70,7 +70,7 @@ Rank       Bot                       Rating     Prog       Games
 69         ShallowRedBot             1783       76         21        
 70         The_Marcus                1782       24         152       
 71         zulu_bot                  1776       3          110       
-72         maia9                     1747       -19        86394     
+72         maia9                     1743       -19        86395     
 73         ChessChildren             1740       -13        4508      
 74         Demolito_L5               1739       -5         1365      
 75         AshNostromo               1720       -25        1261      
@@ -84,11 +84,11 @@ Rank       Bot                       Rating     Prog       Games
 83         HardRok                   1566       26         722       
 84         GuineaBot3                1557       -95        16        
 85         sargon-3ply               1542       -17        1207      
-86         sargon-4ply               1530       -11        650       
-87         DavidsGuterBot            1530       -4         657       
+86         DavidsGuterBot            1530       -4         657       
+87         sargon-4ply               1530       -11        650       
 88         RoundMoundOfRebounds      1496       34         368       
 89         turochamp-2ply            1472       -16        1107      
-90         maia1                     1441       -12        234918    
+90         maia1                     1447       -3         234919    
 91         RavenEngine_Depth2        1435       36         25        
 92         StupidChessRobot          1417       21         61        
 93         turochamp-1ply            1408       36         1610      
