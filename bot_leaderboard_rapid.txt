@@ -5,8 +5,8 @@ Rank       Bot                       Rating     Prog       Games
 4          HansNiemannBot            2891       4          2536      
 5          ToromBot                  2881       -2         2060      
 6          FireFishBOT               2881       -2         1070      
-7          ReinforcementTrial        2879       0          5304      
-8          YoBot_v2                  2871       2          13126     
+7          ReinforcementTrial        2879       0          5305      
+8          YoBot_v2                  2871       1          13127     
 9          TorBot_v2                 2870       4          209       
 10         ResoluteBot               2865       1          5332      
 11         MastacticaTeoriabot       2852       5          63        
@@ -21,8 +21,8 @@ Rank       Bot                       Rating     Prog       Games
 20         LazyBot                   2576       -29        746       
 21         pawn_git                  2571       9          1309      
 22         bot_adario                2557       5          1399      
-23         catriever                 2523       1          305       
-24         Weiawaga                  2523       9          10098     
+23         Weiawaga                  2523       9          10098     
+24         catriever                 2523       1          305       
 25         OpeningsBot               2458       -8         355       
 26         TuksuBot                  2389       8          2084      
 27         admete_bot                2364       -9         4252      
@@ -39,7 +39,7 @@ Rank       Bot                       Rating     Prog       Games
 38         FataliiBot                2212       -10        2673      
 39         Elmichess                 2171       16         1418      
 40         HistoryExplorer           2167       -3         1071      
-41         Boris-Trapsky             2147       0          27676     
+41         Boris-Trapsky             2148       1          27677     
 42         GarboBot                  2136       -23        6119      
 43         Lynx_BOT                  2130       6          40087     
 44         MaxtheDog                 2100       5          731       
@@ -67,7 +67,7 @@ Rank       Bot                       Rating     Prog       Games
 66         AshNostromo               1720       -28        1259      
 67         ShallowRedBot             1717       10         17        
 68         dlvc-bot                  1716       -18        88        
-69         maia9                     1698       -28        86269     
+69         maia9                     1708       -8         86271     
 70         maia5                     1673       2          103304    
 71         ZE_ROOK                   1660       33         557       
 72         turkjs                    1651       10         5122      
@@ -75,10 +75,10 @@ Rank       Bot                       Rating     Prog       Games
 74         yeoldwiz                  1620       4          667       
 75         dragobot                  1565       6          84        
 76         GuineaBot3                1557       -95        16        
-77         maia1                     1543       38         234732    
-78         sargon-3ply               1542       -17        1207      
-79         DavidsGuterBot            1530       -4         657       
-80         sargon-4ply               1530       -11        650       
+77         sargon-3ply               1542       -17        1207      
+78         maia1                     1535       30         234734    
+79         sargon-4ply               1530       -11        650       
+80         DavidsGuterBot            1530       -4         657       
 81         RoundMoundOfRebounds      1496       43         366       
 82         turochamp-2ply            1478       -10        1106      
 83         RavenEngine_Depth2        1435       36         25        
@@ -91,8 +91,7 @@ Rank       Bot                       Rating     Prog       Games
 90         schnecken_bot             1236       15         333       
 91         ABotWith3200Rating        1187       -76        66        
 92         sargon-1ply               1184       13         8566      
-93         kireevi                   1113       4          579       
-94         bobandi                   954        10         745       
-95         B4ux1t3s-Bot              771        -20        68        
-96         grandQ_AI                 767        5          1639      
-97         G0thamB0t                 666        -37        366       
+93         bobandi                   954        10         745       
+94         B4ux1t3s-Bot              771        -20        68        
+95         grandQ_AI                 767        5          1639      
+96         G0thamB0t                 666        -37        366       
