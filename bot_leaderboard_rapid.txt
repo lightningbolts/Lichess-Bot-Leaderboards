@@ -15,7 +15,7 @@ Rank       Bot                       Rating     Prog       Games
 14         blundar_bot               2823       0          1148      
 15         Mr_Chess_Berserk          2806       16         78        
 16         Palisade                  2777       54         212       
-17         ELO_1500                  2650       4          3139      
+17         ELO_1500                  2650       1          3140      
 18         FrozenightEngine          2648       1          5075      
 19         AKS-Mantissa              2632       -6         4148      
 20         expositor                 2605       -5         4649      
@@ -65,10 +65,10 @@ Rank       Bot                       Rating     Prog       Games
 64         zulu_bot                  1776       3          110       
 65         The_Marcus                1774       21         148       
 66         AshNostromo               1726       -23        1260      
-67         ShallowRedBot             1717       10         17        
-68         Demolito_L5               1716       -7         1345      
-69         dlvc-bot                  1716       -18        88        
-70         maia9                     1713       10         86281     
+67         maia9                     1718       5          86283     
+68         ShallowRedBot             1717       10         17        
+69         Demolito_L5               1716       -7         1345      
+70         dlvc-bot                  1716       -18        88        
 71         maia5                     1672       3          103307    
 72         ZE_ROOK                   1657       23         558       
 73         turkjs                    1651       10         5122      
@@ -78,8 +78,8 @@ Rank       Bot                       Rating     Prog       Games
 77         GuineaBot3                1557       -95        16        
 78         sargon-3ply               1542       -17        1207      
 79         maia1                     1533       -5         234750    
-80         DavidsGuterBot            1530       -4         657       
-81         sargon-4ply               1530       -11        650       
+80         sargon-4ply               1530       -11        650       
+81         DavidsGuterBot            1530       -4         657       
 82         RoundMoundOfRebounds      1496       43         366       
 83         turochamp-2ply            1478       -10        1106      
 84         RavenEngine_Depth2        1435       36         25        
