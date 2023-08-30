@@ -1,9 +1,9 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Aureo           2907       -1         92        
-2          TorBot                    2901       -5         1255      
+2          TorBot                    2901       -5         1256      
 3          ProteusSF-Godot           2896       1          1243      
 4          TorBot_v2                 2888       26         106       
-5          FireFishBOT_v2            2885       0          5245      
+5          FireFishBOT_v2            2885       1          5246      
 6          ReinforcementTrial        2877       0          2442      
 7          FireFishBOT               2876       0          2659      
 8          ToromBot                  2875       -2         3717      
@@ -20,7 +20,7 @@ Rank       Bot                       Rating     Prog       Games
 19         FrozenightEngine          2591       -5         6198      
 20         ELO_1500                  2585       13         13191     
 21         expositor                 2568       2          7258      
-22         WejBek                    2533       29         148       
+22         WejBek                    2536       33         149       
 23         Cheng-4                   2500       3          6671      
 24         Weiawaga                  2496       7          11935     
 25         catriever                 2482       -31        865       
@@ -35,7 +35,7 @@ Rank       Bot                       Rating     Prog       Games
 34         RavenEngine               2385       -3         1662      
 35         AjedrezChamberi           2375       23         274       
 36         fornax-engine             2359       17         6625      
-37         OpeningsBot               2358       3          1168      
+37         OpeningsBot               2355       -2         1169      
 38         simpleEval                2336       -6         15095     
 39         FlamingDragon_9000        2323       19         3331      
 40         bekbot                    2271       0          1446      
@@ -65,8 +65,8 @@ Rank       Bot                       Rating     Prog       Games
 64         zulu_bot                  1861       -3         992       
 65         Trollfish-Bot             1850       9          2252      
 66         Dinora                    1830       12         127       
-67         NatesBot                  1827       13         935       
-68         Demolito_L6               1811       -2         1088      
+67         NatesBot                  1827       7          936       
+68         Demolito_L6               1812       2          1089      
 69         baby_eubos                1782       -14        8219      
 70         notropis                  1770       13         6800      
 71         The_Marcus                1710       0          1497      
@@ -79,7 +79,7 @@ Rank       Bot                       Rating     Prog       Games
 78         Virutor                   1656       4          7587      
 79         simplexitor               1644       2          2278      
 80         QueensGamBOT              1631       -14        3113      
-81         maia9                     1613       -12        102799    
+81         maia9                     1617       -11        102800    
 82         ChessChildren             1606       12         21466     
 83         turkjs                    1561       14         10355     
 84         GuineaBot3                1559       -44        106       
@@ -89,7 +89,7 @@ Rank       Bot                       Rating     Prog       Games
 88         yeoldwiz                  1527       -4         1763      
 89         sargon-3ply               1478       -11        1983      
 90         sargon-4ply               1470       -4         2095      
-91         maia1                     1455       2          210401    
+91         maia1                     1453       9          210402    
 92         RoundMoundOfRebounds      1449       -12        1378      
 93         DavidsGuterBot            1446       2          3720      
 94         RavenEngine_Depth2        1422       -35        77        
