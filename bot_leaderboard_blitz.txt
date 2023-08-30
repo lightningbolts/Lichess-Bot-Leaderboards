@@ -8,7 +8,7 @@ Rank       Bot                       Rating     Prog       Games
 7          ReinforcementTrial        2878       1          2456      
 8          ResoluteBot               2875       10         11707     
 9          YoBot_v2                  2870       1          3925      
-10         HansNiemannBot            2855       0          3029      
+10         HansNiemannBot            2856       0          3030      
 11         Mate-AI                   2854       -17        3260      
 12         Mr_Chess_Berserk          2844       6          347       
 13         SF-NNUE                   2827       2          75        
@@ -45,7 +45,7 @@ Rank       Bot                       Rating     Prog       Games
 44         SimplerEval               2181       17         3340      
 45         matmoi                    2155       11         2069      
 46         honzovy-sachy-2           2154       0          7041      
-47         eubos                     2147       -15        14872     
+47         eubos                     2146       -14        14873     
 48         GarboBot                  2102       -22        9520      
 49         Boris-Trapsky             2097       1          29027     
 50         Lynx_BOT                  2094       19         50379     
@@ -78,12 +78,12 @@ Rank       Bot                       Rating     Prog       Games
 77         ShallowRedBot             1669       5          228       
 78         Demolito_L5               1663       -36        1889      
 79         simplexitor               1649       -3         2282      
-80         QueensGamBOT              1635       -12        3116      
-81         ChessChildren             1635       6          21490     
+80         ChessChildren             1635       6          21490     
+81         QueensGamBOT              1635       -12        3116      
 82         maia9                     1625       -4         102859    
 83         HardRok                   1592       -3         926       
-84         turkjs                    1553       -8         10358     
-85         maia5                     1551       -2         103151    
+84         maia5                     1560       4          103153    
+85         turkjs                    1553       -8         10358     
 86         GuineaBot3                1550       -51        107       
 87         ZE_ROOK                   1541       -6         3078      
 88         sudobot_chess             1539       -74        402       
