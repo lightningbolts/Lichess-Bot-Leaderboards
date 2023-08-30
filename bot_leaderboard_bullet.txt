@@ -1,5 +1,5 @@
 Rank       Bot                       Rating     Prog       Games     
-1          EmptikBot                 2951       -11        3852      
+1          EmptikBot                 2956       -5         3853      
 2          ProteusSF-Godot           2945       5          2174      
 3          ProteusSF-Aureo           2943       16         301       
 4          ResoluteBot               2934       0          26645     
@@ -9,13 +9,13 @@ Rank       Bot                       Rating     Prog       Games
 8          ttBOT                     2912       -7         1328      
 9          YoBot_v2                  2910       -1         18378     
 10         TorBot                    2906       -2         6300      
-11         FireFishBOT               2901       0          3864      
+11         FireFishBOT               2901       1          3865      
 12         TorBot_v2                 2886       5          223       
-13         HansNiemannBot            2883       -10        4830      
+13         HansNiemannBot            2879       -14        4832      
 14         RaspFish                  2872       4          53213     
 15         MastacticaTeoriabot       2864       -1         684       
 16         Mr_Chess_Berserk          2861       9          736       
-17         Jussicas                  2822       -4         341       
+17         Abuziddin-BOT             2820       3          180       
 18         blundar_bot               2802       13         8283      
 19         Palisade                  2760       23         435       
 20         LazyBot                   2682       -6         1420      
@@ -49,8 +49,8 @@ Rank       Bot                       Rating     Prog       Games
 48         SimplerEval               2233       1          2702      
 49         Whale_1                   2160       -10        33        
 50         honzovy-sachy-2           2151       8          7287      
-51         matmoi                    2149       -4         2672      
-52         Lynx_BOT                  2149       0          7039      
+51         Lynx_BOT                  2149       0          7039      
+52         matmoi                    2149       -4         2672      
 53         eubos                     2136       -12        13202     
 54         GarboBot                  2127       -10        9763      
 55         myopic-bot                2119       7          2117      
@@ -87,8 +87,8 @@ Rank       Bot                       Rating     Prog       Games
 86         maia9                     1612       9          61249     
 87         turochamp-2ply            1601       22         1648      
 88         sudobot_chess             1590       -295       227       
-89         monchester                1571       0          2563      
-90         RoundMoundOfRebounds      1571       3          1500      
+89         RoundMoundOfRebounds      1571       3          1500      
+90         monchester                1571       0          2563      
 91         sargon-4ply               1562       8          1814      
 92         sargon-3ply               1552       -6         1441      
 93         RavenEngine_Depth2        1537       -25        42        
