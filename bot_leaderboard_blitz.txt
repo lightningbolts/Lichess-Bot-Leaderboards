@@ -10,7 +10,7 @@ Rank       Bot                       Rating     Prog       Games
 9          ttBOT                     2876       4          527       
 10         YoBot_v2                  2871       2          3919      
 11         ResoluteBot               2865       3          11694     
-12         HansNiemannBot            2855       6          3016      
+12         HansNiemannBot            2855       6          3017      
 13         Mr_Chess_Berserk          2842       10         339       
 14         RaspFish                  2818       -13        11758     
 15         blundar_bot               2755       3          1218      
@@ -20,12 +20,12 @@ Rank       Bot                       Rating     Prog       Games
 19         ELO_1500                  2583       10         13193     
 20         FrozenightEngine          2582       -10        6203      
 21         expositor                 2568       2          7258      
-22         WejBek                    2552       23         158       
+22         WejBek                    2556       23         159       
 23         Cheng-4                   2505       5          6675      
 24         Weiawaga                  2495       2          11936     
 25         catriever                 2476       -27        867       
 26         pawn_git                  2467       -2         2589      
-27         bot_adario                2458       -21        2459      
+27         bot_adario                2453       -25        2460      
 28         Rinestro                  2449       7          108       
 29         TuksuBot                  2428       -13        4104      
 30         Pseudo-0                  2409       5          3022      
@@ -34,7 +34,7 @@ Rank       Bot                       Rating     Prog       Games
 33         RavenEngine               2389       -1         1663      
 34         admete_bot                2386       -19        6464      
 35         AjedrezChamberi           2375       23         274       
-36         OpeningsBot               2364       2          1171      
+36         OpeningsBot               2365       7          1172      
 37         fornax-engine             2358       14         6626      
 38         simpleEval                2336       -6         15095     
 39         FlamingDragon_9000        2323       19         3331      
@@ -44,13 +44,13 @@ Rank       Bot                       Rating     Prog       Games
 43         morabandbot               2201       -18        194       
 44         SimplerEval               2177       12         3339      
 45         eubos                     2164       3          14865     
-46         matmoi                    2157       17         2064      
+46         matmoi                    2157       14         2065      
 47         honzovy-sachy-2           2148       14         7029      
 48         GarboBot                  2117       7          9513      
-49         Boris-Trapsky             2096       -1         29016     
+49         Boris-Trapsky             2099       3          29018     
 50         likeawizard-bot           2062       3          3847      
 51         jangine                   2061       -33        3532      
-52         Lynx_BOT                  2058       29         50358     
+52         Lynx_BOT                  2059       24         50359     
 53         redtail-zero              2053       -10        544       
 54         MaxtheDog                 2048       -28        4787      
 55         Elmichess                 2019       5          3691      
@@ -70,7 +70,7 @@ Rank       Bot                       Rating     Prog       Games
 69         baby_eubos                1774       -21        8222      
 70         notropis                  1769       2          6805      
 71         The_Marcus                1708       -5         1502      
-72         honzovy-sachy             1696       -21        5194      
+72         honzovy-sachy             1694       -21        5195      
 73         piglet_engine             1681       10         166       
 74         Demolito_L5               1678       -11        1883      
 75         dlvc-bot                  1676       -3         1264      
@@ -81,7 +81,7 @@ Rank       Bot                       Rating     Prog       Games
 80         QueensGamBOT              1635       -12        3116      
 81         maia9                     1623       -12        102817    
 82         ChessChildren             1609       12         21469     
-83         HardRok                   1592       0          921       
+83         HardRok                   1592       -1         922       
 84         GuineaBot3                1559       -44        106       
 85         turkjs                    1557       4          10356     
 86         maia5                     1544       -4         103127    
@@ -90,9 +90,9 @@ Rank       Bot                       Rating     Prog       Games
 89         yeoldwiz                  1527       -4         1763      
 90         sargon-3ply               1484       5          1988      
 91         sargon-4ply               1470       -4         2095      
-92         maia1                     1452       17         210422    
-93         DavidsGuterBot            1449       6          3721      
-94         RoundMoundOfRebounds      1448       -9         1379      
+92         DavidsGuterBot            1449       6          3721      
+93         RoundMoundOfRebounds      1448       -9         1379      
+94         maia1                     1447       4          210425    
 95         RavenEngine_Depth2        1422       -35        77        
 96         turochamp-2ply            1387       16         1733      
 97         monchester                1340       -18        2769      
@@ -108,4 +108,4 @@ Rank       Bot                       Rating     Prog       Games
 107        knucklefish               1101       29         3285      
 108        bobandi                   1081       5          1201      
 109        grandQ_AI                 1068       79         1259      
-110        B4ux1t3s-Bot              1005       -8         82        
+110        B4ux1t3s-Bot              1003       -9         83        
