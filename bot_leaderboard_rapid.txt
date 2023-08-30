@@ -15,7 +15,7 @@ Rank       Bot                       Rating     Prog       Games
 14         Mr_Chess_Berserk          2806       16         78        
 15         Palisade                  2777       54         212       
 16         ELO_1500                  2650       1          3140      
-17         FrozenightEngine          2648       1          5075      
+17         FrozenightEngine          2645       -3         5076      
 18         AKS-Mantissa              2632       -6         4148      
 19         expositor                 2608       9          4650      
 20         LazyBot                   2576       -29        746       
@@ -74,14 +74,14 @@ Rank       Bot                       Rating     Prog       Games
 73         Demolito_L5               1719       -5         1346      
 74         dlvc-bot                  1716       -18        88        
 75         maia9                     1712       -6         86294     
-76         maia5                     1665       -8         103309    
+76         maia5                     1669       -5         103310    
 77         ZE_ROOK                   1657       23         558       
 78         turkjs                    1651       10         5122      
 79         simplexitor               1637       11         501       
 80         yeoldwiz                  1620       4          667       
 81         dragobot                  1560       6          85        
-82         maia1                     1557       16         234764    
-83         GuineaBot3                1557       -95        16        
+82         GuineaBot3                1557       -95        16        
+83         maia1                     1555       11         234765    
 84         sargon-3ply               1542       -17        1207      
 85         sargon-4ply               1530       -11        650       
 86         DavidsGuterBot            1530       -4         657       
@@ -99,6 +99,6 @@ Rank       Bot                       Rating     Prog       Games
 98         ABotWith3200Rating        1187       -76        66        
 99         kireevi                   1113       4          579       
 100        bobandi                   954        10         745       
-101        B4ux1t3s-Bot              771        -20        68        
+101        B4ux1t3s-Bot              768        35         70        
 102        grandQ_AI                 767        5          1639      
 103        G0thamB0t                 666        -37        366       
