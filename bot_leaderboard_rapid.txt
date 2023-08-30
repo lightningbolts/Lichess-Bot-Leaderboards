@@ -33,7 +33,7 @@ Rank       Bot                       Rating     Prog       Games
 32         DQN-chess                 2337       16         984       
 33         simpleEval                2318       9          7711      
 34         FlamingDragon_9000        2309       -12        1216      
-35         bekbot                    2279       18         1224      
+35         bekbot                    2279       16         1225      
 36         halcyonbot                2251       0          6584      
 37         eubos                     2218       8          4302      
 38         SimplerEval               2215       17         1888      
@@ -77,7 +77,7 @@ Rank       Bot                       Rating     Prog       Games
 76         dragobot                  1565       6          84        
 77         GuineaBot3                1557       -95        16        
 78         sargon-3ply               1542       -17        1207      
-79         sargon-4ply               1530       -17        649       
+79         sargon-4ply               1530       -11        650       
 80         DavidsGuterBot            1530       -4         657       
 81         maia1                     1515       40         234726    
 82         RoundMoundOfRebounds      1496       43         366       
