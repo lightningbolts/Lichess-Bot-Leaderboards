@@ -27,8 +27,8 @@ Rank       Bot                       Rating     Prog       Games
 26         TuksuBot                  2389       8          2084      
 27         admete_bot                2364       -9         4252      
 28         fornax-engine             2363       10         3735      
-29         RavenEngine               2355       21         421       
-30         odonata-bot               2355       -7         3795      
+29         odonata-bot               2355       -7         3795      
+30         RavenEngine               2355       21         421       
 31         Rinestro                  2339       23         57        
 32         DQN-chess                 2337       16         984       
 33         simpleEval                2320       9          7712      
@@ -43,7 +43,7 @@ Rank       Bot                       Rating     Prog       Games
 42         GarboBot                  2136       -23        6119      
 43         Lynx_BOT                  2130       6          40087     
 44         MaxtheDog                 2100       5          731       
-45         matmoi                    2095       -10        1766      
+45         matmoi                    2096       -5         1767      
 46         redtail-zero              2087       -10        407       
 47         jangine                   2080       16         1782      
 48         onionbot                  2071       55         43        
@@ -67,7 +67,7 @@ Rank       Bot                       Rating     Prog       Games
 66         AshNostromo               1720       -28        1259      
 67         ShallowRedBot             1717       10         17        
 68         dlvc-bot                  1716       -18        88        
-69         maia9                     1708       -8         86271     
+69         maia9                     1713       0          86272     
 70         maia5                     1666       -5         103305    
 71         ZE_ROOK                   1660       33         557       
 72         turkjs                    1651       10         5122      
@@ -75,10 +75,10 @@ Rank       Bot                       Rating     Prog       Games
 74         yeoldwiz                  1620       4          667       
 75         dragobot                  1565       6          84        
 76         GuineaBot3                1557       -95        16        
-77         maia1                     1544       29         234737    
-78         sargon-3ply               1542       -17        1207      
-79         DavidsGuterBot            1530       -4         657       
-80         sargon-4ply               1530       -11        650       
+77         sargon-3ply               1542       -17        1207      
+78         maia1                     1538       8          234739    
+79         sargon-4ply               1530       -11        650       
+80         DavidsGuterBot            1530       -4         657       
 81         RoundMoundOfRebounds      1496       43         366       
 82         turochamp-2ply            1478       -10        1106      
 83         RavenEngine_Depth2        1435       36         25        
@@ -91,8 +91,7 @@ Rank       Bot                       Rating     Prog       Games
 90         schnecken_bot             1236       15         333       
 91         ABotWith3200Rating        1187       -76        66        
 92         sargon-1ply               1184       13         8566      
-93         kireevi                   1113       4          579       
-94         bobandi                   954        10         745       
-95         B4ux1t3s-Bot              771        -20        68        
-96         grandQ_AI                 767        5          1639      
-97         G0thamB0t                 666        -37        366       
+93         bobandi                   954        10         745       
+94         B4ux1t3s-Bot              771        -20        68        
+95         grandQ_AI                 767        5          1639      
+96         G0thamB0t                 666        -37        366       
