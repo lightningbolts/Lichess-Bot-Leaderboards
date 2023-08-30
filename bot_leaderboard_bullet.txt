@@ -12,8 +12,8 @@ Rank       Bot                       Rating     Prog       Games
 11         RaspFish                  2867       9          53200     
 12         MastacticaTeoriabot       2865       6          673       
 13         Mr_Chess_Berserk          2860       0          722       
-14         Abuziddin-BOT             2804       -7         174       
-15         blundar_bot               2780       7          8220      
+14         Abuziddin-BOT             2804       -6         175       
+15         blundar_bot               2783       6          8223      
 16         Palisade                  2760       23         435       
 17         LazyBot                   2682       -6         1420      
 18         FrozenightEngine          2588       -14        9023      
@@ -21,7 +21,7 @@ Rank       Bot                       Rating     Prog       Games
 20         FlamingDragon_9000        2524       -5         10619     
 21         AKS-Mantissa              2488       -15        11107     
 22         Elmichess                 2458       -35        3224      
-23         Cheng-4                   2440       -4         13885     
+23         Cheng-4                   2438       -6         13886     
 24         pawn_git                  2435       2          4380      
 25         Weiawaga                  2426       -11        15838     
 26         bfiedler-bot              2425       -71        79        
@@ -32,10 +32,10 @@ Rank       Bot                       Rating     Prog       Games
 31         Rinestro                  2380       20         192       
 32         Phalanx-XXV               2366       -9         4384      
 33         AjedrezChamberi           2352       15         530       
-34         admete_bot                2351       11         6204      
+34         admete_bot                2350       10         6205      
 35         TuksuBot                  2349       -17        7034      
-36         Pseudo-0                  2333       5          4005      
-37         odonata-bot               2333       -6         6468      
+36         odonata-bot               2333       -6         6468      
+37         Pseudo-0                  2333       5          4005      
 38         fornax-engine             2329       -16        7044      
 39         RavenEngine               2328       -16        9131      
 40         simpleEval                2307       4          25314     
@@ -100,7 +100,7 @@ Rank       Bot                       Rating     Prog       Games
 99         dragobot                  1378       -57        63        
 100        sargon-1ply               1316       -19        4631      
 101        czesc-bot                 1293       -17        259       
-102        knucklefish               1285       -13        2866      
+102        knucklefish               1291       2          2868      
 103        ABotWith3200Rating        1280       26         141       
 104        pawnrobot                 1271       -14        3961      
 105        bobandi                   1221       -19        1108      
