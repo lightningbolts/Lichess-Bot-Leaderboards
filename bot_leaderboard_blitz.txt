@@ -10,7 +10,7 @@ Rank       Bot                       Rating     Prog       Games
 9          ttBOT                     2876       4          527       
 10         YoBot_v2                  2871       2          3919      
 11         ResoluteBot               2865       3          11694     
-12         HansNiemannBot            2855       6          3015      
+12         HansNiemannBot            2855       6          3016      
 13         Mr_Chess_Berserk          2842       10         339       
 14         RaspFish                  2818       -13        11758     
 15         blundar_bot               2755       3          1218      
@@ -47,12 +47,12 @@ Rank       Bot                       Rating     Prog       Games
 46         matmoi                    2157       17         2064      
 47         honzovy-sachy-2           2148       14         7029      
 48         GarboBot                  2117       7          9513      
-49         Boris-Trapsky             2090       -5         29014     
-50         jangine                   2061       -33        3532      
-51         likeawizard-bot           2060       -6         3846      
+49         Boris-Trapsky             2093       -2         29015     
+50         likeawizard-bot           2062       3          3847      
+51         jangine                   2061       -33        3532      
 52         Lynx_BOT                  2058       29         50358     
 53         redtail-zero              2053       -10        544       
-54         MaxtheDog                 2048       -34        4786      
+54         MaxtheDog                 2048       -28        4787      
 55         Elmichess                 2019       5          3691      
 56         myopic-bot                1992       -15        2220      
 57         LeelaRogue                1992       8          2403      
@@ -67,8 +67,8 @@ Rank       Bot                       Rating     Prog       Games
 66         NatesBot                  1839       18         939       
 67         Demolito_L6               1821       10         1094      
 68         Dinora                    1817       1          131       
-69         notropis                  1774       2          6804      
-70         baby_eubos                1774       -21        8222      
+69         baby_eubos                1774       -21        8222      
+70         notropis                  1769       2          6805      
 71         The_Marcus                1708       -5         1502      
 72         honzovy-sachy             1696       -21        5194      
 73         piglet_engine             1681       10         166       
@@ -92,7 +92,7 @@ Rank       Bot                       Rating     Prog       Games
 91         sargon-4ply               1470       -4         2095      
 92         DavidsGuterBot            1449       6          3721      
 93         RoundMoundOfRebounds      1448       -9         1379      
-94         maia1                     1445       -11        210416    
+94         maia1                     1447       9          210419    
 95         RavenEngine_Depth2        1422       -35        77        
 96         turochamp-2ply            1387       16         1733      
 97         monchester                1340       -18        2769      
