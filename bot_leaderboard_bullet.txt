@@ -2,8 +2,8 @@ Rank       Bot                       Rating     Prog       Games
 1          ProteusSF-Godot           2945       5          2174      
 2          ResoluteBot               2940       -3         26673     
 3          FireFishBOT_v2            2935       2          1097      
-4          TorBot                    2932       15         6389      
-5          YoBot_v2                  2932       10         18401     
+4          YoBot_v2                  2932       10         18401     
+5          TorBot                    2928       5          6390      
 6          ReinforcementTrial        2927       5          1274      
 7          ToromBot                  2925       2          62887     
 8          FireFishBOT               2917       5          3906      
@@ -19,9 +19,9 @@ Rank       Bot                       Rating     Prog       Games
 18         expositor                 2540       10         20142     
 19         FlamingDragon_9000        2524       -5         10619     
 20         WejBek                    2506       7          226       
-21         AKS-Mantissa              2474       -12        11126     
-22         Wahoo_Bot                 2468       -5         734       
-23         SF-NNUE                   2467       270        36        
+21         SF-NNUE                   2492       311        37        
+22         AKS-Mantissa              2474       -12        11126     
+23         Wahoo_Bot                 2468       -5         734       
 24         Elmichess                 2458       -35        3224      
 25         balancefish               2454       -15        89        
 26         Cheng-4                   2439       2          13899     
@@ -52,12 +52,12 @@ Rank       Bot                       Rating     Prog       Games
 51         myopic-bot                2112       3          2126      
 52         eubos                     2109       -4         13229     
 53         jangine                   2084       -3         3290      
-54         MaxtheDog                 2071       6          15129     
+54         MaxtheDog                 2064       -6         15130     
 55         likeawizard-bot           2062       21         1796      
 56         redtail-zero              2036       15         753       
-57         sun_bird                  2033       7          696       
+57         sun_bird                  2035       17         697       
 58         LazyBotJr                 2026       10         949       
-59         BLANK_BOT                 1996       17         7701      
+59         BLANK_BOT                 2003       18         7702      
 60         Zagreus_Engine            1994       17         3396      
 61         Trollfish-Bot             1973       -30        4773      
 62         Nc3Nc6Bot                 1927       0          1340      
@@ -68,7 +68,7 @@ Rank       Bot                       Rating     Prog       Games
 67         QueensGamBOT              1771       -1         5251      
 68         HardRok                   1763       -2         817       
 69         baby_eubos                1759       19         5921      
-70         honzovy-sachy             1758       -1         5081      
+70         honzovy-sachy             1756       -1         5082      
 71         Dinora                    1755       -21        105       
 72         Virutor                   1753       3          6894      
 73         simplexitor               1746       -6         2348      
@@ -85,7 +85,7 @@ Rank       Bot                       Rating     Prog       Games
 84         turkjs                    1617       -9         19382     
 85         turochamp-2ply            1609       27         1649      
 86         sudobot_chess             1590       -295       227       
-87         maia1                     1586       26         125247    
+87         maia1                     1586       23         125248    
 88         monchester                1570       -1         2566      
 89         sargon-4ply               1567       9          1820      
 90         RoundMoundOfRebounds      1560       -18        1508      
