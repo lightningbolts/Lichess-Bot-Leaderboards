@@ -1,8 +1,8 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Aureo           2907       -1         92        
-2          FireFishBOT_v2            2890       -1         5438      
+2          FireFishBOT_v2            2889       -4         5439      
 3          TorBot_v2                 2884       2          143       
-4          FireFishBOT               2883       1          2748      
+4          FireFishBOT               2882       0          2749      
 5          ttBOT                     2881       -2         566       
 6          ReinforcementTrial        2881       1          2478      
 7          YoBot_v2                  2876       1          3963      
@@ -10,7 +10,7 @@ Rank       Bot                       Rating     Prog       Games
 9          Mr_Chess_Berserk          2844       6          347       
 10         Mate-AI                   2843       -3         3286      
 11         TheFreshman1902           2838       5          12        
-12         RaspFish                  2818       -9         11801     
+12         RaspFish                  2821       -2         11803     
 13         ArasanX                   2806       4          2121      
 14         blundar_bot               2746       -4         1239      
 15         LazyBot                   2690       6          2033      
@@ -81,7 +81,7 @@ Rank       Bot                       Rating     Prog       Games
 80         maia9                     1647       6          103014    
 81         simplexitor               1643       -2         2290      
 82         QueensGamBOT              1637       -1         3130      
-83         maia5                     1605       -8         103235    
+83         maia5                     1610       -1         103236    
 84         HardRok                   1586       -12        928       
 85         ZE_ROOK                   1551       1          3100      
 86         GuineaBot3                1547       -50        108       
@@ -93,7 +93,7 @@ Rank       Bot                       Rating     Prog       Games
 92         arny_bot                  1481       -8         930       
 93         RoundMoundOfRebounds      1447       -9         1380      
 94         DavidsGuterBot            1445       -8         3725      
-95         maia1                     1422       -1         210599    
+95         maia1                     1426       5          210600    
 96         RavenEngine_Depth2        1417       -35        79        
 97         turochamp-2ply            1392       22         1734      
 98         monchester                1342       -12        2771      
@@ -102,8 +102,8 @@ Rank       Bot                       Rating     Prog       Games
 101        pawnrobot                 1289       -27        2188      
 102        turochamp-1ply            1257       -19        1860      
 103        sargon-2ply               1252       -15        3167      
-104        dragobot                  1250       -1         169       
-105        sargon-1ply               1250       10         8038      
+104        sargon-1ply               1250       10         8038      
+105        dragobot                  1250       -1         169       
 106        czesc-bot                 1241       11         159       
 107        ABotWith3200Rating        1197       -34        245       
 108        knucklefish               1097       26         3288      
