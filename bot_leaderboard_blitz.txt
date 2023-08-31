@@ -1,11 +1,11 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Aureo           2907       -1         92        
 2          ProteusSF-Godot           2897       0          1273      
-3          FireFishBOT_v2            2891       -1         5425      
-4          ttBOT                     2883       2          555       
+3          FireFishBOT_v2            2891       0          5427      
+4          ttBOT                     2884       3          557       
 5          FireFishBOT               2882       1          2740      
-6          TorBot_v2                 2881       0          139       
-7          ReinforcementTrial        2881       1          2477      
+6          ReinforcementTrial        2881       1          2477      
+7          TorBot_v2                 2881       0          139       
 8          YoBot_v2                  2876       2          3961      
 9          ResoluteBot               2873       1          11736     
 10         Mate-AI                   2849       -1         3281      
@@ -16,7 +16,7 @@ Rank       Bot                       Rating     Prog       Games
 15         blundar_bot               2745       -9         1238      
 16         LazyBot                   2690       6          2033      
 17         WejBek                    2642       2          229       
-18         AKS-Mantissa              2614       0          10029     
+18         AKS-Mantissa              2615       1          10030     
 19         expositor                 2581       13         7275      
 20         ELO_1500                  2580       -2         13205     
 21         FrozenightEngine          2576       -6         6228      
@@ -61,7 +61,7 @@ Rank       Bot                       Rating     Prog       Games
 60         YourSparringBot           1990       6          937       
 61         sun_bird                  1970       4          850       
 62         BLANK_BOT                 1960       -6         5025      
-63         Nc3Nc6Bot                 1955       -5         1696      
+63         Nc3Nc6Bot                 1955       -1         1697      
 64         LazyBotJr                 1902       -42        1927      
 65         zeekat                    1863       -12        21576     
 66         zulu_bot                  1861       -3         992       
@@ -104,8 +104,8 @@ Rank       Bot                       Rating     Prog       Games
 103        pawnrobot                 1289       -27        2188      
 104        turochamp-1ply            1257       -19        1860      
 105        sargon-2ply               1252       -31        3165      
-106        sargon-1ply               1250       10         8038      
-107        dragobot                  1250       -1         169       
+106        dragobot                  1250       -1         169       
+107        sargon-1ply               1250       10         8038      
 108        czesc-bot                 1246       25         158       
 109        ABotWith3200Rating        1205       -23        243       
 110        knucklefish               1097       26         3288      
