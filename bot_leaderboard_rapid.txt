@@ -1,10 +1,10 @@
 Rank       Bot                       Rating     Prog       Games     
-1          HansNiemannBot            2904       6          2563      
+1          HansNiemannBot            2904       6          2564      
 2          ProteusSF-Godot           2897       2          195       
 3          FireFishBOT_v2            2896       2          744       
-4          YoBot_v2                  2893       22         13138     
+4          YoBot_v2                  2893       23         13139     
 5          FireFishBOT               2884       4          1088      
-6          ToromBot                  2879       2          2085      
+6          ToromBot                  2880       -2         2086      
 7          ReinforcementTrial        2878       0          5322      
 8          TorBot_v2                 2877       14         214       
 9          ArasanX                   2870       16         5711      
@@ -51,7 +51,7 @@ Rank       Bot                       Rating     Prog       Games
 50         jangine                   2073       4          1788      
 51         YourSparringBot           2060       -40        149       
 52         likeawizard-bot           2053       10         968       
-53         myopic-bot                2033       -1         463       
+53         myopic-bot                2033       -1         464       
 54         Zagreus_Engine            2022       -1         1964      
 55         LeelaRogue                1989       -7         2343      
 56         Nc3Nc6Bot                 1979       -28        1883      
@@ -86,7 +86,7 @@ Rank       Bot                       Rating     Prog       Games
 85         sargon-3ply               1533       -27        1209      
 86         sargon-4ply               1527       -21        651       
 87         RoundMoundOfRebounds      1490       13         369       
-88         maia1                     1475       11         234949    
+88         maia1                     1484       18         234950    
 89         turochamp-2ply            1467       -21        1108      
 90         RavenEngine_Depth2        1423       41         26        
 91         StupidChessRobot          1417       21         61        
