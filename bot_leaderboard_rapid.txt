@@ -25,7 +25,7 @@ Rank       Bot                       Rating     Prog       Games
 24         bot_adario                2555       4          1400      
 25         Weiawaga                  2545       23         10107     
 26         catriever                 2522       -5         311       
-27         OpeningsBot               2455       -9         358       
+27         OpeningsBot               2447       -24        359       
 28         Wahoo_Bot                 2423       27         100       
 29         TuksuBot                  2393       18         2086      
 30         Pseudo-0                  2377       -9         1172      
@@ -37,14 +37,14 @@ Rank       Bot                       Rating     Prog       Games
 36         Rinestro                  2339       23         57        
 37         simpleEval                2314       1          7721      
 38         FlamingDragon_9000        2309       -12        1216      
-39         halcyonbot                2268       19         6609      
+39         halcyonbot                2276       20         6610      
 40         SimplerEval               2224       7          1894      
 41         eubos                     2214       -4         4305      
 42         FataliiBot                2209       -9         2679      
 43         Elmichess                 2171       16         1418      
 44         honzovy-sachy-2           2165       -20        3629      
-45         Lynx_BOT                  2147       0          40106     
-46         GarboBot                  2147       -4         6124      
+45         GarboBot                  2147       -4         6124      
+46         Lynx_BOT                  2147       0          40106     
 47         Boris-Trapsky             2146       -2         27686     
 48         MaxtheDog                 2108       9          738       
 49         matmoi                    2096       -2         1797      
@@ -65,8 +65,8 @@ Rank       Bot                       Rating     Prog       Games
 64         notropis                  1834       -18        2454      
 65         Trollfish-Bot             1829       -7         296       
 66         ShallowRedBot             1788       81         22        
-67         Virutor                   1784       -18        3251      
-68         honzovy-sachy             1784       10         1004      
+67         honzovy-sachy             1784       10         1004      
+68         Virutor                   1784       -18        3251      
 69         The_Marcus                1779       26         153       
 70         zulu_bot                  1776       3          110       
 71         ChessChildren             1740       -13        4508      
@@ -87,7 +87,7 @@ Rank       Bot                       Rating     Prog       Games
 86         sargon-4ply               1530       -11        650       
 87         RoundMoundOfRebounds      1496       34         368       
 88         turochamp-2ply            1467       -21        1108      
-89         maia1                     1456       10         234932    
+89         maia1                     1464       9          234933    
 90         RavenEngine_Depth2        1423       41         26        
 91         StupidChessRobot          1417       21         61        
 92         turochamp-1ply            1412       42         1611      
