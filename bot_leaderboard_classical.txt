@@ -1,9 +1,9 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ReinforcementTrial        2637       4          117       
+1          ReinforcementTrial        2636       1          118       
 2          YoBot_v2                  2611       7          541       
 3          ProteusSF-Godot           2602       1          299       
-4          RaspFish                  2588       6          593       
-5          ResoluteBot               2588       -1         662       
+4          ResoluteBot               2589       0          663       
+5          RaspFish                  2588       6          593       
 6          Mr_Chess_Berserk          2578       -4         56        
 7          ArasanX                   2551       -7         169       
 8          ELO_1500                  2419       0          307       
@@ -25,8 +25,8 @@ Rank       Bot                       Rating     Prog       Games
 24         SimplerEval               1991       32         216       
 25         eubos                     1976       13         732       
 26         matmoi                    1965       69         21        
-27         MaxtheDog                 1960       -1         188       
-28         HistoryExplorer           1960       26         188       
+27         HistoryExplorer           1960       26         188       
+28         MaxtheDog                 1960       -1         188       
 29         YourSparringBot           1956       -32        22        
 30         jangine                   1949       -16        291       
 31         Lynx_BOT                  1933       12         824       
@@ -65,3 +65,4 @@ Rank       Bot                       Rating     Prog       Games
 64         ABotWith3200Rating        1242       -23        88        
 65         bobandi                   1158       19         184       
 66         grandQ_AI                 851        -16        802       
+67         G0thamB0t                 815        -39        192       
