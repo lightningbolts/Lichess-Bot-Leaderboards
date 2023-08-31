@@ -7,7 +7,7 @@ Rank       Bot                       Rating     Prog       Games
 6          FireFishBOT               2879       1          2696      
 7          ReinforcementTrial        2878       1          2458      
 8          ResoluteBot               2874       8          11709     
-9          YoBot_v2                  2869       -1         3927      
+9          YoBot_v2                  2870       0          3928      
 10         HansNiemannBot            2856       1          3031      
 11         Mate-AI                   2854       -17        3260      
 12         Mr_Chess_Berserk          2844       6          347       
@@ -22,8 +22,8 @@ Rank       Bot                       Rating     Prog       Games
 21         FrozenightEngine          2574       -12        6211      
 22         expositor                 2566       0          7267      
 23         Cheng-4                   2506       4          6680      
-24         Weiawaga                  2499       2          11942     
-25         Wahoo_Bot                 2499       42         369       
+24         Wahoo_Bot                 2499       42         369       
+25         Weiawaga                  2499       2          11942     
 26         pawn_git                  2464       -9         2591      
 27         catriever                 2461       -25        875       
 28         bot_adario                2456       -15        2462      
@@ -50,10 +50,10 @@ Rank       Bot                       Rating     Prog       Games
 49         jangine                   2058       -16        3539      
 50         likeawizard-bot           2056       -27        3872      
 51         redtail-zero              2050       -13        546       
-52         MaxtheDog                 2034       -24        4791      
+52         MaxtheDog                 2028       -26        4792      
 53         Elmichess                 2019       5          3691      
 54         myopic-bot                2004       14         2224      
-55         Zagreus_Engine            1997       11         4407      
+55         Zagreus_Engine            2003       19         4408      
 56         LeelaRogue                1992       8          2403      
 57         Nc3Nc6Bot                 1971       7          1673      
 58         sun_bird                  1968       21         813       
@@ -78,10 +78,10 @@ Rank       Bot                       Rating     Prog       Games
 77         simplexitor               1645       -9         2283      
 78         QueensGamBOT              1636       -3         3118      
 79         ChessChildren             1635       6          21490     
-80         maia9                     1612       0          102876    
+80         maia9                     1621       23         102881    
 81         HardRok                   1592       -3         926       
-82         turkjs                    1553       -6         10359     
-83         ZE_ROOK                   1553       13         3082      
+82         ZE_ROOK                   1553       13         3082      
+83         turkjs                    1553       -6         10359     
 84         GuineaBot3                1550       -51        107       
 85         maia5                     1548       -3         103162    
 86         sudobot_chess             1539       -74        402       
@@ -99,8 +99,8 @@ Rank       Bot                       Rating     Prog       Games
 98         pawnrobot                 1291       -28        2187      
 99         sargon-2ply               1270       0          3158      
 100        turochamp-1ply            1261       -9         1858      
-101        dragobot                  1252       -4         168       
-102        sargon-1ply               1245       -1         8028      
+101        sargon-1ply               1255       18         8030      
+102        dragobot                  1252       -4         168       
 103        ABotWith3200Rating        1240       44         238       
 104        czesc-bot                 1230       -4         155       
 105        knucklefish               1097       26         3287      
