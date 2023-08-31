@@ -5,8 +5,8 @@ Rank       Bot                       Rating     Prog       Games
 4          YoBot_v2                  2929       -4         18410     
 5          ReinforcementTrial        2926       -1         1282      
 6          ToromBot                  2925       -1         62890     
-7          FireFishBOT               2917       0          3915      
-8          TorBot_v2                 2905       3          259       
+7          FireFishBOT               2916       -1         3916      
+8          TorBot_v2                 2907       4          261       
 9          Mate-AI                   2900       -18        12478     
 10         RaspFish                  2867       7          53267     
 11         Mr_Chess_Berserk          2852       -7         745       
@@ -16,7 +16,7 @@ Rank       Bot                       Rating     Prog       Games
 15         FrozenightEngine          2569       -9         9047      
 16         expositor                 2538       5          20144     
 17         FlamingDragon_9000        2524       -5         10619     
-18         WejBek                    2513       9          236       
+18         WejBek                    2512       6          237       
 19         AKS-Mantissa              2474       -12        11126     
 20         Wahoo_Bot                 2465       -14        743       
 21         Elmichess                 2458       -35        3224      
@@ -30,8 +30,8 @@ Rank       Bot                       Rating     Prog       Games
 29         Rinestro                  2382       14         197       
 30         ELO_1500                  2372       -1         3259      
 31         Phalanx-XXV               2362       -6         4393      
-32         TuksuBot                  2348       -2         7044      
-33         admete_bot                2348       -5         6213      
+32         admete_bot                2348       -5         6213      
+33         TuksuBot                  2348       -2         7044      
 34         RavenEngine               2340       12         9138      
 35         Pseudo-0                  2337       2          4018      
 36         fornax-engine             2334       -9         7051      
@@ -54,9 +54,9 @@ Rank       Bot                       Rating     Prog       Games
 53         sun_bird                  2032       -1         707       
 54         redtail-zero              2030       15         754       
 55         LazyBotJr                 2026       10         949       
-56         BLANK_BOT                 2009       17         7706      
+56         BLANK_BOT                 2003       14         7707      
 57         Zagreus_Engine            1991       16         3402      
-58         Trollfish-Bot             1976       10         4779      
+58         Trollfish-Bot             1982       14         4780      
 59         Nc3Nc6Bot                 1935       -8         1343      
 60         YourSparringBot           1919       17         296       
 61         zeekat                    1900       1          19362     
@@ -85,9 +85,9 @@ Rank       Bot                       Rating     Prog       Games
 84         sargon-4ply               1571       16         1821      
 85         monchester                1570       -1         2566      
 86         RoundMoundOfRebounds      1563       -13        1509      
-87         maia1                     1553       -33        125258    
+87         RavenEngine_Depth2        1545       -4         50        
 88         sargon-3ply               1545       -12        1447      
-89         RavenEngine_Depth2        1545       -4         50        
+89         maia1                     1541       -36        125261    
 90         DavidsGuterBot            1510       -13        6396      
 91         yeoldwiz                  1450       18         791       
 92         turochamp-1ply            1437       -15        2144      
