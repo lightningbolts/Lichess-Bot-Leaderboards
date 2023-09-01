@@ -1,8 +1,8 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Aureo           2907       -1         92        
 2          ProteusSF-Godot           2897       0          1273      
-3          ToromBot                  2894       15         3824      
-4          ReinforcementTrial        2890       9          2488      
+3          ToromBot                  2894       9          3825      
+4          ReinforcementTrial        2890       9          2489      
 5          ResoluteBot               2887       6          11755     
 6          YoBot_v2                  2886       11         3977      
 7          FireFishBOT_v2            2884       2          5482      
@@ -15,10 +15,10 @@ Rank       Bot                       Rating     Prog       Games
 14         LazyBot                   2690       6          2033      
 15         WejBek                    2646       12         255       
 16         AKS-Mantissa              2611       -4         10043     
-17         FrozenightEngine          2591       16         6234      
+17         FrozenightEngine          2590       13         6235      
 18         expositor                 2586       18         7280      
 19         ELO_1500                  2582       -3         13209     
-20         Cheng-4                   2509       5          6687      
+20         Cheng-4                   2511       1          6688      
 21         pawn_git                  2493       26         2600      
 22         SaxtonEngine              2490       -24        2422      
 23         Weiawaga                  2471       -9         11962     
@@ -81,7 +81,7 @@ Rank       Bot                       Rating     Prog       Games
 80         QueensGamBOT              1634       -5         3133      
 81         simplexitor               1624       -19        2301      
 82         ZE_ROOK                   1558       8          3112      
-83         maia9                     1544       -4         103101    
+83         maia9                     1547       8          103102    
 84         sudobot_chess             1539       -74        402       
 85         turkjs                    1537       -16        10370     
 86         yeoldwiz                  1527       0          1769      
@@ -93,8 +93,8 @@ Rank       Bot                       Rating     Prog       Games
 92         DavidsGuterBot            1441       -2         3729      
 93         RoundMoundOfRebounds      1437       -17        1384      
 94         RookieRobot               1436       23         49        
-95         RavenEngine_Depth2        1417       -35        79        
-96         Flawed_Formula            1417       -14        227       
+95         Flawed_Formula            1417       -14        227       
+96         RavenEngine_Depth2        1417       -35        79        
 97         turochamp-2ply            1392       22         1734      
 98         Humaia                    1364       -13        998       
 99         monchester                1353       3          2775      
@@ -109,5 +109,5 @@ Rank       Bot                       Rating     Prog       Games
 108        ABotWith3200Rating        1194       -43        246       
 109        knucklefish               1094       12         3289      
 110        bobandi                   1091       0          1218      
-111        grandQ_AI                 1035       -47        1266      
+111        grandQ_AI                 1028       -55        1268      
 112        B4ux1t3s-Bot              950        13         103       
