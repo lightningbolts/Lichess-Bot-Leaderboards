@@ -28,13 +28,13 @@ Rank       Bot                       Rating     Prog       Games
 27         Phalanx-XXV               2378       5          981       
 28         Pseudo-0                  2375       -10        1174      
 29         fornax-engine             2372       10         3745      
-30         admete_bot                2361       0          4306      
-31         RavenEngine               2361       7          430       
+30         RavenEngine               2367       15         431       
+31         admete_bot                2361       0          4306      
 32         Rinestro                  2339       23         57        
 33         simpleEval                2321       7          7732      
 34         FlamingDragon_9000        2309       -12        1216      
 35         bekbot                    2286       3          1267      
-36         halcyonbot                2254       0          6652      
+36         halcyonbot                2250       -1         6653      
 37         Nakshatra3                2247       -23        894       
 38         SimplerEval               2242       27         1898      
 39         FataliiBot                2216       0          2693      
@@ -72,7 +72,7 @@ Rank       Bot                       Rating     Prog       Games
 71         zulu_bot                  1776       3          110       
 72         ShallowRedBot             1775       46         27        
 73         Demolito_L5               1749       13         1417      
-74         maia9                     1729       -18        86630     
+74         maia9                     1720       -31        86631     
 75         dlvc-bot                  1716       -18        88        
 76         ChessChildren             1715       -25        4519      
 77         AshNostromo               1706       -23        1267      
@@ -85,7 +85,7 @@ Rank       Bot                       Rating     Prog       Games
 84         dragobot                  1561       2          90        
 85         DavidsGuterBot            1548       10         665       
 86         arny_bot                  1543       -53        30        
-87         maia1                     1533       -19        235374    
+87         maia1                     1530       -27        235377    
 88         sargon-4ply               1526       -14        654       
 89         sargon-3ply               1525       -21        1214      
 90         RoundMoundOfRebounds      1490       13         369       
@@ -104,4 +104,4 @@ Rank       Bot                       Rating     Prog       Games
 103        kireevi                   1113       4          579       
 104        bobandi                   999        54         753       
 105        grandQ_AI                 775        36         1644      
-106        B4ux1t3s-Bot              728        -36        84        
+106        B4ux1t3s-Bot              724        -39        85        
