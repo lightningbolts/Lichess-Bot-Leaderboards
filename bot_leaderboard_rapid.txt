@@ -8,13 +8,13 @@ Rank       Bot                       Rating     Prog       Games
 7          caissa-x                  2884       -1         3080      
 8          FireFishBOT               2883       -1         1120      
 9          ResoluteBot               2867       2          5362      
-10         RaspFish                  2847       -8         5770      
+10         RaspFish                  2850       -5         5771      
 11         Mate-AI                   2831       -21        2499      
 12         MrChessTheBot             2818       5          2199      
 13         blundar_bot               2814       -8         1168      
 14         FrozenightEngine          2646       3          5099      
 15         ELO_1500                  2635       -5         3166      
-16         AKS-Mantissa              2627       3          4163      
+16         AKS-Mantissa              2624       -3         4164      
 17         expositor                 2615       10         4666      
 18         pawn_git                  2585       12         1319      
 19         LazyBot                   2561       -50        751       
@@ -29,8 +29,8 @@ Rank       Bot                       Rating     Prog       Games
 28         Pseudo-0                  2375       -10        1174      
 29         ChessNoobComp             2373       -14        593       
 30         fornax-engine             2368       8          3744      
-31         RavenEngine               2358       1          429       
-32         admete_bot                2358       -3         4305      
+31         admete_bot                2358       -3         4305      
+32         RavenEngine               2358       1          429       
 33         Rinestro                  2339       23         57        
 34         simpleEval                2317       7          7729      
 35         FlamingDragon_9000        2309       -12        1216      
@@ -66,9 +66,9 @@ Rank       Bot                       Rating     Prog       Games
 65         baby_eubos                1899       -12        1020      
 66         NatesBot                  1864       -4         500       
 67         Trollfish-Bot             1839       4          303       
-68         notropis                  1830       -8         2467      
+68         notropis                  1829       -18        2468      
 69         honzovy-sachy             1796       22         1009      
-70         Virutor                   1786       -10        3254      
+70         Virutor                   1786       -10        3255      
 71         maia9                     1784       20         86583     
 72         The_Marcus                1780       -4         162       
 73         zulu_bot                  1776       3          110       
@@ -94,8 +94,8 @@ Rank       Bot                       Rating     Prog       Games
 93         Flawed_Formula            1427       -78        45        
 94         StupidChessRobot          1408       19         63        
 95         RavenEngine_Depth2        1405       39         27        
-96         turochamp-1ply            1403       -7         1625      
-97         czesc-bot                 1403       -133       85        
+96         czesc-bot                 1403       -133       85        
+97         turochamp-1ply            1403       -7         1625      
 98         sargon-2ply               1345       0          3402      
 99         chat_bot                  1300       -18        261       
 100        sargon-1ply               1271       -4         8616      
@@ -104,6 +104,6 @@ Rank       Bot                       Rating     Prog       Games
 103        ABotWith3200Rating        1221       4          95        
 104        kireevi                   1113       4          579       
 105        bobandi                   982        29         750       
-106        grandQ_AI                 785        37         1641      
+106        grandQ_AI                 784        54         1642      
 107        B4ux1t3s-Bot              728        -36        84        
 108        G0thamB0t                 683        10         382       
