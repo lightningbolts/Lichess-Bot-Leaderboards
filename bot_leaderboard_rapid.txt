@@ -6,7 +6,7 @@ Rank       Bot                       Rating     Prog       Games
 5          ReinforcementTrial        2892       10         5362      
 6          FireFishBOT               2884       0          1121      
 7          ResoluteBot               2862       -4         5365      
-8          RaspFish                  2848       1          5781      
+8          RaspFish                  2848       -2         5782      
 9          MastacticaTeoriabot       2844       3          76        
 10         Mate-AI                   2826       -32        2502      
 11         MrChessTheBot             2819       5          2201      
@@ -72,7 +72,7 @@ Rank       Bot                       Rating     Prog       Games
 71         The_Marcus                1780       -4         162       
 72         zulu_bot                  1776       3          110       
 73         Demolito_L5               1742       8          1419      
-74         maia9                     1726       18         86653     
+74         maia9                     1722       18         86655     
 75         dlvc-bot                  1716       -18        88        
 76         ChessChildren             1715       -25        4519      
 77         AshNostromo               1706       -23        1267      
@@ -94,8 +94,8 @@ Rank       Bot                       Rating     Prog       Games
 93         Mate_Bot                  1441       10         115       
 94         StupidChessRobot          1425       37         65        
 95         RavenEngine_Depth2        1405       39         27        
-96         czesc-bot                 1403       -133       85        
-97         turochamp-1ply            1403       -7         1626      
+96         turochamp-1ply            1403       -7         1626      
+97         czesc-bot                 1403       -133       85        
 98         sargon-2ply               1347       2          3413      
 99         chat_bot                  1300       -18        261       
 100        sargon-1ply               1294       42         8624      
