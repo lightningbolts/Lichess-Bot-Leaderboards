@@ -3,8 +3,8 @@ Rank       Bot                       Rating     Prog       Games
 2          ProteusSF-Godot           2897       2          198       
 3          ToromBot                  2896       1          2129      
 4          FireFishBOT_v2            2896       3          762       
-5          FireFishBOT               2884       0          1121      
-6          ReinforcementTrial        2884       2          5359      
+5          ReinforcementTrial        2884       2          5359      
+6          FireFishBOT               2884       0          1121      
 7          ResoluteBot               2867       1          5363      
 8          RaspFish                  2851       -4         5773      
 9          MastacticaTeoriabot       2846       -5         70        
@@ -38,7 +38,7 @@ Rank       Bot                       Rating     Prog       Games
 37         Nakshatra3                2247       -23        894       
 38         SimplerEval               2237       26         1897      
 39         FataliiBot                2212       16         2688      
-40         eubos                     2201       -13        4309      
+40         eubos                     2202       -7         4310      
 41         matmoi                    2174       34         1839      
 42         Elmichess                 2171       16         1418      
 43         Lynx_BOT                  2149       -12        40131     
@@ -56,14 +56,14 @@ Rank       Bot                       Rating     Prog       Games
 55         Zagreus_Engine            1992       -23        1984      
 56         LeelaRogue                1989       -7         2343      
 57         Nc3Nc6Bot                 1988       -9         1921      
-58         BLANK_BOT                 1976       -6         1670      
+58         BLANK_BOT                 1974       -6         1671      
 59         zeekat                    1954       6          8748      
 60         LazyBotJr                 1948       10         1277      
 61         KelpBot                   1928       21         17        
 62         sun_bird                  1917       22         63        
 63         Demolito_L6               1900       14         812       
 64         baby_eubos                1899       -12        1020      
-65         NatesBot                  1868       -1         501       
+65         NatesBot                  1869       2          502       
 66         Trollfish-Bot             1839       4          303       
 67         notropis                  1829       -18        2468      
 68         maia9                     1799       16         86587     
@@ -84,7 +84,7 @@ Rank       Bot                       Rating     Prog       Games
 83         dragobot                  1561       2          90        
 84         DavidsGuterBot            1548       10         665       
 85         arny_bot                  1543       -53        30        
-86         maia1                     1528       -9         235225    
+86         maia1                     1532       -7         235228    
 87         sargon-4ply               1526       -14        654       
 88         sargon-3ply               1525       -21        1214      
 89         RoundMoundOfRebounds      1490       13         369       
@@ -93,8 +93,8 @@ Rank       Bot                       Rating     Prog       Games
 92         Flawed_Formula            1427       -78        45        
 93         StupidChessRobot          1408       19         63        
 94         RavenEngine_Depth2        1405       39         27        
-95         turochamp-1ply            1403       -7         1625      
-96         czesc-bot                 1403       -133       85        
+95         czesc-bot                 1403       -133       85        
+96         turochamp-1ply            1403       -7         1625      
 97         sargon-2ply               1345       0          3402      
 98         chat_bot                  1300       -18        261       
 99         sargon-1ply               1271       -10        8617      
