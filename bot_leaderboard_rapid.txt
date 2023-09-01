@@ -9,7 +9,7 @@ Rank       Bot                       Rating     Prog       Games
 8          ResoluteBot               2867       2          5360      
 9          RaspFish                  2852       -2         5766      
 10         Mate-AI                   2838       -25        2496      
-11         blundar_bot               2825       0          1162      
+11         blundar_bot               2820       -5         1163      
 12         FrozenightEngine          2648       4          5095      
 13         ELO_1500                  2637       -5         3164      
 14         AKS-Mantissa              2631       -3         4161      
@@ -23,7 +23,7 @@ Rank       Bot                       Rating     Prog       Games
 22         catriever                 2518       -3         313       
 23         OpeningsBot               2454       -7         367       
 24         Wahoo_Bot                 2441       26         106       
-25         TuksuBot                  2405       22         2093      
+25         TuksuBot                  2405       19         2094      
 26         ChessNoobComp             2378       -5         590       
 27         Phalanx-XXV               2377       0          979       
 28         Pseudo-0                  2375       -10        1174      
@@ -91,12 +91,12 @@ Rank       Bot                       Rating     Prog       Games
 90         turochamp-2ply            1463       -25        1109      
 91         Humaia                    1456       32         2290      
 92         Flawed_Formula            1451       -33        44        
-93         Mate_Bot                  1416       46         91        
+93         Mate_Bot                  1416       36         92        
 94         StupidChessRobot          1408       19         63        
 95         RavenEngine_Depth2        1405       39         27        
-96         czesc-bot                 1403       -133       85        
-97         turochamp-1ply            1403       -12        1624      
-98         sargon-2ply               1364       31         3394      
+96         turochamp-1ply            1403       -12        1624      
+97         czesc-bot                 1403       -133       85        
+98         sargon-2ply               1354       6          3398      
 99         chat_bot                  1300       -18        261       
 100        sargon-1ply               1259       -7         8611      
 101        pawnrobot                 1255       -10        732       
