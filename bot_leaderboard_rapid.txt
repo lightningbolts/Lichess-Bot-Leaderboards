@@ -5,8 +5,8 @@ Rank       Bot                       Rating     Prog       Games
 4          FireFishBOT_v2            2896       3          762       
 5          ToromBot                  2895       -2         2136      
 6          ReinforcementTrial        2892       10         5362      
-7          ttBOT                     2884       -3         179       
-8          FireFishBOT               2884       0          1121      
+7          FireFishBOT               2884       0          1121      
+8          ttBOT                     2884       -3         179       
 9          ResoluteBot               2862       -4         5365      
 10         RaspFish                  2848       0          5780      
 11         MastacticaTeoriabot       2843       -8         75        
@@ -38,8 +38,8 @@ Rank       Bot                       Rating     Prog       Games
 37         bekbot                    2286       3          1267      
 38         halcyonbot                2254       0          6652      
 39         Nakshatra3                2247       -23        894       
-40         SimplerEval               2237       26         1897      
-41         FataliiBot                2216       9          2691      
+40         SimplerEval               2242       27         1898      
+41         FataliiBot                2216       6          2692      
 42         eubos                     2202       -7         4310      
 43         HistoryExplorer           2177       2          1073      
 44         Elmichess                 2171       16         1418      
@@ -47,7 +47,7 @@ Rank       Bot                       Rating     Prog       Games
 46         Boris-Trapsky             2152       -13        27709     
 47         honzovy-sachy-2           2145       -28        3635      
 48         GarboBot                  2140       -3         6137      
-49         Lynx_BOT                  2139       -20        40136     
+49         Lynx_BOT                  2135       -24        40137     
 50         MaxtheDog                 2105       0          748       
 51         redtail-zero              2093       -4         420       
 52         onionbot                  2085       48         46        
@@ -66,7 +66,7 @@ Rank       Bot                       Rating     Prog       Games
 65         sun_bird                  1926       21         64        
 66         baby_eubos                1904       -4         1021      
 67         Demolito_L6               1901       7          817       
-68         NatesBot                  1869       -1         504       
+68         NatesBot                  1871       -3         505       
 69         Trollfish-Bot             1847       17         304       
 70         notropis                  1825       -28        2469      
 71         honzovy-sachy             1793       13         1010      
@@ -75,7 +75,7 @@ Rank       Bot                       Rating     Prog       Games
 74         zulu_bot                  1776       3          110       
 75         ShallowRedBot             1775       46         27        
 76         Demolito_L5               1750       16         1416      
-77         maia9                     1747       -22        86618     
+77         maia9                     1747       -20        86619     
 78         ChessChildren             1719       -20        4518      
 79         dlvc-bot                  1716       -18        88        
 80         AshNostromo               1706       -23        1267      
@@ -94,11 +94,11 @@ Rank       Bot                       Rating     Prog       Games
 93         RoundMoundOfRebounds      1490       13         369       
 94         turochamp-2ply            1463       -25        1109      
 95         Humaia                    1456       32         2290      
-96         Mate_Bot                  1433       14         100       
+96         Mate_Bot                  1433       14         101       
 97         StupidChessRobot          1408       19         63        
 98         RavenEngine_Depth2        1405       39         27        
-99         turochamp-1ply            1403       -7         1626      
-100        czesc-bot                 1403       -133       85        
+99         czesc-bot                 1403       -133       85        
+100        turochamp-1ply            1403       -7         1626      
 101        sargon-2ply               1330       -29        3408      
 102        chat_bot                  1300       -18        261       
 103        sargon-1ply               1277       2          8618      
