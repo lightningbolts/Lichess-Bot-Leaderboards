@@ -1,5 +1,5 @@
 Rank       Bot                       Rating     Prog       Games     
-1          Anand_bot                 2987       5          1703      
+1          Anand_bot                 2988       5          1705      
 2          ProteusSF-Godot           2946       5          2176      
 3          YoBot_v2                  2946       9          18495     
 4          ProteusSF-Aureo           2943       16         301       
@@ -13,7 +13,7 @@ Rank       Bot                       Rating     Prog       Games
 12         FireFishBOT               2878       1          4312      
 13         MastacticaTeoriabot       2864       12         723       
 14         RaspFish                  2841       -15        53389     
-15         blundar_bot               2717       -19        8658      
+15         blundar_bot               2714       -18        8659      
 16         LazyBot                   2684       -20        1422      
 17         Tundra4                   2669       21         1401      
 18         WejBek                    2622       12         356       
@@ -25,8 +25,8 @@ Rank       Bot                       Rating     Prog       Games
 24         balancefish               2495       23         110       
 25         SaxtonEngine              2467       7          4407      
 26         Elmichess                 2458       -35        3224      
-27         Weiawaga                  2429       -5         15941     
-28         pawn_git                  2427       5          4423      
+27         pawn_git                  2431       11         4424      
+28         Weiawaga                  2428       -5         15943     
 29         bfiedler-bot              2425       -71        79        
 30         Cheng-4                   2399       -19        13936     
 31         catriever                 2392       -15        1843      
@@ -70,8 +70,8 @@ Rank       Bot                       Rating     Prog       Games
 69         notropis                  1815       14         4127      
 70         NatesBot                  1814       5          341       
 71         baby_eubos                1804       17         5966      
-72         The_Marcus                1773       14         1567      
-73         HardRok                   1773       10         828       
+72         HardRok                   1773       10         828       
+73         The_Marcus                1773       14         1567      
 74         simplexitor               1771       19         2362      
 75         honzovy-sachy             1769       1          5095      
 76         QueensGamBOT              1762       -5         5258      
@@ -93,15 +93,15 @@ Rank       Bot                       Rating     Prog       Games
 92         sudobot_chess             1590       -295       227       
 93         RoundMoundOfRebounds      1562       -6         1528      
 94         sargon-4ply               1555       -8         1830      
-95         RavenEngine_Depth2        1554       -10        65        
-96         sargon-3ply               1554       6          1454      
+95         sargon-3ply               1554       6          1454      
+96         RavenEngine_Depth2        1554       -10        65        
 97         SimpleChessEngine         1547       35         14        
 98         monchester                1541       -20        2583      
 99         DavidsGuterBot            1536       29         6409      
 100        Flawed_Formula            1535       4          379       
 101        yeoldwiz                  1450       18         791       
-102        StupidChessRobot          1437       17         854       
-103        botTideEval               1434       14         2545      
+102        StupidChessRobot          1437       22         855       
+103        botTideEval               1435       7          2546      
 104        turochamp-1ply            1432       6          2151      
 105        sargon-2ply               1403       1          2535      
 106        sargon-1ply               1374       1          4690      
