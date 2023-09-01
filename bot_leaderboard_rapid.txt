@@ -26,8 +26,8 @@ Rank       Bot                       Rating     Prog       Games
 25         OpeningsBot               2454       -7         367       
 26         TuksuBot                  2405       19         2094      
 27         Phalanx-XXV               2377       0          979       
-28         ChessNoobComp             2375       -10        591       
-29         Pseudo-0                  2375       -10        1174      
+28         Pseudo-0                  2375       -10        1174      
+29         ChessNoobComp             2375       -10        591       
 30         fornax-engine             2368       8          3744      
 31         admete_bot                2358       -3         4305      
 32         RavenEngine               2358       1          429       
@@ -78,8 +78,8 @@ Rank       Bot                       Rating     Prog       Games
 77         AshNostromo               1709       -26        1266      
 78         ZE_ROOK                   1678       8          575       
 79         maia5                     1650       -14        103520    
-80         simplexitor               1634       18         509       
-81         turkjs                    1634       -11        5131      
+80         turkjs                    1634       -11        5131      
+81         simplexitor               1634       18         509       
 82         yeoldwiz                  1627       35         671       
 83         dragobot                  1561       2          90        
 84         DavidsGuterBot            1550       10         663       
@@ -93,8 +93,8 @@ Rank       Bot                       Rating     Prog       Games
 92         Flawed_Formula            1427       -78        45        
 93         StupidChessRobot          1408       19         63        
 94         RavenEngine_Depth2        1405       39         27        
-95         turochamp-1ply            1403       -12        1624      
-96         czesc-bot                 1403       -133       85        
+95         czesc-bot                 1403       -133       85        
+96         turochamp-1ply            1403       -12        1624      
 97         sargon-2ply               1345       0          3402      
 98         chat_bot                  1300       -18        261       
 99         sargon-1ply               1271       -4         8616      
@@ -104,4 +104,3 @@ Rank       Bot                       Rating     Prog       Games
 103        bobandi                   982        29         750       
 104        grandQ_AI                 785        37         1641      
 105        B4ux1t3s-Bot              728        -36        84        
-106        G0thamB0t                 683        10         382       
