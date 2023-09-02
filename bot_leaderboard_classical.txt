@@ -15,7 +15,7 @@ Rank       Bot                       Rating     Prog       Games
 14         AKS-Mantissa              2368       -2         1056      
 15         FrozenightEngine          2366       -1         4360      
 16         LazyBot                   2354       32         202       
-17         catriever                 2333       -3         281       
+17         catriever                 2333       2          282       
 18         SaxtonEngine              2325       -9         478       
 19         pawn_git                  2307       -12        257       
 20         Cheng-4                   2285       9          1560      
@@ -40,7 +40,7 @@ Rank       Bot                       Rating     Prog       Games
 39         GarboBot                  1926       -3         1692      
 40         camel_bot                 1916       5          51        
 41         Elmichess                 1884       -38        418       
-42         baby_eubos                1854       -19        104       
+42         baby_eubos                1853       -30        105       
 43         zeekat                    1839       -10        3194      
 44         LeelaRogue                1825       2          648       
 45         LazyBotJr                 1823       -31        221       
@@ -66,7 +66,7 @@ Rank       Bot                       Rating     Prog       Games
 65         Dummyette                 1570       9          589       
 66         Trollfish-Bot             1560       32         52        
 67         StupidChessRobot          1542       64         23        
-68         Humaia                    1465       -23        1228      
+68         Humaia                    1472       -14        1229      
 69         sargon-2ply               1402       -52        1234      
 70         turochamp-1ply            1383       -23        816       
 71         RoundMoundOfRebounds      1373       37         123       
@@ -75,4 +75,3 @@ Rank       Bot                       Rating     Prog       Games
 74         ABotWith3200Rating        1233       -32        90        
 75         bobandi                   1149       10         185       
 76         grandQ_AI                 867        8          807       
-77         G0thamB0t                 816        -14        197       
