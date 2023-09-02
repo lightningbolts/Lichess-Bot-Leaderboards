@@ -7,7 +7,7 @@ Rank       Bot                       Rating     Prog       Games
 6          ResoluteBot               2588       0          676       
 7          Mr_Chess_Berserk          2581       -5         61        
 8          faith_bot                 2555       14         196       
-9          ELO_1500                  2440       14         334       
+9          ELO_1500                  2440       10         335       
 10         expositor                 2386       -17        1167      
 11         FrozenightEngine          2368       -1         4356      
 12         AKS-Mantissa              2359       -13        1054      
@@ -59,7 +59,7 @@ Rank       Bot                       Rating     Prog       Games
 58         maia1                     1596       10         66613     
 59         chat_bot                  1591       34         44        
 60         yeoldwiz                  1590       25         309       
-61         sargon-3ply               1587       -4         759       
+61         sargon-3ply               1587       0          760       
 62         Dummyette                 1570       9          589       
 63         Trollfish-Bot             1560       32         52        
 64         StupidChessRobot          1542       64         23        
@@ -67,8 +67,9 @@ Rank       Bot                       Rating     Prog       Games
 66         sargon-2ply               1399       -42        1231      
 67         turochamp-1ply            1383       -23        816       
 68         RoundMoundOfRebounds      1373       37         123       
-69         sargon-1ply               1283       11         3376      
-70         ABotWith3200Rating        1233       -32        90        
-71         bobandi                   1149       10         185       
-72         grandQ_AI                 851        -16        802       
-73         G0thamB0t                 816        -14        197       
+69         kireevi                   1320       -48        245       
+70         sargon-1ply               1283       11         3376      
+71         ABotWith3200Rating        1233       -32        90        
+72         bobandi                   1149       10         185       
+73         grandQ_AI                 851        -16        802       
+74         G0thamB0t                 816        -14        197       
