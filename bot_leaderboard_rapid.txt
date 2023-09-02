@@ -1,11 +1,11 @@
 Rank       Bot                       Rating     Prog       Games     
-1          VariantsTop               2909       -13        41        
-2          ProteusSF-Aureo           2909       12         23        
+1          ProteusSF-Aureo           2909       12         23        
+2          VariantsTop               2909       -13        41        
 3          YoBot_v2                  2898       9          13167     
 4          ProteusSF-Godot           2897       2          198       
 5          ShashChess_MsP            2895       2          776       
-6          FireFishBOT_v2            2893       -3         773       
-7          ReinforcementTrial        2893       1          5373      
+6          ReinforcementTrial        2893       1          5373      
+7          FireFishBOT_v2            2893       -3         773       
 8          EmanPureNN                2886       2          297       
 9          FireFishBOT               2881       -3         1134      
 10         RaspFish                  2871       7          5805      
@@ -41,8 +41,8 @@ Rank       Bot                       Rating     Prog       Games
 40         bekbot                    2278       -8         1280      
 41         SimplerEval               2247       23         1904      
 42         halcyonbot                2243       -2         6683      
-43         FataliiBot                2238       25         2699      
-44         Nakshatra3                2238       -16        896       
+43         Nakshatra3                2238       -16        896       
+44         FataliiBot                2238       25         2699      
 45         eubos                     2202       -7         4310      
 46         Boris-Trapsky             2182       30         27720     
 47         Elmichess                 2171       16         1418      
@@ -75,8 +75,8 @@ Rank       Bot                       Rating     Prog       Games
 74         Virutor                   1777       -7         3262      
 75         zulu_bot                  1776       3          110       
 76         Demolito_L5               1744       0          1445      
-77         maia9                     1725       18         86746     
-78         ChessChildren             1725       -4         4526      
+77         ChessChildren             1725       -4         4526      
+78         maia9                     1722       10         86748     
 79         dlvc-bot                  1716       -18        88        
 80         AshNostromo               1700       -31        1268      
 81         Dummyette                 1666       -8         2982      
@@ -108,3 +108,4 @@ Rank       Bot                       Rating     Prog       Games
 107        bobandi                   994        41         757       
 108        grandQ_AI                 768        17         1648      
 109        B4ux1t3s-Bot              721        -41        86        
+110        G0thamB0t                 682        -2         383       
