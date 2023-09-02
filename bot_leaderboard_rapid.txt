@@ -30,11 +30,11 @@ Rank       Bot                       Rating     Prog       Games
 29         Phalanx-XXV               2387       10         983       
 30         Pseudo-0                  2379       -6         1177      
 31         fornax-engine             2372       10         3745      
-32         RavenEngine               2360       9          434       
-33         odonata-bot               2360       -2         3808      
-34         admete_bot                2356       -5         4308      
+32         odonata-bot               2360       -2         3808      
+33         admete_bot                2356       -5         4308      
+34         RavenEngine               2352       -3         435       
 35         Rinestro                  2339       23         57        
-36         LunaChessEngine           2330       -2         1123      
+36         LunaChessEngine           2337       3          1124      
 37         simpleEval                2319       0          7733      
 38         FlamingDragon_9000        2309       -12        1216      
 39         bekbot                    2286       0          1269      
@@ -44,8 +44,8 @@ Rank       Bot                       Rating     Prog       Games
 43         FataliiBot                2225       14         2696      
 44         eubos                     2202       -7         4310      
 45         Elmichess                 2171       16         1418      
-46         matmoi                    2159       -4         1861      
-47         Lynx_BOT                  2154       16         40146     
+46         matmoi                    2159       -11        1862      
+47         Lynx_BOT                  2154       15         40147     
 48         Boris-Trapsky             2153       -3         27710     
 49         honzovy-sachy-2           2145       -20        3640      
 50         onionbot                  2143       97         50        
@@ -56,7 +56,7 @@ Rank       Bot                       Rating     Prog       Games
 55         Humaia-Strong             2052       -31        610       
 56         likeawizard-bot           2043       -4         1013      
 57         myopic-bot                2022       -4         473       
-58         Nc3Nc6Bot                 1990       5          1943      
+58         Nc3Nc6Bot                 1994       8          1944      
 59         LeelaRogue                1989       -7         2343      
 60         Zagreus_Engine            1986       2          1996      
 61         BLANK_BOT                 1973       -2         1674      
@@ -66,7 +66,7 @@ Rank       Bot                       Rating     Prog       Games
 65         KelpBot                   1928       21         17        
 66         baby_eubos                1912       8          1026      
 67         Demolito_L6               1900       0          830       
-68         NatesBot                  1862       -9         516       
+68         NatesBot                  1858       -17        517       
 69         Trollfish-Bot             1854       29         308       
 70         notropis                  1820       -5         2480      
 71         ShallowRedBot             1795       59         30        
