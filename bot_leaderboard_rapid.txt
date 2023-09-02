@@ -5,7 +5,7 @@ Rank       Bot                       Rating     Prog       Games
 4          ReinforcementTrial        2896       17         5367      
 5          FireFishBOT_v2            2893       -4         771       
 6          FireFishBOT               2882       -1         1130      
-7          RaspFish                  2868       18         5798      
+7          RaspFish                  2868       12         5799      
 8          ResoluteBot               2867       5          5375      
 9          MastacticaTeoriabot       2855       8          83        
 10         faith_bot                 2853       0          1118      
@@ -18,8 +18,8 @@ Rank       Bot                       Rating     Prog       Games
 17         expositor                 2615       6          4667      
 18         pawn_git                  2592       14         1321      
 19         Weiawaga                  2574       20         10134     
-20         LazyBot                   2563       -49        752       
-21         Cheng-4                   2563       0          3233      
+20         Cheng-4                   2563       0          3233      
+21         LazyBot                   2563       -49        752       
 22         bot_adario                2556       4          1407      
 23         SaxtonEngine              2553       9          1431      
 24         catriever                 2519       -4         315       
@@ -31,7 +31,7 @@ Rank       Bot                       Rating     Prog       Games
 30         admete_bot                2361       2          4312      
 31         odonata-bot               2360       -2         3808      
 32         RavenEngine               2352       -3         435       
-33         LunaChessEngine           2341       16         1129      
+33         LunaChessEngine           2344       18         1130      
 34         Rinestro                  2339       23         57        
 35         simpleEval                2319       0          7733      
 36         FlamingDragon_9000        2309       -12        1216      
@@ -43,7 +43,7 @@ Rank       Bot                       Rating     Prog       Games
 42         eubos                     2202       -7         4310      
 43         Elmichess                 2171       16         1418      
 44         Boris-Trapsky             2161       12         27714     
-45         matmoi                    2159       5          1866      
+45         matmoi                    2156       -3         1867      
 46         Lynx_BOT                  2150       -5         40153     
 47         onionbot                  2143       97         50        
 48         honzovy-sachy-2           2137       -15        3642      
@@ -65,8 +65,8 @@ Rank       Bot                       Rating     Prog       Games
 64         baby_eubos                1912       8          1026      
 65         Demolito_L6               1900       4          835       
 66         NatesBot                  1870       4          521       
-67         Trollfish-Bot             1853       28         309       
-68         notropis                  1820       -2         2484      
+67         Trollfish-Bot             1858       35         310       
+68         notropis                  1815       -10        2485      
 69         honzovy-sachy             1792       10         1013      
 70         The_Marcus                1786       4          163       
 71         ShallowRedBot             1784       -4         33        
@@ -83,7 +83,7 @@ Rank       Bot                       Rating     Prog       Games
 82         simplexitor               1630       -7         512       
 83         yeoldwiz                  1621       -8         680       
 84         maia5                     1589       12         103603    
-85         maia1                     1575       -12        235546    
+85         maia1                     1577       -7         235547    
 86         dragobot                  1554       0          91        
 87         DavidsGuterBot            1548       10         665       
 88         arny_bot                  1539       -58        31        
