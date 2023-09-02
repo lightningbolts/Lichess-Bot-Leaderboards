@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Aureo           2907       -1         92        
 2          ProteusSF-Godot           2897       0          1273      
-3          FireFishBOT_v2            2893       -1         5648      
+3          FireFishBOT_v2            2895       1          5649      
 4          ToromBot                  2892       -4         3922      
 5          ResoluteBot               2891       -1         11806     
 6          ReinforcementTrial        2885       -6         2536      
@@ -17,10 +17,10 @@ Rank       Bot                       Rating     Prog       Games
 16         blundar_bot               2699       15         1265      
 17         LazyBot                   2666       -18        2034      
 18         WejBek                    2652       3          267       
-19         AKS-Mantissa              2628       2          10078     
+19         AKS-Mantissa              2626       2          10079     
 20         expositor                 2589       2          7295      
-21         ELO_1500                  2583       1          13217     
-22         FrozenightEngine          2583       8          6257      
+21         FrozenightEngine          2583       8          6257      
+22         ELO_1500                  2583       1          13217     
 23         Cheng-4                   2505       3          6707      
 24         pawn_git                  2496       7          2610      
 25         SaxtonEngine              2496       6          2433      
@@ -28,8 +28,8 @@ Rank       Bot                       Rating     Prog       Games
 27         bot_adario                2474       16         2479      
 28         Rinestro                  2452       4          111       
 29         catriever                 2449       5          907       
-30         TuksuBot                  2397       -17        4130      
-31         Pseudo-0                  2397       -4         3047      
+30         Pseudo-0                  2397       -4         3047      
+31         TuksuBot                  2397       -17        4130      
 32         OpeningsBot               2394       0          1213      
 33         odonata-bot               2389       -9         6154      
 34         admete_bot                2386       4          6493      
@@ -72,7 +72,7 @@ Rank       Bot                       Rating     Prog       Games
 71         NatesBot                  1846       3          1024      
 72         Demolito_L6               1846       38         1192      
 73         baby_eubos                1792       -1         8312      
-74         Dinora                    1787       -19        155       
+74         Dinora                    1788       -22        156       
 75         notropis                  1749       -21        6866      
 76         ShallowRedBot             1723       11         259       
 77         The_Marcus                1700       -5         1624      
@@ -102,7 +102,7 @@ Rank       Bot                       Rating     Prog       Games
 101        RavenEngine_Depth2        1370       -13        101       
 102        Humaia                    1364       -13        998       
 103        monchester                1354       2          2778      
-104        StupidChessRobot          1323       -9         1857      
+104        StupidChessRobot          1322       -6         1858      
 105        chat_bot                  1319       -6         313       
 106        schnecken_bot             1287       -12        2083      
 107        pawnrobot                 1276       -10        2207      
@@ -114,5 +114,5 @@ Rank       Bot                       Rating     Prog       Games
 113        ABotWith3200Rating        1173       -39        251       
 114        bobandi                   1083       -18        1231      
 115        knucklefish               1078       -16        3301      
-116        grandQ_AI                 1034       20         1334      
+116        grandQ_AI                 1031       14         1335      
 117        B4ux1t3s-Bot              933        -9         115       
