@@ -22,8 +22,8 @@ Rank       Bot                       Rating     Prog       Games
 21         expositor                 2620       6          4671      
 22         pawn_git                  2587       11         1322      
 23         Weiawaga                  2580       22         10137     
-24         Cheng-4                   2563       0          3233      
-25         LazyBot                   2563       -49        752       
+24         LazyBot                   2563       -49        752       
+25         Cheng-4                   2563       0          3233      
 26         SaxtonEngine              2555       13         1433      
 27         bot_adario                2552       -3         1409      
 28         catriever                 2523       4          317       
@@ -88,11 +88,11 @@ Rank       Bot                       Rating     Prog       Games
 87         simplexitor               1637       3          513       
 88         turkjs                    1635       1          5140      
 89         yeoldwiz                  1621       -8         680       
-90         DavidsGuterBot            1552       15         666       
-91         maia5                     1550       6          103642    
-92         dragobot                  1549       -15        92        
-93         maia1                     1547       -2         235627    
-94         arny_bot                  1539       -58        31        
+90         arny_bot                  1561       -9         32        
+91         DavidsGuterBot            1552       15         666       
+92         maia5                     1550       6          103642    
+93         dragobot                  1549       -15        92        
+94         maia1                     1547       0          235628    
 95         sargon-4ply               1534       -6         655       
 96         sargon-3ply               1525       -21        1214      
 97         RoundMoundOfRebounds      1475       -4         371       
@@ -104,7 +104,7 @@ Rank       Bot                       Rating     Prog       Games
 103        czesc-bot                 1377       -158       86        
 104        RavenEngine_Depth2        1377       35         29        
 105        sargon-2ply               1323       -16        3421      
-106        chat_bot                  1297       -27        263       
+106        chat_bot                  1294       -27        264       
 107        pawnrobot                 1269       13         736       
 108        sargon-1ply               1251       -29        8633      
 109        schnecken_bot             1248       20         339       
