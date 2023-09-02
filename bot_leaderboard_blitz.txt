@@ -28,7 +28,7 @@ Rank       Bot                       Rating     Prog       Games
 27         Rinestro                  2452       4          111       
 28         catriever                 2449       5          907       
 29         TuksuBot                  2406       -5         4129      
-30         Pseudo-0                  2403       -2         3045      
+30         Pseudo-0                  2396       -11        3046      
 31         OpeningsBot               2394       0          1213      
 32         Phalanx-XXV               2392       8          2745      
 33         odonata-bot               2389       -9         6154      
@@ -36,7 +36,7 @@ Rank       Bot                       Rating     Prog       Games
 35         RavenEngine               2359       -16        1678      
 36         fornax-engine             2345       -12        6652      
 37         simpleEval                2341       21         15155     
-38         LunaChessEngine           2330       7          1759      
+38         LunaChessEngine           2337       10         1760      
 39         FlamingDragon_9000        2323       19         3331      
 40         bekbot                    2292       19         1481      
 41         onionbot                  2237       3          430       
@@ -65,8 +65,8 @@ Rank       Bot                       Rating     Prog       Games
 64         Nc3Nc6Bot                 1939       -15        1731      
 65         LazyBotJr                 1902       -42        1927      
 66         zeekat                    1867       -6         21624     
-67         zulu_bot                  1861       -3         992       
-68         Trollfish-Bot             1861       24         2295      
+67         Trollfish-Bot             1861       24         2295      
+68         zulu_bot                  1861       -3         992       
 69         NatesBot                  1841       -3         1018      
 70         Demolito_L6               1819       14         1183      
 71         Dinora                    1794       -10        153       
@@ -76,8 +76,8 @@ Rank       Bot                       Rating     Prog       Games
 75         Demolito_L5               1705       12         1953      
 76         The_Marcus                1703       0          1618      
 77         honzovy-sachy             1695       -6         5234      
-78         AshNostromo               1690       27         1022      
-79         piglet_engine             1690       1          179       
+78         piglet_engine             1690       1          179       
+79         AshNostromo               1690       27         1022      
 80         dlvc-bot                  1676       -3         1264      
 81         maia9                     1645       -17        103253    
 82         ChessChildren             1638       -6         21561     
@@ -90,14 +90,14 @@ Rank       Bot                       Rating     Prog       Games
 89         turkjs                    1537       -1         10387     
 90         yeoldwiz                  1532       7          1781      
 91         maia5                     1513       -26        103423    
-92         arny_bot                  1510       -3         1075      
+92         arny_bot                  1513       3          1076      
 93         sargon-4ply               1476       -1         2112      
 94         sargon-3ply               1467       -33        2008      
 95         RoundMoundOfRebounds      1450       12         1393      
 96         DavidsGuterBot            1446       2          3734      
 97         maia1                     1413       -13        210747    
 98         turochamp-2ply            1403       12         1741      
-99         RavenEngine_Depth2        1371       -32        97        
+99         RavenEngine_Depth2        1367       -30        98        
 100        Humaia                    1364       -13        998       
 101        monchester                1354       2          2778      
 102        StupidChessRobot          1323       -6         1853      
