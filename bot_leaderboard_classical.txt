@@ -9,7 +9,7 @@ Rank       Bot                       Rating     Prog       Games
 8          ShashChess_MsP            2574       -1         92        
 9          faith_bot                 2558       15         197       
 10         Nikitosik-ai              2553       10         121       
-11         ELO_1500                  2431       -5         339       
+11         ELO_1500                  2432       -6         340       
 12         expositor                 2381       -18        1172      
 13         AKS-Mantissa              2368       -2         1056      
 14         FrozenightEngine          2367       0          4362      
@@ -24,7 +24,7 @@ Rank       Bot                       Rating     Prog       Games
 23         Pseudo-0                  2122       -8         417       
 24         Boris-Trapsky             2102       0          10483     
 25         Phalanx-XXV               2075       -6         375       
-26         simpleEval                2030       -33        1859      
+26         simpleEval                2029       -29        1860      
 27         bekbot                    2023       -3         99        
 28         LunaChessEngine           2012       -5         522       
 29         Humaia-Strong             1990       17         233       
@@ -60,7 +60,7 @@ Rank       Bot                       Rating     Prog       Games
 59         yeoldwiz                  1590       25         309       
 60         sargon-3ply               1587       0          760       
 61         maia5                     1581       -8         23450     
-62         maia1                     1579       -8         66653     
+62         maia1                     1572       -25        66655     
 63         Dummyette                 1570       9          589       
 64         Trollfish-Bot             1555       32         53        
 65         StupidChessRobot          1542       64         23        
@@ -73,4 +73,3 @@ Rank       Bot                       Rating     Prog       Games
 72         bobandi                   1149       10         185       
 73         ABotWith3200Rating        1130       -103       101       
 74         grandQ_AI                 867        8          807       
-75         G0thamB0t                 816        -14        197       
