@@ -17,7 +17,7 @@ Rank       Bot                       Rating     Prog       Games
 16         ELO_1500                  2658       4          3196      
 17         FrozenightEngine          2652       28         5125      
 18         expositor                 2638       22         4679      
-19         AKS-Mantissa              2616       -10        4178      
+19         AKS-Mantissa              2615       -11        4179      
 20         pawn_git                  2584       0          1328      
 21         LazyBot                   2575       -20        756       
 22         Weiawaga                  2574       4          10155     
@@ -35,8 +35,8 @@ Rank       Bot                       Rating     Prog       Games
 34         RavenEngine               2362       -5         444       
 35         simpleEval                2311       -8         7736      
 36         FlamingDragon_9000        2309       -12        1216      
-37         bekbot                    2267       4          1313      
-38         halcyonbot                2262       6          6710      
+37         halcyonbot                2267       6          6711      
+38         bekbot                    2267       4          1313      
 39         SimplerEval               2257       15         1909      
 40         Nakshatra3                2241       -1         906       
 41         FataliiBot                2236       6          2708      
@@ -92,7 +92,7 @@ Rank       Bot                       Rating     Prog       Games
 91         arny_bot                  1543       -22        37        
 92         dragobot                  1536       -24        96        
 93         sargon-3ply               1526       -19        1216      
-94         maia1                     1506       -20        235820    
+94         maia1                     1513       -21        235822    
 95         RoundMoundOfRebounds      1480       -16        377       
 96         turochamp-2ply            1473       -3         1112      
 97         Humaia                    1443       6          2295      
@@ -101,7 +101,7 @@ Rank       Bot                       Rating     Prog       Games
 100        czesc-bot                 1377       -158       86        
 101        RavenEngine_Depth2        1376       -8         30        
 102        sargon-2ply               1337       -10        3425      
-103        chat_bot                  1286       -27        267       
+103        chat_bot                  1284       -27        268       
 104        pawnrobot                 1277       18         738       
 105        schnecken_bot             1251       24         341       
 106        ABotWith3200Rating        1238       -25        125       
