@@ -10,8 +10,8 @@ Rank       Bot                       Rating     Prog       Games
 9          RaspFish                  2869       -9         5824      
 10         Nikitosik-ai              2863       4          751       
 11         ResoluteBot               2862       -8         5402      
-12         Mr_Chess_Berserk          2805       2          100       
-13         blundar_bot               2805       -8         1184      
+12         blundar_bot               2805       -8         1184      
+13         Mr_Chess_Berserk          2805       2          100       
 14         Mate-AI                   2779       -34        2523      
 15         ELO_1500                  2664       10         3192      
 16         FrozenightEngine          2643       23         5122      
@@ -41,13 +41,13 @@ Rank       Bot                       Rating     Prog       Games
 40         FataliiBot                2233       12         2705      
 41         eubos                     2202       -7         4310      
 42         Boris-Trapsky             2193       18         27733     
-43         onionbot                  2174       103        54        
-44         HistoryExplorer           2173       -2         1074      
+43         HistoryExplorer           2178       3          1075      
+44         onionbot                  2174       103        54        
 45         Elmichess                 2171       16         1418      
 46         honzovy-sachy-2           2164       15         3650      
 47         Lynx_BOT                  2141       5          40174     
 48         GarboBot                  2135       -5         6148      
-49         matmoi                    2133       -5         1895      
+49         matmoi                    2128       -5         1896      
 50         MaxtheDog                 2115       3          753       
 51         redtail-zero              2097       1          428       
 52         jangine                   2074       5          1802      
@@ -59,7 +59,7 @@ Rank       Bot                       Rating     Prog       Games
 58         Zagreus_Engine            2012       -6         2017      
 59         LeelaRogue                1989       -7         2343      
 60         BLANK_BOT                 1985       9          1681      
-61         zeekat                    1959       -24        8801      
+61         zeekat                    1954       -27        8802      
 62         sun_bird                  1947       40         70        
 63         LazyBotJr                 1940       -9         1280      
 64         KelpBot                   1928       21         17        
@@ -91,8 +91,8 @@ Rank       Bot                       Rating     Prog       Games
 90         sargon-4ply               1537       6          657       
 91         sargon-3ply               1526       -19        1216      
 92         maia1                     1519       31         235799    
-93         turochamp-2ply            1473       -3         1112      
-94         RoundMoundOfRebounds      1473       -18        376       
+93         RoundMoundOfRebounds      1480       -16        377       
+94         turochamp-2ply            1473       -3         1112      
 95         Humaia                    1438       7          2294      
 96         StupidChessRobot          1430       16         69        
 97         Flawed_Formula            1427       -78        45        
