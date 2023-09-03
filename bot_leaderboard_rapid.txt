@@ -3,8 +3,8 @@ Rank       Bot                       Rating     Prog       Games
 2          ToromBot                  2898       5          2171      
 3          YoBot_v2                  2898       9          13167     
 4          ProteusSF-Godot           2897       2          198       
-5          FireFishBOT_v2            2892       -1         783       
-6          ReinforcementTrial        2892       -3         5380      
+5          ReinforcementTrial        2892       -3         5380      
+6          FireFishBOT_v2            2892       -1         783       
 7          TheFreshman1902           2888       -10        21        
 8          FireFishBOT               2886       -2         1156      
 9          RaspFish                  2878       12         5819      
@@ -43,7 +43,7 @@ Rank       Bot                       Rating     Prog       Games
 42         Nakshatra3                2246       -3         903       
 43         FataliiBot                2226       15         2701      
 44         eubos                     2202       -7         4310      
-45         Boris-Trapsky             2199       23         27730     
+45         Boris-Trapsky             2199       17         27731     
 46         HistoryExplorer           2177       2          1073      
 47         Elmichess                 2171       16         1418      
 48         onionbot                  2160       114        53        
@@ -72,8 +72,8 @@ Rank       Bot                       Rating     Prog       Games
 71         notropis                  1816       -6         2492      
 72         honzovy-sachy             1803       9          1018      
 73         Virutor                   1782       5          3264      
-74         The_Marcus                1781       0          170       
-75         ShallowRedBot             1781       -9         40        
+74         ShallowRedBot             1781       -9         40        
+75         The_Marcus                1781       0          170       
 76         zulu_bot                  1776       3          110       
 77         Demolito_L5               1750       1          1468      
 78         ChessChildren             1732       17         4530      
@@ -85,7 +85,7 @@ Rank       Bot                       Rating     Prog       Games
 84         yeoldwiz                  1637       15         685       
 85         turkjs                    1634       0          5142      
 86         simplexitor               1630       -9         516       
-87         maia5                     1610       33         103685    
+87         maia5                     1617       31         103686    
 88         arny_bot                  1551       6          35        
 89         DavidsGuterBot            1547       0          670       
 90         dragobot                  1543       -28        93        
@@ -95,7 +95,7 @@ Rank       Bot                       Rating     Prog       Games
 94         RoundMoundOfRebounds      1477       -3         374       
 95         turochamp-2ply            1473       -3         1112      
 96         Humaia                    1438       7          2294      
-97         StupidChessRobot          1434       13         68        
+97         StupidChessRobot          1430       16         69        
 98         turochamp-1ply            1401       -3         1638      
 99         czesc-bot                 1377       -158       86        
 100        RavenEngine_Depth2        1377       35         29        
@@ -104,7 +104,7 @@ Rank       Bot                       Rating     Prog       Games
 103        pawnrobot                 1269       13         736       
 104        schnecken_bot             1251       24         341       
 105        ABotWith3200Rating        1244       -8         123       
-106        sargon-1ply               1243       -43        8638      
+106        sargon-1ply               1238       -41        8639      
 107        kireevi                   1103       -13        582       
 108        bobandi                   994        41         757       
 109        grandQ_AI                 767        18         1649      
