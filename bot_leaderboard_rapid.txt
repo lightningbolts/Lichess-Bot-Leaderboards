@@ -6,8 +6,8 @@ Rank       Bot                       Rating     Prog       Games
 5          ReinforcementTrial        2897       4          5384      
 6          FireFishBOT_v2            2892       0          786       
 7          FireFishBOT               2885       -2         1160      
-8          RaspFish                  2869       -9         5824      
-9          ArasanX                   2869       2          5759      
+8          ArasanX                   2869       2          5759      
+9          RaspFish                  2869       -9         5824      
 10         ResoluteBot               2862       -8         5402      
 11         Nikitosik-ai              2861       9          747       
 12         Mr_Chess_Berserk          2805       2          100       
@@ -26,7 +26,7 @@ Rank       Bot                       Rating     Prog       Games
 25         catriever                 2530       11         320       
 26         OpeningsBot               2454       2          376       
 27         TuksuBot                  2413       5          2107      
-28         Pseudo-0                  2404       33         1186      
+28         Pseudo-0                  2405       30         1187      
 29         Phalanx-XXV               2388       16         987       
 30         fornax-engine             2373       14         3748      
 31         admete_bot                2369       10         4314      
@@ -59,7 +59,7 @@ Rank       Bot                       Rating     Prog       Games
 58         Zagreus_Engine            2010       -1         2016      
 59         LeelaRogue                1989       -7         2343      
 60         BLANK_BOT                 1985       9          1681      
-61         zeekat                    1959       -21        8800      
+61         zeekat                    1959       -24        8801      
 62         sun_bird                  1947       40         70        
 63         LazyBotJr                 1940       -9         1280      
 64         KelpBot                   1928       21         17        
@@ -74,7 +74,7 @@ Rank       Bot                       Rating     Prog       Games
 73         ShallowRedBot             1781       -9         40        
 74         zulu_bot                  1776       3          110       
 75         dtsudo                    1765       -118       22        
-76         Demolito_L5               1759       10         1475      
+76         Demolito_L5               1763       8          1476      
 77         ChessChildren             1752       32         4535      
 78         dlvc-bot                  1716       -18        88        
 79         AshNostromo               1704       -16        1270      
@@ -84,15 +84,15 @@ Rank       Bot                       Rating     Prog       Games
 83         turkjs                    1642       4          5143      
 84         yeoldwiz                  1641       20         687       
 85         simplexitor               1628       -8         518       
-86         maia5                     1607       5          103695    
+86         maia5                     1604       -6         103696    
 87         DavidsGuterBot            1547       0          670       
 88         dragobot                  1546       -21        94        
 89         arny_bot                  1543       -22        37        
 90         sargon-4ply               1537       6          657       
 91         sargon-3ply               1526       -19        1216      
-92         maia1                     1485       -6         235778    
-93         turochamp-2ply            1473       -3         1112      
-94         RoundMoundOfRebounds      1473       -18        376       
+92         maia1                     1484       -12        235781    
+93         RoundMoundOfRebounds      1473       -18        376       
+94         turochamp-2ply            1473       -3         1112      
 95         Humaia                    1438       7          2294      
 96         StupidChessRobot          1430       16         69        
 97         Flawed_Formula            1427       -78        45        
