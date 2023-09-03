@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
-1          TheMatrix2029             2976       2          4315      
-2          YoBot_v2                  2950       -2         18534     
+1          TheMatrix2029             2976       3          4316      
+2          YoBot_v2                  2950       -3         18535     
 3          ProteusSF-Godot           2946       5          2176      
 4          ProteusSF-Aureo           2943       16         301       
 5          FireFishBOT_v2            2931       2          1221      
@@ -9,7 +9,7 @@ Rank       Bot                       Rating     Prog       Games
 8          LeelaMultiPoss            2919       3          600       
 9          TheFreshman1902           2908       -2         218       
 10         ResoluteBot               2901       -1         26925     
-11         Mr_Chess_Berserk          2858       3          862       
+11         Mr_Chess_Berserk          2857       3          863       
 12         Mate-AI                   2844       25         12761     
 13         Nikitosik-ai              2834       -18        3204      
 14         RaspFish                  2825       -4         53550     
@@ -20,13 +20,13 @@ Rank       Bot                       Rating     Prog       Games
 19         expositor                 2538       9          20352     
 20         FlamingDragon_9000        2524       -5         10619     
 21         AKS-Mantissa              2498       -7         11257     
-22         balancefish               2495       23         110       
-23         MrChessTheBot             2495       -6         5850      
+22         MrChessTheBot             2495       -6         5850      
+23         balancefish               2495       23         110       
 24         Elmichess                 2458       -35        3224      
 25         Weiawaga                  2439       10         16025     
 26         bfiedler-bot              2436       -60        82        
 27         SaxtonEngine              2432       -9         4465      
-28         catriever                 2427       11         1870      
+28         catriever                 2427       12         1871      
 29         pawn_git                  2420       -14        4458      
 30         Cheng-4                   2416       4          13978     
 31         ELO_1500                  2396       24         3275      
@@ -76,8 +76,8 @@ Rank       Bot                       Rating     Prog       Games
 75         Virutor                   1778       16         6921      
 76         ShallowRedBot             1774       30         225       
 77         QueensGamBOT              1772       4          5272      
-78         The_Marcus                1765       -1         1629      
-79         baby_eubos                1764       7          6022      
+78         baby_eubos                1767       6          6023      
+79         The_Marcus                1765       0          1630      
 80         Dinora                    1760       2          129       
 81         Demolito_L5               1750       -4         1141      
 82         piglet_engine             1742       1          783       
@@ -93,7 +93,7 @@ Rank       Bot                       Rating     Prog       Games
 92         maia5                     1614       13         39791     
 93         sudobot_chess             1590       -295       227       
 94         turochamp-2ply            1582       -19        1668      
-95         RoundMoundOfRebounds      1567       -2         1543      
+95         RoundMoundOfRebounds      1564       -9         1544      
 96         RavenEngine_Depth2        1561       0          79        
 97         maia1                     1555       34         125766    
 98         sargon-4ply               1553       -4         1843      
@@ -104,10 +104,10 @@ Rank       Bot                       Rating     Prog       Games
 103        turochamp-1ply            1449       19         2168      
 104        StupidChessRobot          1434       -8         883       
 105        sargon-2ply               1414       21         2559      
-106        botTideEval               1390       -27        2695      
+106        botTideEval               1382       -40        2696      
 107        sargon-1ply               1358       8          4722      
 108        dragobot                  1343       -80        64        
-109        ABotWith3200Rating        1257       -23        152       
+109        ABotWith3200Rating        1275       -22        153       
 110        knucklefish               1256       -24        2889      
 111        pawnrobot                 1256       -14        3986      
 112        bobandi                   1224       -14        1112      
