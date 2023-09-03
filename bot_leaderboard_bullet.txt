@@ -3,12 +3,12 @@ Rank       Bot                       Rating     Prog       Games
 2          ProteusSF-Aureo           2943       16         301       
 3          YoBot_v2                  2941       0          18512     
 4          FireFishBOT_v2            2929       -1         1197      
-5          ReinforcementTrial        2928       2          1472      
+5          ReinforcementTrial        2927       2          1474      
 6          ResoluteBot               2920       -7         26879     
-7          FireFishBOT               2912       -3         4537      
-8          TheFreshman1902           2907       -12        198       
+7          FireFishBOT               2912       -4         4538      
+8          TheFreshman1902           2907       -10        199       
 9          ToromBot                  2906       4          63135     
-10         F4ST3RB0T                 2901       -12        53        
+10         F4ST3RB0T                 2902       -13        55        
 11         Nikitosik-ai              2855       4          3128      
 12         Mr_Chess_Berserk          2837       -11        807       
 13         RaspFish                  2835       12         53495     
@@ -29,7 +29,7 @@ Rank       Bot                       Rating     Prog       Games
 28         pawn_git                  2423       -9         4441      
 29         catriever                 2415       14         1860      
 30         Cheng-4                   2413       11         13954     
-31         OpeningsBot               2393       7          1125      
+31         OpeningsBot               2408       18         1127      
 32         ELO_1500                  2389       16         3271      
 33         bot_adario                2384       -15        2764      
 34         Phalanx-XXV               2361       5          4431      
@@ -40,7 +40,7 @@ Rank       Bot                       Rating     Prog       Games
 39         fornax-engine             2329       -8         7067      
 40         odonata-bot               2325       31         6504      
 41         Pseudo-0                  2321       -6         4039      
-42         simpleEval                2303       10         25359     
+42         simpleEval                2308       20         25360     
 43         onionbot                  2275       8          356       
 44         Nakshatra3                2273       -10        1647      
 45         bekbot                    2264       9          1538      
@@ -72,8 +72,8 @@ Rank       Bot                       Rating     Prog       Games
 71         baby_eubos                1788       -37        6000      
 72         honzovy-sachy             1786       11         5117      
 73         HardRok                   1779       14         836       
-74         QueensGamBOT              1768       -1         5265      
-75         The_Marcus                1768       4          1608      
+74         The_Marcus                1768       4          1608      
+75         QueensGamBOT              1768       -1         5265      
 76         Virutor                   1767       13         6918      
 77         Dinora                    1764       17         125       
 78         simplexitor               1762       3          2369      
@@ -95,8 +95,8 @@ Rank       Bot                       Rating     Prog       Games
 94         sargon-4ply               1553       -2         1841      
 95         SimpleChessEngine         1550       38         21        
 96         sargon-3ply               1548       -13        1475      
-97         monchester                1539       -7         2592      
-98         DavidsGuterBot            1539       -4         6425      
+97         DavidsGuterBot            1539       -4         6425      
+98         monchester                1539       -7         2592      
 99         maia1                     1514       31         125725    
 100        yeoldwiz                  1450       18         791       
 101        turochamp-1ply            1444       14         2163      
