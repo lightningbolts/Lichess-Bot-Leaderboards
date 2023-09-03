@@ -10,8 +10,8 @@ Rank       Bot                       Rating     Prog       Games
 9          RaspFish                  2869       -9         5824      
 10         Nikitosik-ai              2862       9          750       
 11         ResoluteBot               2862       -8         5402      
-12         blundar_bot               2805       -8         1184      
-13         Mr_Chess_Berserk          2805       2          100       
+12         Mr_Chess_Berserk          2805       2          100       
+13         blundar_bot               2805       -8         1184      
 14         Mate-AI                   2779       -34        2523      
 15         ELO_1500                  2664       10         3192      
 16         FrozenightEngine          2642       15         5121      
@@ -49,7 +49,7 @@ Rank       Bot                       Rating     Prog       Games
 48         GarboBot                  2135       -5         6148      
 49         matmoi                    2133       -5         1895      
 50         MaxtheDog                 2115       3          753       
-51         redtail-zero              2097       7          427       
+51         redtail-zero              2097       1          428       
 52         jangine                   2074       5          1802      
 53         Humaia-Strong             2052       -31        610       
 54         myopic-bot                2040       23         485       
@@ -78,7 +78,7 @@ Rank       Bot                       Rating     Prog       Games
 77         ChessChildren             1752       32         4535      
 78         dlvc-bot                  1716       -18        88        
 79         AshNostromo               1704       -16        1270      
-80         maia9                     1695       -22        86865     
+80         maia9                     1691       -21        86866     
 81         Dummyette                 1667       4          2990      
 82         ZE_ROOK                   1664       4          602       
 83         turkjs                    1650       13         5144      
@@ -90,9 +90,9 @@ Rank       Bot                       Rating     Prog       Games
 89         arny_bot                  1543       -22        37        
 90         sargon-4ply               1537       6          657       
 91         sargon-3ply               1526       -19        1216      
-92         maia1                     1495       9          235789    
-93         RoundMoundOfRebounds      1473       -18        376       
-94         turochamp-2ply            1473       -3         1112      
+92         maia1                     1504       20         235790    
+93         turochamp-2ply            1473       -3         1112      
+94         RoundMoundOfRebounds      1473       -18        376       
 95         Humaia                    1438       7          2294      
 96         StupidChessRobot          1430       16         69        
 97         Flawed_Formula            1427       -78        45        
