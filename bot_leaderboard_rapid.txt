@@ -3,8 +3,8 @@ Rank       Bot                       Rating     Prog       Games
 2          ToromBot                  2898       5          2172      
 3          YoBot_v2                  2898       9          13167     
 4          ProteusSF-Godot           2897       2          198       
-5          FireFishBOT_v2            2892       -1         784       
-6          ReinforcementTrial        2892       -3         5381      
+5          ReinforcementTrial        2892       -3         5381      
+6          FireFishBOT_v2            2892       -1         784       
 7          TheFreshman1902           2888       -10        21        
 8          FireFishBOT               2885       -3         1157      
 9          RaspFish                  2878       12         5820      
@@ -31,8 +31,8 @@ Rank       Bot                       Rating     Prog       Games
 30         Pseudo-0                  2401       26         1185      
 31         Phalanx-XXV               2384       14         984       
 32         fornax-engine             2376       13         3747      
-33         odonata-bot               2365       2          3815      
-34         admete_bot                2365       6          4313      
+33         admete_bot                2365       6          4313      
+34         odonata-bot               2365       2          3815      
 35         RavenEngine               2360       2          440       
 36         simpleEval                2317       -3         7735      
 37         FlamingDragon_9000        2309       -12        1216      
@@ -56,8 +56,8 @@ Rank       Bot                       Rating     Prog       Games
 55         Humaia-Strong             2052       -31        610       
 56         likeawizard-bot           2039       -3         1029      
 57         myopic-bot                2030       6          482       
-58         Dinora                    2023       -102       15        
-59         Zagreus_Engine            2017       21         2009      
+58         Zagreus_Engine            2017       21         2009      
+59         Dinora                    2004       -121       16        
 60         LeelaRogue                1989       -7         2343      
 61         BLANK_BOT                 1985       9          1681      
 62         zeekat                    1983       10         8790      
@@ -71,8 +71,8 @@ Rank       Bot                       Rating     Prog       Games
 70         notropis                  1816       -6         2492      
 71         honzovy-sachy             1803       9          1018      
 72         Virutor                   1782       5          3264      
-73         The_Marcus                1781       0          170       
-74         ShallowRedBot             1781       -9         40        
+73         ShallowRedBot             1781       -9         40        
+74         The_Marcus                1781       0          170       
 75         zulu_bot                  1776       3          110       
 76         Demolito_L5               1749       3          1469      
 77         ChessChildren             1732       17         4530      
@@ -90,8 +90,8 @@ Rank       Bot                       Rating     Prog       Games
 89         dragobot                  1543       -28        93        
 90         sargon-4ply               1537       6          657       
 91         sargon-3ply               1529       -17        1215      
-92         maia1                     1478       -2         235724    
-93         RoundMoundOfRebounds      1477       -3         374       
+92         RoundMoundOfRebounds      1477       -3         374       
+93         maia1                     1476       -11        235725    
 94         turochamp-2ply            1473       -3         1112      
 95         Humaia                    1438       7          2294      
 96         StupidChessRobot          1430       16         69        
@@ -108,4 +108,3 @@ Rank       Bot                       Rating     Prog       Games
 107        bobandi                   994        41         757       
 108        grandQ_AI                 767        18         1649      
 109        B4ux1t3s-Bot              721        -41        86        
-110        G0thamB0t                 682        -2         383       
