@@ -4,10 +4,10 @@ Rank       Bot                       Rating     Prog       Games
 3          ProteusSF-Godot           2946       5          2176      
 4          ProteusSF-Aureo           2943       16         301       
 5          FireFishBOT_v2            2933       0          1246      
-6          ReinforcementTrial        2923       -4         1566      
-7          FireFishBOT               2923       -4         4728      
-8          ToromBot                  2900       -3         63248     
-9          ResoluteBot               2899       -1         26938     
+6          FireFishBOT               2923       -4         4728      
+7          ReinforcementTrial        2923       -4         1566      
+8          ResoluteBot               2899       -1         26938     
+9          ToromBot                  2896       -7         63249     
 10         Mr_Chess_Berserk          2860       -3         871       
 11         Mate-AI                   2840       5          12774     
 12         Nikitosik-ai              2837       0          3222      
@@ -15,7 +15,7 @@ Rank       Bot                       Rating     Prog       Games
 14         blundar_bot               2791       -10        8992      
 15         DaBestFARMER              2738       -17        59        
 16         LazyBot                   2684       -22        1428      
-17         FrozenightEngine          2581       -11        9150      
+17         FrozenightEngine          2585       -5         9151      
 18         expositor                 2558       20         20363     
 19         FlamingDragon_9000        2524       -5         10619     
 20         MrChessTheBot             2495       -6         5850      
@@ -30,11 +30,11 @@ Rank       Bot                       Rating     Prog       Games
 29         Cheng-4                   2415       7          13982     
 30         ELO_1500                  2396       24         3275      
 31         bot_adario                2394       0          2767      
-32         OpeningsBot               2382       -6         1147      
+32         OpeningsBot               2382       -7         1148      
 33         admete_bot                2361       -5         6258      
 34         Phalanx-XXV               2355       -6         4447      
 35         TuksuBot                  2349       10         7079      
-36         LunaChessEngine           2345       -6         1296      
+36         LunaChessEngine           2345       0          1297      
 37         RavenEngine               2341       1          9167      
 38         fornax-engine             2326       -1         7073      
 39         Pseudo-0                  2318       0          4048      
@@ -48,7 +48,7 @@ Rank       Bot                       Rating     Prog       Games
 47         SimplerEval               2239       7          2757      
 48         Humaia-Strong             2165       68         1319      
 49         honzovy-sachy-2           2158       -5         7346      
-50         matmoi                    2147       24         2847      
+50         matmoi                    2148       23         2848      
 51         eubos                     2124       -4         13360     
 52         Lynx_BOT                  2111       -8         7208      
 53         GarboBot                  2100       -4         9836      
@@ -73,7 +73,7 @@ Rank       Bot                       Rating     Prog       Games
 72         Virutor                   1774       23         6924      
 73         QueensGamBOT              1773       12         5274      
 74         baby_eubos                1768       7          6032      
-75         The_Marcus                1767       3          1643      
+75         The_Marcus                1765       1          1644      
 76         Demolito_L5               1764       4          1144      
 77         ShallowRedBot             1763       19         227       
 78         Dinora                    1760       2          129       
@@ -87,7 +87,7 @@ Rank       Bot                       Rating     Prog       Games
 86         maia9                     1626       4          61526     
 87         SimpleChessEngine         1616       92         29        
 88         maia5                     1608       9          39793     
-89         Jibbby                    1607       -23        2503      
+89         Jibbby                    1604       -19        2504      
 90         turochamp-2ply            1600       -2         1671      
 91         maia1                     1590       21         125784    
 92         sudobot_chess             1590       -295       227       
