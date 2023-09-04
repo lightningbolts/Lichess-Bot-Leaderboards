@@ -1,13 +1,13 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ToromBot                  2910       -1         4030      
+1          ToromBot                  2910       -5         4031      
 2          ProteusSF-Aureo           2907       -1         92        
 3          ReinforcementTrial        2901       3          2608      
-4          FireFishBOT_v2            2899       -8         5925      
+4          FireFishBOT_v2            2900       -6         5926      
 5          ProteusSF-Godot           2897       0          1273      
 6          ResoluteBot               2895       -1         11874     
 7          FireFishBOT               2890       -1         2957      
-8          BRAINLEARN11_NNUE         2889       0          3600      
-9          EmanPureNN                2888       -1         1501      
+8          BRAINLEARN11_NNUE         2889       0          3601      
+9          EmanPureNN                2888       -1         1502      
 10         ShashChess_MsP            2884       1          3026      
 11         YoBot_v2                  2882       1          3997      
 12         TheFreshman1902           2878       3          67        
@@ -25,8 +25,8 @@ Rank       Bot                       Rating     Prog       Games
 24         expositor                 2594       -6         7333      
 25         ELO_1500                  2580       4          13230     
 26         pawn_git                  2497       -1         2629      
-27         Cheng-4                   2492       -15        6730      
-28         SaxtonEngine              2492       -1         2441      
+27         SaxtonEngine              2492       -1         2441      
+28         Cheng-4                   2492       -15        6730      
 29         bot_adario                2484       12         2489      
 30         Weiawaga                  2484       4          12034     
 31         catriever                 2460       10         922       
@@ -70,8 +70,8 @@ Rank       Bot                       Rating     Prog       Games
 69         zulu_bot                  1861       -3         992       
 70         Demolito_L6               1851       -5         1231      
 71         zeekat                    1842       13         21698     
-72         NatesBot                  1830       4          1076      
-73         Trollfish-Bot             1830       1          2334      
+72         Trollfish-Bot             1830       1          2334      
+73         NatesBot                  1830       4          1076      
 74         baby_eubos                1814       -10        8356      
 75         Dinora                    1773       -2         172       
 76         notropis                  1767       7          6903      
@@ -85,7 +85,7 @@ Rank       Bot                       Rating     Prog       Games
 84         Jibbby                    1664       -1         5427      
 85         ChessChildren             1659       -6         21626     
 86         Virutor                   1647       4          7630      
-87         QueensGamBOT              1624       -5         3158      
+87         QueensGamBOT              1624       -8         3159      
 88         ArduChessBot              1620       -11        1292      
 89         simplexitor               1617       -7         2333      
 90         maia9                     1576       -8         103534    
@@ -99,7 +99,7 @@ Rank       Bot                       Rating     Prog       Games
 98         sargon-4ply               1480       -9         2115      
 99         sargon-3ply               1465       -17        2015      
 100        DavidsGuterBot            1454       12         3742      
-101        maia1                     1425       3          211087    
+101        maia1                     1427       2          211088    
 102        turochamp-2ply            1411       23         1748      
 103        Humaia                    1376       8          1001      
 104        monchester                1354       -1         2787      
