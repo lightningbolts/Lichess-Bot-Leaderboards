@@ -15,13 +15,13 @@ Rank       Bot                       Rating     Prog       Games
 14         Mr_Chess_Berserk          2807       2          102       
 15         Mate-AI                   2786       3          2529      
 16         blundar_bot               2783       -22        1194      
-17         FrozenightEngine          2661       14         5134      
-18         ELO_1500                  2661       6          3205      
+17         ELO_1500                  2661       4          3206      
+18         FrozenightEngine          2661       14         5134      
 19         expositor                 2630       2          4683      
 20         AKS-Mantissa              2623       1          4184      
 21         Weiawaga                  2581       6          10163     
-22         LazyBot                   2576       16         761       
-23         pawn_git                  2576       -16        1331      
+22         pawn_git                  2576       -16        1331      
+23         LazyBot                   2576       16         761       
 24         SaxtonEngine              2559       4          1444      
 25         bot_adario                2550       -5         1411      
 26         Cheng-4                   2537       -18        3241      
@@ -31,7 +31,7 @@ Rank       Bot                       Rating     Prog       Games
 30         Pseudo-0                  2403       24         1188      
 31         Phalanx-XXV               2386       -1         994       
 32         admete_bot                2381       21         4320      
-33         LunaChessEngine           2377       5          1165      
+33         LunaChessEngine           2380       11         1166      
 34         fornax-engine             2374       9          3751      
 35         odonata-bot               2370       3          3816      
 36         clueless-bot              2365       3          813       
@@ -63,7 +63,7 @@ Rank       Bot                       Rating     Prog       Games
 62         LeelaRogue                1989       -7         2343      
 63         Dinora                    1984       -115       23        
 64         LazyBotJr                 1960       10         1282      
-65         zeekat                    1953       0          8818      
+65         zeekat                    1953       3          8819      
 66         sun_bird                  1943       26         74        
 67         KelpBot                   1928       21         17        
 68         baby_eubos                1920       8          1037      
@@ -83,8 +83,8 @@ Rank       Bot                       Rating     Prog       Games
 82         maia9                     1711       -28        86955     
 83         AshNostromo               1707       -19        1271      
 84         simplexitor               1642       16         526       
-85         ZE_ROOK                   1640       -23        611       
-86         yeoldwiz                  1640       11         694       
+85         yeoldwiz                  1640       11         694       
+86         ZE_ROOK                   1640       -23        611       
 87         SimpleChessEngine         1615       40         17        
 88         maia5                     1596       20         103763    
 89         DavidsGuterBot            1547       3          671       
