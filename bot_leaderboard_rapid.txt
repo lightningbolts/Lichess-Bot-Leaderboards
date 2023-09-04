@@ -29,15 +29,15 @@ Rank       Bot                       Rating     Prog       Games
 28         OpeningsBot               2423       -34        380       
 29         TuksuBot                  2414       8          2108      
 30         Pseudo-0                  2405       30         1187      
-31         LunaChessEngine           2384       31         1159      
-32         Phalanx-XXV               2382       5          990       
+31         Phalanx-XXV               2382       5          990       
+32         LunaChessEngine           2377       21         1160      
 33         admete_bot                2376       20         4319      
 34         fornax-engine             2373       14         3748      
 35         odonata-bot               2365       2          3815      
 36         RavenEngine               2356       4          446       
 37         FlamingDragon_9000        2309       -12        1216      
 38         simpleEval                2307       -10        7740      
-39         halcyonbot                2297       12         6729      
+39         halcyonbot                2304       19         6730      
 40         bekbot                    2268       0          1326      
 41         FataliiBot                2257       32         2713      
 42         SimplerEval               2256       21         1910      
@@ -70,7 +70,7 @@ Rank       Bot                       Rating     Prog       Games
 69         Demolito_L6               1854       2          872       
 70         Trollfish-Bot             1837       -20        322       
 71         notropis                  1818       7          2502      
-72         honzovy-sachy             1808       1          1031      
+72         honzovy-sachy             1802       -10        1032      
 73         Virutor                   1792       13         3269      
 74         The_Marcus                1777       -6         178       
 75         zulu_bot                  1776       3          110       
@@ -86,7 +86,7 @@ Rank       Bot                       Rating     Prog       Games
 85         simplexitor               1633       2          523       
 86         HardRok                   1630       9          754       
 87         SimpleChessEngine         1615       40         17        
-88         maia5                     1582       14         103756    
+88         maia5                     1588       14         103757    
 89         DavidsGuterBot            1547       3          671       
 90         sargon-4ply               1546       16         661       
 91         arny_bot                  1537       -31        38        
