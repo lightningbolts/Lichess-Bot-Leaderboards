@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          VariantsTop               2915       0          66        
 2          ProteusSF-Aureo           2909       12         23        
-3          ShashChess_MsP            2901       -2         818       
+3          ShashChess_MsP            2900       -2         819       
 4          YoBot_v2                  2898       9          13167     
 5          ProteusSF-Godot           2897       2          198       
 6          ReinforcementTrial        2893       -4         5428      
@@ -9,9 +9,9 @@ Rank       Bot                       Rating     Prog       Games
 8          ToromBot                  2891       -2         2231      
 9          BRAINLEARN11_NNUE         2886       6          610       
 10         caissa-x                  2885       1          3091      
-11         EmanPureNN                2883       -1         340       
-12         FireFishBOT               2883       0          1214      
-13         TheFreshman1902           2880       4          66        
+11         FireFishBOT               2883       0          1214      
+12         EmanPureNN                2883       -1         340       
+13         TheFreshman1902           2880       4          67        
 14         ResoluteBot               2873       -2         5424      
 15         RaspFish                  2871       0          5862      
 16         LeelaMultiPoss            2859       -1         296       
@@ -70,7 +70,7 @@ Rank       Bot                       Rating     Prog       Games
 69         baby_eubos                1923       17         1040      
 70         Demolito_L6               1889       10         896       
 71         NatesBot                  1878       9          571       
-72         Sem1Rose                  1822       37         56        
+72         Sem1Rose                  1828       37         57        
 73         Trollfish-Bot             1821       -35        326       
 74         notropis                  1808       -16        2511      
 75         honzovy-sachy             1798       -8         1038      
@@ -80,16 +80,16 @@ Rank       Bot                       Rating     Prog       Games
 79         ShallowRedBot             1747       -26        48        
 80         Demolito_L5               1735       2          1524      
 81         ChessChildren             1732       -18        4544      
-82         dlvc-bot                  1716       -18        88        
-83         Jibbby                    1715       -20        1829      
-84         maia9                     1709       9          87049     
+82         maia9                     1719       13         87051     
+83         dlvc-bot                  1716       -18        88        
+84         Jibbby                    1708       -27        1830      
 85         AshNostromo               1707       -19        1271      
 86         yeoldwiz                  1645       13         697       
 87         ZE_ROOK                   1641       -22        613       
 88         simplexitor               1641       13         529       
 89         SimpleChessEngine         1637       62         19        
-90         maia5                     1622       -1         103876    
-91         HardRok                   1621       -10        757       
+90         HardRok                   1621       -10        757       
+91         maia5                     1615       -7         103878    
 92         arny_bot                  1550       7          41        
 93         DavidsGuterBot            1549       -2         673       
 94         maia1                     1540       23         236172    
@@ -114,4 +114,3 @@ Rank       Bot                       Rating     Prog       Games
 113        bobandi                   1003       20         759       
 114        grandQ_AI                 783        17         1651      
 115        B4ux1t3s-Bot              716        -26        89        
-116        G0thamB0t                 678        -10        385       
