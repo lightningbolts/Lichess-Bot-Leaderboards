@@ -1,8 +1,8 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Aureo           2909       12         23        
 2          YoBot_v2                  2898       9          13167     
-3          ProteusSF-Godot           2897       2          198       
-4          FireFishBOT_v2            2897       6          815       
+3          FireFishBOT_v2            2897       6          815       
+4          ProteusSF-Godot           2897       2          198       
 5          ReinforcementTrial        2895       2          5441      
 6          ToromBot                  2888       -1         2254      
 7          FireFishBOT               2883       0          1222      
@@ -30,9 +30,9 @@ Rank       Bot                       Rating     Prog       Games
 29         LunaChessEngine           2385       -2         1188      
 30         fornax-engine             2370       -4         3762      
 31         RavenEngine               2359       -5         452       
-32         simpleEval                2311       0          7749      
+32         simpleEval                2316       6          7750      
 33         FlamingDragon_9000        2309       -12        1216      
-34         halcyonbot                2286       -6         6787      
+34         halcyonbot                2281       -5         6788      
 35         FataliiBot                2272       15         2723      
 36         bekbot                    2271       -13        1366      
 37         SimplerEval               2254       15         1911      
@@ -80,7 +80,7 @@ Rank       Bot                       Rating     Prog       Games
 79         SimpleChessEngine         1634       59         20        
 80         maia5                     1607       3          103952    
 81         arny_bot                  1566       27         42        
-82         maia1                     1546       -24        236279    
+82         maia1                     1555       -17        236280    
 83         ArduChessBot              1537       -2         433       
 84         sargon-4ply               1537       11         665       
 85         dragobot                  1529       -45        99        
@@ -96,8 +96,7 @@ Rank       Bot                       Rating     Prog       Games
 95         schnecken_bot             1259       21         343       
 96         sargon-1ply               1252       -2         8669      
 97         ABotWith3200Rating        1224       -31        130       
-98         kireevi                   1100       -26        583       
-99         bobandi                   1003       20         759       
-100        grandQ_AI                 783        17         1651      
-101        B4ux1t3s-Bot              716        -26        89        
-102        G0thamB0t                 678        -10        385       
+98         bobandi                   1003       20         759       
+99         grandQ_AI                 783        17         1651      
+100        B4ux1t3s-Bot              716        -26        89        
+101        G0thamB0t                 678        -10        385       
