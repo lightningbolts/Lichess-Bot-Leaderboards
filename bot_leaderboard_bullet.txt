@@ -3,11 +3,11 @@ Rank       Bot                       Rating     Prog       Games
 2          ProteusSF-Aureo           2943       16         301       
 3          YoBot_v2                  2942       -12        18541     
 4          FireFishBOT_v2            2924       -4         1305      
-5          ToromBot                  2920       -1         63399     
+5          ToromBot                  2920       -1         63400     
 6          LeelaMultiPoss            2919       3          600       
 7          TheFreshman1902           2919       -1         287       
 8          ReinforcementTrial        2914       -1         1682      
-9          ResoluteBot               2883       -2         27044     
+9          ResoluteBot               2883       1          27045     
 10         Nikitosik-ai              2863       -3         3370      
 11         RaspFish                  2807       -14        53718     
 12         blundar_bot               2791       -13        9382      
@@ -33,8 +33,8 @@ Rank       Bot                       Rating     Prog       Games
 32         TuksuBot                  2360       -2         7103      
 33         Phalanx-XXV               2356       -9         4474      
 34         OpeningsBot               2345       -10        1186      
-35         LunaChessEngine           2342       -6         1319      
-36         fornax-engine             2342       11         7091      
+35         fornax-engine             2342       11         7091      
+36         LunaChessEngine           2342       -6         1319      
 37         Pseudo-0                  2328       13         4062      
 38         simpleEval                2323       23         25406     
 39         Nakshatra3                2280       9          1673      
@@ -48,7 +48,7 @@ Rank       Bot                       Rating     Prog       Games
 47         Lynx_BOT                  2144       6          7285      
 48         matmoi                    2140       -31        2909      
 49         eubos                     2134       13         13413     
-50         requinBOT                 2098       -29        268       
+50         requinBOT                 2103       -11        269       
 51         jangine                   2092       19         3356      
 52         GarboBot                  2071       -22        9869      
 53         camel_bot                 2070       -20        1109      
@@ -71,9 +71,9 @@ Rank       Bot                       Rating     Prog       Games
 70         The_Marcus                1766       24         1698      
 71         honzovy-sachy             1766       -3         5145      
 72         ShallowRedBot             1763       2          247       
-73         Virutor                   1759       -4         6941      
-74         baby_eubos                1759       -2         6068      
-75         simplexitor               1759       -20        2385      
+73         baby_eubos                1759       -2         6068      
+74         simplexitor               1759       -20        2385      
+75         Virutor                   1759       -4         6941      
 76         Humaia                    1741       25         422       
 77         piglet_engine             1721       -22        811       
 78         ArduChessBot              1712       -2         5538      
@@ -82,8 +82,8 @@ Rank       Bot                       Rating     Prog       Games
 81         rudim-bot                 1670       10         158       
 82         ChessChildren             1665       -26        15576     
 83         ZE_ROOK                   1647       -19        2183      
-84         SimpleChessEngine         1633       6          39        
-85         maia1                     1630       -23        125886    
+84         maia1                     1641       -10        125888    
+85         SimpleChessEngine         1633       6          39        
 86         Jibbby                    1626       5          2523      
 87         maia5                     1622       -5         39835     
 88         sudobot_chess             1590       -295       227       
