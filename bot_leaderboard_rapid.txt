@@ -1,8 +1,8 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Aureo           2909       12         23        
 2          YoBot_v2                  2898       9          13167     
-3          FireFishBOT_v2            2897       6          815       
-4          ProteusSF-Godot           2897       2          198       
+3          ProteusSF-Godot           2897       2          198       
+4          FireFishBOT_v2            2897       6          815       
 5          ReinforcementTrial        2896       3          5440      
 6          ToromBot                  2890       -2         2240      
 7          ArasanX                   2883       2          5812      
@@ -19,10 +19,10 @@ Rank       Bot                       Rating     Prog       Games
 18         AKS-Mantissa              2612       -3         4191      
 19         pawn_git                  2587       2          1337      
 20         LazyBot                   2578       15         763       
-21         Weiawaga                  2569       -4         10180     
+21         Weiawaga                  2574       -2         10181     
 22         SaxtonEngine              2562       13         1448      
 23         bot_adario                2548       -7         1417      
-24         Cheng-4                   2536       -18        3246      
+24         Cheng-4                   2531       -22        3247      
 25         catriever                 2525       10         325       
 26         Pseudo-0                  2417       16         1196      
 27         OpeningsBot               2414       -44        386       
@@ -34,8 +34,8 @@ Rank       Bot                       Rating     Prog       Games
 33         RavenEngine               2359       -5         452       
 34         simpleEval                2311       0          7749      
 35         FlamingDragon_9000        2309       -12        1216      
-36         bekbot                    2293       18         1361      
-37         halcyonbot                2288       -12        6783      
+36         halcyonbot                2288       -12        6783      
+37         bekbot                    2284       10         1362      
 38         FataliiBot                2266       10         2722      
 39         SimplerEval               2254       15         1911      
 40         Nakshatra3                2235       -4         912       
@@ -48,7 +48,7 @@ Rank       Bot                       Rating     Prog       Games
 47         GarboBot                  2119       -2         6163      
 48         MaxtheDog                 2098       -6         762       
 49         jangine                   2085       16         1812      
-50         redtail-zero              2053       -38        448       
+50         redtail-zero              2062       -33        449       
 51         likeawizard-bot           2049       14         1067      
 52         Humaia-Strong             2047       -7         612       
 53         myopic-bot                2039       5          494       
@@ -78,8 +78,8 @@ Rank       Bot                       Rating     Prog       Games
 77         AshNostromo               1707       -19        1271      
 78         yeoldwiz                  1643       2          698       
 79         ZE_ROOK                   1641       -22        613       
-80         simplexitor               1634       9          531       
-81         SimpleChessEngine         1634       59         20        
+80         SimpleChessEngine         1634       59         20        
+81         simplexitor               1634       9          531       
 82         maia5                     1608       -17        103936    
 83         arny_bot                  1566       27         42        
 84         maia1                     1559       34         236229    
@@ -89,7 +89,7 @@ Rank       Bot                       Rating     Prog       Games
 88         sargon-3ply               1511       -19        1223      
 89         RoundMoundOfRebounds      1468       -7         382       
 90         turochamp-2ply            1460       -18        1115      
-91         Humaia                    1432       -16        2297      
+91         Humaia                    1440       -8         2298      
 92         turochamp-1ply            1428       23         1651      
 93         StupidChessRobot          1426       7          70        
 94         RavenEngine_Depth2        1366       -42        32        
