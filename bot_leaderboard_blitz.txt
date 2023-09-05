@@ -1,10 +1,10 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ToromBot                  2907       3          4174      
 2          ProteusSF-Aureo           2907       -1         92        
-3          ProteusSF-Godot           2897       0          1273      
-4          FireFishBOT_v2            2897       0          6172      
-5          ReinforcementTrial        2893       -5         2689      
-6          FireFishBOT               2890       1          3049      
+3          FireFishBOT_v2            2897       -1         6173      
+4          ProteusSF-Godot           2897       0          1273      
+5          ReinforcementTrial        2893       -5         2690      
+6          FireFishBOT               2890       1          3050      
 7          ResoluteBot               2889       -1         11955     
 8          YoBot_v2                  2882       1          3997      
 9          LeelaMultiPoss            2872       15         596       
@@ -38,7 +38,7 @@ Rank       Bot                       Rating     Prog       Games
 37         halcyonbot                2236       5          10225     
 38         SimplerEval               2223       2          3395      
 39         FataliiBot                2213       -12        6966      
-40         eubos                     2148       11         15087     
+40         eubos                     2145       1          15088     
 41         honzovy-sachy-2           2142       -7         7109      
 42         matmoi                    2110       10         2263      
 43         jangine                   2100       5          3610      
@@ -53,7 +53,7 @@ Rank       Bot                       Rating     Prog       Games
 52         Elmichess                 2007       0          3708      
 53         Humaia-Strong             2001       20         2370      
 54         LeelaRogue                1992       8          2403      
-55         sun_bird                  1973       -34        1049      
+55         sun_bird                  1976       -28        1050      
 56         BLANK_BOT                 1957       15         5077      
 57         LazyBotJr                 1949       27         1935      
 58         zeekat                    1882       9          21805     
@@ -69,8 +69,8 @@ Rank       Bot                       Rating     Prog       Games
 68         piglet_engine             1692       9          200       
 69         AshNostromo               1688       1          1036      
 70         Demolito_L5               1678       14         2058      
-71         Virutor                   1677       17         7650      
-72         SimpleChessEngine         1677       -95        26        
+71         SimpleChessEngine         1677       -95        26        
+72         Virutor                   1677       17         7650      
 73         dlvc-bot                  1676       -3         1264      
 74         QueensGamBOT              1669       28         3177      
 75         ChessChildren             1652       -19        21650     
@@ -83,7 +83,7 @@ Rank       Bot                       Rating     Prog       Games
 82         sudobot_chess             1539       -74        402       
 83         ZE_ROOK                   1526       -22        3182      
 84         GuineaBot3                1500       -17        129       
-85         arny_bot                  1493       -7         1469      
+85         arny_bot                  1496       -1         1470      
 86         maia5                     1491       0          103730    
 87         RoundMoundOfRebounds      1487       2          1425      
 88         sargon-4ply               1486       -7         2119      
@@ -93,7 +93,7 @@ Rank       Bot                       Rating     Prog       Games
 92         Humaia                    1380       20         1002      
 93         monchester                1357       6          2790      
 94         StupidChessRobot          1346       -14        1980      
-95         RavenEngine_Depth2        1296       3          159       
+95         RavenEngine_Depth2        1294       4          160       
 96         schnecken_bot             1281       2          2159      
 97         sargon-2ply               1259       1          3211      
 98         chat_bot                  1258       -58        321       
