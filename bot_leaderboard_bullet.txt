@@ -3,10 +3,10 @@ Rank       Bot                       Rating     Prog       Games
 2          ProteusSF-Aureo           2943       16         301       
 3          YoBot_v2                  2942       -12        18541     
 4          FireFishBOT_v2            2924       -3         1308      
-5          ToromBot                  2924       4          63416     
+5          ToromBot                  2923       2          63418     
 6          TheFreshman1902           2920       1          302       
-7          ReinforcementTrial        2916       10         1690      
-8          ResoluteBot               2883       1          27045     
+7          ReinforcementTrial        2916       10         1691      
+8          ResoluteBot               2884       1          27046     
 9          Nikitosik-ai              2862       -4         3374      
 10         RaspFish                  2805       -12        53724     
 11         blundar_bot               2783       -23        9384      
@@ -32,8 +32,8 @@ Rank       Bot                       Rating     Prog       Games
 31         TuksuBot                  2360       -2         7103      
 32         Phalanx-XXV               2356       -9         4474      
 33         OpeningsBot               2345       -10        1186      
-34         fornax-engine             2342       11         7091      
-35         LunaChessEngine           2342       -6         1319      
+34         LunaChessEngine           2342       -6         1319      
+35         fornax-engine             2342       11         7091      
 36         Pseudo-0                  2328       13         4062      
 37         odonata-bot               2324       11         6520      
 38         simpleEval                2323       23         25406     
@@ -51,10 +51,10 @@ Rank       Bot                       Rating     Prog       Games
 50         jangine                   2096       17         3357      
 51         likeawizard-bot           2072       29         1976      
 52         redtail-zero              2046       -9         818       
-53         Trollfish-Bot             2043       29         5060      
+53         Trollfish-Bot             2042       32         5061      
 54         GarboBot                  2037       -34        9878      
 55         myopic-bot                2020       7          2219      
-56         MaxtheDog                 2016       24         15455     
+56         MaxtheDog                 2016       16         15456     
 57         sun_bird                  2013       5          996       
 58         LazyBotJr                 2004       -11        955       
 59         Sparring_Bot              1997       14         294       
@@ -65,8 +65,8 @@ Rank       Bot                       Rating     Prog       Games
 64         NatesBot                  1850       4          387       
 65         notropis                  1815       10         4187      
 66         HardRok                   1775       -7         852       
-67         Dinora                    1772       6          137       
-68         honzovy-sachy             1772       -2         5146      
+67         honzovy-sachy             1772       -2         5146      
+68         Dinora                    1772       6          137       
 69         The_Marcus                1770       8          1703      
 70         QueensGamBOT              1767       5          5291      
 71         Demolito_L5               1763       -7         1169      
@@ -85,7 +85,7 @@ Rank       Bot                       Rating     Prog       Games
 84         Jibbby                    1642       18         2526      
 85         SimpleChessEngine         1633       6          39        
 86         maia5                     1609       -16        39838     
-87         maia1                     1604       -52        125908    
+87         maia1                     1597       -51        125909    
 88         sudobot_chess             1590       -295       227       
 89         turochamp-2ply            1578       -4         1678      
 90         RavenEngine_Depth2        1567       3          87        
