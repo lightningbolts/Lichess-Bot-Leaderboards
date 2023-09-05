@@ -10,8 +10,8 @@ Rank       Bot                       Rating     Prog       Games
 9          ToromBot                  2898       -3         63313     
 10         ResoluteBot               2896       4          27007     
 11         Mr_Chess_Berserk          2869       0          946       
-12         Nikitosik-ai              2837       4          3290      
-13         RaspFish                  2809       5          53646     
+12         Nikitosik-ai              2837       -2         3291      
+13         RaspFish                  2809       3          53647     
 14         blundar_bot               2798       -1         9189      
 15         LazyBot                   2684       -22        1428      
 16         SF-NNUE                   2629       244        44        
@@ -34,14 +34,14 @@ Rank       Bot                       Rating     Prog       Games
 33         admete_bot                2360       -8         6286      
 34         TuksuBot                  2357       8          7090      
 35         OpeningsBot               2348       -23        1176      
-36         fornax-engine             2336       15         7081      
+36         fornax-engine             2340       16         7082      
 37         RavenEngine               2334       -9         9174      
 38         odonata-bot               2324       11         6520      
 39         Pseudo-0                  2315       3          4056      
 40         Nakshatra3                2271       -7         1662      
 41         SimplerEval               2252       18         2760      
 42         halcyonbot                2251       -2         5957      
-43         bekbot                    2246       -5         1593      
+43         bekbot                    2242       -5         1594      
 44         HistoryExplorer           2241       -32        2643      
 45         FataliiBot                2238       -6         5975      
 46         honzovy-sachy-2           2166       1          7366      
@@ -62,7 +62,7 @@ Rank       Bot                       Rating     Prog       Games
 61         sun_bird                  1978       -18        918       
 62         BLANK_BOT                 1957       13         7813      
 63         zeekat                    1925       19         19552     
-64         Sem1Rose                  1920       42         70        
+64         Sem1Rose                  1918       43         71        
 65         Demolito_L6               1916       10         805       
 66         NatesBot                  1844       9          375       
 67         notropis                  1802       -22        4162      
