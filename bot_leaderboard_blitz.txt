@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Aureo           2907       -1         92        
-2          FireFishBOT_v2            2900       10         6131      
+2          FireFishBOT_v2            2900       10         6132      
 3          ReinforcementTrial        2898       -1         2683      
 4          TheFreshman1902           2898       8          116       
 5          ProteusSF-Godot           2897       0          1273      
@@ -12,7 +12,7 @@ Rank       Bot                       Rating     Prog       Games
 11         Nikitosik-ai              2823       2          771       
 12         ArasanX                   2822       3          2184      
 13         Mr_Chess_Berserk          2816       11         466       
-14         blundar_bot               2772       35         1306      
+14         blundar_bot               2772       28         1307      
 15         LazyBot                   2684       1          2051      
 16         FrozenightEngine          2600       -1         6330      
 17         AKS-Mantissa              2595       -1         10183     
@@ -50,7 +50,7 @@ Rank       Bot                       Rating     Prog       Games
 49         likeawizard-bot           2044       -2         4197      
 50         myopic-bot                2032       -6         2319      
 51         redtail-zero              2022       4          578       
-52         sun_bird                  2012       16         1033      
+52         sun_bird                  2015       22         1034      
 53         MaxtheDog                 2008       -4         4926      
 54         Elmichess                 2007       0          3708      
 55         Humaia-Strong             2001       20         2370      
@@ -59,7 +59,7 @@ Rank       Bot                       Rating     Prog       Games
 58         LazyBotJr                 1949       27         1935      
 59         zeekat                    1873       -3         21794     
 60         Demolito_L6               1863       13         1277      
-61         Sem1Rose                  1851       42         63        
+61         Sem1Rose                  1846       46         64        
 62         Trollfish-Bot             1846       -10        2369      
 63         NatesBot                  1809       2          1127      
 64         baby_eubos                1806       10         8412      
@@ -80,15 +80,15 @@ Rank       Bot                       Rating     Prog       Games
 79         ArduChessBot              1617       0          1309      
 80         simplexitor               1613       -13        2341      
 81         maia9                     1592       8          103725    
-82         yeoldwiz                  1539       11         1834      
-83         sudobot_chess             1539       -74        402       
+82         sudobot_chess             1539       -74        402       
+83         yeoldwiz                  1539       11         1834      
 84         ZE_ROOK                   1529       -24        3180      
 85         arny_bot                  1503       -4         1444      
 86         GuineaBot3                1500       -17        129       
 87         sargon-4ply               1489       2          2118      
 88         RoundMoundOfRebounds      1487       2          1425      
 89         sargon-3ply               1465       -5         2018      
-90         maia5                     1456       3          103704    
+90         maia5                     1452       3          103705    
 91         turochamp-2ply            1400       -5         1753      
 92         maia1                     1380       -10        211310    
 93         Humaia                    1380       20         1002      
@@ -105,4 +105,4 @@ Rank       Bot                       Rating     Prog       Games
 104        knucklefish               1077       4          3314      
 105        grandQ_AI                 991        -23        1366      
 106        bobandi                   958        -18        1274      
-107        B4ux1t3s-Bot              928        -20        127       
+107        B4ux1t3s-Bot              927        -20        128       
