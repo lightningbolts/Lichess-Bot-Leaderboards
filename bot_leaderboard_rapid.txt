@@ -1,13 +1,13 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Aureo           2909       12         23        
 2          YoBot_v2                  2898       9          13167     
-3          FireFishBOT_v2            2897       6          815       
-4          ProteusSF-Godot           2897       2          198       
-5          ReinforcementTrial        2895       2          5441      
+3          ProteusSF-Godot           2897       2          198       
+4          FireFishBOT_v2            2897       6          815       
+5          ReinforcementTrial        2895       2          5442      
 6          ToromBot                  2888       -1         2254      
-7          FireFishBOT               2883       0          1222      
-8          TheFreshman1902           2883       1          87        
-9          ArasanX                   2879       -5         5814      
+7          TheFreshman1902           2884       2          88        
+8          FireFishBOT               2883       0          1222      
+9          ArasanX                   2879       0          5815      
 10         ResoluteBot               2874       0          5427      
 11         RaspFish                  2864       -6         5874      
 12         Nikitosik-ai              2861       1          802       
@@ -32,7 +32,7 @@ Rank       Bot                       Rating     Prog       Games
 31         RavenEngine               2359       -5         452       
 32         simpleEval                2316       6          7750      
 33         FlamingDragon_9000        2309       -12        1216      
-34         halcyonbot                2281       -5         6788      
+34         halcyonbot                2280       -11        6789      
 35         FataliiBot                2272       15         2723      
 36         bekbot                    2271       -13        1366      
 37         SimplerEval               2254       15         1911      
@@ -80,7 +80,7 @@ Rank       Bot                       Rating     Prog       Games
 79         SimpleChessEngine         1634       59         20        
 80         maia5                     1607       3          103952    
 81         arny_bot                  1566       27         42        
-82         maia1                     1555       -17        236280    
+82         maia1                     1564       -10        236281    
 83         ArduChessBot              1537       -2         433       
 84         sargon-4ply               1537       11         665       
 85         dragobot                  1529       -45        99        
