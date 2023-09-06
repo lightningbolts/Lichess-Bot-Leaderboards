@@ -1,5 +1,5 @@
 Rank       Bot                       Rating     Prog       Games     
-1          Anand_bot                 2989       -1         1823      
+1          Anand_bot                 2989       -1         1824      
 2          ProteusSF-Godot           2946       5          2176      
 3          ProteusSF-Aureo           2943       16         301       
 4          YoBot_v2                  2942       -12        18541     
@@ -11,9 +11,9 @@ Rank       Bot                       Rating     Prog       Games
 10         ReinforcementTrial        2900       -12        1738      
 11         ResoluteBot               2894       -8         27090     
 12         Mate-AI                   2883       3          12835     
-13         Jussicas                  2822       -4         341       
+13         Jussicas                  2821       -7         343       
 14         RaspFish                  2815       -4         53763     
-15         blundar_bot               2796       14         9462      
+15         blundar_bot               2798       15         9465      
 16         LazyBot                   2686       -20        1429      
 17         expositor                 2569       22         20457     
 18         Cheng-4                   2549       -16        14088     
@@ -26,7 +26,7 @@ Rank       Bot                       Rating     Prog       Games
 25         pawn_git                  2432       -5         4519      
 26         SaxtonEngine              2432       -7         4532      
 27         catriever                 2419       -6         1910      
-28         Weiawaga                  2419       1          16168     
+28         Weiawaga                  2417       0          16170     
 29         bot_adario                2391       7          2775      
 30         ELO_1500                  2390       -1         3285      
 31         AjedrezChamberi           2366       27         535       
@@ -37,7 +37,7 @@ Rank       Bot                       Rating     Prog       Games
 36         OpeningsBot               2351       1          1191      
 37         fornax-engine             2348       7          7099      
 38         Pseudo-0                  2337       22         4067      
-39         simpleEval                2336       29         25409     
+39         simpleEval                2337       26         25411     
 40         Nakshatra3                2281       5          1686      
 41         bekbot                    2266       10         1630      
 42         halcyonbot                2238       11         5984      
@@ -85,9 +85,9 @@ Rank       Bot                       Rating     Prog       Games
 84         turochamp-2ply            1575       -25        1681      
 85         sargon-4ply               1560       8          1860      
 86         RoundMoundOfRebounds      1550       -11        1557      
-87         maia1                     1541       14         125964    
-88         sargon-3ply               1541       0          1506      
-89         monchester                1539       6          2636      
+87         sargon-3ply               1541       0          1506      
+88         monchester                1539       6          2636      
+89         maia1                     1538       19         125966    
 90         yeoldwiz                  1450       18         791       
 91         StupidChessRobot          1435       19         939       
 92         turochamp-1ply            1431       -7         2197      
