@@ -2,9 +2,9 @@ Rank       Bot                       Rating     Prog       Games
 1          ProteusSF-Aureo           2640       48         21        
 2          ReinforcementTrial        2627       3          226       
 3          YoBot_v2                  2607       -2         559       
-4          ProteusSF-Godot           2602       1          300       
-5          RaspFish                  2602       4          644       
-6          LeelaMultiPoss            2602       31         33        
+4          LeelaMultiPoss            2602       31         33        
+5          ProteusSF-Godot           2602       1          300       
+6          RaspFish                  2602       4          644       
 7          ResoluteBot               2594       -5         707       
 8          ArasanX                   2552       4          179       
 9          Anand_bot                 2513       -12        26        
@@ -60,8 +60,8 @@ Rank       Bot                       Rating     Prog       Games
 59         turochamp-2ply            1589       -45        769       
 60         sargon-3ply               1588       5          764       
 61         Jibbby                    1577       -11        81        
-62         chat_bot                  1576       22         45        
-63         yeoldwiz                  1573       -38        315       
+62         yeoldwiz                  1573       -38        315       
+63         chat_bot                  1563       -9         46        
 64         Trollfish-Bot             1549       25         54        
 65         StupidChessRobot          1542       64         24        
 66         maia1                     1479       -14        66860     
@@ -70,7 +70,7 @@ Rank       Bot                       Rating     Prog       Games
 69         RoundMoundOfRebounds      1392       33         125       
 70         turochamp-1ply            1377       -47        817       
 71         kireevi                   1311       -67        246       
-72         sargon-1ply               1278       3          3389      
+72         sargon-1ply               1276       -6         3390      
 73         bobandi                   1149       10         185       
 74         grandQ_AI                 854        4          814       
 75         G0thamB0t                 792        -22        204       
