@@ -6,12 +6,12 @@ Rank       Bot                       Rating     Prog       Games
 5          FireFishBOT_v2            2891       0          6272      
 6          ResoluteBot               2885       -4         11972     
 7          YoBot_v2                  2882       1          3997      
-8          RaspFish                  2839       5          12161     
+8          RaspFish                  2838       4          12162     
 9          Nikitosik-ai              2825       -11        811       
 10         ArasanX                   2817       0          2206      
-11         blundar_bot               2769       0          1332      
+11         blundar_bot               2770       -1         1333      
 12         LazyBot                   2684       1          2051      
-13         expositor                 2670       18         7455      
+13         expositor                 2665       12         7456      
 14         AKS-Mantissa              2604       3          10203     
 15         FrozenightEngine          2602       1          6344      
 16         ELO_1500                  2584       5          13239     
@@ -39,7 +39,7 @@ Rank       Bot                       Rating     Prog       Games
 38         HistoryExplorer           2216       -2         2835      
 39         FataliiBot                2216       -4         6975      
 40         honzovy-sachy-2           2165       12         7118      
-41         matmoi                    2135       14         2280      
+41         matmoi                    2130       5          2281      
 42         eubos                     2124       -22        15101     
 43         jangine                   2095       -1         3620      
 44         Lynx_BOT                  2079       -13        50866     
@@ -57,8 +57,8 @@ Rank       Bot                       Rating     Prog       Games
 56         sun_bird                  1979       -5         1086      
 57         LazyBotJr                 1965       4          1959      
 58         YourSparringBot           1963       -17        954       
-59         BLANK_BOT                 1937       -19        5084      
-60         requinBOT                 1937       -18        156       
+59         requinBOT                 1944       -15        157       
+60         BLANK_BOT                 1937       -19        5084      
 61         zeekat                    1885       10         21824     
 62         Demolito_L6               1845       -17        1301      
 63         Trollfish-Bot             1836       -4         2386      
@@ -74,8 +74,8 @@ Rank       Bot                       Rating     Prog       Games
 73         piglet_engine             1690       1          201       
 74         AshNostromo               1688       1          1036      
 75         Virutor                   1683       11         7653      
-76         Demolito_L5               1676       -8         2078      
-77         dlvc-bot                  1676       -3         1264      
+76         dlvc-bot                  1676       -3         1264      
+77         Demolito_L5               1676       -8         2078      
 78         QueensGamBOT              1674       32         3181      
 79         ChessChildren             1634       -23        21659     
 80         Jibbby                    1633       -1         5510      
@@ -99,8 +99,8 @@ Rank       Bot                       Rating     Prog       Games
 98         StupidChessRobot          1354       10         1999      
 99         RavenEngine_Depth2        1293       2          164       
 100        schnecken_bot             1277       -9         2174      
-101        sargon-2ply               1258       6          3212      
-102        chat_bot                  1258       -58        321       
+101        chat_bot                  1258       -58        321       
+102        sargon-2ply               1258       6          3212      
 103        turochamp-1ply            1242       -12        1872      
 104        sargon-1ply               1229       -14        8225      
 105        dragobot                  1209       -41        180       
