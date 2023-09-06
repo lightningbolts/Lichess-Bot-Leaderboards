@@ -5,7 +5,7 @@ Rank       Bot                       Rating     Prog       Games
 4          YoBot_v2                  2898       9          13167     
 5          ProteusSF-Godot           2897       2          198       
 6          ReinforcementTrial        2892       -2         5458      
-7          ArasanX                   2887       0          5855      
+7          ArasanX                   2887       -2         5856      
 8          ResoluteBot               2872       4          5447      
 9          LeelaMultiPoss            2862       7          300       
 10         ZugzwangBot               2859       5          42        
@@ -29,11 +29,11 @@ Rank       Bot                       Rating     Prog       Games
 28         Phalanx-XXV               2405       14         1007      
 29         LunaChessEngine           2401       12         1192      
 30         admete_bot                2391       26         4324      
-31         fornax-engine             2366       -3         3769      
+31         fornax-engine             2370       -4         3770      
 32         simpleEval                2310       3          7759      
 33         FlamingDragon_9000        2309       -12        1216      
-34         halcyonbot                2273       15         6815      
-35         FataliiBot                2271       0          2729      
+34         FataliiBot                2271       0          2729      
+35         halcyonbot                2269       6          6816      
 36         bekbot                    2266       -23        1405      
 37         Nakshatra3                2240       -1         917       
 38         eubos                     2204       -3         4324      
@@ -80,8 +80,8 @@ Rank       Bot                       Rating     Prog       Games
 79         simplexitor               1624       -22        536       
 80         maia5                     1622       31         104042    
 81         HardRok                   1592       -34        764       
-82         maia1                     1568       -26        236575    
-83         arny_bot                  1564       4          45        
+82         arny_bot                  1564       4          45        
+83         maia1                     1561       -13        236578    
 84         sargon-4ply               1538       1          668       
 85         ArduChessBot              1536       -2         434       
 86         GuineaBot3                1535       -117       18        
@@ -92,8 +92,8 @@ Rank       Bot                       Rating     Prog       Games
 91         turochamp-1ply            1423       0          1663      
 92         StupidChessRobot          1419       1          71        
 93         sargon-2ply               1324       -4         3431      
-94         sargon-1ply               1280       5          8683      
-95         chat_bot                  1266       -28        275       
+94         sargon-1ply               1275       -9         8684      
+95         chat_bot                  1264       -27        276       
 96         schnecken_bot             1264       38         345       
 97         kireevi                   1087       -43        585       
 98         bobandi                   1003       20         759       
