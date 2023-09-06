@@ -2,7 +2,7 @@ Rank       Bot                       Rating     Prog       Games
 1          EmptikBot                 2917       11         545       
 2          ProteusSF-Aureo           2907       -1         92        
 3          ReinforcementTrial        2903       6          2719      
-4          FireFishBOT_v2            2898       7          6283      
+4          FireFishBOT_v2            2898       2          6284      
 5          ProteusSF-Godot           2897       0          1273      
 6          ResoluteBot               2888       9          11981     
 7          YoBot_v2                  2882       1          3997      
@@ -12,7 +12,7 @@ Rank       Bot                       Rating     Prog       Games
 11         MphoBot                   2795       -33        108       
 12         blundar_bot               2761       -6         1339      
 13         LazyBot                   2684       1          2051      
-14         expositor                 2676       4          7480      
+14         expositor                 2671       -1         7481      
 15         FrozenightEngine          2609       13         6347      
 16         ELO_1500                  2591       11         13241     
 17         AKS-Mantissa              2590       -5         10210     
@@ -34,8 +34,8 @@ Rank       Bot                       Rating     Prog       Games
 33         FlamingDragon_9000        2323       19         3331      
 34         bekbot                    2307       19         1577      
 35         Nakshatra3                2255       4          1756      
-36         halcyonbot                2227       2          10255     
-37         FataliiBot                2227       9          6979      
+36         FataliiBot                2227       9          6979      
+37         halcyonbot                2227       2          10255     
 38         SimplerEval               2223       2          3395      
 39         HistoryExplorer           2213       0          2838      
 40         honzovy-sachy-2           2161       19         7120      
@@ -68,7 +68,7 @@ Rank       Bot                       Rating     Prog       Games
 67         notropis                  1794       16         6959      
 68         Dinora                    1767       0          193       
 69         LittleGreenManBot         1765       -36        4569      
-70         ShallowRedBot             1718       0          333       
+70         ShallowRedBot             1723       5          334       
 71         The_Marcus                1712       -1         1803      
 72         honzovy-sachy             1704       0          5274      
 73         piglet_engine             1694       10         202       
@@ -77,8 +77,8 @@ Rank       Bot                       Rating     Prog       Games
 76         Virutor                   1681       4          7655      
 77         dlvc-bot                  1676       -3         1264      
 78         QueensGamBOT              1674       32         3181      
-79         Jibbby                    1641       11         5515      
-80         ChessChildren             1641       -11        21661     
+79         ChessChildren             1641       -11        21661     
+80         Jibbby                    1641       11         5515      
 81         ArduChessBot              1625       12         1318      
 82         simplexitor               1607       -8         2347      
 83         maia9                     1599       -12        103814    
@@ -97,8 +97,8 @@ Rank       Bot                       Rating     Prog       Games
 96         monchester                1367       -2         2794      
 97         StupidChessRobot          1353       -3         2006      
 98         schnecken_bot             1270       -7         2180      
-99         sargon-2ply               1258       6          3212      
-100        chat_bot                  1258       -58        321       
+99         chat_bot                  1258       -58        321       
+100        sargon-2ply               1258       6          3212      
 101        turochamp-1ply            1242       -12        1872      
 102        sargon-1ply               1239       -8         8229      
 103        dragobot                  1209       -41        180       
