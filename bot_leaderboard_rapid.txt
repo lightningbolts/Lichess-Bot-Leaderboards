@@ -10,7 +10,7 @@ Rank       Bot                       Rating     Prog       Games
 9          RaspFish                  2867       8          5889      
 10         Nikitosik-ai              2861       2          808       
 11         blundar_bot               2785       -8         1203      
-12         ELO_1500                  2685       10         3233      
+12         ELO_1500                  2685       11         3234      
 13         FrozenightEngine          2662       1          5157      
 14         expositor                 2631       -5         4691      
 15         AKS-Mantissa              2606       -16        4195      
@@ -47,7 +47,7 @@ Rank       Bot                       Rating     Prog       Games
 46         GarboBot                  2107       -9         6170      
 47         Sparring_Bot              2103       -31        139       
 48         MaxtheDog                 2090       -21        768       
-49         jangine                   2083       -1         1817      
+49         jangine                   2083       0          1818      
 50         likeawizard-bot           2059       10         1084      
 51         redtail-zero              2057       -22        453       
 52         Humaia-Strong             2047       -7         612       
@@ -63,8 +63,8 @@ Rank       Bot                       Rating     Prog       Games
 62         KelpBot                   1928       21         17        
 63         baby_eubos                1921       2          1046      
 64         LittleGreenManBot         1906       70         3787      
-65         Demolito_L6               1893       -7         920       
-66         NatesBot                  1863       -24        591       
+65         Demolito_L6               1892       -14        921       
+66         NatesBot                  1863       -22        592       
 67         notropis                  1829       9          2524      
 68         Trollfish-Bot             1821       -36        327       
 69         Virutor                   1800       5          3282      
@@ -81,7 +81,7 @@ Rank       Bot                       Rating     Prog       Games
 80         ZE_ROOK                   1644       -24        616       
 81         maia9                     1643       0          87148     
 82         simplexitor               1632       0          534       
-83         maia5                     1614       -10        104003    
+83         maia5                     1610       -11        104004    
 84         arny_bot                  1559       -2         43        
 85         sargon-4ply               1541       6          667       
 86         ArduChessBot              1536       -2         434       
@@ -89,7 +89,7 @@ Rank       Bot                       Rating     Prog       Games
 88         dragobot                  1529       -45        99        
 89         sargon-3ply               1511       -19        1223      
 90         RoundMoundOfRebounds      1468       -7         382       
-91         maia1                     1466       -50        236424    
+91         maia1                     1462       -49        236425    
 92         turochamp-2ply            1460       -18        1115      
 93         Humaia                    1457       17         2309      
 94         turochamp-1ply            1424       -4         1662      
@@ -104,4 +104,3 @@ Rank       Bot                       Rating     Prog       Games
 103        bobandi                   1003       20         759       
 104        grandQ_AI                 783        17         1651      
 105        B4ux1t3s-Bot              716        -24        90        
-106        G0thamB0t                 678        -10        385       
