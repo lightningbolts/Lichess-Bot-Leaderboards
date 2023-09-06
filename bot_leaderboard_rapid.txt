@@ -8,11 +8,11 @@ Rank       Bot                       Rating     Prog       Games
 7          ArasanX                   2887       0          5854      
 8          ReinforcementTrial        2886       -8         5457      
 9          caissa-x                  2885       1          3097      
-10         ResoluteBot               2878       10         5446      
-11         RaspFish                  2863       -2         5898      
-12         LeelaMultiPoss            2862       7          300       
-13         ZugzwangBot               2859       -1         39        
-14         Mate-AI                   2789       8          2531      
+10         ResoluteBot               2872       4          5447      
+11         LeelaMultiPoss            2862       7          300       
+12         ZugzwangBot               2859       -1         39        
+13         RaspFish                  2856       -11        5899      
+14         Mate-AI                   2796       19         2532      
 15         blundar_bot               2787       4          1205      
 16         ELO_1500                  2691       9          3241      
 17         FrozenightEngine          2656       -10        5163      
@@ -45,7 +45,7 @@ Rank       Bot                       Rating     Prog       Games
 44         Elmichess                 2160       4          1420      
 45         honzovy-sachy-2           2158       7          3668      
 46         Lynx_BOT                  2130       -9         40209     
-47         camel_bot                 2118       -5         494       
+47         camel_bot                 2119       -8         495       
 48         GarboBot                  2101       -17        6172      
 49         MaxtheDog                 2094       -18        770       
 50         jangine                   2092       7          1823      
@@ -66,7 +66,7 @@ Rank       Bot                       Rating     Prog       Games
 65         Demolito_L6               1892       -1         929       
 66         LittleGreenManBot         1879       19         3790      
 67         NatesBot                  1857       -13        600       
-68         Trollfish-Bot             1823       -12        330       
+68         Trollfish-Bot             1821       -15        331       
 69         notropis                  1821       -9         2527      
 70         honzovy-sachy             1801       9          1045      
 71         Virutor                   1800       5          3283      
@@ -81,8 +81,8 @@ Rank       Bot                       Rating     Prog       Games
 80         yeoldwiz                  1650       -2         700       
 81         ZE_ROOK                   1642       -16        618       
 82         simplexitor               1624       -22        536       
-83         maia1                     1621       20         236546    
-84         maia5                     1608       16         104038    
+83         maia1                     1617       10         236547    
+84         maia5                     1616       28         104039    
 85         HardRok                   1592       -34        764       
 86         arny_bot                  1564       4          45        
 87         sargon-4ply               1538       1          668       
