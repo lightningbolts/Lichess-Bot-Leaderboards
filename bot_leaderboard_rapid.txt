@@ -34,14 +34,14 @@ Rank       Bot                       Rating     Prog       Games
 33         simpleEval                2311       -8         7775      
 34         FlamingDragon_9000        2309       -12        1216      
 35         halcyonbot                2292       10         6844      
-36         FataliiBot                2282       10         2736      
+36         FataliiBot                2284       16         2737      
 37         bekbot                    2280       5          1447      
 38         Nakshatra3                2248       11         921       
 39         eubos                     2199       -16        4327      
 40         matmoi                    2179       0          2016      
 41         HistoryExplorer           2178       -15        1092      
-42         Boris-Trapsky             2160       -13        27809     
-43         honzovy-sachy-2           2160       -4         3677      
+42         honzovy-sachy-2           2160       -4         3677      
+43         Boris-Trapsky             2160       -13        27809     
 44         Elmichess                 2160       4          1420      
 45         Lynx_BOT                  2135       -10        40215     
 46         jangine                   2092       2          1827      
@@ -53,7 +53,7 @@ Rank       Bot                       Rating     Prog       Games
 52         AjedrezChamberi           2036       -33        130       
 53         myopic-bot                2035       -4         507       
 54         Nc3Nc6Bot                 2006       9          2004      
-55         BLANK_BOT                 1999       9          1710      
+55         BLANK_BOT                 1998       10         1711      
 56         LazyBotJr                 1997       60         1290      
 57         Zagreus_Engine            1991       -22        2034      
 58         LeelaRogue                1989       -7         2343      
@@ -90,7 +90,7 @@ Rank       Bot                       Rating     Prog       Games
 89         ArduChessBot              1536       -2         434       
 90         GuineaBot3                1535       -117       18        
 91         sargon-4ply               1533       -12        669       
-92         maia1                     1532       2          236845    
+92         maia1                     1526       0          236850    
 93         sargon-3ply               1523       2          1230      
 94         RoundMoundOfRebounds      1468       -7         382       
 95         turochamp-2ply            1457       -21        1116      
