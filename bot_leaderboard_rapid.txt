@@ -24,7 +24,7 @@ Rank       Bot                       Rating     Prog       Games
 23         catriever                 2524       -3         333       
 24         Pseudo-0                  2444       19         1213      
 25         TuksuBot                  2440       27         2127      
-26         Phalanx-XXV               2420       17         1012      
+26         Phalanx-XXV               2421       20         1013      
 27         LunaChessEngine           2401       12         1192      
 28         OpeningsBot               2397       -34        392       
 29         admete_bot                2396       10         4332      
@@ -47,16 +47,16 @@ Rank       Bot                       Rating     Prog       Games
 46         jangine                   2092       2          1827      
 47         GarboBot                  2088       -7         6185      
 48         likeawizard-bot           2081       -3         1130      
-49         redtail-zero              2066       3          461       
+49         redtail-zero              2071       14         462       
 50         AjedrezChamberi           2036       -33        130       
 51         myopic-bot                2029       -5         508       
-52         Nc3Nc6Bot                 2008       5          2007      
+52         Nc3Nc6Bot                 2007       4          2008      
 53         BLANK_BOT                 1998       10         1711      
 54         LazyBotJr                 1997       60         1290      
 55         Zagreus_Engine            1991       -22        2034      
 56         requinBOT                 1990       -18        204       
 57         LeelaRogue                1989       -7         2343      
-58         zeekat                    1972       -21        8884      
+58         zeekat                    1968       -24        8885      
 59         sun_bird                  1943       -3         81        
 60         Dinora                    1941       -2         41        
 61         baby_eubos                1933       8          1054      
@@ -82,8 +82,8 @@ Rank       Bot                       Rating     Prog       Games
 81         ZE_ROOK                   1636       -4         622       
 82         HardRok                   1587       -26        771       
 83         arny_bot                  1564       4          45        
-84         maia5                     1552       -17        104120    
-85         maia1                     1552       2          236891    
+84         maia1                     1558       11         236892    
+85         maia5                     1552       -17        104120    
 86         DavidsGuterBot            1549       -2         673       
 87         dragobot                  1548       -6         102       
 88         ArduChessBot              1536       -2         434       
@@ -100,6 +100,6 @@ Rank       Bot                       Rating     Prog       Games
 99         chat_bot                  1253       -26        281       
 100        sargon-1ply               1239       -11        8703      
 101        kireevi                   1087       -43        585       
-102        bobandi                   1002       19         760       
+102        bobandi                   1001       19         761       
 103        B4ux1t3s-Bot              712        -9         97        
 104        G0thamB0t                 678        -10        385       
