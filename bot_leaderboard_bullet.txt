@@ -2,7 +2,7 @@ Rank       Bot                       Rating     Prog       Games
 1          YoBot_v2                  2953       0          18571     
 2          ProteusSF-Godot           2946       5          2176      
 3          ProteusSF-Aureo           2943       16         301       
-4          caissa-x                  2931       -16        14546     
+4          caissa-x                  2929       -13        14547     
 5          FireFishBOT_v2            2928       2          1333      
 6          ReinforcementTrial        2926       4          1782      
 7          ToromBot                  2922       2          63557     
@@ -32,7 +32,7 @@ Rank       Bot                       Rating     Prog       Games
 31         LunaChessEngine           2362       10         1353      
 32         Weiawaga                  2360       -1         16197     
 33         TuksuBot                  2357       -5         7120      
-34         admete_bot                2347       -2         6496      
+34         admete_bot                2346       -2         6501      
 35         odonata-bot               2342       14         6530      
 36         fornax-engine             2340       -5         7114      
 37         simpleEval                2340       23         25415     
@@ -45,7 +45,7 @@ Rank       Bot                       Rating     Prog       Games
 44         honzovy-sachy-2           2189       3          7413      
 45         Lynx_BOT                  2174       13         7309      
 46         Humaia-Strong             2165       68         1319      
-47         matmoi                    2129       15         2969      
+47         matmoi                    2129       16         2970      
 48         eubos                     2105       -3         13463     
 49         jangine                   2102       13         3371      
 50         redtail-zero              2077       12         840       
@@ -89,12 +89,12 @@ Rank       Bot                       Rating     Prog       Games
 88         turochamp-2ply            1571       -15        1688      
 89         sargon-4ply               1561       12         1865      
 90         RoundMoundOfRebounds      1550       -11        1557      
-91         maia1                     1547       0          126016    
+91         maia1                     1547       -1         126017    
 92         sargon-3ply               1545       5          1509      
 93         DavidsGuterBot            1544       21         6449      
 94         monchester                1542       5          2648      
-95         StupidChessRobot          1450       6          953       
-96         yeoldwiz                  1450       18         791       
+95         yeoldwiz                  1450       18         791       
+96         StupidChessRobot          1450       6          953       
 97         sargon-1ply               1424       29         4812      
 98         turochamp-1ply            1420       -21        2215      
 99         botTideEval               1405       -10        2896      
