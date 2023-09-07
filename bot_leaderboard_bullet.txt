@@ -10,7 +10,7 @@ Rank       Bot                       Rating     Prog       Games
 9          TheMatrix2025             2909       2          7057      
 10         ResoluteBot               2900       7          27112     
 11         Nikitosik-ai              2891       20         3427      
-12         RaspFish                  2833       -4         53809     
+12         RaspFish                  2829       -9         53810     
 13         blundar_bot               2815       9          9590      
 14         Palisade                  2760       23         435       
 15         LazyBot                   2686       -20        1429      
@@ -51,9 +51,9 @@ Rank       Bot                       Rating     Prog       Games
 50         requinBOT                 2061       0          315       
 51         likeawizard-bot           2047       -9         1998      
 52         Trollfish-Bot             2039       -21        5119      
-53         myopic-bot                2016       -2         2232      
-54         sun_bird                  2009       -12        1074      
-55         MaxtheDog                 2006       17         15518     
+53         MaxtheDog                 2012       17         15519     
+54         myopic-bot                2010       -14        2233      
+55         sun_bird                  2009       -12        1074      
 56         GarboBot                  2005       -29        9911      
 57         LazyBotJr                 1987       -28        958       
 58         Nc3Nc6Bot                 1978       8          1394      
@@ -68,11 +68,11 @@ Rank       Bot                       Rating     Prog       Games
 67         Dinora                    1764       -6         143       
 68         Demolito_L5               1754       -18        1183      
 69         Virutor                   1747       -14        6950      
-70         ShallowRedBot             1742       -4         263       
-71         simplexitor               1742       -24        2391      
+70         simplexitor               1742       -24        2391      
+71         ShallowRedBot             1742       -4         263       
 72         Humaia                    1741       25         422       
-73         piglet_engine             1737       8          827       
-74         The_Marcus                1736       -4         1737      
+73         The_Marcus                1736       -4         1737      
+74         piglet_engine             1734       4          828       
 75         ArduChessBot              1706       -1         5575      
 76         dlvc-bot                  1677       -12        186       
 77         maia9                     1674       23         61557     
@@ -82,7 +82,7 @@ Rank       Bot                       Rating     Prog       Games
 81         ZE_ROOK                   1630       -23        2192      
 82         maia5                     1623       22         39858     
 83         sudobot_chess             1590       -295       227       
-84         turochamp-2ply            1575       -18        1683      
+84         turochamp-2ply            1578       -18        1684      
 85         sargon-4ply               1561       5          1863      
 86         Flawed_Formula            1548       3          398       
 87         monchester                1545       9          2643      
