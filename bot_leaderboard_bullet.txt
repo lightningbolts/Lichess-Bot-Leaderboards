@@ -28,8 +28,8 @@ Rank       Bot                       Rating     Prog       Games
 27         ELO_1500                  2390       -6         3286      
 28         bot_adario                2389       1          2777      
 29         Phalanx-XXV               2377       15         4494      
-30         LunaChessEngine           2365       12         1351      
-31         admete_bot                2365       5          6319      
+30         admete_bot                2365       5          6319      
+31         LunaChessEngine           2365       12         1351      
 32         Weiawaga                  2358       -12        16194     
 33         OpeningsBot               2356       5          1202      
 34         TuksuBot                  2355       -13        7117      
@@ -38,9 +38,9 @@ Rank       Bot                       Rating     Prog       Games
 37         fornax-engine             2339       -8         7111      
 38         Pseudo-0                  2337       -1         4077      
 39         Nakshatra3                2279       -3         1695      
-40         bekbot                    2266       13         1646      
-41         halcyonbot                2248       21         5990      
-42         HistoryExplorer           2246       6          2655      
+40         bekbot                    2272       20         1647      
+41         HistoryExplorer           2246       6          2655      
+42         halcyonbot                2242       11         5991      
 43         FataliiBot                2238       20         6005      
 44         honzovy-sachy-2           2184       6          7408      
 45         Humaia-Strong             2165       68         1319      
@@ -52,7 +52,7 @@ Rank       Bot                       Rating     Prog       Games
 51         redtail-zero              2060       14         833       
 52         Trollfish-Bot             2057       -1         5115      
 53         likeawizard-bot           2040       -15        1994      
-54         sun_bird                  2020       3          1069      
+54         sun_bird                  2023       8          1070      
 55         myopic-bot                2016       -2         2232      
 56         MaxtheDog                 2010       18         15515     
 57         GarboBot                  1992       -34        9909      
@@ -65,7 +65,7 @@ Rank       Bot                       Rating     Prog       Games
 64         notropis                  1827       11         4203      
 65         QueensGamBOT              1772       -6         5307      
 66         honzovy-sachy             1768       2          5156      
-67         Dinora                    1766       1          142       
+67         Dinora                    1764       -6         143       
 68         baby_eubos                1763       8          6096      
 69         Demolito_L5               1754       -18        1183      
 70         Virutor                   1747       -14        6950      
@@ -74,7 +74,7 @@ Rank       Bot                       Rating     Prog       Games
 73         ShallowRedBot             1739       -9         262       
 74         piglet_engine             1737       8          827       
 75         The_Marcus                1736       -4         1737      
-76         ArduChessBot              1715       8          5572      
+76         ArduChessBot              1707       -1         5573      
 77         dlvc-bot                  1677       -12        186       
 78         maia9                     1674       23         61557     
 79         rudim-bot                 1670       10         158       
@@ -86,9 +86,9 @@ Rank       Bot                       Rating     Prog       Games
 85         turochamp-2ply            1578       -22        1682      
 86         sargon-4ply               1561       5          1863      
 87         Flawed_Formula            1548       3          398       
-88         sargon-3ply               1545       11         1507      
-89         maia1                     1542       -10        125996    
-90         monchester                1536       -3         2642      
+88         monchester                1545       9          2643      
+89         sargon-3ply               1545       11         1507      
+90         maia1                     1542       -10        125996    
 91         yeoldwiz                  1450       18         791       
 92         StupidChessRobot          1440       22         946       
 93         turochamp-1ply            1428       -7         2201      
