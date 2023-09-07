@@ -7,14 +7,14 @@ Rank       Bot                       Rating     Prog       Games
 6          ReinforcementTrial        2922       11         1776      
 7          ToromBot                  2920       3          63547     
 8          ZugzwangBot               2919       2          92        
-9          Mate-AI                   2909       -4         12870     
-10         TheMatrix2025             2909       2          7059      
+9          TheMatrix2025             2909       2          7059      
+10         Mate-AI                   2909       -4         12870     
 11         ResoluteBot               2900       7          27113     
 12         Nikitosik-ai              2892       15         3430      
 13         RaspFish                  2831       -9         53812     
 14         blundar_bot               2820       12         9592      
 15         LazyBot                   2686       -20        1429      
-16         expositor                 2622       41         20484     
+16         expositor                 2619       34         20485     
 17         FrozenightEngine          2544       -8         9244      
 18         Cheng-4                   2540       0          14110     
 19         FlamingDragon_9000        2524       -5         10619     
@@ -22,7 +22,7 @@ Rank       Bot                       Rating     Prog       Games
 21         AKS-Mantissa              2474       8          11365     
 22         Elmichess                 2458       -35        3224      
 23         bfiedler-bot              2436       -60        82        
-24         catriever                 2424       5          1919      
+24         catriever                 2428       10         1920      
 25         pawn_git                  2424       -4         4534      
 26         bot_adario                2392       -1         2778      
 27         ELO_1500                  2390       -6         3287      
@@ -38,7 +38,7 @@ Rank       Bot                       Rating     Prog       Games
 37         simpleEval                2340       23         25415     
 38         Pseudo-0                  2337       -1         4077      
 39         Nakshatra3                2279       -3         1695      
-40         bekbot                    2267       19         1650      
+40         bekbot                    2264       14         1651      
 41         halcyonbot                2247       8          5995      
 42         HistoryExplorer           2242       5          2656      
 43         FataliiBot                2231       10         6006      
@@ -75,7 +75,7 @@ Rank       Bot                       Rating     Prog       Games
 74         Humaia                    1741       25         422       
 75         The_Marcus                1739       -12        1741      
 76         piglet_engine             1726       -12        831       
-77         dtsudo                    1723       -6         95        
+77         dtsudo                    1719       -4         96        
 78         ArduChessBot              1701       -15        5577      
 79         dlvc-bot                  1677       -12        186       
 80         maia9                     1675       13         61558     
