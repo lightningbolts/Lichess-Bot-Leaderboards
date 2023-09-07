@@ -53,8 +53,8 @@ Rank       Bot                       Rating     Prog       Games
 52         Humaia-Strong             2047       -7         612       
 53         AjedrezChamberi           2036       -33        130       
 54         myopic-bot                2032       -2         506       
-55         requinBOT                 2000       -19        200       
-56         Nc3Nc6Bot                 2000       5          2003      
+55         Nc3Nc6Bot                 2000       5          2003      
+56         requinBOT                 2000       -19        200       
 57         BLANK_BOT                 1999       9          1710      
 58         Zagreus_Engine            1998       -20        2032      
 59         LazyBotJr                 1997       60         1290      
@@ -83,11 +83,11 @@ Rank       Bot                       Rating     Prog       Games
 82         yeoldwiz                  1645       -4         703       
 83         simplexitor               1641       -4         539       
 84         ZE_ROOK                   1629       -12        621       
-85         maia5                     1583       12         104105    
+85         maia5                     1579       5          104106    
 86         arny_bot                  1564       4          45        
 87         DavidsGuterBot            1549       -2         673       
 88         dragobot                  1548       -6         102       
-89         maia1                     1543       -16        236812    
+89         maia1                     1543       -11        236814    
 90         ArduChessBot              1536       -2         434       
 91         GuineaBot3                1535       -117       18        
 92         sargon-4ply               1533       -12        669       
@@ -104,3 +104,4 @@ Rank       Bot                       Rating     Prog       Games
 103        kireevi                   1087       -43        585       
 104        bobandi                   1003       20         759       
 105        B4ux1t3s-Bot              712        -9         97        
+106        G0thamB0t                 678        -10        385       
