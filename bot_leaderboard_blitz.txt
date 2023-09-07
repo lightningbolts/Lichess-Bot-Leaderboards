@@ -3,7 +3,7 @@ Rank       Bot                       Rating     Prog       Games
 2          ProteusSF-Aureo           2907       -1         92        
 3          ReinforcementTrial        2906       -3         2765      
 4          FireFishBOT_v2            2902       -1         6436      
-5          ToromBot                  2899       0          4341      
+5          ToromBot                  2899       0          4342      
 6          ProteusSF-Godot           2897       0          1273      
 7          ResoluteBot               2885       -8         12029     
 8          YoBot_v2                  2882       1          3997      
@@ -32,7 +32,7 @@ Rank       Bot                       Rating     Prog       Games
 31         LunaChessEngine           2395       22         1889      
 32         Pseudo-0                  2384       2          3106      
 33         fornax-engine             2341       -4         6677      
-34         simpleEval                2337       5          15332     
+34         simpleEval                2341       9          15333     
 35         FlamingDragon_9000        2323       19         3331      
 36         bekbot                    2295       0          1596      
 37         Nakshatra3                2247       -13        1762      
@@ -41,11 +41,11 @@ Rank       Bot                       Rating     Prog       Games
 40         HistoryExplorer           2215       -4         2850      
 41         honzovy-sachy-2           2177       21         7132      
 42         eubos                     2125       7          15130     
-43         matmoi                    2108       -10        2308      
-44         jangine                   2093       0          3629      
+43         matmoi                    2114       2          2309      
+44         jangine                   2087       -3         3630      
 45         Lynx_BOT                  2074       1          50884     
-46         GarboBot                  2065       18         9663      
-47         Boris-Trapsky             2061       -1         29184     
+46         Boris-Trapsky             2061       -1         29184     
+47         GarboBot                  2058       5          9664      
 48         KelpBot                   2055       -60        22        
 49         likeawizard-bot           2043       3          4295      
 50         MaxtheDog                 2035       -17        4971      
@@ -54,7 +54,7 @@ Rank       Bot                       Rating     Prog       Games
 53         Humaia-Strong             2006       23         2371      
 54         Elmichess                 2006       -3         3710      
 55         LeelaRogue                1992       8          2403      
-56         sun_bird                  1968       1          1144      
+56         sun_bird                  1975       6          1145      
 57         Nc3Nc6Bot                 1967       16         1750      
 58         requinBOT                 1957       24         180       
 59         LazyBotJr                 1954       -8         1961      
@@ -101,6 +101,6 @@ Rank       Bot                       Rating     Prog       Games
 100        turochamp-1ply            1250       -2         1873      
 101        schnecken_bot             1218       -24        2198      
 102        dragobot                  1217       -29        182       
-103        knucklefish               1074       3          3318      
+103        knucklefish               1067       -21        3320      
 104        bobandi                   954        -4         1285      
 105        B4ux1t3s-Bot              923        -14        133       
