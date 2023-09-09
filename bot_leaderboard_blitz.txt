@@ -1,5 +1,5 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ToromBot                  2932       2          4583      
+1          ToromBot                  2932       1          4584      
 2          Mate-AI                   2928       8          3518      
 3          FireFishBOT_v2            2921       7          6834      
 4          ReinforcementTrial        2911       0          2904      
@@ -28,7 +28,7 @@ Rank       Bot                       Rating     Prog       Games
 27         Weiawaga                  2486       -11        12143     
 28         TuksuBot                  2452       10         4206      
 29         Phalanx-XXV               2441       -1         2835      
-30         catriever                 2425       -4         1014      
+30         catriever                 2424       -7         1015      
 31         Pseudo-0                  2416       11         3130      
 32         OpeningsBot               2408       -1         1296      
 33         admete_bot                2393       -10        6561      
@@ -46,9 +46,9 @@ Rank       Bot                       Rating     Prog       Games
 45         eubos                     2108       17         15202     
 46         camel_bot                 2094       -1         1001      
 47         KelpBot                   2055       -60        22        
-48         likeawizard-bot           2045       13         4451      
+48         likeawizard-bot           2045       11         4452      
 49         jangine                   2045       -11        3683      
-50         MaxtheDog                 2034       -17        5025      
+50         MaxtheDog                 2034       -21        5026      
 51         myopic-bot                2030       -12        2395      
 52         redtail-zero              2022       14         598       
 53         Elmichess                 2018       11         3713      
@@ -66,7 +66,7 @@ Rank       Bot                       Rating     Prog       Games
 65         Demolito_L6               1851       6          1430      
 66         NatesBot                  1833       4          1293      
 67         baby_eubos                1799       -9         8550      
-68         notropis                  1790       -23        7026      
+68         notropis                  1794       -20        7027      
 69         Dinora                    1746       -1         226       
 70         LittleGreenManBot         1745       -11        4644      
 71         ShallowRedBot             1737       -11        387       
@@ -76,7 +76,7 @@ Rank       Bot                       Rating     Prog       Games
 75         SimpleChessEngine         1682       -3         36        
 76         dlvc-bot                  1676       -3         1264      
 77         AshNostromo               1673       -14        1040      
-78         Demolito_L5               1673       -15        2201      
+78         Demolito_L5               1669       -21        2202      
 79         ChessChildren             1659       -15        21726     
 80         ArduChessBot              1658       5          1372      
 81         piglet_engine             1654       -26        221       
@@ -90,13 +90,13 @@ Rank       Bot                       Rating     Prog       Games
 89         DavidsGuterBot            1456       -8         3762      
 90         sargon-3ply               1444       -16        2030      
 91         maia1                     1431       23         212121    
-92         RookieRobot               1421       10         121       
+92         RookieRobot               1422       3          123       
 93         turochamp-2ply            1395       -5         1764      
 94         GuineaBot3                1383       -36        156       
 95         monchester                1359       0          2809      
 96         StupidChessRobot          1343       -1         2131      
 97         sargon-1ply               1341       29         8349      
-98         sargon-2ply               1285       30         3232      
+98         sargon-2ply               1283       25         3234      
 99         pawnrobot                 1270       -2         2228      
 100        turochamp-1ply            1235       -16        1887      
 101        chat_bot                  1223       -50        330       
