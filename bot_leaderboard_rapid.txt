@@ -15,7 +15,7 @@ Rank       Bot                       Rating     Prog       Games
 14         blundar_bot               2814       14         1225      
 15         Palisade                  2799       65         214       
 16         MrChessTheBot             2749       -42        2230      
-17         FrozenightEngine          2695       13         5205      
+17         FrozenightEngine          2700       20         5206      
 18         ELO_1500                  2679       -17        3291      
 19         AKS-Mantissa              2630       10         4215      
 20         pawn_git                  2607       4          1371      
@@ -24,7 +24,7 @@ Rank       Bot                       Rating     Prog       Games
 23         catriever                 2552       27         351       
 24         Cheng-4                   2540       20         3278      
 25         Weiawaga                  2522       -25        10234     
-26         Phalanx-XXV               2460       47         1020      
+26         Phalanx-XXV               2463       50         1021      
 27         TuksuBot                  2455       28         2133      
 28         Pseudo-0                  2450       2          1227      
 29         OpeningsBot               2419       12         399       
@@ -34,7 +34,7 @@ Rank       Bot                       Rating     Prog       Games
 33         DQN-chess                 2337       16         984       
 34         FlamingDragon_9000        2309       -12        1216      
 35         FataliiBot                2275       -7         2761      
-36         halcyonbot                2263       -22        6897      
+36         halcyonbot                2261       -21        6898      
 37         Nakshatra3                2232       -6         940       
 38         eubos                     2202       -8         4333      
 39         onionbot                  2185       35         63        
@@ -55,14 +55,14 @@ Rank       Bot                       Rating     Prog       Games
 54         Nc3Nc6Bot                 1998       -2         2014      
 55         LazyBotJr                 1993       42         1292      
 56         LeelaRogue                1989       -7         2343      
-57         zeekat                    1949       -13        8920      
+57         zeekat                    1953       -5         8921      
 58         sun_bird                  1936       -12        84        
 59         baby_eubos                1935       8          1060      
 60         KelpBot                   1928       21         17        
 61         Dinora                    1905       -16        50        
 62         NatesBot                  1895       15         657       
-63         Demolito_L6               1876       -2         997       
-64         LittleGreenManBot         1872       -7         3857      
+63         LittleGreenManBot         1872       -7         3857      
+64         Demolito_L6               1872       -4         998       
 65         notropis                  1865       -3         2571      
 66         Trollfish-Bot             1830       9          338       
 67         honzovy-sachy             1804       -8         1064      
@@ -75,7 +75,7 @@ Rank       Bot                       Rating     Prog       Games
 74         Demolito_L5               1716       -23        1633      
 75         AshNostromo               1704       -2         1278      
 76         Jibbby                    1690       12         1887      
-77         maia9                     1686       -7         87467     
+77         maia9                     1686       -2         87468     
 78         yeoldwiz                  1660       15         708       
 79         SimpleChessEngine         1655       80         22        
 80         maia5                     1623       -21        104311    
@@ -91,7 +91,7 @@ Rank       Bot                       Rating     Prog       Games
 90         turochamp-1ply            1412       3          1666      
 91         sargon-2ply               1308       -14        3451      
 92         pawnrobot                 1303       23         758       
-93         sargon-1ply               1299       31         8736      
+93         sargon-1ply               1295       23         8737      
 94         schnecken_bot             1267       8          354       
 95         chat_bot                  1249       -25        283       
 96         kireevi                   1087       -43        585       
