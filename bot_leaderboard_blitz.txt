@@ -2,7 +2,7 @@ Rank       Bot                       Rating     Prog       Games
 1          ToromBot                  2930       -1         4570      
 2          Mate-AI                   2924       9          3511      
 3          FireFishBOT_v2            2914       2          6801      
-4          ReinforcementTrial        2912       0          2890      
+4          ReinforcementTrial        2911       -2         2891      
 5          EmptikBot                 2910       5          546       
 6          ProteusSF-Aureo           2907       -1         92        
 7          TheFreshman1902           2907       3          156       
@@ -12,7 +12,7 @@ Rank       Bot                       Rating     Prog       Games
 11         caissa-x                  2897       -3         3429      
 12         ProteusSF-Godot           2897       0          1273      
 13         LeelaMultiPoss            2877       7          604       
-14         Nikitosik-ai              2833       -7         980       
+14         Nikitosik-ai              2834       -7         981       
 15         RaspFish                  2825       10         12393     
 16         blundar_bot               2795       -1         1429      
 17         Palisade                  2711       24         328       
@@ -60,16 +60,16 @@ Rank       Bot                       Rating     Prog       Games
 59         Nc3Nc6Bot                 1972       17         1769      
 60         YourSparringBot           1958       -25        955       
 61         BLANK_BOT                 1957       22         5116      
-62         sun_bird                  1950       2          1291      
+62         sun_bird                  1953       2          1292      
 63         Zagreus_Engine            1948       4          4582      
 64         LazyBotJr                 1941       -17        1969      
 65         zeekat                    1917       21         22057     
-66         Trollfish-Bot             1861       -5         2473      
-67         zulu_bot                  1861       -3         992       
+66         zulu_bot                  1861       -3         992       
+67         Trollfish-Bot             1861       -5         2473      
 68         Demolito_L6               1849       6          1426      
 69         NatesBot                  1833       9          1284      
 70         baby_eubos                1799       -9         8550      
-71         notropis                  1790       -39        7023      
+71         notropis                  1787       -37        7024      
 72         LittleGreenManBot         1749       -4         4643      
 73         Dinora                    1749       0          224       
 74         ShallowRedBot             1744       -6         384       
@@ -84,7 +84,7 @@ Rank       Bot                       Rating     Prog       Games
 83         ChessChildren             1659       -15        21726     
 84         piglet_engine             1654       -26        221       
 85         dtsudo                    1650       -8         184       
-86         maia9                     1629       -8         104454    
+86         maia9                     1625       -12        104455    
 87         yeoldwiz                  1569       16         1919      
 88         maia5                     1543       13         104180    
 89         sudobot_chess             1539       -74        402       
