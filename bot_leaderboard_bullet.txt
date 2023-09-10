@@ -16,7 +16,7 @@ Rank       Bot                       Rating     Prog       Games
 15         Palisade                  2760       23         435       
 16         LordNTR                   2758       27         261       
 17         LazyBot                   2686       -20        1429      
-18         expositor                 2672       14         20711     
+18         expositor                 2668       8          20712     
 19         Cheng-4                   2637       10         14215     
 20         SF-NNUE                   2636       -42        59        
 21         FrozenightEngine          2606       2          9323      
@@ -36,7 +36,7 @@ Rank       Bot                       Rating     Prog       Games
 35         clueless-bot              2387       19         7665      
 36         AjedrezChamberi           2382       30         541       
 37         Phalanx-XXV               2377       -1         4567      
-38         TuksuBot                  2373       -1         7253      
+38         TuksuBot                  2376       -1         7254      
 39         admete_bot                2357       21         7131      
 40         fornax-engine             2355       10         7177      
 41         onionbot                  2352       6          550       
@@ -83,10 +83,10 @@ Rank       Bot                       Rating     Prog       Games
 82         SimpleChessEngine         1683       59         47        
 83         dlvc-bot                  1677       -12        186       
 84         ArduChessBot              1667       -23        5669      
-85         turkjs                    1652       -9         19420     
+85         turkjs                    1650       -14        19421     
 86         rudim-bot                 1644       -29        160       
-87         ChessChildren             1639       -15        15608     
-88         maia5                     1637       17         39921     
+87         maia5                     1643       27         39922     
+88         ChessChildren             1639       -15        15608     
 89         ZE_ROOK                   1634       4          2203      
 90         sudobot_chess             1590       -295       227       
 91         sargon-3ply               1585       12         1533      
@@ -98,7 +98,7 @@ Rank       Bot                       Rating     Prog       Games
 97         RookieRobot               1511       77         44        
 98         turochamp-1ply            1454       11         2251      
 99         yeoldwiz                  1450       18         791       
-100        maia1                     1439       34         126199    
+100        maia1                     1439       40         126201    
 101        sargon-1ply               1426       16         4876      
 102        StupidChessRobot          1408       -1         998       
 103        botTideEval               1402       5          3087      
