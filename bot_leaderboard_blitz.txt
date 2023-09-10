@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
-1          FireFishBOT_v2            2920       4          6859      
-2          ReinforcementTrial        2914       4          2920      
-3          YoBot_v2                  2909       5          4093      
+1          FireFishBOT_v2            2920       5          6860      
+2          ReinforcementTrial        2914       4          2921      
+3          YoBot_v2                  2909       4          4094      
 4          TheMatrix2025             2908       2          596       
 5          ResoluteBot               2906       0          12183     
 6          caissa-x                  2901       4          3452      
@@ -23,7 +23,7 @@ Rank       Bot                       Rating     Prog       Games
 22         Pseudo-0                  2427       19         3138      
 23         OpeningsBot               2426       18         1307      
 24         Phalanx-XXV               2425       -11        2847      
-25         catriever                 2420       -11        1020      
+25         catriever                 2416       -12        1021      
 26         admete_bot                2390       -12        6564      
 27         AjedrezChamberi           2376       10         276       
 28         fornax-engine             2350       4          6701      
@@ -44,8 +44,8 @@ Rank       Bot                       Rating     Prog       Games
 43         myopic-bot                2048       15         2408      
 44         MaxtheDog                 2017       -12        5038      
 45         Elmichess                 2015       3          3717      
-46         Humaia-Strong             2011       25         2372      
-47         redtail-zero              2011       8          600       
+46         redtail-zero              2011       8          600       
+47         Humaia-Strong             2011       25         2372      
 48         GarboBot                  2004       -19        9734      
 49         aleph_engine              1993       -44        42        
 50         LeelaRogue                1992       8          2403      
@@ -88,7 +88,7 @@ Rank       Bot                       Rating     Prog       Games
 87         RookieRobot               1441       15         138       
 88         turochamp-2ply            1389       -5         1766      
 89         Flawed_Formula            1387       -45        231       
-90         GuineaBot3                1383       -36        156       
+90         GuineaBot3                1373       -42        157       
 91         monchester                1361       8          2811      
 92         StupidChessRobot          1339       -5         2143      
 93         sargon-1ply               1335       0          8355      
@@ -98,6 +98,6 @@ Rank       Bot                       Rating     Prog       Games
 97         chat_bot                  1223       -50        330       
 98         dragobot                  1212       2          190       
 99         schnecken_bot             1189       1          2218      
-100        IBBXEFBOT                 1088       -17        238       
+100        IBBXEFBOT                 1098       -4         239       
 101        knucklefish               1075       21         3336      
 102        B4ux1t3s-Bot              904        -15        154       
