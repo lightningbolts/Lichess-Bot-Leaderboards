@@ -12,10 +12,10 @@ Rank       Bot                       Rating     Prog       Games
 11         MrChessTheBot             2454       -59        308       
 12         ELO_1500                  2446       17         438       
 13         expositor                 2386       7          1196      
-14         AKS-Mantissa              2373       4          1081      
-15         FrozenightEngine          2362       1          4429      
+14         AKS-Mantissa              2373       6          1082      
+15         FrozenightEngine          2362       1          4430      
 16         LazyBot                   2356       27         203       
-17         catriever                 2343       7          304       
+17         catriever                 2345       7          305       
 18         pawn_git                  2313       -3         292       
 19         Cheng-4                   2286       12         1591      
 20         Weiawaga                  2255       15         5811      
@@ -24,7 +24,7 @@ Rank       Bot                       Rating     Prog       Games
 23         TuksuBot                  2137       0          1023      
 24         Phalanx-XXV               2111       19         392       
 25         Nakshatra3                2045       119        178       
-26         simpleEval                2030       2          1868      
+26         simpleEval                2027       -6         1869      
 27         FataliiBot                2009       18         21        
 28         honzovy-sachy-2           1995       2          729       
 29         Humaia-Strong             1990       17         233       
@@ -60,7 +60,7 @@ Rank       Bot                       Rating     Prog       Games
 59         sargon-3ply               1573       -11        768       
 60         Trollfish-Bot             1542       45         57        
 61         StupidChessRobot          1521       75         27        
-62         maia1                     1511       7          67268     
+62         maia1                     1507       0          67270     
 63         chat_bot                  1499       -45        59        
 64         sargon-2ply               1388       -14        1245      
 65         turochamp-1ply            1362       -52        819       
