@@ -6,11 +6,11 @@ Rank       Bot                       Rating     Prog       Games
 5          ReinforcementTrial        2901       0          5528      
 6          ProteusSF-Godot           2897       2          198       
 7          ResoluteBot               2896       11         5513      
-8          LeelaMultiPoss            2869       8          364       
+8          LeelaMultiPoss            2872       17         365       
 9          Nikitosik-ai              2867       -6         949       
 10         TheMatrix2025             2858       -17        354       
-11         RaspFish                  2854       3          6000      
-12         Mate-AI                   2853       4          2570      
+11         Mate-AI                   2853       4          2570      
+12         RaspFish                  2853       1          6001      
 13         blundar_bot               2817       17         1230      
 14         Palisade                  2799       65         214       
 15         ELO_1500                  2702       24         3307      
@@ -83,7 +83,7 @@ Rank       Bot                       Rating     Prog       Games
 82         sargon-4ply               1526       -22        671       
 83         ArduChessBot              1525       -20        435       
 84         sargon-3ply               1524       13         1234      
-85         maia1                     1517       7          237494    
+85         maia1                     1502       -12        237497    
 86         GuineaBot3                1501       -151       20        
 87         turochamp-2ply            1499       4          1154      
 88         StupidChessRobot          1413       -11        75        
