@@ -11,7 +11,7 @@ Rank       Bot                       Rating     Prog       Games
 10         Palisade                  2760       23         435       
 11         LazyBot                   2686       -20        1429      
 12         Cheng-4                   2640       10         14214     
-13         expositor                 2636       14         20643     
+13         expositor                 2639       18         20644     
 14         FrozenightEngine          2607       -14        9313      
 15         FlamingDragon_9000        2524       -5         10619     
 16         AKS-Mantissa              2511       1          11426     
@@ -20,8 +20,8 @@ Rank       Bot                       Rating     Prog       Games
 19         Elmichess                 2459       -35        3225      
 20         catriever                 2458       -22        2011      
 21         bfiedler-bot              2436       -60        82        
-22         MrChessTheBot             2426       -37        5905      
-23         bot_adario                2425       21         2805      
+22         bot_adario                2425       21         2805      
+23         MrChessTheBot             2422       -39        5906      
 24         ELO_1500                  2412       20         3294      
 25         OpeningsBot               2400       14         1282      
 26         Weiawaga                  2390       -6         16439     
@@ -30,7 +30,7 @@ Rank       Bot                       Rating     Prog       Games
 29         Phalanx-XXV               2373       -11        4563      
 30         Pseudo-0                  2348       7          4120      
 31         fornax-engine             2343       -8         7168      
-32         admete_bot                2341       -2         7053      
+32         admete_bot                2340       -2         7059      
 33         simpleEval                2325       5          25540     
 34         onionbot                  2323       -7         529       
 35         Nakshatra3                2311       18         1726      
@@ -55,7 +55,7 @@ Rank       Bot                       Rating     Prog       Games
 54         Nc3Nc6Bot                 1978       0          1405      
 55         BLANK_BOT                 1973       14         7846      
 56         Trollfish-Bot             1971       -3         5316      
-57         zeekat                    1958       11         19731     
+57         zeekat                    1955       2          19732     
 58         Demolito_L6               1886       -20        901       
 59         NatesBot                  1856       5          440       
 60         honzovy-sachy             1788       16         5187      
@@ -63,8 +63,8 @@ Rank       Bot                       Rating     Prog       Games
 62         QueensGamBOT              1776       0          5324      
 63         baby_eubos                1768       -7         6139      
 64         notropis                  1758       -29        4254      
-65         ShallowRedBot             1745       7          303       
-66         simplexitor               1744       -9         2408      
+65         simplexitor               1747       -4         2409      
+66         ShallowRedBot             1745       7          303       
 67         piglet_engine             1744       -3         874       
 68         Demolito_L5               1741       12         1231      
 69         Virutor                   1713       -1         6987      
@@ -96,4 +96,4 @@ Rank       Bot                       Rating     Prog       Games
 95         pawnrobot                 1261       2          4019      
 96         schnecken_bot             1251       -17        1164      
 97         knucklefish               1244       5          2914      
-98         B4ux1t3s-Bot              1146       -15        116       
+98         B4ux1t3s-Bot              1140       -21        117       
