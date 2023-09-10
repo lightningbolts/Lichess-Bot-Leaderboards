@@ -1,13 +1,13 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ToromBot                  2930       2          4605      
-2          FireFishBOT_v2            2918       4          6850      
+2          FireFishBOT_v2            2917       3          6851      
 3          TheMatrix2025             2911       5          594       
-4          ReinforcementTrial        2910       0          2914      
+4          ReinforcementTrial        2910       -1         2915      
 5          YoBot_v2                  2910       5          4090      
-6          ResoluteBot               2904       -1         12178     
+6          ResoluteBot               2905       -1         12179     
 7          caissa-x                  2900       0          3449      
 8          LeelaMultiPoss            2879       8          605       
-9          RaspFish                  2842       5          12431     
+9          RaspFish                  2843       5          12432     
 10         Nikitosik-ai              2829       2          1000      
 11         blundar_bot               2803       0          1438      
 12         Palisade                  2711       24         328       
@@ -17,8 +17,8 @@ Rank       Bot                       Rating     Prog       Games
 16         ELO_1500                  2628       7          13271     
 17         MrChessTheBot             2598       -42        1996      
 18         AKS-Mantissa              2597       19         10426     
-19         bot_adario                2516       8          2542      
-20         pawn_git                  2516       6          2715      
+19         pawn_git                  2516       6          2715      
+20         bot_adario                2516       8          2542      
 21         Cheng-4                   2511       -4         6794      
 22         Weiawaga                  2506       9          12148     
 23         TuksuBot                  2461       12         4210      
@@ -27,7 +27,7 @@ Rank       Bot                       Rating     Prog       Games
 26         Pseudo-0                  2421       11         3134      
 27         catriever                 2420       -10        1019      
 28         admete_bot                2394       -10        6563      
-29         fornax-engine             2347       13         6698      
+29         fornax-engine             2346       9          6699      
 30         simpleEval                2326       -4         15397     
 31         FlamingDragon_9000        2323       19         3331      
 32         onionbot                  2282       11         672       
@@ -63,8 +63,8 @@ Rank       Bot                       Rating     Prog       Games
 62         Demolito_L6               1832       -24        1438      
 63         notropis                  1814       24         7034      
 64         baby_eubos                1799       -9         8550      
-65         Dinora                    1744       -9         230       
-66         ShallowRedBot             1739       -6         394       
+65         ShallowRedBot             1746       2          395       
+66         Dinora                    1744       -9         230       
 67         LittleGreenManBot         1726       -30        4648      
 68         Virutor                   1704       3          7690      
 69         Jibbby                    1703       -6         5669      
@@ -83,7 +83,7 @@ Rank       Bot                       Rating     Prog       Games
 82         maia5                     1564       19         104245    
 83         sudobot_chess             1539       -74        402       
 84         sargon-4ply               1480       -4         2142      
-85         maia1                     1455       1          212172    
+85         maia1                     1464       13         212175    
 86         DavidsGuterBot            1454       -6         3764      
 87         sargon-3ply               1453       1          2032      
 88         RookieRobot               1441       15         138       
