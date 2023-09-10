@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ToromBot                  2932       -3         4611      
-2          FireFishBOT_v2            2932       2          6895      
+2          FireFishBOT_v2            2931       1          6896      
 3          ReinforcementTrial        2915       1          2933      
 4          M-Z_Bot                   2914       -2         639       
 5          YoBot_v2                  2912       3          4102      
@@ -9,7 +9,7 @@ Rank       Bot                       Rating     Prog       Games
 8          ResoluteBot               2906       1          12190     
 9          ProteusSF-Godot           2897       0          1273      
 10         LeelaMultiPoss            2879       8          605       
-11         RaspFish                  2841       2          12446     
+11         RaspFish                  2842       2          12447     
 12         Nikitosik-ai              2839       7          1016      
 13         blundar_bot               2793       -10        1449      
 14         Palisade                  2711       24         328       
@@ -67,12 +67,12 @@ Rank       Bot                       Rating     Prog       Games
 66         notropis                  1792       -16        7042      
 67         Dinora                    1747       -4         234       
 68         LittleGreenManBot         1715       -38        4652      
-69         Jibbby                    1712       -3         5674      
+69         Jibbby                    1712       -4         5675      
 70         Virutor                   1705       6          7696      
 71         Demolito_L5               1687       8          2222      
 72         SimpleChessEngine         1683       22         38        
-73         AshNostromo               1682       1          1042      
-74         honzovy-sachy             1682       -22        5327      
+73         honzovy-sachy             1682       -22        5327      
+74         AshNostromo               1682       1          1042      
 75         dlvc-bot                  1676       -3         1264      
 76         QueensGamBOT              1664       5          3213      
 77         piglet_engine             1651       -29        222       
@@ -81,7 +81,7 @@ Rank       Bot                       Rating     Prog       Games
 80         maia9                     1610       -31        104526    
 81         simplexitor               1597       -20        2371      
 82         yeoldwiz                  1582       22         1923      
-83         maia5                     1568       24         104273    
+83         maia5                     1565       10         104275    
 84         chesstango_bot            1541       -30        35        
 85         sudobot_chess             1539       -74        402       
 86         ChamberiAjedrez           1491       -70        322       
@@ -89,9 +89,9 @@ Rank       Bot                       Rating     Prog       Games
 88         DavidsGuterBot            1454       -6         3767      
 89         sargon-3ply               1449       -5         2034      
 90         RookieRobot               1444       10         145       
-91         maia1                     1418       26         212248    
+91         maia1                     1423       26         212249    
 92         turochamp-2ply            1394       -2         1768      
-93         monchester                1361       8          2811      
+93         monchester                1358       7          2812      
 94         GuineaBot3                1349       -55        160       
 95         StupidChessRobot          1335       -6         2151      
 96         sargon-1ply               1321       -14        8362      
@@ -101,6 +101,6 @@ Rank       Bot                       Rating     Prog       Games
 100        chat_bot                  1223       -50        330       
 101        dragobot                  1209       1          192       
 102        schnecken_bot             1189       1          2218      
-103        IBBXEFBOT                 1167       19         276       
-104        knucklefish               1070       23         3339      
+103        IBBXEFBOT                 1169       13         277       
+104        knucklefish               1069       15         3340      
 105        B4ux1t3s-Bot              912        -1         158       
