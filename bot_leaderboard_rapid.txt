@@ -1,9 +1,9 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ToromBot                  2925       11         2419      
 2          YoBot_v2                  2911       4          13225     
-3          FireFishBOT_v2            2909       1          878       
-4          ProteusSF-Aureo           2909       12         23        
-5          ReinforcementTrial        2904       3          5539      
+3          ProteusSF-Aureo           2909       12         23        
+4          FireFishBOT_v2            2909       2          879       
+5          ReinforcementTrial        2904       -2         5540      
 6          ProteusSF-Godot           2897       2          198       
 7          ResoluteBot               2896       6          5518      
 8          TheFreshman1902           2895       6          134       
@@ -34,7 +34,7 @@ Rank       Bot                       Rating     Prog       Games
 33         FataliiBot                2275       -15        2778      
 34         halcyonbot                2256       -4         6942      
 35         Nakshatra3                2238       1          945       
-36         camel_bot                 2176       1          554       
+36         camel_bot                 2178       5          555       
 37         Elmichess                 2175       14         1432      
 38         eubos                     2174       -32        4339      
 39         honzovy-sachy-2           2146       5          3705      
@@ -61,7 +61,7 @@ Rank       Bot                       Rating     Prog       Games
 60         Demolito_L6               1866       16         1041      
 61         LittleGreenManBot         1863       8          3876      
 62         Trollfish-Bot             1818       -2         340       
-63         honzovy-sachy             1810       4          1069      
+63         honzovy-sachy             1809       -1         1070      
 64         Virutor                   1800       -1         3308      
 65         zulu_bot                  1776       3          110       
 66         ShallowRedBot             1762       10         66        
@@ -75,7 +75,7 @@ Rank       Bot                       Rating     Prog       Games
 74         yeoldwiz                  1655       12         709       
 75         turkjs                    1652       13         5146      
 76         ZE_ROOK                   1649       17         631       
-77         maia5                     1631       17         104431    
+77         maia5                     1639       20         104432    
 78         simplexitor               1628       -4         553       
 79         maia1                     1554       23         237586    
 80         dragobot                  1554       18         107       
@@ -93,5 +93,6 @@ Rank       Bot                       Rating     Prog       Games
 92         schnecken_bot             1261       -3         357       
 93         sargon-1ply               1257       8          8791      
 94         chat_bot                  1247       -24        284       
-95         B4ux1t3s-Bot              793        80         105       
-96         G0thamB0t                 648        -30        396       
+95         kireevi                   1087       -36        586       
+96         B4ux1t3s-Bot              793        80         105       
+97         G0thamB0t                 648        -30        396       
