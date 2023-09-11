@@ -2,8 +2,8 @@ Rank       Bot                       Rating     Prog       Games
 1          FireFishBOT_v2            2932       -4         6959      
 2          ToromBot                  2929       1          4652      
 3          ReinforcementTrial        2915       0          2959      
-4          M-Z_Bot                   2913       -4         710       
-5          YoBot_v2                  2912       0          4122      
+4          M-Z_Bot                   2913       -4         711       
+5          YoBot_v2                  2912       1          4123      
 6          ResoluteBot               2911       2          12221     
 7          TheMatrix2025             2910       3          621       
 8          ProteusSF-Aureo           2907       -1         92        
@@ -84,7 +84,7 @@ Rank       Bot                       Rating     Prog       Games
 83         sudobot_chess             1539       -74        402       
 84         chesstango_bot            1501       -76        39        
 85         sargon-4ply               1486       2          2145      
-86         maia5                     1477       3          104322    
+86         maia5                     1471       1          104323    
 87         DavidsGuterBot            1460       4          3772      
 88         sargon-3ply               1442       -4         2039      
 89         turochamp-2ply            1393       -3         1769      
@@ -92,9 +92,9 @@ Rank       Bot                       Rating     Prog       Games
 91         monchester                1354       3          2815      
 92         GuineaBot3                1349       -55        160       
 93         sargon-1ply               1334       5          8368      
-94         StupidChessRobot          1326       -10        2168      
+94         StupidChessRobot          1331       -16        2169      
 95         pawnrobot                 1261       -10        2235      
-96         sargon-2ply               1257       -12        3240      
+96         sargon-2ply               1253       -20        3241      
 97         turochamp-1ply            1241       10         1897      
 98         chat_bot                  1223       -50        330       
 99         dragobot                  1218       1          193       
