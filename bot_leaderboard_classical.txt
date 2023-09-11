@@ -1,15 +1,15 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ReinforcementTrial        2640       -2         304       
-2          ProteusSF-Aureo           2640       48         21        
+1          ProteusSF-Aureo           2640       48         21        
+2          ReinforcementTrial        2640       -2         304       
 3          YoBot_v2                  2631       3          587       
 4          Nikitosik-ai              2613       8          237       
 5          ResoluteBot               2607       2          740       
-6          RaspFish                  2604       8          686       
+6          RaspFish                  2605       10         687       
 7          ProteusSF-Godot           2602       1          300       
 8          TheMatrix2025             2579       14         33        
 9          faith_bot                 2558       15         197       
 10         Palisade                  2467       28         237       
-11         ELO_1500                  2423       -23        449       
+11         ELO_1500                  2424       -18        450       
 12         MrChessTheBot             2421       -61        314       
 13         expositor                 2403       31         1200      
 14         AKS-Mantissa              2377       8          1088      
@@ -17,7 +17,7 @@ Rank       Bot                       Rating     Prog       Games
 16         LazyBot                   2356       27         203       
 17         catriever                 2349       12         309       
 18         EmptikBot                 2331       212        56        
-19         SaxtonEngine              2320       4          493       
+19         SaxtonEngine              2318       0          494       
 20         pawn_git                  2306       -7         295       
 21         Cheng-4                   2294       4          1597      
 22         Weiawaga                  2265       13         5819      
@@ -56,7 +56,7 @@ Rank       Bot                       Rating     Prog       Games
 55         honzovy-sachy             1665       -17        310       
 56         ZE_ROOK                   1655       -3         238       
 57         turkjs                    1634       15         921       
-58         sargon-4ply               1621       -24        458       
+58         sargon-4ply               1621       -20        459       
 59         Jibbby                    1576       -2         83        
 60         turochamp-2ply            1575       -33        801       
 61         sargon-3ply               1565       -18        769       
