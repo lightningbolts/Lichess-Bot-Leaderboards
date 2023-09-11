@@ -1,8 +1,8 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ToromBot                  2925       11         2419      
 2          YoBot_v2                  2911       4          13225     
-3          ProteusSF-Aureo           2909       12         23        
-4          FireFishBOT_v2            2909       2          879       
+3          FireFishBOT_v2            2909       2          879       
+4          ProteusSF-Aureo           2909       12         23        
 5          ReinforcementTrial        2904       -2         5540      
 6          ProteusSF-Godot           2897       2          198       
 7          ResoluteBot               2896       6          5518      
@@ -26,7 +26,7 @@ Rank       Bot                       Rating     Prog       Games
 25         TuksuBot                  2475       8          2149      
 26         Pseudo-0                  2464       17         1232      
 27         Phalanx-XXV               2463       3          1031      
-28         OpeningsBot               2411       13         402       
+28         OpeningsBot               2406       9          403       
 29         fornax-engine             2404       26         3793      
 30         admete_bot                2403       10         4357      
 31         simpleEval                2352       -2         7809      
@@ -34,7 +34,7 @@ Rank       Bot                       Rating     Prog       Games
 33         FataliiBot                2275       -15        2778      
 34         halcyonbot                2263       9          6944      
 35         Nakshatra3                2238       1          945       
-36         camel_bot                 2186       13         558       
+36         camel_bot                 2187       21         559       
 37         HistoryExplorer           2181       -5         1098      
 38         Elmichess                 2175       14         1432      
 39         eubos                     2174       -32        4339      
@@ -52,7 +52,7 @@ Rank       Bot                       Rating     Prog       Games
 51         LazyBotJr                 2004       44         1293      
 52         Nc3Nc6Bot                 1998       -2         2014      
 53         LeelaRogue                1989       -7         2343      
-54         zeekat                    1955       3          8955      
+54         zeekat                    1961       16         8956      
 55         sun_bird                  1953       4          87        
 56         baby_eubos                1935       8          1060      
 57         KelpBot                   1928       21         17        
@@ -61,7 +61,7 @@ Rank       Bot                       Rating     Prog       Games
 60         Dinora                    1909       4          58        
 61         Demolito_L6               1871       18         1043      
 62         notropis                  1871       3          2602      
-63         LittleGreenManBot         1858       -3         3877      
+63         LittleGreenManBot         1857       -10        3878      
 64         Trollfish-Bot             1818       -2         340       
 65         honzovy-sachy             1809       -1         1070      
 66         Virutor                   1806       -4         3310      
@@ -77,7 +77,7 @@ Rank       Bot                       Rating     Prog       Games
 76         yeoldwiz                  1655       12         709       
 77         turkjs                    1652       13         5146      
 78         ZE_ROOK                   1649       17         631       
-79         maia5                     1640       20         104438    
+79         maia5                     1648       20         104439    
 80         simplexitor               1628       -4         553       
 81         maia1                     1555       18         237590    
 82         dragobot                  1554       18         107       
@@ -96,5 +96,6 @@ Rank       Bot                       Rating     Prog       Games
 95         sargon-1ply               1257       8          8791      
 96         chat_bot                  1247       -24        284       
 97         kireevi                   1087       -36        586       
-98         B4ux1t3s-Bot              793        80         105       
-99         G0thamB0t                 648        -30        396       
+98         bobandi                   991        -3         768       
+99         B4ux1t3s-Bot              793        80         105       
+100        G0thamB0t                 648        -30        396       
