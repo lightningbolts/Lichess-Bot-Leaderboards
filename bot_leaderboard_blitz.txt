@@ -15,7 +15,7 @@ Rank       Bot                       Rating     Prog       Games
 14         Palisade                  2711       24         328       
 15         LazyBot                   2686       3          2052      
 16         FrozenightEngine          2651       3          6452      
-17         ELO_1500                  2646       12         13285     
+17         ELO_1500                  2649       18         13286     
 18         expositor                 2640       7          7627      
 19         AKS-Mantissa              2599       12         10451     
 20         MrChessTheBot             2544       -54        2007      
@@ -27,7 +27,7 @@ Rank       Bot                       Rating     Prog       Games
 26         clueless-bot              2446       -10        2964      
 27         OpeningsBot               2443       2          1326      
 28         Pseudo-0                  2443       15         3159      
-29         Phalanx-XXV               2434       0          2855      
+29         Phalanx-XXV               2431       -2         2856      
 30         catriever                 2406       -20        1027      
 31         admete_bot                2384       -11        6571      
 32         fornax-engine             2337       -8         6705      
@@ -38,7 +38,7 @@ Rank       Bot                       Rating     Prog       Games
 37         FataliiBot                2211       -17        7090      
 38         honzovy-sachy-2           2196       15         7187      
 39         Lynx_BOT                  2121       4          50973     
-40         eubos                     2120       8          15244     
+40         eubos                     2112       -3         15245     
 41         matmoi                    2108       -15        2441      
 42         camel_bot                 2105       5          1049      
 43         jangine                   2077       17         3704      
@@ -48,11 +48,11 @@ Rank       Bot                       Rating     Prog       Games
 47         MaxtheDog                 2018       13         5065      
 48         redtail-zero              2015       -2         605       
 49         Elmichess                 2015       3          3717      
-50         Humaia-Strong             2011       25         2372      
-51         GarboBot                  2007       3          9745      
+50         GarboBot                  2014       14         9746      
+51         Humaia-Strong             2011       25         2372      
 52         LeelaRogue                1992       8          2403      
 53         Nc3Nc6Bot                 1972       17         1769      
-54         sun_bird                  1963       1          1386      
+54         sun_bird                  1966       10         1387      
 55         LazyBotJr                 1936       -29        1970      
 56         BLANK_BOT                 1931       -25        5132      
 57         zeekat                    1878       -10        22118     
@@ -64,7 +64,7 @@ Rank       Bot                       Rating     Prog       Games
 63         baby_eubos                1799       -9         8550      
 64         Dinora                    1751       10         239       
 65         ShallowRedBot             1742       -3         409       
-66         LittleGreenManBot         1707       -35        4656      
+66         LittleGreenManBot         1705       -30        4657      
 67         Jibbby                    1701       -3         5695      
 68         Virutor                   1701       -4         7703      
 69         Demolito_L5               1696       1          2237      
@@ -84,7 +84,7 @@ Rank       Bot                       Rating     Prog       Games
 83         sudobot_chess             1539       -74        402       
 84         chesstango_bot            1501       -76        39        
 85         sargon-4ply               1486       2          2145      
-86         maia5                     1470       -15        104326    
+86         maia5                     1466       -22        104327    
 87         DavidsGuterBot            1460       4          3772      
 88         sargon-3ply               1442       -4         2039      
 89         turochamp-2ply            1393       -3         1769      
