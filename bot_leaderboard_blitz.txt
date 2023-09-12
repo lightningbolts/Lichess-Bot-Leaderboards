@@ -20,7 +20,7 @@ Rank       Bot                       Rating     Prog       Games
 19         ELO_1500                  2653       10         13295     
 20         FrozenightEngine          2645       4          6473      
 21         expositor                 2636       5          7646      
-22         AKS-Mantissa              2608       10         10477     
+22         AKS-Mantissa              2611       9          10478     
 23         MrChessTheBot             2542       -53        2009      
 24         pawn_git                  2533       -4         2748      
 25         Cheng-4                   2517       20         6826      
@@ -31,8 +31,8 @@ Rank       Bot                       Rating     Prog       Games
 30         OpeningsBot               2433       -21        1351      
 31         Pseudo-0                  2429       -9         3167      
 32         catriever                 2422       16         1038      
-33         odonata-bot               2415       -5         6202      
-34         Phalanx-XXV               2414       -15        2864      
+33         Phalanx-XXV               2414       -15        2864      
+34         odonata-bot               2412       -8         6203      
 35         admete_bot                2382       8          6589      
 36         fornax-engine             2337       -8         6705      
 37         FlamingDragon_9000        2323       19         3331      
@@ -82,9 +82,9 @@ Rank       Bot                       Rating     Prog       Games
 81         maia9                     1627       3          104797    
 82         simplexitor               1622       21         2387      
 83         yeoldwiz                  1581       5          1943      
-84         ZE_ROOK                   1557       7          3248      
-85         turkjs                    1555       -2         10412     
-86         maia5                     1550       5          104447    
+84         maia5                     1559       6          104448    
+85         ZE_ROOK                   1557       7          3248      
+86         turkjs                    1555       -2         10412     
 87         sudobot_chess             1539       -74        402       
 88         sargon-4ply               1488       5          2151      
 89         DavidsGuterBot            1452       -8         3779      
@@ -102,6 +102,6 @@ Rank       Bot                       Rating     Prog       Games
 101        chat_bot                  1223       -35        332       
 102        dragobot                  1210       -6         198       
 103        schnecken_bot             1163       -4         2240      
-104        knucklefish               1055       -13        3349      
+104        knucklefish               1047       -22        3351      
 105        bobandi                   938        -1         1307      
 106        B4ux1t3s-Bot              907        -6         162       
