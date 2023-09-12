@@ -11,8 +11,8 @@ Rank       Bot                       Rating     Prog       Games
 10         M-Z_Bot                   2880       25         27        
 11         LeelaMultiPoss            2878       15         370       
 12         RaspFish                  2871       11         6029      
-13         Mate-AI                   2854       1          2573      
-14         faith_bot                 2854       4          1165      
+13         faith_bot                 2854       4          1165      
+14         Mate-AI                   2854       1          2573      
 15         blundar_bot               2808       -5         1242      
 16         Palisade                  2799       65         214       
 17         ELO_1500                  2691       -13        3320      
@@ -85,8 +85,8 @@ Rank       Bot                       Rating     Prog       Games
 84         DavidsGuterBot            1538       -16        679       
 85         sargon-4ply               1526       -22        671       
 86         sargon-3ply               1524       13         1234      
-87         maia1                     1517       -7         237763    
-88         ArduChessBot              1517       -22        437       
+87         ArduChessBot              1517       -22        437       
+88         maia1                     1511       -16        237765    
 89         GuineaBot3                1489       -163       21        
 90         turochamp-2ply            1484       -18        1164      
 91         StupidChessRobot          1413       -11        75        
@@ -97,5 +97,6 @@ Rank       Bot                       Rating     Prog       Games
 96         schnecken_bot             1237       -30        365       
 97         chat_bot                  1235       -10        296       
 98         sargon-1ply               1230       -6         8823      
-99         bobandi                   991        -3         768       
-100        B4ux1t3s-Bot              785        6          118       
+99         kireevi                   1087       -36        586       
+100        bobandi                   991        -3         768       
+101        B4ux1t3s-Bot              785        6          118       
