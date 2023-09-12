@@ -1,8 +1,8 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ToromBot                  2920       -4         2454      
 2          VariantsTop               2919       6          85        
-3          FireFishBOT_v2            2909       -2         900       
-4          ProteusSF-Aureo           2909       12         23        
+3          ProteusSF-Aureo           2909       12         23        
+4          FireFishBOT_v2            2909       -2         900       
 5          ProteusSF-Godot           2907       1          243       
 6          ResoluteBot               2905       11         5542      
 7          YoBot_v2                  2903       -7         13245     
@@ -18,7 +18,7 @@ Rank       Bot                       Rating     Prog       Games
 17         Botyuliirma               2840       43         191       
 18         blundar_bot               2802       -4         1251      
 19         Palisade                  2799       65         214       
-20         ELO_1500                  2699       1          3326      
+20         ELO_1500                  2699       1          3327      
 21         MrChessTheBot             2689       -53        2243      
 22         FrozenightEngine          2686       -4         5235      
 23         AKS-Mantissa              2648       22         4243      
@@ -68,7 +68,7 @@ Rank       Bot                       Rating     Prog       Games
 67         baby_eubos                1935       8          1060      
 68         Dinora                    1934       15         66        
 69         NatesBot                  1904       4          706       
-70         Demolito_L6               1881       12         1076      
+70         Demolito_L6               1885       19         1077      
 71         notropis                  1845       -9         2621      
 72         LittleGreenManBot         1825       -26        3890      
 73         Virutor                   1821       17         3312      
@@ -76,10 +76,10 @@ Rank       Bot                       Rating     Prog       Games
 75         honzovy-sachy             1806       -4         1080      
 76         zulu_bot                  1776       3          110       
 77         ShallowRedBot             1772       30         68        
-78         Demolito_L5               1747       -9         1715      
+78         Demolito_L5               1747       -4         1716      
 79         dlvc-bot                  1730       -1         92        
 80         ChessChildren             1726       -16        4591      
-81         Jibbby                    1716       0          1941      
+81         Jibbby                    1713       -6         1942      
 82         maia9                     1712       9          87736     
 83         AshNostromo               1707       -4         1285      
 84         maia5                     1656       9          104529    
@@ -88,9 +88,9 @@ Rank       Bot                       Rating     Prog       Games
 87         ZE_ROOK                   1645       1          639       
 88         simplexitor               1641       4          556       
 89         Ramses-Chess              1598       58         47        
-90         maia1                     1550       12         237893    
-91         dragobot                  1544       15         110       
-92         DavidsGuterBot            1544       -6         680       
+90         maia1                     1555       8          237894    
+91         DavidsGuterBot            1544       -6         680       
+92         dragobot                  1544       15         110       
 93         sargon-4ply               1526       -22        671       
 94         sargon-3ply               1524       13         1234      
 95         ArduChessBot              1518       -21        440       
@@ -106,5 +106,5 @@ Rank       Bot                       Rating     Prog       Games
 105        chat_bot                  1235       -10        296       
 106        kireevi                   1087       -36        586       
 107        bobandi                   984        -2         769       
-108        B4ux1t3s-Bot              785        6          118       
+108        B4ux1t3s-Bot              781        3          119       
 109        G0thamB0t                 648        -25        397       
