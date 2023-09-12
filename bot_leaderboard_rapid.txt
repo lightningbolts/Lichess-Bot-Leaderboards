@@ -1,10 +1,10 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ToromBot                  2924       0          2443      
-2          FireFishBOT_v2            2910       2          895       
+2          FireFishBOT_v2            2910       -3         896       
 3          ProteusSF-Aureo           2909       12         23        
 4          YoBot_v2                  2909       -2         13236     
 5          ProteusSF-Godot           2907       1          243       
-6          HansNiemannBot            2906       2          2574      
+6          HansNiemannBot            2906       2          2575      
 7          ReinforcementTrial        2904       2          5557      
 8          ResoluteBot               2893       -3         5534      
 9          M-Z_Bot                   2881       26         28        
@@ -28,7 +28,7 @@ Rank       Bot                       Rating     Prog       Games
 27         Weiawaga                  2503       -2         10273     
 28         TuksuBot                  2489       24         2156      
 29         Phalanx-XXV               2454       -4         1037      
-30         Pseudo-0                  2451       1          1238      
+30         Pseudo-0                  2447       -10        1239      
 31         fornax-engine             2404       26         3793      
 32         OpeningsBot               2402       0          405       
 33         admete_bot                2392       0          4361      
@@ -52,7 +52,7 @@ Rank       Bot                       Rating     Prog       Games
 51         myopic-bot                2071       6          536       
 52         GarboBot                  2070       -5         6220      
 53         Humaia-Strong             2055       5          613       
-54         BLANK_BOT                 2027       12         1735      
+54         BLANK_BOT                 2030       18         1736      
 55         LazyBotJr                 2004       44         1293      
 56         LeelaRogue                1982       -13        2345      
 57         zeekat                    1980       13         8978      
@@ -61,7 +61,7 @@ Rank       Bot                       Rating     Prog       Games
 60         baby_eubos                1935       8          1060      
 61         Dinora                    1934       27         64        
 62         NatesBot                  1902       -9         697       
-63         Demolito_L6               1877       1          1068      
+63         Demolito_L6               1874       3          1069      
 64         notropis                  1845       -23        2618      
 65         LittleGreenManBot         1831       -27        3888      
 66         Trollfish-Bot             1818       -2         340       
@@ -75,7 +75,7 @@ Rank       Bot                       Rating     Prog       Games
 74         Jibbby                    1721       17         1935      
 75         AshNostromo               1698       -9         1283      
 76         maia9                     1688       -35        87720     
-77         maia5                     1678       0          104499    
+77         maia5                     1679       11         104500    
 78         yeoldwiz                  1655       5          710       
 79         turkjs                    1653       18         5151      
 80         ZE_ROOK                   1650       16         638       
