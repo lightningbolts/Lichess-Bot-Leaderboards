@@ -1,8 +1,8 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ToromBot                  2926       1          2434      
-2          YoBot_v2                  2910       -3         13232     
-3          ProteusSF-Aureo           2909       12         23        
-4          FireFishBOT_v2            2908       -2         884       
+2          FireFishBOT_v2            2913       4          885       
+3          YoBot_v2                  2910       -3         13232     
+4          ProteusSF-Aureo           2909       12         23        
 5          ProteusSF-Godot           2907       1          243       
 6          HansNiemannBot            2905       3          2571      
 7          ReinforcementTrial        2904       1          5552      
@@ -11,8 +11,8 @@ Rank       Bot                       Rating     Prog       Games
 10         LeelaMultiPoss            2878       15         370       
 11         M-Z_Bot                   2878       30         25        
 12         RaspFish                  2869       9          6028      
-13         faith_bot                 2859       8          1163      
-14         TheMatrix2025             2858       -17        354       
+13         TheMatrix2025             2858       -17        354       
+14         faith_bot                 2855       3          1164      
 15         Mate-AI                   2854       1          2573      
 16         blundar_bot               2807       -10        1241      
 17         Palisade                  2799       65         214       
@@ -42,9 +42,9 @@ Rank       Bot                       Rating     Prog       Games
 41         Nakshatra3                2232       -5         949       
 42         eubos                     2185       -17        4344      
 43         Elmichess                 2175       14         1432      
-44         Boris-Trapsky             2159       -6         27836     
+44         Boris-Trapsky             2159       -10        27837     
 45         honzovy-sachy-2           2154       14         3709      
-46         Lynx_BOT                  2127       22         40270     
+46         Lynx_BOT                  2130       17         40271     
 47         matmoi                    2121       7          2135      
 48         MaxtheDog                 2090       5          795       
 49         jangine                   2089       2          1851      
@@ -59,7 +59,7 @@ Rank       Bot                       Rating     Prog       Games
 58         zeekat                    1967       -9         8972      
 59         sun_bird                  1960       17         92        
 60         KelpBot                   1958       50         18        
-61         Sem1Rose                  1939       33         82        
+61         Sem1Rose                  1936       23         83        
 62         baby_eubos                1935       8          1060      
 63         Dinora                    1934       27         64        
 64         NatesBot                  1904       -12        696       
@@ -97,7 +97,7 @@ Rank       Bot                       Rating     Prog       Games
 96         sargon-2ply               1276       -9         3469      
 97         schnecken_bot             1244       -23        364       
 98         chat_bot                  1235       -10        296       
-99         sargon-1ply               1219       -28        8820      
+99         sargon-1ply               1224       -16        8822      
 100        kireevi                   1087       -36        586       
 101        bobandi                   991        -3         768       
 102        B4ux1t3s-Bot              785        6          118       
