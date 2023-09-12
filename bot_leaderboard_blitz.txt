@@ -1,9 +1,9 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ToromBot                  2930       5          4734      
-2          Mate-AI                   2928       -2         3539      
+1          Mate-AI                   2928       -2         3539      
+2          ToromBot                  2926       -3         4735      
 3          M-Z_Bot                   2925       2          754       
-4          ReinforcementTrial        2919       0          3015      
-5          FireFishBOT_v2            2918       -4         7117      
+4          ReinforcementTrial        2919       0          3016      
+5          FireFishBOT_v2            2918       -4         7118      
 6          TheMatrix2025             2911       -1         700       
 7          ResoluteBot               2909       0          12265     
 8          YoBot_v2                  2908       0          4159      
@@ -12,7 +12,7 @@ Rank       Bot                       Rating     Prog       Games
 11         VariantsTop               2896       0          603       
 12         Botyuliirma               2871       9          505       
 13         HansNiemannBot            2861       5          3045      
-14         RaspFish                  2855       6          12574     
+14         RaspFish                  2857       11         12575     
 15         faith_bot                 2776       2          789       
 16         blundar_bot               2764       -8         1488      
 17         Palisade                  2711       24         328       
@@ -20,10 +20,10 @@ Rank       Bot                       Rating     Prog       Games
 19         ELO_1500                  2653       10         13295     
 20         FrozenightEngine          2645       4          6473      
 21         expositor                 2636       5          7646      
-22         AKS-Mantissa              2609       3          10479     
+22         AKS-Mantissa              2613       9          10480     
 23         pawn_git                  2533       -4         2748      
 24         Cheng-4                   2516       17         6827      
-25         SaxtonEngine              2516       23         2497      
+25         SaxtonEngine              2514       15         2498      
 26         bot_adario                2501       1          2570      
 27         Weiawaga                  2490       -2         12183     
 28         TuksuBot                  2443       -14        4225      
@@ -54,8 +54,8 @@ Rank       Bot                       Rating     Prog       Games
 53         Elmichess                 2022       16         3721      
 54         Humaia-Strong             2011       25         2372      
 55         MaxtheDog                 1996       8          5099      
-56         LeelaRogue                1992       8          2403      
-57         sun_bird                  1992       22         1465      
+56         sun_bird                  1992       22         1465      
+57         LeelaRogue                1992       8          2403      
 58         GarboBot                  1961       -10        9769      
 59         LazyBotJr                 1936       -29        1970      
 60         BLANK_BOT                 1929       -4         5152      
