@@ -1,8 +1,8 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ToromBot                  2924       0          2443      
 2          FireFishBOT_v2            2910       2          895       
-3          YoBot_v2                  2910       -2         13235     
-4          ProteusSF-Aureo           2909       12         23        
+3          ProteusSF-Aureo           2909       12         23        
+4          YoBot_v2                  2909       -2         13236     
 5          ProteusSF-Godot           2907       1          243       
 6          HansNiemannBot            2906       2          2574      
 7          ReinforcementTrial        2904       2          5557      
@@ -12,7 +12,7 @@ Rank       Bot                       Rating     Prog       Games
 11         RaspFish                  2873       13         6031      
 12         TheMatrix2025             2858       -17        354       
 13         Mate-AI                   2854       1          2573      
-14         faith_bot                 2852       -5         1168      
+14         faith_bot                 2853       -7         1169      
 15         blundar_bot               2806       -8         1243      
 16         Palisade                  2799       65         214       
 17         ELO_1500                  2694       -4         3322      
@@ -85,8 +85,8 @@ Rank       Bot                       Rating     Prog       Games
 84         DavidsGuterBot            1538       -16        679       
 85         sargon-4ply               1526       -22        671       
 86         sargon-3ply               1524       13         1234      
-87         maia1                     1517       -11        237783    
-88         ArduChessBot              1517       -22        437       
+87         ArduChessBot              1517       -22        437       
+88         maia1                     1511       -16        237784    
 89         GuineaBot3                1489       -163       21        
 90         turochamp-2ply            1484       -18        1164      
 91         Flawed_Formula            1427       -78        45        
