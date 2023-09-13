@@ -10,8 +10,8 @@ Rank       Bot                       Rating     Prog       Games
 9          ResoluteBot               2935       6          27333     
 10         HansNiemannBot            2886       -14        4924      
 11         Nikitosik-ai              2855       1          3781      
-12         RaspFish                  2837       0          54216     
-13         blundar_bot               2833       -24        10350     
+12         blundar_bot               2840       -6         10355     
+13         RaspFish                  2837       0          54216     
 14         Palisade                  2760       23         435       
 15         LazyBot                   2686       -20        1429      
 16         expositor                 2648       -22        20957     
@@ -19,9 +19,9 @@ Rank       Bot                       Rating     Prog       Games
 18         Cheng-4                   2590       12         14333     
 19         AKS-Mantissa              2526       -12        11502     
 20         FlamingDragon_9000        2524       -5         10619     
-21         pawn_git                  2517       17         4637      
+21         pawn_git                  2514       13         4639      
 22         balancefish               2484       5          113       
-23         SaxtonEngine              2469       -3         4581      
+23         SaxtonEngine              2466       -4         4583      
 24         catriever                 2465       11         2054      
 25         Elmichess                 2459       -35        3225      
 26         ELO_1500                  2453       32         3311      
@@ -29,7 +29,7 @@ Rank       Bot                       Rating     Prog       Games
 28         Weiawaga                  2411       7          16500     
 29         bot_adario                2397       -22        2830      
 30         MrChessTheBot             2393       -52        5912      
-31         admete_bot                2392       2          7416      
+31         admete_bot                2391       0          7417      
 32         TuksuBot                  2386       -1         7325      
 33         OpeningsBot               2384       -7         1353      
 34         odonata-bot               2363       1          6555      
@@ -80,8 +80,8 @@ Rank       Bot                       Rating     Prog       Games
 79         ZE_ROOK                   1609       -6         2228      
 80         turkjs                    1604       -27        19459     
 81         maia5                     1591       -18        39979     
-82         sudobot_chess             1590       -295       227       
-83         sargon-4ply               1590       33         1905      
+82         sargon-4ply               1590       33         1905      
+83         sudobot_chess             1590       -295       227       
 84         sargon-3ply               1585       -8         1538      
 85         turochamp-2ply            1571       6          1719      
 86         monchester                1568       16         2715      
