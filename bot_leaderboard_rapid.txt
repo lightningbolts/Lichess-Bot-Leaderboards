@@ -1,10 +1,10 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ProteusSF-Aureo           2909       12         23        
-2          FireFishBOT_v2            2909       -2         900       
+1          FireFishBOT_v2            2909       -2         900       
+2          ProteusSF-Aureo           2909       12         23        
 3          ProteusSF-Godot           2907       1          243       
 4          HansNiemannBot            2903       0          2606      
-5          YoBot_v2                  2902       -5         13260     
-6          M-Z_Bot                   2902       6          64        
+5          M-Z_Bot                   2902       6          64        
+6          YoBot_v2                  2902       -5         13260     
 7          ReinforcementTrial        2901       3          5581      
 8          ArasanX                   2884       -3         5923      
 9          RaspFish                  2882       -3         6063      
@@ -82,7 +82,7 @@ Rank       Bot                       Rating     Prog       Games
 81         simplexitor               1637       4          557       
 82         maia5                     1613       -11        104592    
 83         dragobot                  1556       18         111       
-84         maia1                     1550       7          238031    
+84         maia1                     1546       -5         238032    
 85         DavidsGuterBot            1542       -2         683       
 86         ArduChessBot              1535       -3         441       
 87         sargon-4ply               1526       -22        671       
@@ -98,4 +98,4 @@ Rank       Bot                       Rating     Prog       Games
 97         chat_bot                  1222       1          313       
 98         kireevi                   1108       -9         587       
 99         bobandi                   983        -20        770       
-100        G0thamB0t                 647        -18        399       
+100        G0thamB0t                 646        -15        400       
