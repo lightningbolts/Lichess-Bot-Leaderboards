@@ -4,7 +4,7 @@ Rank       Bot                       Rating     Prog       Games
 3          TheMatrix2025             2943       -3         7522      
 4          caissa-x                  2936       3          14581     
 5          Mate-AI                   2926       1          13111     
-6          YoBot_v2                  2922       -13        18812     
+6          YoBot_v2                  2923       -12        18813     
 7          ResoluteBot               2921       -5         27383     
 8          European_Chess_Bot        2913       -3         85        
 9          Nikitosik-ai              2882       8          3827      
@@ -25,7 +25,7 @@ Rank       Bot                       Rating     Prog       Games
 24         ELO_1500                  2453       32         3311      
 25         SaxtonEngine              2450       -22        4589      
 26         bfiedler-bot              2436       -60        82        
-27         Weiawaga                  2428       18         16512     
+27         Weiawaga                  2433       23         16513     
 28         bot_adario                2401       4          2836      
 29         OpeningsBot               2398       6          1377      
 30         MrChessTheBot             2393       -52        5912      
@@ -36,7 +36,7 @@ Rank       Bot                       Rating     Prog       Games
 35         fornax-engine             2355       10         7177      
 36         Pseudo-0                  2353       -2         4164      
 37         simpleEval                2337       -13        25625     
-38         admete_bot                2336       -3         7748      
+38         admete_bot                2330       -7         7754      
 39         Phalanx-XXV               2326       -7         4645      
 40         FataliiBot                2292       15         6067      
 41         Nakshatra3                2291       -19        1782      
@@ -72,15 +72,15 @@ Rank       Bot                       Rating     Prog       Games
 71         ShallowRedBot             1742       17         331       
 72         notropis                  1730       -24        4282      
 73         simplexitor               1725       -15        2426      
-74         honzovy-sachy             1724       -19        5233      
-75         ArduChessBot              1724       -5         5755      
+74         ArduChessBot              1724       -5         5755      
+75         honzovy-sachy             1724       -19        5233      
 76         piglet_engine             1720       9          927       
 77         Virutor                   1691       -16        7009      
 78         Jibbby                    1687       -9         2622      
 79         dlvc-bot                  1677       -12        186       
 80         rudim-bot                 1644       -29        160       
 81         ChessChildren             1642       2          15626     
-82         maia5                     1620       28         39988     
+82         maia5                     1624       26         39989     
 83         turkjs                    1613       -8         19464     
 84         ZE_ROOK                   1606       2          2235      
 85         turochamp-2ply            1590       26         1723      
@@ -88,7 +88,7 @@ Rank       Bot                       Rating     Prog       Games
 87         sargon-4ply               1590       33         1905      
 88         sudobot_chess             1590       -295       227       
 89         monchester                1565       -1         2724      
-90         RavenEngine_Depth2        1540       -22        108       
+90         RavenEngine_Depth2        1538       -22        109       
 91         DavidsGuterBot            1516       -10        6530      
 92         yeoldwiz                  1450       18         791       
 93         botTideEval               1442       2          3247      
