@@ -2,7 +2,7 @@ Rank       Bot                       Rating     Prog       Games
 1          ReinforcementTrial        2631       -1         335       
 2          YoBot_v2                  2631       2          606       
 3          M-Z_Bot                   2626       -4         24        
-4          Nikitosik-ai              2617       5          244       
+4          Nikitosik-ai              2619       7          245       
 5          ResoluteBot               2612       3          760       
 6          LeelaMultiPoss            2606       33         36        
 7          RaspFish                  2606       1          703       
@@ -15,7 +15,7 @@ Rank       Bot                       Rating     Prog       Games
 14         ELO_1500                  2427       1          472       
 15         MrChessTheBot             2421       -61        314       
 16         AKS-Mantissa              2390       16         1095      
-17         FrozenightEngine          2360       -1         4457      
+17         FrozenightEngine          2358       0          4458      
 18         LazyBot                   2356       27         203       
 19         catriever                 2346       1          313       
 20         SaxtonEngine              2331       13         505       
@@ -44,9 +44,9 @@ Rank       Bot                       Rating     Prog       Games
 43         Elmichess                 1884       -38        418       
 44         AjedrezChamberi           1874       9          73        
 45         LazyBotJr                 1834       1          228       
-46         LeelaRogue                1814       -19        651       
-47         zeekat                    1814       -27        3268      
-48         baby_eubos                1814       -69        111       
+46         zeekat                    1814       -27        3268      
+47         baby_eubos                1814       -69        111       
+48         LeelaRogue                1814       -19        651       
 49         ChessChildren             1760       -10        1219      
 50         notropis                  1756       42         133       
 51         AshNostromo               1754       -212       23        
@@ -58,7 +58,7 @@ Rank       Bot                       Rating     Prog       Games
 57         ZE_ROOK                   1649       0          244       
 58         turkjs                    1629       5          924       
 59         sargon-4ply               1618       -23        460       
-60         maia5                     1605       5          23661     
+60         maia5                     1600       1          23663     
 61         maia1                     1593       -21        67529     
 62         Jibbby                    1576       -2         83        
 63         turochamp-2ply            1575       -34        802       
