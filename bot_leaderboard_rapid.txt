@@ -1,11 +1,11 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ToromBot                  2910       -10        2466      
-2          ProteusSF-Aureo           2909       12         23        
-3          FireFishBOT_v2            2909       -2         900       
+2          FireFishBOT_v2            2909       -2         900       
+3          ProteusSF-Aureo           2909       12         23        
 4          ProteusSF-Godot           2907       1          243       
 5          ResoluteBot               2905       6          5551      
 6          YoBot_v2                  2905       3          13252     
-7          HansNiemannBot            2899       -1         2598      
+7          HansNiemannBot            2899       -1         2599      
 8          ReinforcementTrial        2898       0          5572      
 9          M-Z_Bot                   2897       0          57        
 10         RaspFish                  2881       -2         6056      
@@ -35,9 +35,9 @@ Rank       Bot                       Rating     Prog       Games
 34         odonata-bot               2380       10         3832      
 35         simpleEval                2354       12         7823      
 36         FlamingDragon_9000        2309       -12        1216      
-37         FataliiBot                2265       -15        2790      
-38         halcyonbot                2265       23         6990      
-39         Boris-Trapsky             2265       28         27872     
+37         Boris-Trapsky             2265       28         27872     
+38         FataliiBot                2265       -15        2790      
+39         halcyonbot                2265       23         6990      
 40         bekbot                    2260       2          1522      
 41         Nakshatra3                2229       -9         955       
 42         Elmichess                 2180       18         1433      
@@ -54,9 +54,9 @@ Rank       Bot                       Rating     Prog       Games
 53         Humaia-Strong             2055       5          613       
 54         BLANK_BOT                 2035       12         1745      
 55         LazyBotJr                 1996       28         1294      
-56         Zagreus_Engine            1991       -14        2087      
+56         Zagreus_Engine            1991       -9         2088      
 57         LeelaRogue                1982       -13        2345      
-58         zeekat                    1975       4          8999      
+58         zeekat                    1977       7          9000      
 59         sun_bird                  1967       31         95        
 60         KelpBot                   1958       50         18        
 61         baby_eubos                1935       8          1060      
@@ -70,7 +70,7 @@ Rank       Bot                       Rating     Prog       Games
 69         honzovy-sachy             1803       -6         1081      
 70         ShallowRedBot             1780       38         69        
 71         zulu_bot                  1776       3          110       
-72         Demolito_L5               1739       -17        1729      
+72         Demolito_L5               1737       -24        1730      
 73         dlvc-bot                  1730       -1         92        
 74         ChessChildren             1728       -10        4592      
 75         Jibbby                    1722       6          1952      
@@ -81,7 +81,7 @@ Rank       Bot                       Rating     Prog       Games
 80         ZE_ROOK                   1645       1          639       
 81         simplexitor               1641       4          556       
 82         maia5                     1630       22         104563    
-83         maia1                     1581       15         237972    
+83         maia1                     1585       25         237974    
 84         DavidsGuterBot            1545       -2         682       
 85         dragobot                  1544       15         110       
 86         sargon-4ply               1526       -22        671       
