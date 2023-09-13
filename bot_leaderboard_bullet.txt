@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
 1          LeelaMultiPoss            2960       9          780       
-2          ReinforcementTrial        2953       -5         2058      
+2          ReinforcementTrial        2957       -1         2059      
 3          FireFishBOT_v2            2948       1          1401      
 4          ProteusSF-Godot           2947       3          2200      
 5          TheMatrix2025             2945       -3         7515      
@@ -9,9 +9,9 @@ Rank       Bot                       Rating     Prog       Games
 8          YoBot_v2                  2923       -11        18810     
 9          Nikitosik-ai              2882       6          3823      
 10         HansNiemannBot            2856       -30        4941      
-11         RaspFish                  2845       8          54231     
-12         blundar_bot               2818       -3         10405     
-13         faith_bot                 2808       4          3238      
+11         RaspFish                  2841       4          54232     
+12         faith_bot                 2808       4          3238      
+13         blundar_bot               2807       -18        10408     
 14         LazyBot                   2686       -20        1429      
 15         expositor                 2632       -3         20977     
 16         FrozenightEngine          2611       -6         9375      
@@ -39,7 +39,7 @@ Rank       Bot                       Rating     Prog       Games
 38         Phalanx-XXV               2323       -14        4644      
 39         Nakshatra3                2300       -14        1781      
 40         FataliiBot                2292       15         6067      
-41         bekbot                    2248       7          1717      
+41         bekbot                    2250       17         1718      
 42         halcyonbot                2234       -8         6164      
 43         Lynx_BOT                  2186       -5         7459      
 44         Humaia-Strong             2166       61         1320      
@@ -51,7 +51,7 @@ Rank       Bot                       Rating     Prog       Games
 50         likeawizard-bot           2070       9          2167      
 51         MaxtheDog                 2029       26         15846     
 52         myopic-bot                2022       -10        2335      
-53         sun_bird                  2017       -2         1524      
+53         sun_bird                  2015       -6         1525      
 54         LazyBotJr                 2002       32         977       
 55         Zagreus_Engine            2000       -6         3664      
 56         GarboBot                  1977       -24        10047     
@@ -80,14 +80,14 @@ Rank       Bot                       Rating     Prog       Games
 79         ZE_ROOK                   1610       3          2234      
 80         maia5                     1597       -3         39982     
 81         turkjs                    1597       -32        19461     
-82         sargon-4ply               1590       33         1905      
-83         sudobot_chess             1590       -295       227       
-84         sargon-3ply               1583       -13        1539      
+82         sudobot_chess             1590       -295       227       
+83         sargon-4ply               1590       33         1905      
+84         sargon-3ply               1587       -6         1540      
 85         turochamp-2ply            1582       15         1722      
 86         monchester                1564       0          2722      
 87         DavidsGuterBot            1516       -10        6530      
 88         yeoldwiz                  1450       18         791       
-89         botTideEval               1443       3          3238      
+89         botTideEval               1439       -2         3239      
 90         maia1                     1429       -22        126343    
 91         turochamp-1ply            1424       -20        2275      
 92         sargon-2ply               1400       10         2642      
