@@ -1,9 +1,9 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ProteusSF-Aureo           2640       48         21        
-2          ReinforcementTrial        2632       1          329       
+2          ReinforcementTrial        2632       -1         330       
 3          YoBot_v2                  2632       3          603       
 4          M-Z_Bot                   2626       -4         22        
-5          Nikitosik-ai              2616       10         239       
+5          Nikitosik-ai              2616       7          240       
 6          ResoluteBot               2611       1          758       
 7          ProteusSF-Godot           2607       3          317       
 8          LeelaMultiPoss            2606       33         36        
@@ -46,8 +46,8 @@ Rank       Bot                       Rating     Prog       Games
 45         AjedrezChamberi           1874       9          73        
 46         LazyBotJr                 1825       -1         227       
 47         zeekat                    1815       -30        3267      
-48         LeelaRogue                1814       -19        651       
-49         baby_eubos                1814       -69        111       
+48         baby_eubos                1814       -69        111       
+49         LeelaRogue                1814       -19        651       
 50         ChessChildren             1760       -10        1219      
 51         notropis                  1756       42         133       
 52         AshNostromo               1754       -212       23        
@@ -70,7 +70,7 @@ Rank       Bot                       Rating     Prog       Games
 69         Trollfish-Bot             1542       29         58        
 70         StupidChessRobot          1521       75         27        
 71         chat_bot                  1517       -31        63        
-72         Humaia                    1459       -18        1256      
+72         Humaia                    1457       -25        1258      
 73         turochamp-1ply            1412       17         825       
 74         sargon-2ply               1384       -13        1246      
 75         kireevi                   1334       -33        247       
