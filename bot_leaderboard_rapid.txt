@@ -1,9 +1,9 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ProteusSF-Aureo           2909       12         23        
-2          FireFishBOT_v2            2909       -1         905       
+1          FireFishBOT_v2            2909       -1         905       
+2          ProteusSF-Aureo           2909       12         23        
 3          ProteusSF-Godot           2907       1          243       
-4          M-Z_Bot                   2906       1          85        
-5          HansNiemannBot            2904       4          2620      
+4          M-Z_Bot                   2906       2          86        
+5          HansNiemannBot            2904       4          2621      
 6          ToromBot                  2903       -4         2488      
 7          YoBot_v2                  2902       0          13274     
 8          ReinforcementTrial        2899       -2         5597      
@@ -79,7 +79,7 @@ Rank       Bot                       Rating     Prog       Games
 78         turkjs                    1654       12         5154      
 79         simplexitor               1637       6          558       
 80         RookieRobot               1592       54         16        
-81         maia5                     1581       3          104658    
+81         maia5                     1575       0          104659    
 82         dragobot                  1556       18         111       
 83         DavidsGuterBot            1542       -2         683       
 84         ArduChessBot              1533       1          442       
@@ -97,3 +97,4 @@ Rank       Bot                       Rating     Prog       Games
 96         chat_bot                  1225       -5         318       
 97         kireevi                   1108       -9         587       
 98         bobandi                   983        -20        770       
+99         G0thamB0t                 646        -15        400       
