@@ -9,8 +9,8 @@ Rank       Bot                       Rating     Prog       Games
 8          RaspFish                  2884       12         6083      
 9          ArasanX                   2884       -5         5962      
 10         LeelaMultiPoss            2878       15         370       
-11         Mate-AI                   2873       13         2596      
-12         TorBot                    2873       1          821       
+11         TorBot                    2873       1          821       
+12         Mate-AI                   2873       13         2596      
 13         Nikitosik-ai              2869       10         1008      
 14         European_Chess_Bot        2869       -17        34        
 15         faith_bot                 2867       -8         1259      
@@ -30,7 +30,7 @@ Rank       Bot                       Rating     Prog       Games
 29         catriever                 2528       -7         392       
 30         TuksuBot                  2499       4          2169      
 31         Phalanx-XXV               2457       2          1058      
-32         Pseudo-0                  2446       -3         1267      
+32         Pseudo-0                  2449       0          1268      
 33         fornax-engine             2404       26         3793      
 34         OpeningsBot               2402       5          420       
 35         admete_bot                2401       9          4372      
@@ -39,7 +39,7 @@ Rank       Bot                       Rating     Prog       Games
 38         simpleEval                2352       5          7845      
 39         FlamingDragon_9000        2309       -12        1216      
 40         bekbot                    2279       -13        1589      
-41         halcyonbot                2264       -13        7042      
+41         halcyonbot                2261       -8         7043      
 42         Boris-Trapsky             2259       -11        27898     
 43         Nakshatra3                2233       -2         967       
 44         camel_bot                 2190       -2         596       
@@ -81,7 +81,7 @@ Rank       Bot                       Rating     Prog       Games
 80         yeoldwiz                  1648       3          714       
 81         ZE_ROOK                   1638       -20        645       
 82         simplexitor               1632       -7         559       
-83         maia5                     1585       20         104700    
+83         maia5                     1592       21         104701    
 84         dragobot                  1556       18         111       
 85         maia1                     1552       -6         238371    
 86         DavidsGuterBot            1542       -2         683       
@@ -94,7 +94,7 @@ Rank       Bot                       Rating     Prog       Games
 93         turochamp-1ply            1406       -16        1684      
 94         StupidChessRobot          1404       -8         77        
 95         RavenEngine_Depth2        1366       -42        32        
-96         sargon-2ply               1308       28         3479      
+96         sargon-2ply               1315       38         3480      
 97         pawnrobot                 1292       -5         770       
 98         sargon-1ply               1273       11         8885      
 99         schnecken_bot             1231       6          381       
