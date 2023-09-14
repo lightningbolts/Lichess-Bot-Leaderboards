@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
 1          M-Z_Bot                   2632       7          32        
-2          ReinforcementTrial        2631       1          349       
+2          ReinforcementTrial        2631       -1         350       
 3          YoBot_v2                  2629       0          610       
 4          ResoluteBot               2613       4          763       
 5          Nikitosik-ai              2609       -3         246       
@@ -52,8 +52,8 @@ Rank       Bot                       Rating     Prog       Games
 51         Demolito_L5               1709       -17        97        
 52         Virutor                   1698       -26        656       
 53         QuintBot                  1664       -28        66        
-54         simplexitor               1663       -18        138       
-55         honzovy-sachy             1663       -16        315       
+54         honzovy-sachy             1663       -16        315       
+55         simplexitor               1663       -18        138       
 56         sargon-4ply               1624       -29        462       
 57         turkjs                    1623       -11        926       
 58         maia5                     1600       4          23675     
