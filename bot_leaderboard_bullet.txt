@@ -2,13 +2,13 @@ Rank       Bot                       Rating     Prog       Games
 1          ToromBot                  2976       4          64035     
 2          Emptik-AI                 2970       0          283       
 3          TheMatrix2025             2954       1          7833      
-4          ReinforcementTrial        2950       -1         2084      
+4          ReinforcementTrial        2950       1          2085      
 5          FireFishBOT_v2            2949       1          1410      
 6          ProteusSF-Godot           2947       3          2200      
 7          ProteusSF-Aureo           2943       16         301       
-8          Mate-AI                   2938       10         13141     
-9          YoBot_v2                  2932       5          18847     
-10         ResoluteBot               2932       13         27411     
+8          Mate-AI                   2939       10         13142     
+9          ResoluteBot               2932       13         27411     
+10         YoBot_v2                  2932       5          18847     
 11         HansNiemannBot            2865       9          4952      
 12         blundar_bot               2829       10         10550     
 13         RaspFish                  2826       0          54258     
@@ -59,8 +59,8 @@ Rank       Bot                       Rating     Prog       Games
 58         Trollfish-Bot             1970       15         5509      
 59         BLANK_BOT                 1954       -7         7911      
 60         zeekat                    1921       -11        19890     
-61         QuintBot                  1884       5          9783      
-62         Demolito_L6               1884       -11        967       
+61         Demolito_L6               1884       -11        967       
+62         QuintBot                  1884       5          9783      
 63         NatesBot                  1869       -6         499       
 64         QueensGamBOT              1757       -18        5357      
 65         Demolito_L5               1749       9          1268      
@@ -85,7 +85,7 @@ Rank       Bot                       Rating     Prog       Games
 84         turochamp-2ply            1586       20         1726      
 85         monchester                1567       -1         2728      
 86         DavidsGuterBot            1520       -4         6534      
-87         RavenEngine_Depth2        1516       -9         153       
+87         RavenEngine_Depth2        1515       -8         154       
 88         RookieRobot               1511       77         44        
 89         maia1                     1453       30         126390    
 90         yeoldwiz                  1450       18         791       
