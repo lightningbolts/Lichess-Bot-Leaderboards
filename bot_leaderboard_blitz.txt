@@ -4,7 +4,7 @@ Rank       Bot                       Rating     Prog       Games
 3          M-Z_Bot                   2924       -3         829       
 4          ReinforcementTrial        2920       2          3127      
 5          ProteusSF-Godot           2918       0          1502      
-6          FireFishBOT_v2            2918       1          7579      
+6          FireFishBOT_v2            2917       1          7580      
 7          TorBot                    2912       7          1353      
 8          YoBot_v2                  2910       5          4211      
 9          ResoluteBot               2908       5          12326     
@@ -13,7 +13,7 @@ Rank       Bot                       Rating     Prog       Games
 12         Mate-AI                   2905       5          3605      
 13         HansNiemannBot            2895       2          3125      
 14         ArasanX                   2852       -5         2343      
-15         RaspFish                  2848       -9         12717     
+15         RaspFish                  2849       -9         12718     
 16         Nikitosik-ai              2843       4          1119      
 17         Mr_Chess_Berserk          2816       2          470       
 18         Viridithas                2806       27         601       
@@ -26,9 +26,9 @@ Rank       Bot                       Rating     Prog       Games
 25         FrozenightEngine          2614       -8         6531      
 26         Weiawaga                  2532       6          12223     
 27         SaxtonEngine              2519       -17        2522      
-28         bot_adario                2511       11         2579      
-29         pawn_git                  2511       -15        2778      
-30         Viceriever                2511       -52        311       
+28         Viceriever                2511       -52        311       
+29         bot_adario                2511       11         2579      
+30         pawn_git                  2511       -15        2778      
 31         Cheng-4                   2498       -21        6834      
 32         TuksuBot                  2438       -2         4251      
 33         OpeningsBot               2434       21         1413      
@@ -58,7 +58,7 @@ Rank       Bot                       Rating     Prog       Games
 57         redtail-zero              2049       14         626       
 58         myopic-bot                2033       18         2479      
 59         Elmichess                 2021       8          3723      
-60         MaxtheDog                 2000       6          5177      
+60         MaxtheDog                 2003       11         5178      
 61         LeelaRogue                1992       8          2403      
 62         GarboBot                  1990       2          9813      
 63         BLANK_BOT                 1979       15         5187      
@@ -71,7 +71,7 @@ Rank       Bot                       Rating     Prog       Games
 70         Trollfish-Bot             1857       -11        2603      
 71         Demolito_L6               1843       -6         1586      
 72         NatesBot                  1832       -2         1451      
-73         baby_eubos                1811       23         8625      
+73         baby_eubos                1809       23         8626      
 74         notropis                  1765       14         7137      
 75         Dinora                    1753       -10        280       
 76         ShallowRedBot             1744       -20        457       
@@ -80,11 +80,11 @@ Rank       Bot                       Rating     Prog       Games
 79         piglet_engine             1669       13         236       
 80         AshNostromo               1668       -17        1046      
 81         QueensGamBOT              1666       -5         3259      
-82         Demolito_L5               1665       7          2371      
+82         maia9                     1660       -7         105139    
 83         Jibbby                    1659       -11        5800      
-84         maia9                     1653       -16        105137    
-85         ArduChessBot              1634       11         1415      
-86         ChessChildren             1630       -4         21777     
+84         Demolito_L5               1658       -4         2372      
+85         ChessChildren             1637       1          21778     
+86         ArduChessBot              1634       11         1415      
 87         simplexitor               1626       -16        2404      
 88         HardRok                   1585       12         974       
 89         yeoldwiz                  1575       16         1962      
