@@ -72,7 +72,7 @@ Rank       Bot                       Rating     Prog       Games
 71         ShallowRedBot             1742       -21        358       
 72         honzovy-sachy             1735       23         5257      
 73         notropis                  1733       -13        4308      
-74         piglet_engine             1721       -14        962       
+74         piglet_engine             1725       -4         963       
 75         simplexitor               1721       0          2441      
 76         ArduChessBot              1704       4          5808      
 77         Virutor                   1700       22         7027      
@@ -81,8 +81,8 @@ Rank       Bot                       Rating     Prog       Games
 80         ChessChildren             1653       8          15639     
 81         rudim-bot                 1644       -29        160       
 82         maia5                     1615       3          40072     
-83         turkjs                    1615       -1         19477     
-84         ZE_ROOK                   1615       13         2247      
+83         ZE_ROOK                   1612       13         2248      
+84         turkjs                    1611       -8         19478     
 85         sargon-3ply               1597       16         1545      
 86         sudobot_chess             1590       -295       227       
 87         turochamp-2ply            1573       -13        1744      
