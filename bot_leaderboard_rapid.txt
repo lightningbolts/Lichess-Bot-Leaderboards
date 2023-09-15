@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ToromBot                  2919       1          2533      
-2          ResoluteBot               2912       17         5590      
-3          LeelaMultiPoss            2911       3          395       
+2          LeelaMultiPoss            2912       7          396       
+3          ResoluteBot               2912       17         5590      
 4          EmptikBot                 2911       17         417       
 5          ProteusSF-Aureo           2909       12         23        
 6          ProteusSF-Godot           2907       1          243       
@@ -23,7 +23,7 @@ Rank       Bot                       Rating     Prog       Games
 22         AKS-Mantissa              2631       -9         4269      
 23         LazyBot                   2599       8          786       
 24         bot_adario                2591       10         1470      
-25         SaxtonEngine              2584       1          1481      
+25         SaxtonEngine              2582       -2         1482      
 26         pawn_git                  2567       -23        1418      
 27         catriever                 2551       20         398       
 28         Cheng-4                   2542       -10        3306      
@@ -40,7 +40,7 @@ Rank       Bot                       Rating     Prog       Games
 39         bekbot                    2289       15         1638      
 40         Nakshatra3                2250       15         972       
 41         Boris-Trapsky             2245       -7         27907     
-42         halcyonbot                2216       -27        7085      
+42         halcyonbot                2209       -29        7086      
 43         camel_bot                 2197       10         618       
 44         eubos                     2177       -2         4348      
 45         honzovy-sachy-2           2174       18         3737      
@@ -84,7 +84,7 @@ Rank       Bot                       Rating     Prog       Games
 83         yeoldwiz                  1638       -22        718       
 84         HardRok                   1585       8          783       
 85         dragobot                  1563       26         112       
-86         maia1                     1545       21         238755    
+86         maia1                     1548       21         238756    
 87         ArduChessBot              1539       2          444       
 88         DavidsGuterBot            1535       -11        685       
 89         sargon-3ply               1530       11         1238      
