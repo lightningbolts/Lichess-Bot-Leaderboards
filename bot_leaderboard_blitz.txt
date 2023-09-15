@@ -1,10 +1,10 @@
 Rank       Bot                       Rating     Prog       Games     
 1          LeelaMultiPoss            2940       13         659       
 2          M-Z_Bot                   2924       -3         848       
-3          FireFishBOT_v2            2916       -10        7678      
+3          FireFishBOT_v2            2916       -9         7679      
 4          European_Chess_Bot        2914       1          60        
 5          EmptikBot                 2913       1          563       
-6          ReinforcementTrial        2911       0          3171      
+6          ReinforcementTrial        2912       1          3172      
 7          VariantsTop               2910       -2         645       
 8          ResoluteBot               2907       1          12350     
 9          YoBot_v2                  2900       -8         4228      
@@ -17,8 +17,8 @@ Rank       Bot                       Rating     Prog       Games
 16         faith_bot                 2766       3          806       
 17         LazyBot                   2687       4          2053      
 18         ELO_1500                  2641       4          13311     
-19         expositor                 2616       -7         7700      
-20         FrozenightEngine          2616       0          6544      
+19         FrozenightEngine          2616       0          6544      
+20         expositor                 2616       -7         7700      
 21         AKS-Mantissa              2615       1          10589     
 22         Weiawaga                  2547       17         12242     
 23         MrChessTheBot             2542       -53        2009      
@@ -80,8 +80,8 @@ Rank       Bot                       Rating     Prog       Games
 79         ChessChildren             1637       4          21785     
 80         ArduChessBot              1636       1          1428      
 81         simplexitor               1616       -17        2412      
-82         HardRok                   1590       15         978       
-83         maia5                     1582       25         104783    
+82         maia5                     1592       31         104785    
+83         HardRok                   1590       15         978       
 84         yeoldwiz                  1573       -2         1971      
 85         turkjs                    1554       -23        10439     
 86         ZE_ROOK                   1554       -15        3280      
@@ -89,8 +89,8 @@ Rank       Bot                       Rating     Prog       Games
 88         ChamberiAjedrez           1491       -70        322       
 89         sargon-4ply               1457       -27        2166      
 90         sargon-3ply               1448       1          2057      
-91         maia1                     1434       -12        213208    
-92         DavidsGuterBot            1430       -22        3790      
+91         DavidsGuterBot            1430       -22        3790      
+92         maia1                     1427       -17        213209    
 93         turochamp-2ply            1385       2          1783      
 94         monchester                1369       1          2830      
 95         GuineaBot3                1340       -58        162       
