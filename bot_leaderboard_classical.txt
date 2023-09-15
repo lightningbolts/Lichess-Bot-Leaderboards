@@ -1,8 +1,8 @@
 Rank       Bot                       Rating     Prog       Games     
 1          M-Z_Bot                   2645       13         40        
 2          ReinforcementTrial        2634       3          362       
-3          YoBot_v2                  2629       0          610       
-4          ResoluteBot               2613       4          763       
+3          YoBot_v2                  2629       -3         611       
+4          ResoluteBot               2613       3          764       
 5          Nikitosik-ai              2612       -1         247       
 6          RaspFish                  2603       -3         718       
 7          Mr_Chess_Berserk          2580       -2         79        
@@ -17,7 +17,7 @@ Rank       Bot                       Rating     Prog       Games
 16         LazyBot                   2356       27         203       
 17         catriever                 2349       2          317       
 18         SaxtonEngine              2330       5          508       
-19         pawn_git                  2319       4          302       
+19         pawn_git                  2317       4          303       
 20         Cheng-4                   2289       -2         1599      
 21         Weiawaga                  2277       10         5850      
 22         FlamingDragon_9000        2238       -18        514       
@@ -69,4 +69,3 @@ Rank       Bot                       Rating     Prog       Games
 68         kireevi                   1324       -30        248       
 69         sargon-1ply               1308       10         3426      
 70         bobandi                   1205       41         192       
-71         G0thamB0t                 772        -12        222       
