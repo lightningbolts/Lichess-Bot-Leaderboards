@@ -1,12 +1,12 @@
 Rank       Bot                       Rating     Prog       Games     
-1          VariantsTop               2917       2          104       
+1          VariantsTop               2917       -3         105       
 2          EmptikBot                 2911       17         417       
 3          LeelaMultiPoss            2910       16         388       
 4          M-Z_Bot                   2908       2          119       
 5          ResoluteBot               2906       10         5586      
 6          FireFishBOT_v2            2905       -3         921       
 7          ReinforcementTrial        2899       -4         5623      
-8          RaspFish                  2898       9          6109      
+8          RaspFish                  2898       9          6110      
 9          YoBot_v2                  2897       -2         13292     
 10         Nikitosik-ai              2885       4          1050      
 11         ArasanX                   2878       0          5999      
@@ -48,8 +48,8 @@ Rank       Bot                       Rating     Prog       Games
 47         MaxtheDog                 2093       23         816       
 48         redtail-zero              2088       3          519       
 49         jangine                   2084       2          1881      
-50         likeawizard-bot           2072       -19        1287      
-51         GarboBot                  2069       17         6276      
+50         GarboBot                  2069       17         6276      
+51         likeawizard-bot           2067       -21        1288      
 52         myopic-bot                2063       18         559       
 53         zeekat                    2044       19         9078      
 54         AjedrezChamberi           2036       -33        130       
@@ -70,8 +70,8 @@ Rank       Bot                       Rating     Prog       Games
 69         zulu_bot                  1776       3          110       
 70         ShallowRedBot             1764       5          75        
 71         Demolito_L5               1732       8          1784      
-72         maia9                     1718       -5         88097     
-73         AshNostromo               1717       16         1293      
+72         AshNostromo               1717       16         1293      
+73         maia9                     1712       -12        88098     
 74         ChessChildren             1710       -11        4606      
 75         Jibbby                    1675       -19        1982      
 76         maia5                     1670       -18        104820    
@@ -81,7 +81,7 @@ Rank       Bot                       Rating     Prog       Games
 80         simplexitor               1629       1          564       
 81         HardRok                   1591       4          782       
 82         dragobot                  1563       26         112       
-83         maia1                     1546       -12        238689    
+83         maia1                     1551       2          238690    
 84         DavidsGuterBot            1538       -11        684       
 85         ArduChessBot              1531       3          443       
 86         sargon-3ply               1530       12         1235      
