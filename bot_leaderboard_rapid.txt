@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
 1          M-Z_Bot                   2921       14         135       
-2          ToromBot                  2914       -5         2546      
+2          ToromBot                  2914       -5         2547      
 3          ResoluteBot               2911       11         5594      
 4          ProteusSF-Aureo           2909       12         23        
 5          ProteusSF-Godot           2907       1          243       
@@ -8,7 +8,7 @@ Rank       Bot                       Rating     Prog       Games
 7          YoBot_v2                  2900       1          13299     
 8          ReinforcementTrial        2894       -4         5633      
 9          RaspFish                  2890       -2         6125      
-10         ArasanX                   2883       -5         6025      
+10         ArasanX                   2883       0          6026      
 11         Nikitosik-ai              2880       -6         1057      
 12         Mate-AI                   2877       4          2610      
 13         faith_bot                 2845       5          1333      
@@ -29,8 +29,8 @@ Rank       Bot                       Rating     Prog       Games
 28         Phalanx-XXV               2456       -1         1069      
 29         Pseudo-0                  2451       8          1275      
 30         admete_bot                2416       16         4384      
-31         odonata-bot               2404       20         3850      
-32         fornax-engine             2404       26         3793      
+31         fornax-engine             2404       26         3793      
+32         odonata-bot               2404       20         3850      
 33         simpleEval                2366       10         7862      
 34         OpeningsBot               2358       -35        433       
 35         FlamingDragon_9000        2309       -12        1216      
@@ -71,13 +71,13 @@ Rank       Bot                       Rating     Prog       Games
 70         Demolito_L5               1745       17         1798      
 71         AshNostromo               1707       4          1295      
 72         ChessChildren             1704       -8         4608      
-73         maia9                     1692       -4         88148     
+73         maia9                     1687       -12        88149     
 74         Jibbby                    1683       5          1989      
 75         turkjs                    1667       18         5164      
 76         ZE_ROOK                   1646       1          650       
 77         simplexitor               1644       3          567       
 78         yeoldwiz                  1637       -18        721       
-79         maia5                     1609       -28        104883    
+79         maia5                     1611       -32        104884    
 80         dragobot                  1563       26         112       
 81         maia1                     1561       14         238818    
 82         ArduChessBot              1539       2          444       
