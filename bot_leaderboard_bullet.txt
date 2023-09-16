@@ -5,12 +5,12 @@ Rank       Bot                       Rating     Prog       Games
 4          FireFishBOT_v2            2951       0          1433      
 5          ResoluteBot               2951       2          27476     
 6          ProteusSF-Godot           2947       3          2200      
-7          Mate-AI                   2945       5          13274     
+7          Mate-AI                   2945       0          13275     
 8          ProteusSF-Aureo           2943       16         301       
-9          ReinforcementTrial        2939       6          2181      
-10         TorBot                    2929       3          6514      
+9          ReinforcementTrial        2939       2          2182      
+10         TorBot                    2928       2          6515      
 11         YoBot_v2                  2919       -2         18908     
-12         Nikitosik-ai              2869       -8         4005      
+12         Nikitosik-ai              2870       -5         4006      
 13         RaspFish                  2838       7          54380     
 14         faith_bot                 2834       21         3273      
 15         blundar_bot               2818       6          10871     
@@ -23,7 +23,7 @@ Rank       Bot                       Rating     Prog       Games
 22         pawn_git                  2498       -7         4697      
 23         AKS-Mantissa              2487       -2         11573     
 24         balancefish               2484       5          113       
-25         catriever                 2472       7          2092      
+25         catriever                 2472       7          2093      
 26         Weiawaga                  2470       -12        16576     
 27         Elmichess                 2459       -35        3225      
 28         ELO_1500                  2454       16         3316      
@@ -51,9 +51,9 @@ Rank       Bot                       Rating     Prog       Games
 50         redtail-zero              2074       -7         928       
 51         likeawizard-bot           2054       -21        2252      
 52         myopic-bot                2039       16         2368      
-53         MaxtheDog                 2026       23         15972     
+53         sun_bird                  2025       -4         1668      
 54         Trollfish-Bot             2023       24         5600      
-55         sun_bird                  2019       -12        1667      
+55         MaxtheDog                 2020       13         15973     
 56         LazyBotJr                 2002       32         977       
 57         GarboBot                  1988       -5         10068     
 58         BLANK_BOT                 1988       17         7938      
@@ -68,7 +68,7 @@ Rank       Bot                       Rating     Prog       Games
 67         honzovy-sachy             1741       24         5263      
 68         ShallowRedBot             1739       -22        361       
 69         HardRok                   1729       -23        879       
-70         baby_eubos                1723       -23        6220      
+70         baby_eubos                1722       -20        6221      
 71         ArduChessBot              1715       4          5824      
 72         simplexitor               1713       7          2445      
 73         piglet_engine             1711       -19        968       
