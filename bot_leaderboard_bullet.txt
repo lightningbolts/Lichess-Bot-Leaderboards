@@ -1,10 +1,10 @@
 Rank       Bot                       Rating     Prog       Games     
-1          VariantsTop               2999       9          2053      
+1          VariantsTop               2998       4          2054      
 2          ToromBot                  2967       -1         64223     
 3          FireFishBOT_v2            2955       5          1437      
 4          ResoluteBot               2952       3          27485     
 5          ProteusSF-Godot           2947       3          2200      
-6          Mate-AI                   2943       -1         13283     
+6          Mate-AI                   2944       0          13284     
 7          ProteusSF-Aureo           2943       16         301       
 8          ReinforcementTrial        2935       -5         2202      
 9          YoBot_v2                  2925       5          18911     
@@ -32,7 +32,7 @@ Rank       Bot                       Rating     Prog       Games
 31         bot_adario                2406       10         2838      
 32         MrChessTheBot             2393       -52        5912      
 33         AjedrezChamberi           2382       30         541       
-34         OpeningsBot               2370       -1         1819      
+34         OpeningsBot               2370       -1         1823      
 35         TuksuBot                  2369       -9         7380      
 36         odonata-bot               2363       1          6633      
 37         fornax-engine             2355       10         7177      
@@ -90,11 +90,11 @@ Rank       Bot                       Rating     Prog       Games
 89         monchester                1548       -21        2738      
 90         DavidsGuterBot            1523       10         6577      
 91         king-forward-bot          1477       -69        29        
-92         botTideEval               1456       18         3383      
-93         yeoldwiz                  1450       18         791       
+92         yeoldwiz                  1450       18         791       
+93         botTideEval               1449       6          3384      
 94         sargon-2ply               1417       6          2664      
 95         turochamp-1ply            1397       -27        2307      
-96         StupidChessRobot          1384       -2         1103      
+96         StupidChessRobot          1391       4          1104      
 97         sargon-1ply               1383       20         4971      
 98         dragobot                  1279       -71        71        
 99         pawnrobot                 1256       5          4054      
