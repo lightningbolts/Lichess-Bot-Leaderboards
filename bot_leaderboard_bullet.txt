@@ -30,7 +30,7 @@ Rank       Bot                       Rating     Prog       Games
 29         bot_adario                2406       10         2838      
 30         MrChessTheBot             2393       -52        5912      
 31         AjedrezChamberi           2382       30         541       
-32         OpeningsBot               2380       4          1737      
+32         OpeningsBot               2380       -1         1741      
 33         TuksuBot                  2369       -9         7380      
 34         odonata-bot               2363       1          6633      
 35         fornax-engine             2355       10         7177      
@@ -45,7 +45,7 @@ Rank       Bot                       Rating     Prog       Games
 44         honzovy-sachy-2           2163       -1         7549      
 45         matmoi                    2149       25         3312      
 46         eubos                     2115       16         13635     
-47         camel_bot                 2110       -20        1313      
+47         camel_bot                 2100       -35        1314      
 48         jangine                   2093       -5         3499      
 49         Sem1Rose                  2082       -6         164       
 50         likeawizard-bot           2080       27         2268      
@@ -63,13 +63,13 @@ Rank       Bot                       Rating     Prog       Games
 62         Demolito_L6               1878       7          1003      
 63         QueensGamBOT              1791       21         5379      
 64         Demolito_L5               1770       6          1285      
-65         honzovy-sachy             1750       14         5267      
+65         honzovy-sachy             1755       20         5268      
 66         ShallowRedBot             1747       -2         368       
 67         Dinora                    1743       -5         200       
 68         notropis                  1739       8          4318      
-69         simplexitor               1727       17         2449      
+69         simplexitor               1738       26         2450      
 70         baby_eubos                1718       -4         6232      
-71         ArduChessBot              1716       0          5834      
+71         ArduChessBot              1711       -4         5835      
 72         maia9                     1709       18         61698     
 73         piglet_engine             1708       -21        971       
 74         Jibbby                    1683       6          2642      
@@ -86,7 +86,7 @@ Rank       Bot                       Rating     Prog       Games
 85         maia1                     1555       -20        126505    
 86         monchester                1553       -16        2736      
 87         DavidsGuterBot            1526       10         6575      
-88         king-forward-bot          1496       25         26        
+88         king-forward-bot          1491       -26        27        
 89         yeoldwiz                  1450       18         791       
 90         botTideEval               1445       19         3379      
 91         sargon-2ply               1423       7          2663      
