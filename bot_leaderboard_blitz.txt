@@ -1,13 +1,13 @@
 Rank       Bot                       Rating     Prog       Games     
-1          M-Z_Bot                   2932       3          865       
-2          YoBot_v2                  2921       12         4244      
+1          M-Z_Bot                   2932       -1         866       
+2          YoBot_v2                  2921       7          4245      
 3          ProteusSF-Godot           2918       0          1502      
 4          ResoluteBot               2915       8          12379     
 5          European_Chess_Bot        2914       1          63        
 6          Mate-AI                   2910       10         3637      
 7          ProteusSF-Aureo           2907       -1         92        
-8          TorBot                    2906       -2         1420      
-9          ReinforcementTrial        2905       -1         3194      
+8          TorBot                    2906       -4         1421      
+9          ReinforcementTrial        2905       -1         3195      
 10         FireFishBOT_v2            2903       -1         7752      
 11         ArasanX                   2861       -4         2397      
 12         RaspFish                  2853       5          12812     
@@ -18,8 +18,8 @@ Rank       Bot                       Rating     Prog       Games
 17         LazyBot                   2687       4          2053      
 18         ELO_1500                  2646       9          13317     
 19         FrozenightEngine          2633       17         6555      
-20         expositor                 2621       3          7708      
-21         AKS-Mantissa              2621       3          10606     
+20         AKS-Mantissa              2621       3          10606     
+21         expositor                 2621       3          7708      
 22         MrChessTheBot             2542       -53        2009      
 23         Weiawaga                  2529       -7         12262     
 24         pawn_git                  2518       2          2803      
@@ -37,7 +37,7 @@ Rank       Bot                       Rating     Prog       Games
 36         Viceriever                2372       -69        329       
 37         fornax-engine             2337       -8         6705      
 38         FlamingDragon_9000        2323       19         3331      
-39         simpleEval                2305       11         15523     
+39         simpleEval                2305       17         15524     
 40         bekbot                    2287       -22        1718      
 41         Nakshatra3                2246       10         1833      
 42         halcyonbot                2228       13         10646     
@@ -89,7 +89,7 @@ Rank       Bot                       Rating     Prog       Games
 88         sudobot_chess             1539       -74        402       
 89         ChamberiAjedrez           1491       -70        322       
 90         sargon-4ply               1462       -13        2171      
-91         maia1                     1440       29         213342    
+91         maia1                     1437       14         213344    
 92         sargon-3ply               1435       -13        2060      
 93         DavidsGuterBot            1430       -26        3791      
 94         turochamp-2ply            1390       -9         1786      
@@ -98,8 +98,8 @@ Rank       Bot                       Rating     Prog       Games
 97         sargon-1ply               1290       -13        8477      
 98         sargon-2ply               1252       0          3263      
 99         pawnrobot                 1248       -12        2253      
-100        chat_bot                  1226       -2         339       
-101        turochamp-1ply            1226       2          1915      
+100        turochamp-1ply            1226       2          1915      
+101        chat_bot                  1226       -2         339       
 102        dragobot                  1201       -16        208       
 103        schnecken_bot             1147       -22        2298      
 104        knucklefish               1045       -14        3381      
