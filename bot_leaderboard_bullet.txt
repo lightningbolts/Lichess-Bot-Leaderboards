@@ -19,11 +19,11 @@ Rank       Bot                       Rating     Prog       Games
 18         FlamingDragon_9000        2524       -5         10619     
 19         pawn_git                  2511       16         4706      
 20         Viceriever                2486       -33        730       
-21         balancefish               2484       5          113       
-22         AKS-Mantissa              2484       -5         11576     
+21         AKS-Mantissa              2484       -5         11576     
+22         balancefish               2484       5          113       
 23         Weiawaga                  2467       -3         16590     
-24         ELO_1500                  2465       16         3320      
-25         catriever                 2465       -10        2100      
+24         catriever                 2465       -10        2100      
+25         ELO_1500                  2465       16         3320      
 26         SaxtonEngine              2459       15         4711      
 27         Elmichess                 2459       -35        3225      
 28         bfiedler-bot              2436       -60        82        
@@ -34,7 +34,7 @@ Rank       Bot                       Rating     Prog       Games
 33         odonata-bot               2371       14         6639      
 34         fornax-engine             2355       10         7177      
 35         simpleEval                2334       3          25677     
-36         OpeningsBot               2325       -2         2129      
+36         OpeningsBot               2325       -1         2133      
 37         admete_bot                2321       16         8526      
 38         bekbot                    2290       9          1821      
 39         Nakshatra3                2280       -7         1830      
@@ -48,7 +48,7 @@ Rank       Bot                       Rating     Prog       Games
 47         camel_bot                 2067       -13        1341      
 48         likeawizard-bot           2063       -13        2281      
 49         myopic-bot                2062       23         2379      
-50         MaxtheDog                 2033       10         16014     
+50         MaxtheDog                 2036       18         16015     
 51         Trollfish-Bot             2005       -41        5644      
 52         LazyBotJr                 2002       32         977       
 53         GarboBot                  2000       7          10071     
@@ -57,7 +57,7 @@ Rank       Bot                       Rating     Prog       Games
 56         zeekat                    1929       20         20003     
 57         QuintBot                  1899       24         10027     
 58         NatesBot                  1898       7          536       
-59         Demolito_L6               1874       6          1006      
+59         Demolito_L6               1871       0          1007      
 60         QueensGamBOT              1806       15         5388      
 61         Demolito_L5               1773       10         1289      
 62         notropis                  1753       21         4331      
@@ -81,8 +81,8 @@ Rank       Bot                       Rating     Prog       Games
 80         monchester                1554       -4         2742      
 81         maia1                     1546       11         126644    
 82         DavidsGuterBot            1506       -20        6586      
-83         botTideEval               1450       3          3399      
-84         yeoldwiz                  1450       18         791       
+83         yeoldwiz                  1450       18         791       
+84         botTideEval               1450       3          3399      
 85         king-forward-bot          1412       -100       34        
 86         turochamp-1ply            1411       -7         2311      
 87         StupidChessRobot          1399       12         1110      
@@ -90,6 +90,6 @@ Rank       Bot                       Rating     Prog       Games
 89         sargon-1ply               1364       -8         4980      
 90         dragobot                  1279       -71        71        
 91         pawnrobot                 1246       -15        4059      
-92         schnecken_bot             1230       7          1227      
-93         knucklefish               1230       -12        2930      
+92         knucklefish               1230       -12        2930      
+93         schnecken_bot             1230       7          1227      
 94         bobandi                   1203       0          1148      
