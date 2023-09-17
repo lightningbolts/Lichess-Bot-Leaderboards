@@ -18,8 +18,8 @@ Rank       Bot                       Rating     Prog       Games
 17         pawn_git                  2508       4          4721      
 18         balancefish               2484       5          113       
 19         catriever                 2470       -4         2107      
-20         ELO_1500                  2469       17         3323      
-21         Viceriever                2469       -28        736       
+20         Viceriever                2469       -28        736       
+21         ELO_1500                  2469       17         3323      
 22         Weiawaga                  2466       5          16605     
 23         Elmichess                 2459       -35        3225      
 24         AKS-Mantissa              2458       -13        11597     
@@ -35,7 +35,7 @@ Rank       Bot                       Rating     Prog       Games
 34         simpleEval                2323       -8         25694     
 35         bekbot                    2298       13         1829      
 36         Nakshatra3                2282       2          1842      
-37         halcyonbot                2262       0          6236      
+37         halcyonbot                2253       -6         6237      
 38         Lynx_BOT                  2174       -8         7499      
 39         matmoi                    2131       -25        3341      
 40         eubos                     2115       16         13635     
@@ -49,7 +49,7 @@ Rank       Bot                       Rating     Prog       Games
 48         LazyBotJr                 2002       32         977       
 49         GarboBot                  2000       7          10071     
 50         Trollfish-Bot             1986       -19        5668      
-51         sun_bird                  1971       -13        1753      
+51         sun_bird                  1981       -5         1754      
 52         zeekat                    1927       8          20018     
 53         QuintBot                  1917       10         10065     
 54         NatesBot                  1887       -18        542       
@@ -62,11 +62,11 @@ Rank       Bot                       Rating     Prog       Games
 61         simplexitor               1728       9          2457      
 62         maia9                     1721       32         61738     
 63         baby_eubos                1717       -24        6257      
-64         ArduChessBot              1714       6          5858      
-65         piglet_engine             1710       -9         977       
+64         piglet_engine             1715       2          978       
+65         ArduChessBot              1714       6          5858      
 66         Jibbby                    1677       -6         2654      
 67         rudim-bot                 1644       -29        160       
-68         turkjs                    1641       22         19493     
+68         turkjs                    1636       14         19494     
 69         ZE_ROOK                   1617       7          2264      
 70         sargon-3ply               1606       9          1554      
 71         sudobot_chess             1590       -295       227       
