@@ -1,9 +1,9 @@
 Rank       Bot                       Rating     Prog       Games     
 1          M-Z_Bot                   2944       -1         904       
-2          FireFishBOT_v2            2931       -2         7928      
+2          FireFishBOT_v2            2929       -4         7930      
 3          ToromBot                  2927       -3         5063      
-4          ResoluteBot               2922       -1         12438     
-5          YoBot_v2                  2922       -3         4290      
+4          YoBot_v2                  2922       -3         4290      
+5          ResoluteBot               2922       -1         12438     
 6          ProteusSF-Godot           2918       0          1502      
 7          Mate-AI                   2917       6          3661      
 8          ProteusSF-Aureo           2907       -1         92        
@@ -12,7 +12,7 @@ Rank       Bot                       Rating     Prog       Games
 11         RaspFish                  2877       0          12918     
 12         StockFish16_2023          2874       -47        33        
 13         ArasanX                   2871       4          2422      
-14         SF-NNUE                   2862       -6         158       
+14         SF-NNUE                   2864       -2         160       
 15         Vanilla_v2                2858       7          78        
 16         Nikitosik-ai              2838       -23        1182      
 17         blundar_bot               2808       7          1581      
@@ -49,7 +49,7 @@ Rank       Bot                       Rating     Prog       Games
 48         likeawizard-bot           2033       8          4909      
 49         myopic-bot                2026       8          2537      
 50         Elmichess                 2021       8          3723      
-51         BLANK_BOT                 2004       9          5242      
+51         BLANK_BOT                 2010       20         5243      
 52         GarboBot                  1996       0          9878      
 53         LeelaRogue                1992       8          2403      
 54         LazyBotJr                 1931       -28        1971      
@@ -77,7 +77,7 @@ Rank       Bot                       Rating     Prog       Games
 76         sudobot_chess             1539       -74        402       
 77         turkjs                    1531       -20        10452     
 78         sargon-4ply               1518       64         2186      
-79         maia5                     1486       13         104982    
+79         maia5                     1492       22         104983    
 80         sargon-3ply               1448       -3         2067      
 81         maia1                     1430       31         213558    
 82         DavidsGuterBot            1426       -4         3801      
