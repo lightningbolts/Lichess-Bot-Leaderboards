@@ -15,7 +15,7 @@ Rank       Bot                       Rating     Prog       Games
 14         faith_bot                 2838       24         3279      
 15         StockFish16_2023          2831       -12        26        
 16         LazyBot                   2687       5          1430      
-17         expositor                 2613       2          21427     
+17         expositor                 2609       -4         21428     
 18         FrozenightEngine          2596       3          9433      
 19         FlamingDragon_9000        2524       -5         10619     
 20         pawn_git                  2508       0          4723      
@@ -26,7 +26,7 @@ Rank       Bot                       Rating     Prog       Games
 25         Viceriever                2464       -22        741       
 26         Elmichess                 2459       -35        3225      
 27         AKS-Mantissa              2455       -4         11599     
-28         SaxtonEngine              2447       -10        4731      
+28         SaxtonEngine              2447       9          4735      
 29         bfiedler-bot              2436       -60        82        
 30         bot_adario                2406       10         2838      
 31         MrChessTheBot             2393       -52        5912      
@@ -91,5 +91,5 @@ Rank       Bot                       Rating     Prog       Games
 90         sargon-1ply               1364       -9         4992      
 91         dragobot                  1261       -117       74        
 92         pawnrobot                 1250       -6         4065      
-93         knucklefish               1236       11         2944      
+93         knucklefish               1243       10         2945      
 94         schnecken_bot             1231       6          1232      
