@@ -11,7 +11,7 @@ Rank       Bot                       Rating     Prog       Games
 10         blundar_bot               2853       10         11015     
 11         faith_bot                 2838       24         3279      
 12         LazyBot                   2687       5          1430      
-13         expositor                 2620       1          21382     
+13         expositor                 2616       -5         21383     
 14         FrozenightEngine          2590       3          9430      
 15         FlamingDragon_9000        2524       -5         10619     
 16         pawn_git                  2508       4          4721      
@@ -40,9 +40,9 @@ Rank       Bot                       Rating     Prog       Games
 39         matmoi                    2131       -25        3341      
 40         eubos                     2115       16         13635     
 41         jangine                   2098       -3         3523      
-42         redtail-zero              2078       14         943       
-43         MaxtheDog                 2074       28         16034     
-44         camel_bot                 2064       4          1353      
+42         redtail-zero              2078       9          944       
+43         MaxtheDog                 2077       25         16036     
+44         camel_bot                 2068       9          1354      
 45         likeawizard-bot           2051       12         2308      
 46         myopic-bot                2049       -1         2383      
 47         BLANK_BOT                 2016       4          7965      
@@ -50,8 +50,8 @@ Rank       Bot                       Rating     Prog       Games
 49         GarboBot                  2000       7          10071     
 50         sun_bird                  1980       -4         1757      
 51         Trollfish-Bot             1966       -41        5672      
-52         zeekat                    1920       1          20020     
-53         QuintBot                  1914       5          10070     
+52         zeekat                    1917       -8         20021     
+53         QuintBot                  1910       -1         10071     
 54         NatesBot                  1887       -18        542       
 55         Demolito_L6               1870       3          1012      
 56         QueensGamBOT              1817       9          5395      
@@ -62,7 +62,7 @@ Rank       Bot                       Rating     Prog       Games
 61         maia9                     1726       37         61740     
 62         baby_eubos                1719       -24        6259      
 63         piglet_engine             1718       7          979       
-64         ArduChessBot              1713       5          5859      
+64         ArduChessBot              1715       4          5860      
 65         Jibbby                    1680       0          2655      
 66         rudim-bot                 1644       -29        160       
 67         turkjs                    1636       14         19494     
@@ -79,7 +79,7 @@ Rank       Bot                       Rating     Prog       Games
 78         botTideEval               1470       15         3411      
 79         yeoldwiz                  1450       18         791       
 80         turochamp-1ply            1405       -12        2313      
-81         StupidChessRobot          1404       21         1112      
+81         StupidChessRobot          1403       16         1113      
 82         sargon-2ply               1391       -26        2675      
 83         king-forward-bot          1389       -107       37        
 84         sargon-1ply               1369       2          4990      
