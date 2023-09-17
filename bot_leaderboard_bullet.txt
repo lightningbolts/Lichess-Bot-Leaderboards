@@ -11,11 +11,11 @@ Rank       Bot                       Rating     Prog       Games
 10         European_Chess_Bot        2919       7          127       
 11         Nikitosik-ai              2875       6          4014      
 12         RaspFish                  2873       4          54479     
-13         blundar_bot               2856       11         11017     
-14         Jussicas                  2852       -20        400       
+13         blundar_bot               2856       11         11018     
+14         Jussicas                  2852       -18        401       
 15         faith_bot                 2838       24         3279      
 16         LazyBot                   2687       5          1430      
-17         expositor                 2613       9          21422     
+17         expositor                 2615       15         21423     
 18         FrozenightEngine          2592       -3         9432      
 19         FlamingDragon_9000        2524       -5         10619     
 20         pawn_git                  2508       0          4723      
@@ -34,7 +34,7 @@ Rank       Bot                       Rating     Prog       Games
 33         odonata-bot               2375       4          6645      
 34         TuksuBot                  2362       -8         7395      
 35         fornax-engine             2355       10         7177      
-36         admete_bot                2344       1          8646      
+36         admete_bot                2344       1          8650      
 37         OpeningsBot               2341       5          2303      
 38         simpleEval                2328       -1         25697     
 39         bekbot                    2307       9          1838      
@@ -88,8 +88,8 @@ Rank       Bot                       Rating     Prog       Games
 87         turochamp-1ply            1411       -1         2314      
 88         sargon-2ply               1387       -25        2676      
 89         king-forward-bot          1378       -113       38        
-90         sargon-1ply               1372       8          4991      
+90         sargon-1ply               1364       -9         4992      
 91         dragobot                  1261       -117       74        
 92         pawnrobot                 1250       -6         4065      
 93         knucklefish               1235       11         2943      
-94         schnecken_bot             1223       6          1231      
+94         schnecken_bot             1231       6          1232      
