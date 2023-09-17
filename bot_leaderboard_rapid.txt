@@ -45,7 +45,7 @@ Rank       Bot                       Rating     Prog       Games
 44         matmoi                    2158       -4         2289      
 45         redtail-zero              2109       32         538       
 46         jangine                   2095       17         1891      
-47         GarboBot                  2083       16         6300      
+47         GarboBot                  2084       15         6301      
 48         MaxtheDog                 2078       -5         824       
 49         myopic-bot                2065       0          573       
 50         likeawizard-bot           2055       -4         1334      
@@ -73,13 +73,13 @@ Rank       Bot                       Rating     Prog       Games
 72         ZE_ROOK                   1656       11         659       
 73         simplexitor               1648       20         573       
 74         yeoldwiz                  1636       -26        722       
-75         maia5                     1611       -40        105082    
+75         maia5                     1620       -23        105084    
 76         dragobot                  1569       2          115       
 77         sargon-3ply               1539       18         1242      
 78         ArduChessBot              1538       2          445       
 79         DavidsGuterBot            1529       -13        688       
-80         maia1                     1528       5          239319    
-81         sargon-4ply               1524       -16        678       
+80         sargon-4ply               1524       -16        678       
+81         maia1                     1523       6          239320    
 82         GuineaBot3                1489       -163       21        
 83         turochamp-2ply            1486       -13        1165      
 84         RoundMoundOfRebounds      1468       -7         382       
@@ -91,4 +91,5 @@ Rank       Bot                       Rating     Prog       Games
 90         schnecken_bot             1218       -20        390       
 91         chat_bot                  1182       -42        330       
 92         kireevi                   1108       2          592       
-93         G0thamB0t                 651        3          408       
+93         bobandi                   981        -20        772       
+94         G0thamB0t                 651        3          408       
