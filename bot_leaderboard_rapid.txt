@@ -5,7 +5,7 @@ Rank       Bot                       Rating     Prog       Games
 4          ProteusSF-Godot           2907       1          243       
 5          FireFishBOT_v2            2904       0          944       
 6          caissa-x                  2899       4          3172      
-7          RaspFish                  2898       4          6149      
+7          RaspFish                  2898       4          6150      
 8          YoBot_v2                  2897       1          13322     
 9          ReinforcementTrial        2895       1          5651      
 10         ArasanX                   2886       11         6059      
@@ -13,7 +13,7 @@ Rank       Bot                       Rating     Prog       Games
 12         Nikitosik-ai              2880       -6         1058      
 13         European_Chess_Bot        2875       -11        40        
 14         faith_bot                 2849       -5         1366      
-15         blundar_bot               2840       10         1291      
+15         blundar_bot               2840       10         1292      
 16         ELO_1500                  2704       -6         3392      
 17         MrChessTheBot             2689       -53        2243      
 18         FrozenightEngine          2659       2          5276      
@@ -48,7 +48,7 @@ Rank       Bot                       Rating     Prog       Games
 47         GarboBot                  2080       15         6298      
 48         MaxtheDog                 2078       -5         824       
 49         myopic-bot                2072       3          572       
-50         likeawizard-bot           2060       11         1325      
+50         likeawizard-bot           2064       19         1326      
 51         AjedrezChamberi           2036       -33        130       
 52         BLANK_BOT                 2022       -5         1784      
 53         LazyBotJr                 1998       24         1295      
@@ -58,7 +58,7 @@ Rank       Bot                       Rating     Prog       Games
 57         sun_bird                  1954       -7         118       
 58         baby_eubos                1952       12         1082      
 59         Dinora                    1918       4          93        
-60         NatesBot                  1900       -3         792       
+60         NatesBot                  1897       -4         793       
 61         QuintBot                  1878       -6         417       
 62         Demolito_L6               1875       11         1182      
 63         notropis                  1861       -3         2696      
@@ -70,10 +70,10 @@ Rank       Bot                       Rating     Prog       Games
 69         turkjs                    1707       13         5184      
 70         Jibbby                    1673       -1         2012      
 71         ZE_ROOK                   1656       18         656       
-72         maia5                     1652       35         105060    
+72         maia5                     1648       30         105061    
 73         simplexitor               1648       20         573       
 74         yeoldwiz                  1636       -26        722       
-75         maia1                     1574       -11        239273    
+75         maia1                     1569       -13        239274    
 76         dragobot                  1569       2          115       
 77         sargon-3ply               1539       18         1242      
 78         ArduChessBot              1538       2          445       
@@ -83,10 +83,11 @@ Rank       Bot                       Rating     Prog       Games
 82         turochamp-2ply            1486       -13        1165      
 83         RoundMoundOfRebounds      1468       -7         382       
 84         StupidChessRobot          1412       -3         85        
-85         turochamp-1ply            1371       -19        1702      
+85         turochamp-1ply            1368       -22        1703      
 86         sargon-1ply               1317       -18        8981      
 87         sargon-2ply               1314       9          3488      
 88         pawnrobot                 1299       7          773       
 89         schnecken_bot             1222       -10        389       
 90         chat_bot                  1198       -17        325       
 91         kireevi                   1109       3          591       
+92         G0thamB0t                 651        3          408       
