@@ -11,10 +11,10 @@ Rank       Bot                       Rating     Prog       Games
 10         European_Chess_Bot        2929       13         130       
 11         Nikitosik-ai              2875       6          4014      
 12         RaspFish                  2872       -1         54492     
-13         blundar_bot               2857       9          11022     
-14         StockFish16_2023          2842       26         32        
+13         StockFish16_2023          2859       36         35        
+14         blundar_bot               2857       9          11022     
 15         LazyBot                   2687       5          1430      
-16         expositor                 2612       -1         21450     
+16         expositor                 2609       -6         21451     
 17         FrozenightEngine          2596       3          9433      
 18         FlamingDragon_9000        2524       -5         10619     
 19         pawn_git                  2507       1          4724      
@@ -34,7 +34,7 @@ Rank       Bot                       Rating     Prog       Games
 33         TuksuBot                  2358       -12        7396      
 34         OpeningsBot               2356       14         2309      
 35         fornax-engine             2355       10         7177      
-36         admete_bot                2324       -2         8804      
+36         admete_bot                2324       -1         8808      
 37         simpleEval                2323       -5         25699     
 38         bekbot                    2301       -11        1848      
 39         Nakshatra3                2287       7          1846      
@@ -53,7 +53,7 @@ Rank       Bot                       Rating     Prog       Games
 52         likeawizard-bot           2026       -13        2336      
 53         LazyBotJr                 2002       32         977       
 54         Trollfish-Bot             1989       11         5700      
-55         sun_bird                  1946       -14        1787      
+55         sun_bird                  1948       -11        1788      
 56         zeekat                    1913       1          20048     
 57         QuintBot                  1907       -21        10111     
 58         Demolito_L6               1877       2          1021      
@@ -66,7 +66,7 @@ Rank       Bot                       Rating     Prog       Games
 65         Dinora                    1740       -7         210       
 66         simplexitor               1736       11         2465      
 67         piglet_engine             1721       7          986       
-68         ArduChessBot              1698       -17        5873      
+68         ArduChessBot              1695       -18        5874      
 69         maia9                     1690       -16        61757     
 70         Jibbby                    1677       4          2664      
 71         rudim-bot                 1644       -29        160       
@@ -78,8 +78,8 @@ Rank       Bot                       Rating     Prog       Games
 77         turochamp-2ply            1581       3          1753      
 78         sargon-4ply               1567       -8         1936      
 79         RoundMoundOfRebounds      1565       12         1567      
-80         maia1                     1553       -26        126750    
-81         monchester                1551       -10        2743      
+80         monchester                1551       -10        2743      
+81         maia1                     1544       -26        126751    
 82         DavidsGuterBot            1520       9          6599      
 83         botTideEval               1481       -7         3432      
 84         yeoldwiz                  1450       18         791       
@@ -88,7 +88,7 @@ Rank       Bot                       Rating     Prog       Games
 87         sargon-2ply               1394       -13        2677      
 88         king-forward-bot          1367       -120       39        
 89         sargon-1ply               1348       -14        4996      
-90         pawnrobot                 1261       11         4067      
-91         dragobot                  1261       -117       74        
+90         dragobot                  1261       -117       74        
+91         pawnrobot                 1261       11         4067      
 92         knucklefish               1249       9          2953      
 93         schnecken_bot             1236       8          1237      
