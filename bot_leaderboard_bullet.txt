@@ -3,10 +3,10 @@ Rank       Bot                       Rating     Prog       Games
 2          ToromBot                  2968       5          64360     
 3          FireFishBOT_v2            2959       10         1459      
 4          Mate-AI                   2945       -3         13316     
-5          YoBot_v2                  2945       -3         18987     
-6          ReinforcementTrial        2942       4          2315      
-7          EmanPureNN                2937       -3         4649      
-8          ResoluteBot               2935       11         27548     
+5          ReinforcementTrial        2942       4          2315      
+6          YoBot_v2                  2940       -8         18988     
+7          EmanPureNN                2937       -3         4650      
+8          ResoluteBot               2935       11         27549     
 9          TorBot                    2923       -3         6530      
 10         EmptikBot247              2892       -9         3070      
 11         blundar_bot               2888       -16        11168     
@@ -39,7 +39,7 @@ Rank       Bot                       Rating     Prog       Games
 38         Phalanx-XXV               2348       11         4674      
 39         Pseudo-0                  2341       1          4203      
 40         simpleEval                2323       3          25730     
-41         admete_bot                2313       5          9145      
+41         admete_bot                2313       -1         9150      
 42         bekbot                    2312       16         1856      
 43         Nakshatra3                2280       -3         1858      
 44         halcyonbot                2272       13         6273      
@@ -90,7 +90,7 @@ Rank       Bot                       Rating     Prog       Games
 89         monchester                1557       5          2751      
 90         maia5                     1545       -36        40193     
 91         DavidsGuterBot            1531       5          6612      
-92         maia1                     1523       -3         126854    
+92         maia1                     1522       -14        126855    
 93         botTideEval               1459       -25        3463      
 94         yeoldwiz                  1450       18         791       
 95         turochamp-1ply            1417       13         2319      
