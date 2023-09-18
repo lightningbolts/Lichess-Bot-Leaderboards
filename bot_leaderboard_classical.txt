@@ -1,10 +1,10 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ReinforcementTrial        2641       0          401       
+1          ReinforcementTrial        2641       1          402       
 2          ProteusSF-Aureo           2640       48         21        
 3          M-Z_Bot                   2636       -3         63        
 4          YoBot_v2                  2624       -4         634       
 5          ResoluteBot               2616       3          775       
-6          RaspFish                  2611       0          740       
+6          RaspFish                  2611       -1         741       
 7          Nikitosik-ai              2610       -9         256       
 8          ProteusSF-Godot           2607       3          317       
 9          ArasanX                   2577       15         197       
@@ -13,13 +13,13 @@ Rank       Bot                       Rating     Prog       Games
 12         AKS-Mantissa              2396       6          1107      
 13         FrozenightEngine          2388       16         4486      
 14         LazyBot                   2356       27         203       
-15         catriever                 2347       -1         327       
-16         SaxtonEngine              2330       0          518       
+15         catriever                 2350       1          328       
+16         SaxtonEngine              2329       -1         519       
 17         pawn_git                  2325       14         308       
-18         Weiawaga                  2276       -6         5865      
+18         Weiawaga                  2277       -9         5866      
 19         FlamingDragon_9000        2238       -18        514       
 20         TuksuBot                  2153       6          1043      
-21         Nakshatra3                2084       -7         196       
+21         Nakshatra3                2079       -4         197       
 22         simpleEval                2075       16         1894      
 23         FataliiBot                2011       -19        25        
 24         Boris-Trapsky             1998       -18        10533     
@@ -50,8 +50,8 @@ Rank       Bot                       Rating     Prog       Games
 49         maia5                     1616       -17        23741     
 50         turkjs                    1608       -15        937       
 51         yeoldwiz                  1589       -1         320       
-52         Jibbby                    1575       -14        84        
-53         turochamp-2ply            1575       -34        802       
+52         turochamp-2ply            1575       -34        802       
+53         Jibbby                    1575       -14        84        
 54         sargon-3ply               1565       -18        769       
 55         Trollfish-Bot             1536       5          61        
 56         chat_bot                  1528       11         69        
@@ -62,3 +62,4 @@ Rank       Bot                       Rating     Prog       Games
 61         sargon-2ply               1386       -23        1249      
 62         kireevi                   1320       -24        249       
 63         sargon-1ply               1296       4          3431      
+64         G0thamB0t                 771        -10        223       
