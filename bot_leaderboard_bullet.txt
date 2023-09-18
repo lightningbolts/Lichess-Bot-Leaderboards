@@ -30,7 +30,7 @@ Rank       Bot                       Rating     Prog       Games
 29         MrChessTheBot             2393       -52        5912      
 30         AjedrezChamberi           2382       30         541       
 31         odonata-bot               2378       6          6649      
-32         OpeningsBot               2363       -8         2325      
+32         OpeningsBot               2364       -7         2326      
 33         TuksuBot                  2355       -11        7405      
 34         fornax-engine             2355       10         7177      
 35         admete_bot                2323       0          8890      
@@ -45,7 +45,7 @@ Rank       Bot                       Rating     Prog       Games
 44         jangine                   2130       4          3546      
 45         eubos                     2115       16         13635     
 46         redtail-zero              2089       11         954       
-47         MaxtheDog                 2076       5          16102     
+47         MaxtheDog                 2073       -1         16103     
 48         likeawizard-bot           2064       19         2356      
 49         camel_bot                 2064       -2         1394      
 50         myopic-bot                2063       1          2397      
@@ -54,8 +54,8 @@ Rank       Bot                       Rating     Prog       Games
 53         LazyBotJr                 2002       32         977       
 54         sun_bird                  1943       -1         1826      
 55         Trollfish-Bot             1940       -2         5739      
-56         zeekat                    1930       19         20086     
-57         QuintBot                  1900       5          10166     
+56         zeekat                    1931       12         20088     
+57         QuintBot                  1903       2          10167     
 58         Demolito_L6               1884       0          1033      
 59         NatesBot                  1859       -16        556       
 60         QueensGamBOT              1826       13         5407      
@@ -77,8 +77,8 @@ Rank       Bot                       Rating     Prog       Games
 76         sudobot_chess             1590       -295       227       
 77         turochamp-2ply            1580       2          1758      
 78         sargon-4ply               1568       -8         1940      
-79         monchester                1555       1          2746      
-80         maia5                     1554       -24        40188     
+79         maia5                     1554       -24        40188     
+80         monchester                1554       1          2747      
 81         DavidsGuterBot            1541       18         6609      
 82         maia1                     1532       11         126823    
 83         botTideEval               1484       5          3452      
