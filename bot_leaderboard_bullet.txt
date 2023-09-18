@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          Emptik-AI-2               2974       -3         270       
 2          LeelaMultiPoss            2969       12         788       
-3          ToromBot                  2966       -10        64346     
+3          ToromBot                  2967       -8         64347     
 4          FireFishBOT_v2            2950       -2         1452      
 5          YoBot_v2                  2949       12         18972     
 6          ProteusSF-Godot           2947       3          2200      
@@ -16,7 +16,7 @@ Rank       Bot                       Rating     Prog       Games
 15         StockFish16_2023          2732       -30        57        
 16         LazyBot                   2687       5          1430      
 17         expositor                 2628       19         21462     
-18         FrozenightEngine          2590       -6         9437      
+18         FrozenightEngine          2589       -3         9438      
 19         FlamingDragon_9000        2524       -5         10619     
 20         pawn_git                  2515       2          4747      
 21         balancefish               2484       5          113       
@@ -29,11 +29,11 @@ Rank       Bot                       Rating     Prog       Games
 28         bot_adario                2406       10         2838      
 29         MrChessTheBot             2393       -52        5912      
 30         AjedrezChamberi           2382       30         541       
-31         odonata-bot               2378       6          6649      
+31         odonata-bot               2379       8          6650      
 32         OpeningsBot               2364       -7         2326      
-33         fornax-engine             2355       10         7177      
-34         TuksuBot                  2355       -11        7405      
-35         admete_bot                2323       0          8890      
+33         TuksuBot                  2355       -11        7405      
+34         fornax-engine             2355       10         7177      
+35         admete_bot                2324       1          8891      
 36         simpleEval                2316       -5         25714     
 37         bekbot                    2310       4          1852      
 38         Nakshatra3                2279       -8         1857      
@@ -54,7 +54,7 @@ Rank       Bot                       Rating     Prog       Games
 53         LazyBotJr                 2002       32         977       
 54         Trollfish-Bot             1951       4          5741      
 55         sun_bird                  1943       -1         1826      
-56         zeekat                    1934       19         20089     
+56         zeekat                    1932       9          20091     
 57         QuintBot                  1893       -18        10169     
 58         Demolito_L6               1884       8          1035      
 59         NatesBot                  1859       -16        556       
@@ -77,7 +77,7 @@ Rank       Bot                       Rating     Prog       Games
 76         sudobot_chess             1590       -295       227       
 77         turochamp-2ply            1580       2          1758      
 78         sargon-4ply               1568       -8         1940      
-79         maia5                     1554       -24        40188     
+79         maia5                     1559       -16        40191     
 80         monchester                1554       1          2747      
 81         DavidsGuterBot            1541       18         6609      
 82         maia1                     1532       11         126823    
