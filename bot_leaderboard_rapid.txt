@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ToromBot                  2919       7          2622      
 2          LeelaMultiPoss            2912       7          396       
-3          EmanPureNN                2909       4          397       
+3          EmanPureNN                2909       4          398       
 4          M-Z_Bot                   2908       -4         207       
 5          ResoluteBot               2905       0          5630      
 6          FireFishBOT_v2            2904       0          950       
@@ -10,7 +10,7 @@ Rank       Bot                       Rating     Prog       Games
 9          Mate-AI                   2896       6          2646      
 10         ReinforcementTrial        2896       -3         5672      
 11         ArasanX                   2885       4          6100      
-12         Nikitosik-ai              2883       4          1065      
+12         Nikitosik-ai              2883       4          1066      
 13         TorBot                    2872       1          824       
 14         Vanilla_v2                2866       -18        30        
 15         EmptikBot247              2862       9          131       
@@ -35,7 +35,7 @@ Rank       Bot                       Rating     Prog       Games
 34         odonata-bot               2406       3          3858      
 35         fornax-engine             2404       26         3793      
 36         simpleEval                2384       2          7884      
-37         OpeningsBot               2369       -3         453       
+37         OpeningsBot               2372       0          454       
 38         FlamingDragon_9000        2309       -12        1216      
 39         bekbot                    2307       8          1736      
 40         FataliiBot                2281       3          2810      
@@ -43,7 +43,7 @@ Rank       Bot                       Rating     Prog       Games
 42         Boris-Trapsky             2225       -20        27956     
 43         Viceriever                2224       64         36        
 44         Nakshatra3                2222       -21        987       
-45         camel_bot                 2212       11         690       
+45         camel_bot                 2209       9          691       
 46         HistoryExplorer           2201       23         1113      
 47         honzovy-sachy-2           2193       41         3743      
 48         eubos                     2177       -2         4348      
@@ -83,10 +83,10 @@ Rank       Bot                       Rating     Prog       Games
 82         ZE_ROOK                   1659       19         660       
 83         simplexitor               1656       19         576       
 84         yeoldwiz                  1645       4          731       
-85         maia5                     1614       -6         105199    
+85         maia5                     1613       0          105200    
 86         dragobot                  1568       22         120       
 87         ArduChessBot              1559       42         448       
-88         maia1                     1558       -13        239575    
+88         maia1                     1556       -17        239576    
 89         sargon-3ply               1544       14         1246      
 90         sargon-4ply               1541       23         684       
 91         DavidsGuterBot            1529       -13        688       
