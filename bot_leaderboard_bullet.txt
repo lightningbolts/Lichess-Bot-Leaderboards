@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
 1          LeelaMultiPoss            2969       12         788       
-2          ToromBot                  2967       -1         64362     
+2          ToromBot                  2967       0          64363     
 3          FireFishBOT_v2            2959       10         1459      
 4          Mate-AI                   2945       -3         13316     
 5          ReinforcementTrial        2942       4          2315      
@@ -39,11 +39,11 @@ Rank       Bot                       Rating     Prog       Games
 38         Phalanx-XXV               2348       11         4674      
 39         Pseudo-0                  2341       1          4203      
 40         simpleEval                2323       3          25730     
-41         admete_bot                2313       -1         9153      
+41         admete_bot                2312       -1         9157      
 42         bekbot                    2312       16         1856      
 43         Nakshatra3                2280       -3         1858      
-44         halcyonbot                2272       13         6273      
-45         FataliiBot                2268       18         6094      
+44         FataliiBot                2268       18         6094      
+45         halcyonbot                2268       9          6274      
 46         HistoryExplorer           2263       10         2717      
 47         Lynx_BOT                  2175       -5         7525      
 48         honzovy-sachy-2           2162       3          7556      
@@ -90,7 +90,7 @@ Rank       Bot                       Rating     Prog       Games
 89         monchester                1557       5          2751      
 90         maia5                     1545       -36        40193     
 91         DavidsGuterBot            1531       5          6612      
-92         maia1                     1522       -14        126855    
+92         maia1                     1528       -6         126856    
 93         botTideEval               1459       -25        3463      
 94         yeoldwiz                  1450       18         791       
 95         turochamp-1ply            1417       13         2319      
