@@ -37,7 +37,7 @@ Rank       Bot                       Rating     Prog       Games
 36         TuksuBot                  2355       0          7443      
 37         Phalanx-XXV               2337       -5         4699      
 38         Pseudo-0                  2334       -6         4231      
-39         OpeningsBot               2331       -1         2590      
+39         OpeningsBot               2330       -2         2593      
 40         simpleEval                2319       0          25760     
 41         admete_bot                2312       1          9422      
 42         Nakshatra3                2291       -3         1892      
@@ -66,7 +66,7 @@ Rank       Bot                       Rating     Prog       Games
 65         Demolito_L5               1790       -19        1326      
 66         Dinora                    1763       9          233       
 67         notropis                  1757       3          4370      
-68         piglet_engine             1753       10         1011      
+68         piglet_engine             1750       5          1012      
 69         honzovy-sachy             1746       5          5288      
 70         baby_eubos                1745       -15        6325      
 71         ShallowRedBot             1742       33         401       
@@ -84,15 +84,15 @@ Rank       Bot                       Rating     Prog       Games
 83         turochamp-2ply            1591       11         1769      
 84         sudobot_chess             1590       -295       227       
 85         sargon-4ply               1586       11         1949      
-86         RoundMoundOfRebounds      1578       27         1572      
+86         RoundMoundOfRebounds      1581       20         1573      
 87         DavidsGuterBot            1549       8          6627      
 88         maia1                     1535       -38        126996    
 89         monchester                1535       -21        2770      
 90         RookieRobot               1525       41         47        
 91         yeoldwiz                  1450       18         791       
 92         botTideEval               1448       1          3506      
-93         turochamp-1ply            1408       0          2323      
-94         StupidChessRobot          1408       -4         1145      
+93         StupidChessRobot          1408       -4         1145      
+94         turochamp-1ply            1408       0          2323      
 95         sargon-2ply               1386       -12        2690      
 96         sargon-1ply               1372       -6         5029      
 97         king-forward-bot          1303       -75        49        
