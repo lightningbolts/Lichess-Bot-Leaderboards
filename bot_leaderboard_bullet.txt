@@ -3,10 +3,10 @@ Rank       Bot                       Rating     Prog       Games
 2          ToromBot                  2968       10         64440     
 3          FireFishBOT_v2            2958       3          1466      
 4          ReinforcementTrial        2956       1          2377      
-5          EmanPureNN                2949       -1         4685      
+5          EmanPureNN                2949       -1         4686      
 6          ProteusSF-Godot           2947       3          2200      
 7          ProteusSF-Aureo           2943       16         301       
-8          ResoluteBot               2937       4          27581     
+8          ResoluteBot               2937       5          27582     
 9          Africaata                 2931       51         32        
 10         TorBot                    2926       -3         6534      
 11         blundar_bot               2894       -4         11493     
@@ -30,10 +30,10 @@ Rank       Bot                       Rating     Prog       Games
 29         Viceriever                2396       -19        773       
 30         MrChessTheBot             2393       -52        5912      
 31         AjedrezChamberi           2382       30         541       
-32         odonata-bot               2378       3          6671      
+32         odonata-bot               2379       5          6672      
 33         TuksuBot                  2355       0          7443      
 34         fornax-engine             2355       10         7177      
-35         OpeningsBot               2339       -2         2416      
+35         OpeningsBot               2338       -2         2420      
 36         Phalanx-XXV               2337       -5         4699      
 37         Pseudo-0                  2336       -5         4229      
 38         simpleEval                2317       -4         25756     
@@ -56,7 +56,7 @@ Rank       Bot                       Rating     Prog       Games
 55         LazyBotJr                 2009       18         982       
 56         Trollfish-Bot             1996       -7         5818      
 57         sun_bird                  1973       11         1902      
-58         zeekat                    1904       -2         20135     
+58         zeekat                    1903       -2         20136     
 59         Demolito_L6               1878       1          1049      
 60         QuintBot                  1854       -18        10287     
 61         NatesBot                  1844       -22        575       
@@ -96,4 +96,3 @@ Rank       Bot                       Rating     Prog       Games
 95         pawnrobot                 1254       14         4074      
 96         knucklefish               1245       9          2955      
 97         schnecken_bot             1225       -2         1255      
-98         bobandi                   1204       5          1149      
