@@ -6,8 +6,8 @@ Rank       Bot                       Rating     Prog       Games
 5          European_Chess_Bot        2622       0          11        
 6          ResoluteBot               2616       1          783       
 7          RaspFish                  2612       6          754       
-8          LeelaMultiPoss            2607       38         73        
-9          ProteusSF-Godot           2607       3          317       
+8          ProteusSF-Godot           2607       3          317       
+9          LeelaMultiPoss            2607       38         73        
 10         ArasanX                   2582       13         204       
 11         StockFish16_2023          2568       35         41        
 12         faith_bot                 2557       2          204       
@@ -16,14 +16,14 @@ Rank       Bot                       Rating     Prog       Games
 15         AKS-Mantissa              2412       20         1111      
 16         FrozenightEngine          2394       14         4495      
 17         LazyBot                   2356       27         203       
-18         catriever                 2351       6          332       
+18         catriever                 2347       1          333       
 19         pawn_git                  2325       10         311       
 20         SaxtonEngine              2322       -7         526       
 21         Weiawaga                  2272       -11        5881      
 22         Cheng-4                   2271       -15        1607      
 23         FlamingDragon_9000        2238       -18        514       
 24         Pseudo-0                  2158       -3         466       
-25         TuksuBot                  2148       -10        1048      
+25         TuksuBot                  2151       -6         1049      
 26         Phalanx-XXV               2122       -3         412       
 27         Nakshatra3                2078       -2         198       
 28         simpleEval                2066       -25        1900      
@@ -61,8 +61,8 @@ Rank       Bot                       Rating     Prog       Games
 60         turkjs                    1606       -8         941       
 61         maia5                     1602       16         23788     
 62         yeoldwiz                  1589       -1         320       
-63         Jibbby                    1575       -14        84        
-64         turochamp-2ply            1575       -34        802       
+63         turochamp-2ply            1575       -34        802       
+64         Jibbby                    1575       -14        84        
 65         maia1                     1573       10         68026     
 66         Dummyette                 1570       9          589       
 67         sargon-3ply               1565       -22        770       
@@ -74,3 +74,4 @@ Rank       Bot                       Rating     Prog       Games
 73         sargon-2ply               1386       -23        1249      
 74         kireevi                   1320       -24        249       
 75         sargon-1ply               1298       4          3432      
+76         G0thamB0t                 771        -10        223       
