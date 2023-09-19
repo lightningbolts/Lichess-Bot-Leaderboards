@@ -1,8 +1,8 @@
 Rank       Bot                       Rating     Prog       Games     
 1          M-Z_Bot                   2927       -6         236       
 2          ToromBot                  2923       7          2648      
-3          EmanPureNN                2909       -3         419       
-4          ProteusSF-Aureo           2909       12         23        
+3          ProteusSF-Aureo           2909       12         23        
+4          EmanPureNN                2909       -3         419       
 5          ProteusSF-Godot           2907       1          243       
 6          FireFishBOT_v2            2906       2          955       
 7          RaspFish                  2896       -4         6189      
@@ -78,8 +78,8 @@ Rank       Bot                       Rating     Prog       Games
 77         ZE_ROOK                   1653       7          662       
 78         maia9                     1647       -15        88544     
 79         yeoldwiz                  1642       6          733       
-80         RookieRobot               1622       84         17        
-81         maia5                     1619       7          105280    
+80         maia5                     1626       13         105283    
+81         RookieRobot               1622       84         17        
 82         ArduChessBot              1615       83         454       
 83         sargon-4ply               1550       26         689       
 84         sargon-3ply               1547       14         1248      
@@ -96,3 +96,4 @@ Rank       Bot                       Rating     Prog       Games
 95         schnecken_bot             1198       -30        403       
 96         chat_bot                  1175       -30        335       
 97         kireevi                   1108       2          592       
+98         bobandi                   981        -20        772       
