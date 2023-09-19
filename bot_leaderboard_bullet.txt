@@ -2,9 +2,9 @@ Rank       Bot                       Rating     Prog       Games
 1          AnonymousBotter           2998       -10        126       
 2          YoBot_v2                  2972       6          19044     
 3          ToromBot                  2967       -6         64414     
-4          TheFreshman1902           2964       7          668       
-5          FireFishBOT_v2            2957       7          1463      
-6          ReinforcementTrial        2956       3          2363      
+4          TheFreshman1902           2964       7          669       
+5          ReinforcementTrial        2956       3          2364      
+6          FireFishBOT_v2            2955       5          1464      
 7          ProteusSF-Godot           2947       3          2200      
 8          ProteusSF-Aureo           2943       16         301       
 9          ResoluteBot               2933       -2         27572     
@@ -13,7 +13,7 @@ Rank       Bot                       Rating     Prog       Games
 12         blundar_bot               2878       8          11349     
 13         Africaata                 2861       76         16        
 14         Nikitosik-ai              2860       1          4072      
-15         RaspFish                  2856       4          54567     
+15         RaspFish                  2857       4          54568     
 16         StockFish16_2023          2722       -23        103       
 17         LazyBot                   2687       5          1430      
 18         expositor                 2652       3          21497     
@@ -38,13 +38,13 @@ Rank       Bot                       Rating     Prog       Games
 37         Pseudo-0                  2343       2          4214      
 38         Phalanx-XXV               2342       -5         4687      
 39         OpeningsBot               2341       -11        2347      
-40         simpleEval                2322       -6         25744     
+40         simpleEval                2321       -7         25745     
 41         admete_bot                2304       2          9288      
 42         bekbot                    2297       -13        1873      
 43         Nakshatra3                2291       13         1877      
 44         HistoryExplorer           2267       7          2727      
-45         FataliiBot                2266       2          6101      
-46         halcyonbot                2265       5          6289      
+45         halcyonbot                2266       -1         6290      
+46         FataliiBot                2266       2          6101      
 47         Lynx_BOT                  2185       10         7537      
 48         honzovy-sachy-2           2160       -7         7563      
 49         jangine                   2159       41         3565      
@@ -55,7 +55,7 @@ Rank       Bot                       Rating     Prog       Games
 54         MaxtheDog                 2051       9          16159     
 55         myopic-bot                2039       -8         2415      
 56         Sparring_Bot              2037       47         304       
-57         BLANK_BOT                 2016       3          7987      
+57         BLANK_BOT                 2019       9          7988      
 58         GarboBot                  2015       10         10100     
 59         LazyBotJr                 2004       33         979       
 60         Trollfish-Bot             1999       36         5810      
@@ -63,7 +63,7 @@ Rank       Bot                       Rating     Prog       Games
 62         YourSparringBot           1940       0          313       
 63         zeekat                    1895       -21        20128     
 64         Demolito_L6               1880       6          1048      
-65         QuintBot                  1875       -31        10263     
+65         QuintBot                  1869       -35        10265     
 66         NatesBot                  1849       -8         569       
 67         QueensGamBOT              1825       3          5421      
 68         Demolito_L5               1802       19         1318      
@@ -73,7 +73,7 @@ Rank       Bot                       Rating     Prog       Games
 72         piglet_engine             1744       24         1003      
 73         honzovy-sachy             1743       -12        5279      
 74         simplexitor               1724       -12        2481      
-75         ShallowRedBot             1710       -10        391       
+75         ShallowRedBot             1712       -11        392       
 76         ArduChessBot              1682       -13        5918      
 77         Virutor                   1679       2          7051      
 78         Jibbby                    1669       4          2683      
