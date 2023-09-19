@@ -2,7 +2,7 @@ Rank       Bot                       Rating     Prog       Games
 1          M-Z_Bot                   2927       -2         244       
 2          ToromBot                  2924       4          2651      
 3          LeelaMultiPoss            2912       7          396       
-4          EmanPureNN                2911       2          427       
+4          EmanPureNN                2911       2          428       
 5          ProteusSF-Aureo           2909       12         23        
 6          ProteusSF-Godot           2907       1          243       
 7          FireFishBOT_v2            2906       2          958       
@@ -81,14 +81,14 @@ Rank       Bot                       Rating     Prog       Games
 80         ZE_ROOK                   1658       10         665       
 81         yeoldwiz                  1642       6          733       
 82         RookieRobot               1622       84         17        
-83         maia9                     1620       -11        88569     
+83         maia9                     1620       -8         88570     
 84         ArduChessBot              1612       73         455       
 85         HardRok                   1575       2          797       
 86         sargon-4ply               1550       26         689       
 87         sargon-3ply               1547       14         1248      
 88         DavidsGuterBot            1534       -4         695       
 89         GuineaBot3                1489       -163       21        
-90         maia1                     1488       -19        239838    
+90         maia1                     1480       -23        239839    
 91         turochamp-2ply            1479       -22        1166      
 92         RoundMoundOfRebounds      1468       -7         382       
 93         Flawed_Formula            1427       -78        45        
@@ -99,3 +99,4 @@ Rank       Bot                       Rating     Prog       Games
 98         sargon-1ply               1287       -11        9002      
 99         schnecken_bot             1198       -30        403       
 100        chat_bot                  1170       -23        339       
+101        kireevi                   1108       2          592       
