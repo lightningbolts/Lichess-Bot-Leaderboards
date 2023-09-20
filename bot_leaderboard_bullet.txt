@@ -37,8 +37,8 @@ Rank       Bot                       Rating     Prog       Games
 36         Viceriever                2347       -14        792       
 37         OpeningsBot               2325       -5         2926      
 38         simpleEval                2305       -15        25779     
-39         bekbot                    2301       11         1919      
-40         admete_bot                2300       -2         9668      
+39         bekbot                    2304       11         1920      
+40         admete_bot                2300       -1         9672      
 41         Nakshatra3                2276       -12        1908      
 42         FataliiBot                2272       -3         6121      
 43         fornax-engine             2262       6          7304      
@@ -50,7 +50,7 @@ Rank       Bot                       Rating     Prog       Games
 49         matmoi                    2149       -1         3514      
 50         eubos                     2145       -5         13666     
 51         likeawizard-bot           2089       4          2457      
-52         myopic-bot                2083       14         2448      
+52         myopic-bot                2081       5          2449      
 53         redtail-zero              2066       7          987       
 54         GarboBot                  2063       10         10141     
 55         Sparring_Bot              2037       47         304       
@@ -59,9 +59,9 @@ Rank       Bot                       Rating     Prog       Games
 58         BLANK_BOT                 1992       -14        8021      
 59         sun_bird                  1960       -22        1997      
 60         YourSparringBot           1940       0          313       
-61         Trollfish-Bot             1937       -16        5892      
-62         QuintBot                  1933       1          10414     
-63         zeekat                    1921       16         20213     
+61         QuintBot                  1933       1          10414     
+62         Trollfish-Bot             1931       -23        5893      
+63         zeekat                    1927       20         20214     
 64         Demolito_L6               1853       -4         1077      
 65         NatesBot                  1846       0          596       
 66         QueensGamBOT              1828       2          5435      
@@ -90,7 +90,7 @@ Rank       Bot                       Rating     Prog       Games
 89         sargon-4ply               1575       -9         1961      
 90         monchester                1545       12         2778      
 91         DavidsGuterBot            1527       -20        6650      
-92         maia1                     1481       7          127154    
+92         maia1                     1479       2          127155    
 93         yeoldwiz                  1450       18         791       
 94         postbot                   1448       -64        38        
 95         botTideEval               1446       17         3556      
@@ -103,3 +103,4 @@ Rank       Bot                       Rating     Prog       Games
 102        pawnrobot                 1255       4          4090      
 103        knucklefish               1246       -8         2961      
 104        schnecken_bot             1219       -13        1276      
+105        bobandi                   1204       5          1149      
