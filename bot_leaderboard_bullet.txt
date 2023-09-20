@@ -2,8 +2,8 @@ Rank       Bot                       Rating     Prog       Games
 1          EmptikBot                 2979       -1         4119      
 2          YoBot_v2                  2967       -8         19143     
 3          EmanPureNN                2959       1          4711      
-4          FireFishBOT_v2            2956       -2         1486      
-5          ToromBot                  2956       3          64569     
+4          ToromBot                  2957       3          64570     
+5          FireFishBOT_v2            2956       -2         1486      
 6          Mate-AI                   2953       8          13327     
 7          ResoluteBot               2950       8          27646     
 8          ProteusSF-Godot           2947       3          2200      
@@ -38,7 +38,7 @@ Rank       Bot                       Rating     Prog       Games
 37         Viceriever                2347       -14        792       
 38         OpeningsBot               2325       -5         2926      
 39         simpleEval                2311       -10        25777     
-40         admete_bot                2306       -2         9616      
+40         admete_bot                2306       -1         9620      
 41         bekbot                    2301       11         1919      
 42         Nakshatra3                2284       -5         1907      
 43         FataliiBot                2272       -3         6121      
@@ -89,8 +89,8 @@ Rank       Bot                       Rating     Prog       Games
 88         turochamp-2ply            1584       -10        1786      
 89         turkjs                    1583       -18        19531     
 90         sargon-4ply               1582       -4         1960      
-91         monchester                1532       -8         2776      
-92         DavidsGuterBot            1532       -11        6649      
+91         DavidsGuterBot            1532       -11        6649      
+92         monchester                1532       -8         2776      
 93         maia1                     1471       4          127145    
 94         postbot                   1468       -55        37        
 95         yeoldwiz                  1450       18         791       
@@ -104,3 +104,4 @@ Rank       Bot                       Rating     Prog       Games
 103        pawnrobot                 1253       -1         4089      
 104        knucklefish               1246       -8         2961      
 105        schnecken_bot             1219       -13        1276      
+106        bobandi                   1204       5          1149      
