@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
 1          M-Z_Bot                   2940       -4         271       
-2          ToromBot                  2931       7          2694      
+2          ToromBot                  2927       3          2695      
 3          EmptikBot                 2916       5          423       
 4          LeelaMultiPoss            2912       7          396       
 5          ProteusSF-Aureo           2909       12         23        
@@ -22,7 +22,7 @@ Rank       Bot                       Rating     Prog       Games
 21         MrChessTheBot             2689       -53        2243      
 22         FrozenightEngine          2656       9          5306      
 23         expositor                 2651       9          4820      
-24         AKS-Mantissa              2641       17         4314      
+24         AKS-Mantissa              2645       18         4315      
 25         LazyBot                   2599       1          795       
 26         SaxtonEngine              2594       1          1509      
 27         Weiawaga                  2586       21         10388     
@@ -30,12 +30,12 @@ Rank       Bot                       Rating     Prog       Games
 29         pawn_git                  2579       6          1447      
 30         Cheng-4                   2561       12         3326      
 31         catriever                 2535       -3         420       
-32         TuksuBot                  2476       -16        2217      
+32         TuksuBot                  2476       -19        2218      
 33         Pseudo-0                  2453       5          1300      
 34         Phalanx-XXV               2451       7          1093      
 35         odonata-bot               2443       37         3870      
 36         admete_bot                2433       2          4421      
-37         fornax-engine             2397       -12        3800      
+37         fornax-engine             2394       -23        3801      
 38         simpleEval                2391       5          7899      
 39         OpeningsBot               2374       1          468       
 40         FlamingDragon_9000        2309       -12        1216      
@@ -82,7 +82,7 @@ Rank       Bot                       Rating     Prog       Games
 81         ZE_ROOK                   1665       9          668       
 82         ArduChessBot              1660       54         463       
 83         simplexitor               1658       14         583       
-84         maia5                     1651       -2         105401    
+84         maia5                     1654       5          105402    
 85         yeoldwiz                  1632       -14        737       
 86         maia9                     1628       27         88666     
 87         HardRok                   1597       25         807       
