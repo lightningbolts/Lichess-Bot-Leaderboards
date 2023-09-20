@@ -4,15 +4,15 @@ Rank       Bot                       Rating     Prog       Games
 3          ToromBot                  2929       -5         5250      
 4          TheFreshman1902           2921       1          253       
 5          ProteusSF-Godot           2918       0          1502      
-6          YoBot_v2                  2914       1          4377      
+6          YoBot_v2                  2914       0          4378      
 7          ReinforcementTrial        2913       -1         3405      
 8          FireFishBOT_v2            2908       -2         8256      
 9          ProteusSF-Aureo           2907       -1         92        
 10         Africaata                 2887       3          53        
-11         EmptikBot247              2879       9          165       
+11         EmptikBot247              2879       8          166       
 12         ArasanX                   2861       -3         2493      
 13         StockFish16_2023          2849       3          131       
-14         RaspFish                  2845       -2         13070     
+14         RaspFish                  2846       4          13071     
 15         Nikitosik-ai              2845       -4         1237      
 16         blundar_bot               2830       12         1620      
 17         faith_bot                 2760       -5         814       
@@ -28,7 +28,7 @@ Rank       Bot                       Rating     Prog       Games
 27         Cheng-4                   2485       -1         6870      
 28         Weiawaga                  2478       4          12337     
 29         catriever                 2468       0          1114      
-30         TuksuBot                  2433       2          4312      
+30         TuksuBot                  2432       -4         4313      
 31         OpeningsBot               2431       3          1533      
 32         Phalanx-XXV               2411       6          2932      
 33         Pseudo-0                  2401       -13        3229      
@@ -37,7 +37,7 @@ Rank       Bot                       Rating     Prog       Games
 36         fornax-engine             2337       0          6708      
 37         FlamingDragon_9000        2323       19         3331      
 38         simpleEval                2312       3          15606     
-39         bekbot                    2296       -4         1803      
+39         bekbot                    2296       0          1804      
 40         Viceriever                2263       -29        369       
 41         halcyonbot                2235       -8         10782     
 42         FataliiBot                2221       -8         7204      
@@ -45,7 +45,7 @@ Rank       Bot                       Rating     Prog       Games
 44         honzovy-sachy-2           2189       16         7271      
 45         matmoi                    2178       0          2715      
 46         HistoryExplorer           2151       11         2922      
-47         eubos                     2142       -2         15306     
+47         eubos                     2144       3          15307     
 48         Lynx_BOT                  2131       -3         51182     
 49         redtail-zero              2103       17         657       
 50         jangine                   2084       -4         3832      
@@ -60,7 +60,7 @@ Rank       Bot                       Rating     Prog       Games
 59         LeelaRogue                1992       5          2404      
 60         LazyBotJr                 1933       -21        1972      
 61         sun_bird                  1927       6          1877      
-62         zeekat                    1894       2          22544     
+62         zeekat                    1892       -3         22545     
 63         Demolito_L6               1873       10         1753      
 64         zulu_bot                  1861       -3         992       
 65         QuintBot                  1852       -13        9987      
@@ -76,8 +76,8 @@ Rank       Bot                       Rating     Prog       Games
 75         Demolito_L5               1672       1          2532      
 76         Virutor                   1672       5          7804      
 77         AshNostromo               1657       -18        1055      
-78         maia9                     1646       -18        105861    
-79         Jibbby                    1637       5          5953      
+78         maia9                     1648       -14        105862    
+79         Jibbby                    1637       2          5954      
 80         simplexitor               1628       10         2448      
 81         ChessChildren             1612       -16        21809     
 82         ArduChessBot              1596       10         1469      
