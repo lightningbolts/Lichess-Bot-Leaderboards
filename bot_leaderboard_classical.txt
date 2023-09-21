@@ -18,8 +18,8 @@ Rank       Bot                       Rating     Prog       Games
 17         LazyBot                   2356       27         203       
 18         catriever                 2347       0          338       
 19         EmptikBot                 2331       212        56        
-20         SaxtonEngine              2325       -2         532       
-21         pawn_git                  2325       0          316       
+20         pawn_git                  2325       0          316       
+21         SaxtonEngine              2325       -2         532       
 22         Weiawaga                  2281       11         5891      
 23         Cheng-4                   2265       -24        1610      
 24         FlamingDragon_9000        2238       -18        514       
@@ -61,12 +61,12 @@ Rank       Bot                       Rating     Prog       Games
 60         turkjs                    1606       -8         941       
 61         yeoldwiz                  1589       -1         320       
 62         maia5                     1587       4          23807     
-63         Jibbby                    1575       -14        84        
-64         turochamp-2ply            1575       -35        803       
+63         turochamp-2ply            1575       -35        803       
+64         Jibbby                    1575       -14        84        
 65         sargon-3ply               1567       -20        771       
 66         Trollfish-Bot             1536       5          61        
-67         chat_bot                  1528       11         69        
-68         maia1                     1527       -18        68164     
+67         maia1                     1528       -11        68166     
+68         chat_bot                  1528       11         69        
 69         StupidChessRobot          1511       2          31        
 70         Humaia                    1455       -24        1260      
 71         turochamp-1ply            1422       39         827       
@@ -74,3 +74,4 @@ Rank       Bot                       Rating     Prog       Games
 73         RoundMoundOfRebounds      1389       44         127       
 74         kireevi                   1320       -24        249       
 75         sargon-1ply               1307       19         3434      
+76         G0thamB0t                 769        -6         225       
