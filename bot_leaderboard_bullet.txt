@@ -1,10 +1,10 @@
 Rank       Bot                       Rating     Prog       Games     
 1          EmptikBot                 2979       -1         4119      
 2          YoBot_v2                  2967       -8         19146     
-3          TheFreshman1902           2964       -1         747       
+3          TheFreshman1902           2964       -1         748       
 4          FireFishBOT_v2            2956       0          1489      
 5          ReinforcementTrial        2951       6          2464      
-6          ToromBot                  2951       1          64584     
+6          ToromBot                  2951       0          64585     
 7          ResoluteBot               2951       2          27653     
 8          ProteusSF-Godot           2947       3          2200      
 9          ProteusSF-Aureo           2943       16         301       
@@ -82,9 +82,9 @@ Rank       Bot                       Rating     Prog       Games
 81         RoundMoundOfRebounds      1606       24         1586      
 82         sudobot_chess             1590       -295       227       
 83         ZE_ROOK                   1586       -22        2295      
-84         turochamp-2ply            1584       -10        1786      
-85         turkjs                    1583       -18        19531     
-86         maia5                     1579       -4         40264     
+84         maia5                     1584       10         40267     
+85         turochamp-2ply            1584       -10        1786      
+86         turkjs                    1583       -18        19531     
 87         sargon-4ply               1577       -13        1964      
 88         monchester                1538       8          2780      
 89         DavidsGuterBot            1533       -12        6651      
@@ -100,4 +100,4 @@ Rank       Bot                       Rating     Prog       Games
 99         dragobot                  1261       -117       74        
 100        pawnrobot                 1249       5          4093      
 101        knucklefish               1246       -8         2961      
-102        schnecken_bot             1224       -4         1277      
+102        schnecken_bot             1223       -8         1278      
