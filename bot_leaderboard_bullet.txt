@@ -3,8 +3,8 @@ Rank       Bot                       Rating     Prog       Games
 2          LeelaMultiPoss            2969       12         788       
 3          ToromBot                  2966       20         64601     
 4          FireFishBOT_v2            2964       8          1496      
-5          ProteusSF-Godot           2947       3          2200      
-6          ResoluteBot               2945       -2         27661     
+5          ResoluteBot               2949       -2         27664     
+6          ProteusSF-Godot           2947       3          2200      
 7          ReinforcementTrial        2944       -6         2477      
 8          ProteusSF-Aureo           2943       16         301       
 9          caissa-x                  2938       4          14624     
@@ -36,7 +36,7 @@ Rank       Bot                       Rating     Prog       Games
 35         Viceriever                2341       -11        796       
 36         OpeningsBot               2334       5          2934      
 37         simpleEval                2311       -2         25782     
-38         admete_bot                2301       -2         9922      
+38         admete_bot                2301       -1         9926      
 39         FataliiBot                2277       1          6122      
 40         bekbot                    2276       -17        1928      
 41         Nakshatra3                2271       -14        1913      
@@ -49,14 +49,14 @@ Rank       Bot                       Rating     Prog       Games
 48         jangine                   2161       4          3609      
 49         eubos                     2127       -28        13675     
 50         redtail-zero              2086       31         990       
-51         myopic-bot                2074       -7         2457      
-52         likeawizard-bot           2071       -11        2467      
+51         likeawizard-bot           2071       -11        2467      
+52         myopic-bot                2066       -18        2458      
 53         GarboBot                  2064       18         10148     
 54         LazyBotJr                 2009       18         982       
 55         MaxtheDog                 2006       -13        16259     
 56         BLANK_BOT                 1989       -3         8032      
 57         Trollfish-Bot             1967       23         5914      
-58         sun_bird                  1946       -10        2034      
+58         sun_bird                  1954       6          2035      
 59         QuintBot                  1936       14         10443     
 60         zeekat                    1921       -10        20238     
 61         Demolito_L6               1871       16         1084      
@@ -66,7 +66,7 @@ Rank       Bot                       Rating     Prog       Games
 65         Demolito_L5               1772       -12        1348      
 66         baby_eubos                1770       14         6379      
 67         notropis                  1768       3          4401      
-68         ShallowRedBot             1755       5          433       
+68         ShallowRedBot             1756       -2         434       
 69         maia9                     1749       -6         61861     
 70         piglet_engine             1735       11         1057      
 71         honzovy-sachy             1728       -12        5309      
@@ -86,7 +86,7 @@ Rank       Bot                       Rating     Prog       Games
 85         sargon-4ply               1567       -16        1968      
 86         monchester                1549       13         2783      
 87         DavidsGuterBot            1531       6          6654      
-88         maia1                     1475       0          127180    
+88         maia1                     1481       -6         127183    
 89         botTideEval               1464       23         3573      
 90         yeoldwiz                  1450       18         791       
 91         sargon-2ply               1434       39         2709      
