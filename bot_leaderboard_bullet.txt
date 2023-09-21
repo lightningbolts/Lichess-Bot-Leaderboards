@@ -1,5 +1,5 @@
 Rank       Bot                       Rating     Prog       Games     
-1          YoBot_v2                  2979       0          19176     
+1          YoBot_v2                  2977       -6         19177     
 2          EmptikBot                 2976       -2         4131      
 3          LeelaMultiPoss            2969       12         788       
 4          Africaata                 2963       4          116       
@@ -9,7 +9,7 @@ Rank       Bot                       Rating     Prog       Games
 8          ProteusSF-Godot           2947       3          2200      
 9          ProteusSF-Aureo           2944       11         303       
 10         TorBot                    2930       4          6545      
-11         EmptikBot247              2897       15         3353      
+11         EmptikBot247              2898       16         3354      
 12         Nikitosik-ai              2873       3          4202      
 13         RaspFish                  2864       3          54698     
 14         faith_bot                 2860       9          3326      
@@ -17,7 +17,7 @@ Rank       Bot                       Rating     Prog       Games
 16         FrozenightEngine          2628       3          9511      
 17         LazyBot                   2627       33         1492      
 18         StockFish16_2023          2618       -12        226       
-19         expositor                 2577       -11        21795     
+19         expositor                 2574       -17        21796     
 20         Cheng-4                   2559       3          14477     
 21         FlamingDragon_9000        2524       -5         10619     
 22         SaxtonEngine              2487       -17        4853      
@@ -48,12 +48,12 @@ Rank       Bot                       Rating     Prog       Games
 47         Lynx_BOT                  2192       -5         7665      
 48         jangine                   2159       -6         3617      
 49         eubos                     2115       -12        13686     
-50         redtail-zero              2086       19         993       
+50         redtail-zero              2090       18         994       
 51         myopic-bot                2073       -1         2468      
 52         likeawizard-bot           2068       -9         2477      
 53         GarboBot                  2058       -7         10156     
 54         LazyBotJr                 2009       18         982       
-55         MaxtheDog                 1998       -18        16274     
+55         MaxtheDog                 1994       -13        16275     
 56         BLANK_BOT                 1990       8          8046      
 57         sun_bird                  1980       10         2067      
 58         Trollfish-Bot             1944       -22        5932      
@@ -84,11 +84,11 @@ Rank       Bot                       Rating     Prog       Games
 83         turkjs                    1587       8          19543     
 84         maia5                     1574       -6         40292     
 85         sargon-4ply               1567       -16        1968      
-86         monchester                1545       13         2787      
-87         maia1                     1525       11         127234    
+86         monchester                1537       -3         2788      
+87         maia1                     1535       18         127235    
 88         DavidsGuterBot            1517       -16        6658      
-89         yeoldwiz                  1450       18         791       
-90         botTideEval               1444       -25        3588      
+89         botTideEval               1451       -18        3589      
+90         yeoldwiz                  1450       18         791       
 91         sargon-2ply               1424       21         2712      
 92         postbot                   1422       -75        44        
 93         turochamp-1ply            1416       13         2335      
@@ -96,6 +96,6 @@ Rank       Bot                       Rating     Prog       Games
 95         sargon-1ply               1372       -8         5069      
 96         dragobot                  1308       -34        78        
 97         king-forward-bot          1295       -32        56        
-98         knucklefish               1245       -10        2963      
-99         pawnrobot                 1245       -5         4095      
+98         pawnrobot                 1245       -5         4095      
+99         knucklefish               1245       -10        2963      
 100        schnecken_bot             1230       6          1288      
