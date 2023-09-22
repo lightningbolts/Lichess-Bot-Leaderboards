@@ -4,7 +4,7 @@ Rank       Bot                       Rating     Prog       Games
 3          Africaata                 2980       4          171       
 4          FireFishBOT_v2            2974       4          1530      
 5          LeelaMultiPoss            2969       12         788       
-6          ToromBot                  2955       5          64735     
+6          ToromBot                  2956       5          64736     
 7          ReinforcementTrial        2949       2          2543      
 8          ResoluteBot               2949       1          27688     
 9          ProteusSF-Godot           2947       3          2200      
@@ -29,7 +29,7 @@ Rank       Bot                       Rating     Prog       Games
 28         bot_adario                2431       23         2853      
 29         odonata-bot               2425       21         6699      
 30         catriever                 2413       -22        2200      
-31         OpeningsBot               2402       -2         3249      
+31         OpeningsBot               2401       -2         3253      
 32         MrChessTheBot             2393       -52        5912      
 33         AjedrezChamberi           2382       30         541       
 34         TuksuBot                  2331       -17        7487      
@@ -39,12 +39,12 @@ Rank       Bot                       Rating     Prog       Games
 38         fornax-engine             2296       9          7336      
 39         Nakshatra3                2273       -8         1933      
 40         FataliiBot                2268       -4         6140      
-41         HistoryExplorer           2256       14         2744      
+41         HistoryExplorer           2261       17         2745      
 42         bekbot                    2240       -13        1967      
 43         halcyonbot                2238       16         6388      
 44         WilliamEngine             2222       34         204       
 45         Lynx_BOT                  2193       -8         7695      
-46         matmoi                    2187       16         3577      
+46         matmoi                    2182       16         3578      
 47         jangine                   2143       -6         3635      
 48         eubos                     2108       -8         13721     
 49         redtail-zero              2091       11         1003      
@@ -63,9 +63,9 @@ Rank       Bot                       Rating     Prog       Games
 62         NatesBot                  1865       15         628       
 63         Demolito_L5               1775       2          1356      
 64         baby_eubos                1770       -17        6420      
-65         Dinora                    1761       -26        279       
-66         notropis                  1761       -9         4422      
-67         ShallowRedBot             1753       -8         435       
+65         notropis                  1761       -9         4422      
+66         Dinora                    1761       -26        279       
+67         ShallowRedBot             1756       -5         437       
 68         piglet_engine             1750       -1         1077      
 69         maia9                     1723       -40        61896     
 70         melsh_bot                 1721       16         4448      
@@ -75,7 +75,7 @@ Rank       Bot                       Rating     Prog       Games
 74         Jibbby                    1670       -13        2740      
 75         rudim-bot                 1644       -29        160       
 76         ZE_ROOK                   1629       31         2308      
-77         sargon-3ply               1613       0          1589      
+77         sargon-3ply               1609       -9         1590      
 78         RoundMoundOfRebounds      1599       -9         1599      
 79         sudobot_chess             1590       -295       227       
 80         turkjs                    1588       2          19553     
@@ -83,8 +83,8 @@ Rank       Bot                       Rating     Prog       Games
 82         sargon-4ply               1576       -1         1976      
 83         RookieRobot               1540       57         49        
 84         maia5                     1523       -27        40318     
-85         DavidsGuterBot            1520       -9         6666      
-86         monchester                1520       -25        2798      
+85         monchester                1520       -25        2798      
+86         DavidsGuterBot            1520       -9         6666      
 87         botTideEval               1496       18         3630      
 88         maia1                     1482       -36        127322    
 89         yeoldwiz                  1450       18         791       
