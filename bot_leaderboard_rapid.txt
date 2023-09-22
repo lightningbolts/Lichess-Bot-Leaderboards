@@ -1,13 +1,13 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ToromBot                  2927       -4         2773      
+1          ToromBot                  2925       -6         2774      
 2          M-Z_Bot                   2924       -4         340       
 3          EmptikBot                 2917       2          437       
-4          LeelaMultiPoss            2912       7          396       
-5          ReinforcementTrial        2912       1          5756      
-6          ResoluteBot               2912       1          5746      
+4          ReinforcementTrial        2912       1          5756      
+5          LeelaMultiPoss            2912       7          396       
+6          ResoluteBot               2912       2          5747      
 7          ProteusSF-Aureo           2908       13         24        
-8          FireFishBOT_v2            2907       8          1000      
-9          ProteusSF-Godot           2907       1          243       
+8          ProteusSF-Godot           2907       1          244       
+9          FireFishBOT_v2            2907       8          1000      
 10         EmptikBot247              2904       9          197       
 11         Africaata                 2903       -5         129       
 12         caissa-x                  2902       0          3224      
@@ -18,7 +18,7 @@ Rank       Bot                       Rating     Prog       Games
 17         faith_bot                 2853       -8         1499      
 18         LordNTR                   2847       17         50        
 19         blundar_bot               2818       -10        1370      
-20         Mr_Chess_Berserk          2809       5          124       
+20         Mr_Chess_Berserk          2811       4          125       
 21         MphoBot                   2809       -7         104       
 22         Palisade                  2799       65         214       
 23         MrChessTheBot             2689       -53        2243      
@@ -89,7 +89,7 @@ Rank       Bot                       Rating     Prog       Games
 88         sargon-3ply               1535       11         1268      
 89         turochamp-2ply            1489       -16        1170      
 90         RoundMoundOfRebounds      1462       -15        385       
-91         maia1                     1447       -38        240633    
+91         maia1                     1454       -20        240635    
 92         StupidChessRobot          1406       -17        91        
 93         turochamp-1ply            1405       -2         1779      
 94         king-forward-bot          1373       -121       16        
@@ -98,4 +98,5 @@ Rank       Bot                       Rating     Prog       Games
 97         sargon-1ply               1246       -10        9029      
 98         schnecken_bot             1200       9          423       
 99         chat_bot                  1170       -23        339       
-100        G0thamB0t                 650        4          411       
+100        kireevi                   1077       -31        598       
+101        G0thamB0t                 650        4          411       
