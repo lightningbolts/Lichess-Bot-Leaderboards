@@ -13,8 +13,8 @@ Rank       Bot                       Rating     Prog       Games
 12         RaspFish                  2890       -5         6268      
 13         Vanilla_v2                2875       8          39        
 14         Nikitosik-ai              2872       -2         1161      
-15         ZugzwangBot               2872       3          74        
-16         faith_bot                 2861       1          1490      
+15         ZugzwangBot               2872       0          76        
+16         faith_bot                 2861       7          1492      
 17         ArasanX                   2857       -1         6189      
 18         EmptikWeak                2856       44         29        
 19         blundar_bot               2816       -20        1365      
@@ -34,10 +34,10 @@ Rank       Bot                       Rating     Prog       Games
 33         admete_bot                2443       12         4431      
 34         simpleEval                2393       17         7919      
 35         fornax-engine             2388       -6         3812      
-36         OpeningsBot               2380       -8         485       
+36         OpeningsBot               2384       -4         486       
 37         FataliiBot                2294       16         2841      
 38         bekbot                    2289       -4         1923      
-39         halcyonbot                2247       -7         7300      
+39         halcyonbot                2243       -19        7301      
 40         Nakshatra3                2225       2          1014      
 41         Boris-Trapsky             2212       -13        28001     
 42         Lynx_BOT                  2198       4          40377     
@@ -85,7 +85,7 @@ Rank       Bot                       Rating     Prog       Games
 84         sargon-4ply               1555       15         691       
 85         DavidsGuterBot            1542       4          698       
 86         sargon-3ply               1535       11         1268      
-87         maia1                     1521       -20        240594    
+87         maia1                     1528       -19        240595    
 88         turochamp-2ply            1489       -16        1170      
 89         RoundMoundOfRebounds      1457       -8         384       
 90         StupidChessRobot          1406       -17        91        
