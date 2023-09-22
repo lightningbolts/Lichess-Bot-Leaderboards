@@ -1,12 +1,12 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ToromBot                  2925       -6         2774      
-2          M-Z_Bot                   2924       -4         340       
+2          M-Z_Bot                   2923       -5         341       
 3          EmptikBot                 2917       2          437       
 4          LeelaMultiPoss            2912       7          396       
 5          ReinforcementTrial        2912       1          5756      
 6          ResoluteBot               2912       2          5747      
 7          ProteusSF-Aureo           2908       13         24        
-8          FireFishBOT_v2            2907       8          1000      
+8          FireFishBOT_v2            2907       8          1001      
 9          ProteusSF-Godot           2907       1          244       
 10         EmptikBot247              2904       9          197       
 11         Africaata                 2903       -5         129       
@@ -73,8 +73,8 @@ Rank       Bot                       Rating     Prog       Games
 72         ShallowRedBot             1772       13         88        
 73         Demolito_L5               1741       -13        1891      
 74         AshNostromo               1719       -3         1308      
-75         maia9                     1716       -24        88942     
-76         melsh_bot                 1715       -16        295       
+75         melsh_bot                 1715       -16        295       
+76         maia9                     1712       -28        88943     
 77         ZE_ROOK                   1683       30         675       
 78         turkjs                    1678       -5         5207      
 79         Dummyette                 1669       -4         2995      
@@ -84,12 +84,12 @@ Rank       Bot                       Rating     Prog       Games
 83         HardRok                   1637       35         821       
 84         yeoldwiz                  1634       -11        742       
 85         RookieRobot               1622       84         17        
-86         maia5                     1581       -2         105643    
+86         maia5                     1578       -13        105644    
 87         sargon-4ply               1555       15         691       
 88         DavidsGuterBot            1538       9          699       
 89         sargon-3ply               1535       11         1268      
 90         turochamp-2ply            1489       -16        1170      
-91         maia1                     1476       21         240641    
+91         maia1                     1482       28         240642    
 92         RoundMoundOfRebounds      1462       -15        385       
 93         StupidChessRobot          1406       -17        91        
 94         turochamp-1ply            1405       -2         1779      
@@ -100,4 +100,3 @@ Rank       Bot                       Rating     Prog       Games
 99         schnecken_bot             1200       9          423       
 100        chat_bot                  1170       -23        339       
 101        kireevi                   1077       -31        598       
-102        G0thamB0t                 650        4          411       
