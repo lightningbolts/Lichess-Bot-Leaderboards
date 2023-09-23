@@ -23,13 +23,13 @@ Rank       Bot                       Rating     Prog       Games
 22         AKS-Mantissa              2464       -17        11712     
 23         Elmichess                 2459       -35        3225      
 24         odonata-bot               2424       -2         6761      
-25         catriever                 2404       4          2347      
+25         catriever                 2404       -2         2351      
 26         MrChessTheBot             2393       -52        5912      
 27         AjedrezChamberi           2382       30         541       
-28         bot_adario                2363       -8         2947      
+28         bot_adario                2362       -9         2948      
 29         OpeningsBot               2348       6          3513      
 30         TuksuBot                  2334       3          7498      
-31         Viceriever                2333       -2         817       
+31         Viceriever                2334       -1         818       
 32         fornax-engine             2305       0          7371      
 33         admete_bot                2300       5          10474     
 34         simpleEval                2299       -15        25815     
@@ -54,7 +54,7 @@ Rank       Bot                       Rating     Prog       Games
 53         Trollfish-Bot             1914       -12        6055      
 54         chers-engine              1893       22         101       
 55         QuintBot                  1873       1          10666     
-56         NatesBot                  1861       -4         647       
+56         NatesBot                  1860       -5         648       
 57         QueensGamBOT              1811       2          5477      
 58         FelixLeonidovich          1810       29         179       
 59         Dinora                    1783       17         297       
@@ -71,7 +71,7 @@ Rank       Bot                       Rating     Prog       Games
 70         rudim-bot                 1644       -29        160       
 71         ZE_ROOK                   1634       2          2323      
 72         turochamp-2ply            1613       26         1808      
-73         sargon-3ply               1605       -7         1596      
+73         sargon-3ply               1604       -10        1597      
 74         RookieRobot               1598       60         59        
 75         sudobot_chess             1590       -295       227       
 76         turkjs                    1586       0          19579     
@@ -86,7 +86,7 @@ Rank       Bot                       Rating     Prog       Games
 85         turochamp-1ply            1439       13         2356      
 86         sargon-2ply               1431       11         2735      
 87         StupidChessRobot          1383       -16        1208      
-88         sargon-1ply               1372       -10        5096      
+88         sargon-1ply               1380       -9         5097      
 89         postbot                   1370       -46        56        
 90         dragobot                  1308       -34        78        
 91         king-forward-bot          1283       -27        59        
