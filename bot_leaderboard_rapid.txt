@@ -6,8 +6,8 @@ Rank       Bot                       Rating     Prog       Games
 5          EmanPureNN                2914       4          454       
 6          LeelaMultiPoss            2912       7          396       
 7          ProteusSF-Aureo           2908       13         24        
-8          ProteusSF-Godot           2907       1          244       
-9          FireFishBOT_v2            2907       0          1013      
+8          FireFishBOT_v2            2907       0          1013      
+9          ProteusSF-Godot           2907       1          244       
 10         caissa-x                  2904       -1         3241      
 11         EmptikBot247              2902       5          213       
 12         Africaata                 2902       -3         154       
@@ -39,7 +39,7 @@ Rank       Bot                       Rating     Prog       Games
 38         bekbot                    2322       -4         1966      
 39         FlamingDragon_9000        2309       -12        1216      
 40         FataliiBot                2293       -1         2852      
-41         halcyonbot                2236       -7         7334      
+41         halcyonbot                2240       2          7335      
 42         Nakshatra3                2219       -17        1017      
 43         Boris-Trapsky             2187       -13        28014     
 44         Lynx_BOT                  2183       -6         40391     
@@ -47,10 +47,10 @@ Rank       Bot                       Rating     Prog       Games
 46         matmoi                    2178       -18        2456      
 47         eubos                     2178       -2         4370      
 48         Elmichess                 2174       1          1439      
-49         jangine                   2116       4          1924      
+49         jangine                   2112       -3         1925      
 50         redtail-zero              2098       13         586       
-51         GarboBot                  2061       -14        6348      
-52         likeawizard-bot           2061       2          1452      
+51         likeawizard-bot           2061       2          1452      
+52         GarboBot                  2061       -14        6348      
 53         MaxtheDog                 2060       8          854       
 54         myopic-bot                2044       11         614       
 55         AjedrezChamberi           2036       -33        130       
@@ -75,7 +75,7 @@ Rank       Bot                       Rating     Prog       Games
 74         melsh_bot                 1718       -16        297       
 75         ZE_ROOK                   1683       21         677       
 76         turkjs                    1673       -4         5209      
-77         maia9                     1667       -22        89014     
+77         maia9                     1670       -19        89016     
 78         ArduChessBot              1662       -3         475       
 79         Jibbby                    1660       -7         2088      
 80         yeoldwiz                  1644       2          745       
@@ -86,7 +86,7 @@ Rank       Bot                       Rating     Prog       Games
 85         maia5                     1564       4          105681    
 86         sargon-4ply               1544       2          694       
 87         DavidsGuterBot            1537       2          700       
-88         maia1                     1526       12         240754    
+88         maia1                     1524       14         240755    
 89         sargon-3ply               1518       -17        1279      
 90         turochamp-2ply            1489       -16        1170      
 91         RoundMoundOfRebounds      1467       -7         386       
@@ -98,4 +98,3 @@ Rank       Bot                       Rating     Prog       Games
 97         sargon-1ply               1245       -10        9030      
 98         schnecken_bot             1200       9          423       
 99         kireevi                   1093       -35        599       
-100        G0thamB0t                 650        4          411       
