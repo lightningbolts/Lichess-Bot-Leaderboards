@@ -36,13 +36,13 @@ Rank       Bot                       Rating     Prog       Games
 35         OpeningsBot               2392       -7         500       
 36         simpleEval                2385       -7         7937      
 37         fornax-engine             2382       -2         3822      
-38         bekbot                    2325       -7         2019      
+38         bekbot                    2328       1          2020      
 39         FataliiBot                2289       3          2859      
 40         halcyonbot                2264       12         7373      
 41         Nakshatra3                2212       -9         1023      
 42         eubos                     2201       25         4377      
 43         Boris-Trapsky             2182       4          28039     
-44         honzovy-sachy-2           2180       4          3767      
+44         honzovy-sachy-2           2176       0          3768      
 45         Elmichess                 2174       1          1439      
 46         Lynx_BOT                  2169       7          40412     
 47         matmoi                    2168       -3         2496      
@@ -52,8 +52,8 @@ Rank       Bot                       Rating     Prog       Games
 51         likeawizard-bot           2056       3          1476      
 52         Humaia-Strong             2055       5          613       
 53         myopic-bot                2043       -2         621       
-54         AjedrezChamberi           2036       -33        130       
-55         MaxtheDog                 2036       -18        861       
+54         MaxtheDog                 2036       -18        861       
+55         AjedrezChamberi           2036       -33        130       
 56         zeekat                    1980       2          9303      
 57         BLANK_BOT                 1979       5          1827      
 58         LeelaRogue                1970       3          2383      
