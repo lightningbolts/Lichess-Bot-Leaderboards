@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          M-Z_Bot                   2917       3          396       
-2          LeelaMultiPoss            2914       7          397       
-3          ReinforcementTrial        2914       -1         5802      
+2          ReinforcementTrial        2914       -1         5802      
+3          LeelaMultiPoss            2914       7          397       
 4          FireFishBOT_v2            2910       5          1027      
 5          caissa-x                  2909       5          3265      
 6          ProteusSF-Aureo           2908       13         24        
@@ -10,7 +10,7 @@ Rank       Bot                       Rating     Prog       Games
 9          YoBot_v2                  2892       -1         13450     
 10         ArasanX                   2878       -4         6238      
 11         European_Chess_Bot        2875       3          49        
-12         faith_bot                 2844       -5         1576      
+12         faith_bot                 2846       -5         1577      
 13         Mr_Chess_Berserk          2831       2          154       
 14         blundar_bot               2830       14         1379      
 15         Palisade                  2799       76         215       
@@ -21,7 +21,7 @@ Rank       Bot                       Rating     Prog       Games
 20         LazyBot                   2599       1          796       
 21         bot_adario                2577       -11        1484      
 22         SaxtonEngine              2569       -18        1542      
-23         Weiawaga                  2558       1          10434     
+23         Weiawaga                  2556       2          10435     
 24         pawn_git                  2553       -10        1471      
 25         catriever                 2540       4          437       
 26         odonata-bot               2484       7          3897      
@@ -78,14 +78,14 @@ Rank       Bot                       Rating     Prog       Games
 77         RookieRobot               1647       109        22        
 78         ArduChessBot              1646       -34        480       
 79         yeoldwiz                  1644       7          746       
-80         maia5                     1592       -24        105765    
+80         maia5                     1601       -21        105766    
 81         dragobot                  1576       6          130       
 82         maia1                     1564       9          241013    
 83         sargon-4ply               1545       1          697       
 84         DavidsGuterBot            1537       2          700       
 85         sargon-3ply               1518       -17        1279      
-86         GuineaBot3                1489       -163       21        
-87         turochamp-2ply            1489       -16        1170      
+86         turochamp-2ply            1489       -16        1170      
+87         GuineaBot3                1489       -163       21        
 88         RoundMoundOfRebounds      1481       0          389       
 89         ai-con                    1428       27         33        
 90         StupidChessRobot          1412       -23        93        
