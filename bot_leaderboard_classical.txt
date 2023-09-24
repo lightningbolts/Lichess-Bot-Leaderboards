@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ReinforcementTrial        2656       5          475       
-2          M-Z_Bot                   2648       3          118       
+1          ReinforcementTrial        2656       0          476       
+2          M-Z_Bot                   2648       3          119       
 3          ProteusSF-Aureo           2639       47         22        
 4          YoBot_v2                  2636       2          683       
 5          ResoluteBot               2621       4          804       
@@ -20,10 +20,10 @@ Rank       Bot                       Rating     Prog       Games
 19         catriever                 2350       3          344       
 20         pawn_git                  2316       -9         333       
 21         SaxtonEngine              2311       -18        546       
-22         Weiawaga                  2290       8          5914      
+22         Weiawaga                  2293       13         5915      
 23         FlamingDragon_9000        2238       -18        514       
 24         TuksuBot                  2144       -8         1061      
-25         Nakshatra3                2071       -25        203       
+25         Nakshatra3                2066       -28        204       
 26         simpleEval                2062       -16        1903      
 27         bekbot                    2033       33         127       
 28         FataliiBot                2023       26         26        
@@ -58,7 +58,7 @@ Rank       Bot                       Rating     Prog       Games
 57         Jibbby                    1572       1          88        
 58         yeoldwiz                  1568       -6         324       
 59         sargon-3ply               1567       -22        772       
-60         maia1                     1539       4          68439     
+60         maia1                     1544       15         68440     
 61         StupidChessRobot          1503       -39        34        
 62         turochamp-1ply            1419       38         831       
 63         RoundMoundOfRebounds      1410       51         129       
