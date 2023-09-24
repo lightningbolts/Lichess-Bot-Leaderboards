@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          LeelaMultiPoss            2940       13         659       
 2          M-Z_Bot                   2936       -1         1140      
-3          YoBot_v2                  2919       -8         4540      
+3          YoBot_v2                  2919       -7         4541      
 4          ProteusSF-Godot           2918       0          1503      
 5          European_Chess_Bot        2918       4          81        
 6          ReinforcementTrial        2916       6          3695      
@@ -17,10 +17,10 @@ Rank       Bot                       Rating     Prog       Games
 16         blundar_bot               2821       -9         1724      
 17         faith_bot                 2782       10         847       
 18         Palisade                  2713       26         329       
-19         Berserk-Test              2703       15         39        
+19         Berserk-Test              2713       15         40        
 20         LazyBot                   2664       -19        2058      
-21         Carp_Bot                  2623       44         285       
-22         expositor                 2616       4          7774      
+21         expositor                 2616       4          7774      
+22         Carp_Bot                  2607       38         287       
 23         AKS-Mantissa              2591       10         10834     
 24         MrChessTheBot             2542       -53        2009      
 25         pawn_git                  2534       -10        2950      
@@ -55,8 +55,8 @@ Rank       Bot                       Rating     Prog       Games
 54         Humaia-Strong             2011       25         2372      
 55         aleph_engine              2009       -6         77        
 56         MaxtheDog                 2005       5          5473      
-57         LeelaRogue                2002       7          2406      
-58         GarboBot                  2002       4          10034     
+57         GarboBot                  2002       4          10034     
+58         LeelaRogue                2002       7          2406      
 59         BLANK_BOT                 1957       -15        5379      
 60         sun_bird                  1941       -19        2146      
 61         LazyBotJr                 1925       -18        1974      
@@ -66,7 +66,7 @@ Rank       Bot                       Rating     Prog       Games
 65         chers-engine              1847       -23        148       
 66         NatesBot                  1817       12         1797      
 67         Trollfish-Bot             1801       -4         2886      
-68         baby_eubos                1792       10         8973      
+68         baby_eubos                1799       12         8974      
 69         Dinora                    1777       -2         476       
 70         notropis                  1756       -23        7367      
 71         piglet_engine             1749       47         292       
@@ -92,7 +92,7 @@ Rank       Bot                       Rating     Prog       Games
 91         maia5                     1465       -14        105809    
 92         sargon-3ply               1434       -4         2091      
 93         ai-con                    1396       -32        41        
-94         maia1                     1381       4          214527    
+94         maia1                     1390       18         214528    
 95         Humaia                    1380       26         1004      
 96         turochamp-2ply            1375       -33        1817      
 97         StupidChessRobot          1358       -31        2643      
@@ -100,8 +100,8 @@ Rank       Bot                       Rating     Prog       Games
 99         monchester                1338       -18        2844      
 100        sargon-1ply               1298       -6         8599      
 101        sargon-2ply               1271       29         3296      
-102        turochamp-1ply            1229       6          1945      
-103        chat_bot                  1229       -1         342       
+102        chat_bot                  1229       -1         342       
+103        turochamp-1ply            1229       6          1945      
 104        pawnrobot                 1217       -12        2274      
 105        dragobot                  1211       5          217       
 106        king-forward-bot          1174       -106       27        
