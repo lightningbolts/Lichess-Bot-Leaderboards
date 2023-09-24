@@ -19,7 +19,7 @@ Rank       Bot                       Rating     Prog       Games
 18         Berserk-Test              2725       1          32        
 19         MrChessTheBot             2689       -53        2243      
 20         expositor                 2651       -21        4847      
-21         AKS-Mantissa              2632       -7         4354      
+21         AKS-Mantissa              2627       -9         4355      
 22         LazyBot                   2599       1          796       
 23         bot_adario                2577       -11        1484      
 24         SaxtonEngine              2570       -17        1546      
@@ -36,11 +36,11 @@ Rank       Bot                       Rating     Prog       Games
 35         simpleEval                2385       -7         7937      
 36         fornax-engine             2382       -2         3822      
 37         bekbot                    2329       2          2022      
-38         FataliiBot                2289       3          2859      
+38         FataliiBot                2293       13         2860      
 39         halcyonbot                2261       -7         7376      
 40         Nakshatra3                2212       -9         1023      
 41         eubos                     2201       25         4377      
-42         Boris-Trapsky             2186       1          28040     
+42         Boris-Trapsky             2182       -4         28041     
 43         honzovy-sachy-2           2176       0          3768      
 44         Elmichess                 2174       1          1439      
 45         Lynx_BOT                  2169       11         40414     
@@ -51,8 +51,8 @@ Rank       Bot                       Rating     Prog       Games
 50         Humaia-Strong             2055       5          613       
 51         likeawizard-bot           2055       4          1477      
 52         myopic-bot                2043       -2         621       
-53         AjedrezChamberi           2036       -33        130       
-54         MaxtheDog                 2036       -16        862       
+53         MaxtheDog                 2036       -16        862       
+54         AjedrezChamberi           2036       -33        130       
 55         zeekat                    1984       1          9304      
 56         BLANK_BOT                 1979       5          1827      
 57         LeelaRogue                1970       3          2383      
@@ -63,7 +63,7 @@ Rank       Bot                       Rating     Prog       Games
 62         QuintBot                  1934       38         449       
 63         Dinora                    1928       4          114       
 64         NatesBot                  1905       1          917       
-65         notropis                  1896       13         2755      
+65         notropis                  1899       11         2756      
 66         chers-engine              1874       111        29        
 67         LittleGreenManBot         1825       -26        3890      
 68         honzovy-sachy             1807       -20        1113      
@@ -71,8 +71,8 @@ Rank       Bot                       Rating     Prog       Games
 70         Virutor                   1799       -12        3347      
 71         zulu_bot                  1776       3          110       
 72         ShallowRedBot             1771       -4         96        
-73         Demolito_L5               1771       17         1917      
-74         ChessChildren             1770       -9         4637      
+73         ChessChildren             1770       -9         4637      
+74         Demolito_L5               1767       13         1918      
 75         Karl-bot                  1760       -25        572       
 76         AshNostromo               1732       8          1315      
 77         Demolito_L4               1727       -36        31        
@@ -106,5 +106,6 @@ Rank       Bot                       Rating     Prog       Games
 105        schnecken_bot             1200       9          423       
 106        chat_bot                  1166       -15        342       
 107        kireevi                   1082       -37        601       
-108        B4ux1t3s-Bot              780        -12        120       
-109        G0thamB0t                 642        -20        413       
+108        bobandi                   981        -20        772       
+109        B4ux1t3s-Bot              780        -12        120       
+110        G0thamB0t                 642        -20        413       
