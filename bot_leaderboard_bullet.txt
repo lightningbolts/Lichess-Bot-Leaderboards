@@ -15,11 +15,11 @@ Rank       Bot                       Rating     Prog       Games
 14         faith_bot                 2829       -7         3368      
 15         Palisade                  2760       23         435       
 16         LazyBot                   2627       33         1492      
-17         expositor                 2612       16         21907     
+17         expositor                 2609       8          21908     
 18         FlamingDragon_9000        2524       -5         10619     
 19         pawn_git                  2503       -6         4915      
 20         Weiawaga                  2496       2          16864     
-21         SaxtonEngine              2493       -3         5011      
+21         SaxtonEngine              2492       -3         5016      
 22         balancefish               2484       5          113       
 23         bot64jaques               2481       99         36        
 24         AKS-Mantissa              2473       1          11720     
@@ -57,7 +57,7 @@ Rank       Bot                       Rating     Prog       Games
 56         QuintBot                  1846       -1         10704     
 57         FelixLeonidovich          1827       19         189       
 58         QueensGamBOT              1817       -1         5486      
-59         piglet_engine             1781       -2         1102      
+59         piglet_engine             1784       -2         1103      
 60         Dinora                    1771       -2         303       
 61         Demolito_L5               1769       -5         1379      
 62         notropis                  1767       9          4469      
@@ -70,11 +70,11 @@ Rank       Bot                       Rating     Prog       Games
 69         Demolito_L4               1670       49         22        
 70         Jibbby                    1658       -4         2764      
 71         rudim-bot                 1644       -29        160       
-72         ZE_ROOK                   1623       -6         2326      
+72         ZE_ROOK                   1627       1          2327      
 73         turochamp-2ply            1615       21         1810      
 74         RookieRobot               1607       42         64        
 75         sargon-3ply               1602       -15        1598      
-76         turkjs                    1597       11         19590     
+76         turkjs                    1594       4          19591     
 77         sudobot_chess             1590       -295       227       
 78         sargon-4ply               1574       -14        1993      
 79         RoundMoundOfRebounds      1569       -13        1627      
@@ -85,7 +85,7 @@ Rank       Bot                       Rating     Prog       Games
 84         yeoldwiz                  1450       18         791       
 85         turochamp-1ply            1441       8          2362      
 86         botTideEval               1430       -2         3727      
-87         sargon-2ply               1421       -4         2742      
+87         sargon-2ply               1422       -2         2743      
 88         postbot                   1378       -44        59        
 89         sargon-1ply               1373       -3         5100      
 90         StupidChessRobot          1368       -31        1213      
