@@ -7,8 +7,8 @@ Rank       Bot                       Rating     Prog       Games
 6          ProteusSF-Aureo           2908       13         24        
 7          ProteusSF-Godot           2907       1          244       
 8          TorBot                    2903       5          875       
-9          ResoluteBot               2901       -6         5838      
-10         YoBot_v2                  2901       0          13479     
+9          YoBot_v2                  2901       0          13479     
+10         ResoluteBot               2901       -6         5838      
 11         RaspFish                  2899       -11        6356      
 12         Intron014                 2879       4          37        
 13         ArasanX                   2864       0          6289      
@@ -34,9 +34,9 @@ Rank       Bot                       Rating     Prog       Games
 33         fornax-engine             2382       -6         3826      
 34         simpleEval                2375       -18        7942      
 35         FataliiBot                2291       -3         2873      
-36         halcyonbot                2277       11         7412      
-37         eubos                     2212       15         4384      
-38         Nakshatra3                2212       -3         1035      
+36         halcyonbot                2279       18         7413      
+37         Nakshatra3                2212       -3         1035      
+38         eubos                     2212       15         4384      
 39         HistoryExplorer           2183       -10        1130      
 40         matmoi                    2182       10         2528      
 41         Elmichess                 2177       3          1440      
@@ -47,7 +47,7 @@ Rank       Bot                       Rating     Prog       Games
 46         GarboBot                  2080       16         6362      
 47         myopic-bot                2056       13         632       
 48         Humaia-Strong             2055       -1         614       
-49         likeawizard-bot           2045       7          1507      
+49         likeawizard-bot           2043       9          1508      
 50         MaxtheDog                 2032       -11        870       
 51         zeekat                    1989       0          9332      
 52         LazyBotJr                 1975       -22        1301      
@@ -64,7 +64,7 @@ Rank       Bot                       Rating     Prog       Games
 63         LittleGreenManBot         1825       -26        3890      
 64         Trollfish-Bot             1795       -24        380       
 65         zulu_bot                  1776       3          110       
-66         maia9                     1742       0          89320     
+66         maia9                     1741       -16        89322     
 67         Karl-bot                  1739       -31        585       
 68         AshNostromo               1736       17         1319      
 69         melsh_bot                 1712       -9         309       
@@ -76,7 +76,7 @@ Rank       Bot                       Rating     Prog       Games
 75         HardRok                   1641       15         830       
 76         yeoldwiz                  1640       8          750       
 77         ArduChessBot              1636       -17        485       
-78         maia1                     1611       7          241335    
+78         maia1                     1618       17         241337    
 79         dragobot                  1589       19         134       
 80         maia5                     1584       23         105894    
 81         sargon-4ply               1546       -7         699       
@@ -97,5 +97,4 @@ Rank       Bot                       Rating     Prog       Games
 96         schnecken_bot             1193       -3         425       
 97         chat_bot                  1166       -15        342       
 98         kireevi                   1082       -37        601       
-99         B4ux1t3s-Bot              797        -4         123       
-100        G0thamB0t                 634        -23        415       
+99         G0thamB0t                 634        -23        415       
