@@ -1,9 +1,9 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ToromBot                  2924       -1         5872      
+1          ToromBot                  2924       4          5873      
 2          ProteusSF-Godot           2918       0          1503      
 3          ReinforcementTrial        2917       3          3907      
-4          ProteusSF-Aureo           2908       0          95        
-5          FireFishBOT_v2            2907       -5         9373      
+4          FireFishBOT_v2            2908       -4         9374      
+5          ProteusSF-Aureo           2908       0          95        
 6          Intron014                 2904       -6         514       
 7          YoBot_v2                  2903       -2         4662      
 8          ResoluteBot               2896       0          12862     
@@ -102,7 +102,7 @@ Rank       Bot                       Rating     Prog       Games
 101        monchester                1351       13         2855      
 102        GuineaBot3                1340       -58        162       
 103        chat_bot                  1312       75         348       
-104        sargon-1ply               1294       6          8654      
+104        sargon-1ply               1296       16         8655      
 105        sargon-2ply               1259       -4         3315      
 106        turochamp-1ply            1226       -8         1950      
 107        pawnrobot                 1208       -10        2284      
@@ -110,6 +110,6 @@ Rank       Bot                       Rating     Prog       Games
 109        king-forward-bot          1182       8          34        
 110        postbot                   1182       1          91        
 111        ABotWith3200Rating        1168       5          271       
-112        schnecken_bot             1096       -6         2436      
+112        schnecken_bot             1093       -17        2437      
 113        knucklefish               1049       -5         3464      
 114        bobandi                   940        3          1319      
