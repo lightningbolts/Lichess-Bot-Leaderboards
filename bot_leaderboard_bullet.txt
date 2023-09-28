@@ -25,14 +25,14 @@ Rank       Bot                       Rating     Prog       Games
 24         SaxtonEngine              2481       -12        5149      
 25         AKS-Mantissa              2477       12         11782     
 26         Elmichess                 2459       -35        3225      
-27         bot64jaques               2455       -11        82        
+27         bot64jaques               2445       -19        83        
 28         odonata-bot               2431       -6         6804      
 29         catriever                 2419       7          2614      
 30         TuksuBot                  2401       -14        7577      
 31         MrChessTheBot             2393       -52        5912      
 32         AjedrezChamberi           2382       30         541       
-33         bot_adario                2377       6          2980      
-34         Phalanx-XXV               2373       -7         4781      
+33         Phalanx-XXV               2380       -2         4782      
+34         bot_adario                2377       6          2980      
 35         OpeningsBot               2365       11         3669      
 36         admete_bot                2350       17         11868     
 37         Pseudo-0                  2344       19         4314      
@@ -73,8 +73,8 @@ Rank       Bot                       Rating     Prog       Games
 72         Virutor                   1678       -24        7167      
 73         ChessChildren             1659       21         15773     
 74         rudim-bot                 1644       -29        160       
-75         sargon-4ply               1634       22         2067      
-76         sargon-3ply               1633       26         1653      
+75         sargon-3ply               1634       23         1654      
+76         sargon-4ply               1634       22         2067      
 77         turkjs                    1620       4          19665     
 78         turochamp-2ply            1598       17         1867      
 79         sudobot_chess             1590       -295       227       
@@ -90,7 +90,7 @@ Rank       Bot                       Rating     Prog       Games
 89         sargon-2ply               1392       4          2798      
 90         sargon-1ply               1382       20         5250      
 91         StupidChessRobot          1378       -2         1284      
-92         postbot                   1346       5          214       
+92         postbot                   1344       6          215       
 93         pawnrobot                 1263       2          4147      
 94         king-forward-bot          1245       11         98        
 95         ABotWith3200Rating        1232       -3         190       
