@@ -21,11 +21,11 @@ Rank       Bot                       Rating     Prog       Games
 20         StockFish16_2023          2557       -11        289       
 21         FlamingDragon_9000        2524       -5         10619     
 22         pawn_git                  2515       7          5007      
-23         Cheng-4                   2505       13         14555     
+23         Cheng-4                   2510       13         14556     
 24         ELO_1500                  2505       38         3340      
-25         Weiawaga                  2488       -10        16946     
-26         SaxtonEngine              2488       -6         5137      
-27         balancefish               2484       5          113       
+25         SaxtonEngine              2488       -6         5137      
+26         balancefish               2484       5          113       
+27         Weiawaga                  2483       -14        16947     
 28         AKS-Mantissa              2467       -8         11768     
 29         Elmichess                 2459       -35        3225      
 30         bot64jaques               2442       -59        64        
@@ -56,7 +56,7 @@ Rank       Bot                       Rating     Prog       Games
 55         MaxtheDog                 2011       13         16628     
 56         LazyBotJr                 2009       8          986       
 57         zeekat                    1952       16         20625     
-58         sun_bird                  1948       11         2557      
+58         sun_bird                  1952       14         2558      
 59         NatesBot                  1913       30         731       
 60         Karl-bot                  1903       6          1825      
 61         Trollfish-Bot             1876       -23        6330      
@@ -64,7 +64,7 @@ Rank       Bot                       Rating     Prog       Games
 63         QuintBot                  1862       -10        11091     
 64         QueensGamBOT              1843       13         5570      
 65         notropis                  1810       -6         4560      
-66         baby_eubos                1804       -8         6603      
+66         baby_eubos                1800       -19        6604      
 67         Demolito_L5               1800       2          1429      
 68         Dinora                    1794       34         370       
 69         honzovy-sachy             1780       8          5392      
@@ -88,13 +88,13 @@ Rank       Bot                       Rating     Prog       Games
 87         monchester                1541       10         2865      
 88         DavidsGuterBot            1526       -20        6793      
 89         maia5                     1514       19         40476     
-90         botTideEval               1484       0          3935      
+90         botTideEval               1488       6          3936      
 91         yeoldwiz                  1450       18         791       
 92         turochamp-1ply            1424       -12        2413      
 93         sargon-2ply               1397       -10        2791      
 94         ai-con                    1386       -18        78        
 95         StupidChessRobot          1379       -10        1274      
-96         sargon-1ply               1368       -11        5212      
+96         sargon-1ply               1367       -7         5214      
 97         postbot                   1321       -5         174       
 98         dragobot                  1308       -34        78        
 99         pawnrobot                 1273       0          4141      
@@ -102,4 +102,4 @@ Rank       Bot                       Rating     Prog       Games
 101        ABotWith3200Rating        1237       8          186       
 102        knucklefish               1217       -1         3036      
 103        bobandi                   1207       3          1150      
-104        schnecken_bot             1201       1          1366      
+104        schnecken_bot             1198       1          1367      
