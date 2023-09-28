@@ -1,5 +1,5 @@
 Rank       Bot                       Rating     Prog       Games     
-1          VariantsTop               2958       13         780       
+1          VariantsTop               2957       12         781       
 2          LeelaMultiPoss            2943       15         663       
 3          EmptikBot                 2942       1          734       
 4          M-Z_Bot                   2931       5          1209      
@@ -9,7 +9,7 @@ Rank       Bot                       Rating     Prog       Games
 8          ToromBot                  2914       -8         5925      
 9          Africaata                 2910       -2         408       
 10         FireFishBOT_v2            2907       -8         9469      
-11         ResoluteBot               2906       10         12888     
+11         ResoluteBot               2906       5          12889     
 12         Intron014                 2903       2          553       
 13         YoBot_v2                  2901       -2         4674      
 14         ShashChess_MsP            2889       4          3057      
@@ -52,7 +52,7 @@ Rank       Bot                       Rating     Prog       Games
 51         Boris-Trapsky             2106       -6         29685     
 52         jangine                   2106       23         3982      
 53         redtail-zero              2076       -10        708       
-54         Lynx_BOT                  2066       15         51889     
+54         Lynx_BOT                  2068       12         51890     
 55         KelpBot                   2056       -102       23        
 56         Elmichess                 2038       9          3739      
 57         BLANK_BOT                 2018       -4         5460      
@@ -66,10 +66,10 @@ Rank       Bot                       Rating     Prog       Games
 65         zulu_bot                  1861       -3         992       
 66         Karl-bot                  1845       -15        2338      
 67         QuintBot                  1836       21         10692     
-68         notropis                  1813       18         7450      
+68         notropis                  1818       25         7451      
 69         Trollfish-Bot             1812       -5         2990      
 70         NatesBot                  1812       3          1937      
-71         baby_eubos                1810       1          9122      
+71         baby_eubos                1808       -3         9123      
 72         Dinora                    1797       40         547       
 73         piglet_engine             1751       1          306       
 74         LittleGreenManBot         1714       7          4667      
@@ -91,8 +91,8 @@ Rank       Bot                       Rating     Prog       Games
 90         maia5                     1511       23         106209    
 91         sargon-4ply               1490       -22        2282      
 92         DavidsGuterBot            1472       -2         3873      
-93         maia1                     1463       26         215041    
-94         RoundMoundOfRebounds      1463       0          1499      
+93         RoundMoundOfRebounds      1463       0          1499      
+94         maia1                     1461       19         215043    
 95         sargon-3ply               1456       9          2112      
 96         ai-con                    1396       -13        81        
 97         turochamp-2ply            1378       18         1842      
@@ -101,8 +101,8 @@ Rank       Bot                       Rating     Prog       Games
 100        chat_bot                  1312       75         348       
 101        sargon-1ply               1300       16         8695      
 102        sargon-2ply               1251       -11        3319      
-103        turochamp-1ply            1222       -7         1951      
-104        postbot                   1222       7          120       
+103        turochamp-1ply            1228       -8         1952      
+104        postbot                   1217       5          121       
 105        king-forward-bot          1207       65         37        
 106        pawnrobot                 1196       -13        2289      
 107        ABotWith3200Rating        1169       4          272       
