@@ -47,7 +47,7 @@ Rank       Bot                       Rating     Prog       Games
 46         Elmichess                 2177       3          1441      
 47         Lynx_BOT                  2169       10         40483     
 48         matmoi                    2161       15         2599      
-49         Boris-Trapsky             2149       24         28087     
+49         Boris-Trapsky             2150       18         28088     
 50         jangine                   2115       28         1953      
 51         redtail-zero              2111       -10        621       
 52         GarboBot                  2085       -2         6381      
@@ -75,7 +75,7 @@ Rank       Bot                       Rating     Prog       Games
 74         zulu_bot                  1776       3          110       
 75         ChessChildren             1773       7          4654      
 76         Demolito_L5               1740       -34        1969      
-77         maia9                     1728       -4         89622     
+77         maia9                     1728       -2         89623     
 78         AshNostromo               1722       -17        1327      
 79         melsh_bot                 1697       -16        319       
 80         Jibbby                    1691       31         2150      
@@ -83,9 +83,9 @@ Rank       Bot                       Rating     Prog       Games
 82         simplexitor               1671       0          605       
 83         FelixLeonidovich          1663       6          96        
 84         yeoldwiz                  1659       17         759       
-85         HardRok                   1642       1          836       
+85         HardRok                   1642       -5         837       
 86         ArduChessBot              1634       -13        489       
-87         maia1                     1614       29         241744    
+87         maia1                     1618       30         241746    
 88         maia5                     1598       10         106108    
 89         DavidsGuterBot            1554       12         709       
 90         sargon-4ply               1542       -6         706       
@@ -103,5 +103,5 @@ Rank       Bot                       Rating     Prog       Games
 102        schnecken_bot             1193       7          447       
 103        chat_bot                  1160       -19        343       
 104        kireevi                   1079       -30        602       
-105        bobandi                   980        -13        773       
+105        bobandi                   980        -5         774       
 106        G0thamB0t                 633        -19        418       
