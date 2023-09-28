@@ -22,7 +22,7 @@ Rank       Bot                       Rating     Prog       Games
 21         Pseudo-0                  2152       -1         478       
 22         TuksuBot                  2150       0          1065      
 23         Phalanx-XXV               2125       3          416       
-24         simpleEval                2054       -12        1912      
+24         simpleEval                2056       -7         1913      
 25         FataliiBot                1999       4          29        
 26         HistoryExplorer           1992       6          202       
 27         Boris-Trapsky             1985       1          10563     
@@ -55,9 +55,9 @@ Rank       Bot                       Rating     Prog       Games
 54         Jibbby                    1612       36         93        
 55         turochamp-2ply            1583       -16        805       
 56         Trollfish-Bot             1582       33         66        
-57         maia1                     1569       4          68733     
-58         maia5                     1569       7          23935     
-59         sargon-3ply               1567       -22        772       
+57         maia5                     1569       7          23935     
+58         sargon-3ply               1567       -22        772       
+59         maia1                     1562       -7         68734     
 60         yeoldwiz                  1562       -11        325       
 61         chat_bot                  1560       54         72        
 62         StupidChessRobot          1497       -45        35        
@@ -68,4 +68,3 @@ Rank       Bot                       Rating     Prog       Games
 67         sargon-1ply               1300       -8         3437      
 68         bobandi                   1189       28         193       
 69         ABotWith3200Rating        1132       -14        109       
-70         G0thamB0t                 789        -7         242       
