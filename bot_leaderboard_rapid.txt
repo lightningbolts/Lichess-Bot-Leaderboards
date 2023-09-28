@@ -2,7 +2,7 @@ Rank       Bot                       Rating     Prog       Games
 1          VariantsTop               2933       14         176       
 2          ReinforcementTrial        2923       -1         5887      
 3          ToromBot                  2920       7          2957      
-4          M-Z_Bot                   2918       -4         467       
+4          M-Z_Bot                   2918       -4         468       
 5          EmanPureNN                2916       1          470       
 6          Africaata                 2916       3          306       
 7          EmptikBot                 2915       -3         470       
@@ -39,11 +39,11 @@ Rank       Bot                       Rating     Prog       Games
 38         OpeningsBot               2402       7          520       
 39         fornax-engine             2379       4          3831      
 40         simpleEval                2370       -5         7953      
-41         halcyonbot                2298       -8         7492      
+41         halcyonbot                2297       -12        7493      
 42         FataliiBot                2296       1          2893      
 43         Nakshatra3                2210       -2         1046      
-44         eubos                     2206       -2         4391      
-45         HistoryExplorer           2206       10         1138      
+44         HistoryExplorer           2208       18         1139      
+45         eubos                     2206       -2         4391      
 46         Elmichess                 2177       3          1441      
 47         Lynx_BOT                  2169       10         40483     
 48         matmoi                    2152       13         2596      
@@ -75,7 +75,7 @@ Rank       Bot                       Rating     Prog       Games
 74         zulu_bot                  1776       3          110       
 75         ChessChildren             1766       -3         4653      
 76         Demolito_L5               1740       -34        1969      
-77         maia9                     1733       7          89611     
+77         maia9                     1725       1          89613     
 78         AshNostromo               1722       -17        1327      
 79         melsh_bot                 1697       -16        319       
 80         Jibbby                    1691       31         2150      
