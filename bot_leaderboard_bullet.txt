@@ -5,9 +5,9 @@ Rank       Bot                       Rating     Prog       Games
 4          FireFishBOT_v2            2955       -7         1751      
 5          ResoluteBot               2952       -6         28007     
 6          Intron014                 2940       1          1461      
-7          ToromBot                  2912       -5         65222     
+7          ToromBot                  2911       -7         65223     
 8          RaspFish                  2853       9          55135     
-9          Nikitosik-ai              2841       -8         4350      
+9          Nikitosik-ai              2842       -12        4351      
 10         faith_bot                 2831       1          3418      
 11         Mr_Chess_Berserk          2822       -7         1173      
 12         LeelaHatena               2811       21         173       
@@ -23,7 +23,7 @@ Rank       Bot                       Rating     Prog       Games
 22         balancefish               2484       5          113       
 23         Weiawaga                  2483       9          16962     
 24         SaxtonEngine              2481       -12        5149      
-25         AKS-Mantissa              2477       12         11782     
+25         AKS-Mantissa              2477       13         11783     
 26         Elmichess                 2459       -35        3225      
 27         bot64jaques               2445       -19        83        
 28         odonata-bot               2431       -6         6804      
@@ -40,7 +40,7 @@ Rank       Bot                       Rating     Prog       Games
 39         simpleEval                2312       -7         25880     
 40         halcyonbot                2250       -1         6557      
 41         FataliiBot                2226       9          6237      
-42         eubos                     2155       -16        13912     
+42         eubos                     2159       -14        13913     
 43         jangine                   2133       -13        3728      
 44         matmoi                    2121       -21        3831      
 45         GarboBot                  2107       28         10276     
@@ -48,7 +48,7 @@ Rank       Bot                       Rating     Prog       Games
 47         redtail-zero              2087       -3         1060      
 48         likeawizard-bot           2081       12         2751      
 49         BLANK_BOT                 2067       1          8208      
-50         Lynx_BOT                  2063       -5         7980      
+50         Lynx_BOT                  2059       -13        7981      
 51         MaxtheDog                 2023       0          16668     
 52         LazyBotJr                 2009       8          986       
 53         sun_bird                  1968       11         2605      
@@ -65,7 +65,7 @@ Rank       Bot                       Rating     Prog       Games
 64         Dinora                    1782       1          387       
 65         piglet_engine             1757       -7         1178      
 66         simplexitor               1733       13         2583      
-67         ArduChessBot              1710       -10        6258      
+67         ArduChessBot              1710       -9         6259      
 68         melsh_bot                 1708       -5         4572      
 69         Jibbby                    1689       17         2893      
 70         maia9                     1683       15         62134     
@@ -92,7 +92,7 @@ Rank       Bot                       Rating     Prog       Games
 91         StupidChessRobot          1378       -2         1284      
 92         postbot                   1342       -1         216       
 93         pawnrobot                 1263       2          4147      
-94         king-forward-bot          1245       11         98        
+94         king-forward-bot          1243       8          99        
 95         ABotWith3200Rating        1232       -3         190       
 96         bobandi                   1218       1          1155      
 97         knucklefish               1212       1          3042      
