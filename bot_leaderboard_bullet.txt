@@ -5,10 +5,10 @@ Rank       Bot                       Rating     Prog       Games
 4          FireFishBOT_v2            2955       -7         1751      
 5          ResoluteBot               2952       -6         28007     
 6          Intron014                 2940       1          1461      
-7          ToromBot                  2915       -4         65220     
+7          ToromBot                  2913       -6         65221     
 8          RaspFish                  2853       9          55135     
 9          Nikitosik-ai              2841       -6         4349      
-10         faith_bot                 2828       -2         3416      
+10         faith_bot                 2830       0          3417      
 11         Mr_Chess_Berserk          2822       -7         1173      
 12         LeelaHatena               2809       20         172       
 13         blundar_bot               2797       3          12170     
@@ -32,7 +32,7 @@ Rank       Bot                       Rating     Prog       Games
 31         MrChessTheBot             2393       -52        5912      
 32         AjedrezChamberi           2382       30         541       
 33         Phalanx-XXV               2380       -2         4782      
-34         bot_adario                2377       6          2980      
+34         bot_adario                2380       6          2981      
 35         OpeningsBot               2365       11         3669      
 36         admete_bot                2350       17         11868     
 37         Pseudo-0                  2344       19         4314      
@@ -40,7 +40,7 @@ Rank       Bot                       Rating     Prog       Games
 39         simpleEval                2312       -7         25880     
 40         halcyonbot                2250       -1         6557      
 41         FataliiBot                2226       9          6237      
-42         eubos                     2158       -10        13911     
+42         eubos                     2155       -16        13912     
 43         jangine                   2133       -13        3728      
 44         matmoi                    2121       -21        3831      
 45         GarboBot                  2102       17         10275     
@@ -51,9 +51,9 @@ Rank       Bot                       Rating     Prog       Games
 50         BLANK_BOT                 2067       1          8208      
 51         MaxtheDog                 2023       0          16668     
 52         LazyBotJr                 2009       8          986       
-53         sun_bird                  1965       7          2602      
+53         sun_bird                  1964       -1         2603      
 54         zeekat                    1960       -2         20674     
-55         Trollfish-Bot             1922       8          6372      
+55         Trollfish-Bot             1922       13         6373      
 56         NatesBot                  1921       8          744       
 57         Karl-bot                  1910       -13        1880      
 58         Demolito_L6               1857       -11        1151      
@@ -79,11 +79,11 @@ Rank       Bot                       Rating     Prog       Games
 78         turochamp-2ply            1598       17         1867      
 79         sudobot_chess             1590       -295       227       
 80         maia1                     1570       7          127991    
-81         RoundMoundOfRebounds      1545       16         1689      
-82         maia5                     1538       19         40501     
+81         RoundMoundOfRebounds      1550       27         1690      
+82         maia5                     1534       11         40502     
 83         monchester                1531       -10        2876      
 84         DavidsGuterBot            1511       -15        6804      
-85         botTideEval               1481       10         3978      
+85         botTideEval               1476       -2         3979      
 86         turochamp-1ply            1463       28         2426      
 87         yeoldwiz                  1450       18         791       
 88         ai-con                    1409       19         88        
