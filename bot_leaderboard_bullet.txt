@@ -37,10 +37,10 @@ Rank       Bot                       Rating     Prog       Games
 36         bot_adario                2392       18         2988      
 37         Phalanx-XXV               2378       1          4788      
 38         OpeningsBot               2366       1          3680      
-39         admete_bot                2353       11         12075     
+39         admete_bot                2353       3          12079     
 40         Pseudo-0                  2351       16         4319      
 41         fornax-engine             2326       13         7428      
-42         simpleEval                2306       -4         25890     
+42         simpleEval                2309       -3         25891     
 43         bekbot                    2275       -14        2073      
 44         HistoryExplorer           2267       -7         2786      
 45         halcyonbot                2243       -1         6571      
@@ -49,7 +49,7 @@ Rank       Bot                       Rating     Prog       Games
 48         Humaia-Strong             2184       42         1327      
 49         eubos                     2171       12         13922     
 50         jangine                   2155       22         3739      
-51         matmoi                    2120       -9         3848      
+51         matmoi                    2117       -7         3849      
 52         likeawizard-bot           2089       8          2762      
 53         myopic-bot                2089       -18        2623      
 54         GarboBot                  2076       -26        10288     
@@ -65,7 +65,7 @@ Rank       Bot                       Rating     Prog       Games
 64         Trollfish-Bot             1906       10         6405      
 65         QuintBot                  1869       3          11203     
 66         QueensGamBOT              1833       5          5576      
-67         baby_eubos                1802       5          6639      
+67         baby_eubos                1804       10         6640      
 68         honzovy-sachy             1795       6          5418      
 69         Demolito_L5               1788       -4         1456      
 70         Dinora                    1777       -1         395       
@@ -75,7 +75,7 @@ Rank       Bot                       Rating     Prog       Games
 74         ArduChessBot              1721       10         6272      
 75         melsh_bot                 1706       -8         4581      
 76         Humaia                    1683       11         485       
-77         Virutor                   1680       2          7176      
+77         Virutor                   1682       7          7177      
 78         Jibbby                    1673       -17        2903      
 79         maia9                     1661       -11        62151     
 80         Demolito_L4               1658       2          81        
@@ -87,7 +87,7 @@ Rank       Bot                       Rating     Prog       Games
 86         turochamp-2ply            1596       12         1868      
 87         sudobot_chess             1590       -295       227       
 88         RookieRobot               1583       -11        77        
-89         RoundMoundOfRebounds      1555       24         1696      
+89         RoundMoundOfRebounds      1553       24         1697      
 90         maia1                     1547       -24        128009    
 91         monchester                1533       -5         2883      
 92         maia5                     1529       -2         40520     
