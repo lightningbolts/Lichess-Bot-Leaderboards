@@ -35,7 +35,7 @@ Rank       Bot                       Rating     Prog       Games
 34         MrChessTheBot             2393       -52        5912      
 35         bot_adario                2392       18         2988      
 36         Phalanx-XXV               2378       1          4788      
-37         OpeningsBot               2373       7          3678      
+37         OpeningsBot               2364       -5         3679      
 38         Pseudo-0                  2355       22         4318      
 39         admete_bot                2354       9          12070     
 40         fornax-engine             2326       13         7428      
@@ -43,10 +43,10 @@ Rank       Bot                       Rating     Prog       Games
 42         bekbot                    2280       0          2070      
 43         halcyonbot                2245       -3         6570      
 44         FataliiBot                2227       1          6245      
-45         TinyHugeBot               2213       7          322       
+45         TinyHugeBot               2214       4          324       
 46         Humaia-Strong             2184       42         1327      
 47         eubos                     2156       -5         13919     
-48         jangine                   2142       -2         3737      
+48         jangine                   2149       12         3738      
 49         matmoi                    2130       0          3846      
 50         likeawizard-bot           2092       24         2760      
 51         myopic-bot                2089       -18        2623      
@@ -64,8 +64,8 @@ Rank       Bot                       Rating     Prog       Games
 63         QuintBot                  1870       -1         11193     
 64         QueensGamBOT              1833       5          5576      
 65         baby_eubos                1806       8          6638      
-66         honzovy-sachy             1787       4          5417      
-67         Demolito_L5               1787       0          1453      
+66         Demolito_L5               1791       -1         1454      
+67         honzovy-sachy             1787       4          5417      
 68         notropis                  1785       -20        4592      
 69         Dinora                    1777       -1         395       
 70         piglet_engine             1754       -7         1183      
@@ -74,7 +74,7 @@ Rank       Bot                       Rating     Prog       Games
 73         melsh_bot                 1706       -8         4581      
 74         Virutor                   1683       8          7175      
 75         Humaia                    1683       11         485       
-76         Jibbby                    1677       -13        2902      
+76         Jibbby                    1673       -17        2903      
 77         maia9                     1660       -16        62149     
 78         Demolito_L4               1658       2          81        
 79         ChessChildren             1653       18         15775     
@@ -87,7 +87,7 @@ Rank       Bot                       Rating     Prog       Games
 86         RookieRobot               1583       -11        77        
 87         RoundMoundOfRebounds      1555       24         1696      
 88         maia1                     1552       -13        128007    
-89         Flawed_Formula            1549       3          451       
+89         Flawed_Formula            1545       0          452       
 90         maia5                     1531       8          40519     
 91         monchester                1528       -12        2882      
 92         DavidsGuterBot            1524       0          6808      
@@ -103,7 +103,7 @@ Rank       Bot                       Rating     Prog       Games
 102        pawnrobot                 1263       -4         4150      
 103        king-forward-bot          1238       -5         100       
 104        ABotWith3200Rating        1232       -14        193       
-105        bobandi                   1220       6          1156      
+105        bobandi                   1226       16         1157      
 106        knucklefish               1213       -6         3045      
 107        schnecken_bot             1156       2          1417      
 108        B4ux1t3s-Bot              1154       10         143       
