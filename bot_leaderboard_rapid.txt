@@ -2,7 +2,7 @@ Rank       Bot                       Rating     Prog       Games
 1          ToromBot                  2923       -1         2982      
 2          ReinforcementTrial        2919       -1         5915      
 3          M-Z_Bot                   2917       -2         477       
-4          FireFishBOT_v2            2912       -1         1076      
+4          FireFishBOT_v2            2911       -3         1077      
 5          TheFreshman1902           2911       1          225       
 6          Africaata                 2911       -4         324       
 7          ProteusSF-Aureo           2908       13         24        
@@ -11,7 +11,7 @@ Rank       Bot                       Rating     Prog       Games
 10         YoBot_v2                  2899       -2         13531     
 11         RaspFish                  2899       1          6425      
 12         ResoluteBot               2896       5          5903      
-13         Occhessadvanced           2874       10         80        
+13         Occhessadvanced           2875       10         81        
 14         Nikitosik-ai              2860       -4         1203      
 15         blundar_bot               2851       4          1447      
 16         ArasanX                   2850       -8         6368      
@@ -74,7 +74,7 @@ Rank       Bot                       Rating     Prog       Games
 73         honzovy-sachy             1781       -28        1126      
 74         zulu_bot                  1776       3          110       
 75         ChessChildren             1765       -1         4656      
-76         maia9                     1752       -11        89725     
+76         maia9                     1745       -14        89726     
 77         Demolito_L5               1738       -4         1979      
 78         AshNostromo               1717       -29        1328      
 79         melsh_bot                 1680       -40        323       
@@ -84,8 +84,8 @@ Rank       Bot                       Rating     Prog       Games
 83         yeoldwiz                  1656       14         760       
 84         Demolito_L4               1642       -32        80        
 85         ArduChessBot              1634       -13        489       
-86         maia5                     1622       5          106175    
-87         RookieRobot               1622       -38        24        
+86         RookieRobot               1622       -38        24        
+87         maia5                     1619       -3         106176    
 88         dragobot                  1601       31         140       
 89         DavidsGuterBot            1557       21         713       
 90         sargon-4ply               1542       -6         706       
@@ -99,11 +99,11 @@ Rank       Bot                       Rating     Prog       Games
 98         turochamp-1ply            1389       -19        1786      
 99         Humaia                    1384       -1         2382      
 100        sargon-2ply               1335       13         3542      
-101        sargon-1ply               1311       -5         9092      
+101        sargon-1ply               1309       -10        9093      
 102        pawnrobot                 1289       -14        798       
 103        king-forward-bot          1284       -125       25        
 104        ABotWith3200Rating        1201       -22        148       
-105        schnecken_bot             1186       0          460       
+105        schnecken_bot             1188       6          461       
 106        chat_bot                  1160       -19        343       
 107        kireevi                   1079       -30        602       
 108        bobandi                   983        12         776       
