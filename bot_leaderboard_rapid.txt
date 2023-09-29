@@ -23,14 +23,14 @@ Rank       Bot                       Rating     Prog       Games
 22         MrChessTheBot             2689       -53        2243      
 23         Tundra4                   2687       24         361       
 24         expositor                 2638       11         4892      
-25         SaxtonEngine              2604       15         1573      
+25         SaxtonEngine              2603       11         1574      
 26         LazyBot                   2600       1          811       
 27         AKS-Mantissa              2599       -15        4382      
 28         bot_adario                2564       -17        1493      
 29         Cheng-4                   2562       -6         3367      
 30         pawn_git                  2551       0          1487      
 31         catriever                 2536       -2         454       
-32         Weiawaga                  2518       -6         10499     
+32         Weiawaga                  2520       -4         10500     
 33         TuksuBot                  2491       2          2288      
 34         odonata-bot               2473       -8         3914      
 35         Phalanx-XXV               2469       -8         1122      
@@ -88,7 +88,7 @@ Rank       Bot                       Rating     Prog       Games
 87         dragobot                  1601       31         140       
 88         DavidsGuterBot            1554       19         712       
 89         sargon-4ply               1542       -6         706       
-90         maia1                     1526       7          241850    
+90         maia1                     1530       16         241851    
 91         sargon-3ply               1511       -36        1285      
 92         GuineaBot3                1489       -163       21        
 93         turochamp-2ply            1483       -1         1175      
@@ -104,6 +104,4 @@ Rank       Bot                       Rating     Prog       Games
 103        ABotWith3200Rating        1201       -22        148       
 104        schnecken_bot             1190       0          459       
 105        chat_bot                  1160       -19        343       
-106        kireevi                   1079       -30        602       
-107        bobandi                   978        0          775       
-108        G0thamB0t                 633        -19        418       
+106        bobandi                   983        12         776       
