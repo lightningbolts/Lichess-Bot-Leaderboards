@@ -1,5 +1,5 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ToromBot                  2925       -1         2977      
+1          ToromBot                  2924       -2         2978      
 2          ReinforcementTrial        2919       -1         5911      
 3          M-Z_Bot                   2917       -3         476       
 4          FireFishBOT_v2            2912       -1         1074      
@@ -7,14 +7,14 @@ Rank       Bot                       Rating     Prog       Games
 6          Africaata                 2911       -4         323       
 7          ProteusSF-Aureo           2908       13         24        
 8          ProteusSF-Godot           2907       1          244       
-9          Intron014                 2902       4          114       
+9          Intron014                 2902       4          115       
 10         YoBot_v2                  2900       -1         13530     
-11         RaspFish                  2899       0          6423      
-12         ResoluteBot               2896       5          5898      
+11         RaspFish                  2899       1          6424      
+12         ResoluteBot               2896       5          5899      
 13         Occhessadvanced           2870       13         73        
 14         Nikitosik-ai              2860       -5         1201      
-15         ArasanX                   2855       0          6367      
-16         blundar_bot               2851       5          1445      
+15         blundar_bot               2851       5          1445      
+16         ArasanX                   2850       -8         6368      
 17         Mr_Chess_Berserk          2829       -1         212       
 18         faith_bot                 2818       -6         1780      
 19         Palisade                  2799       76         215       
@@ -56,8 +56,8 @@ Rank       Bot                       Rating     Prog       Games
 55         myopic-bot                2042       -15        647       
 56         BLANK_BOT                 1977       3          1853      
 57         LeelaRogue                1971       3          2385      
-58         LazyBotJr                 1970       3          1311      
-59         zeekat                    1968       9          9394      
+58         zeekat                    1970       6          9395      
+59         LazyBotJr                 1970       3          1311      
 60         KelpBot                   1966       59         19        
 61         baby_eubos                1954       13         1113      
 62         sun_bird                  1954       -7         155       
@@ -72,7 +72,7 @@ Rank       Bot                       Rating     Prog       Games
 71         honzovy-sachy             1781       -28        1126      
 72         zulu_bot                  1776       3          110       
 73         ChessChildren             1768       10         4655      
-74         maia9                     1755       20         89711     
+74         maia9                     1759       17         89713     
 75         Demolito_L5               1740       -7         1978      
 76         AshNostromo               1717       -29        1328      
 77         Jibbby                    1687       13         2157      
