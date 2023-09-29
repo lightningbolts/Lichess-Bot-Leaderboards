@@ -9,10 +9,10 @@ Rank       Bot                       Rating     Prog       Games
 8          ProteusSF-Godot           2907       1          244       
 9          ResoluteBot               2905       9          5914      
 10         YoBot_v2                  2897       -1         13538     
-11         RaspFish                  2894       -5         6437      
+11         RaspFish                  2893       -11        6438      
 12         Occhessadvanced           2891       0          101       
 13         Nikitosik-ai              2857       -3         1215      
-14         blundar_bot               2855       4          1457      
+14         blundar_bot               2855       4          1458      
 15         Mr_Chess_Berserk          2838       8          224       
 16         faith_bot                 2835       4          1801      
 17         Palisade                  2799       76         215       
@@ -86,12 +86,12 @@ Rank       Bot                       Rating     Prog       Games
 85         yeoldwiz                  1655       11         763       
 86         ArduChessBot              1655       10         492       
 87         Demolito_L4               1655       0          87        
-88         HardRok                   1641       -9         849       
+88         HardRok                   1642       -8         850       
 89         dragobot                  1604       17         142       
 90         DavidsGuterBot            1557       21         713       
 91         maia5                     1549       -7         106241    
 92         sargon-4ply               1542       -6         706       
-93         maia1                     1538       6          242025    
+93         maia1                     1541       12         242027    
 94         sargon-3ply               1507       -32        1286      
 95         RoundMoundOfRebounds      1485       24         394       
 96         turochamp-2ply            1480       -6         1176      
@@ -103,7 +103,7 @@ Rank       Bot                       Rating     Prog       Games
 102        sargon-1ply               1360       19         9114      
 103        sargon-2ply               1333       14         3546      
 104        pawnrobot                 1282       -17        799       
-105        king-forward-bot          1274       -99        27        
+105        king-forward-bot          1270       -93        28        
 106        ABotWith3200Rating        1201       -22        148       
 107        chat_bot                  1160       -19        343       
 108        schnecken_bot             1157       -22        476       
