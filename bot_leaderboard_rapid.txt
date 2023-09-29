@@ -25,9 +25,9 @@ Rank       Bot                       Rating     Prog       Games
 24         MrChessTheBot             2689       -53        2243      
 25         expositor                 2633       10         4894      
 26         StockFish16_2023          2616       -21        132       
-27         SaxtonEngine              2603       2          1578      
-28         LazyBot                   2600       1          811       
-29         AKS-Mantissa              2599       -10        4383      
+27         AKS-Mantissa              2609       -1         4384      
+28         SaxtonEngine              2603       2          1578      
+29         LazyBot                   2600       1          811       
 30         Cheng-4                   2564       -4         3368      
 31         bot_adario                2564       -17        1493      
 32         pawn_git                  2550       -2         1489      
@@ -43,9 +43,9 @@ Rank       Bot                       Rating     Prog       Games
 42         fornax-engine             2379       4          3831      
 43         simpleEval                2366       -11        7958      
 44         bekbot                    2338       7          2070      
-45         halcyonbot                2293       -5         7520      
-46         FataliiBot                2289       -7         2907      
-47         eubos                     2211       8          4398      
+45         FataliiBot                2289       -7         2907      
+46         halcyonbot                2286       -15        7521      
+47         eubos                     2218       19         4399      
 48         HistoryExplorer           2203       17         1140      
 49         Elmichess                 2177       3          1441      
 50         Boris-Trapsky             2173       15         28100     
@@ -71,7 +71,7 @@ Rank       Bot                       Rating     Prog       Games
 70         NatesBot                  1904       16         984       
 71         notropis                  1891       -8         2783      
 72         LittleGreenManBot         1825       -26        3890      
-73         Virutor                   1800       1          3369      
+73         Virutor                   1804       2          3370      
 74         Trollfish-Bot             1797       -5         387       
 75         honzovy-sachy             1789       -25        1127      
 76         zulu_bot                  1776       3          110       
@@ -81,8 +81,8 @@ Rank       Bot                       Rating     Prog       Games
 80         AshNostromo               1714       -24        1329      
 81         melsh_bot                 1680       -40        323       
 82         simplexitor               1678       7          607       
-83         Jibbby                    1673       -15        2164      
-84         turkjs                    1670       11         5227      
+83         turkjs                    1670       11         5227      
+84         Jibbby                    1670       -16        2165      
 85         yeoldwiz                  1659       19         761       
 86         Demolito_L4               1650       -21        84        
 87         ArduChessBot              1641       -2         490       
@@ -91,7 +91,7 @@ Rank       Bot                       Rating     Prog       Games
 90         maia5                     1583       -48        106202    
 91         DavidsGuterBot            1557       21         713       
 92         sargon-4ply               1542       -6         706       
-93         maia1                     1512       14         241915    
+93         maia1                     1512       4          241917    
 94         sargon-3ply               1507       -32        1286      
 95         GuineaBot3                1489       -163       21        
 96         RoundMoundOfRebounds      1486       18         393       
