@@ -9,8 +9,8 @@ Rank       Bot                       Rating     Prog       Games
 8          Intron014                 2937       -2         1473      
 9          ToromBot                  2924       0          65253     
 10         RaspFish                  2861       -2         55158     
-11         Nikitosik-ai              2838       2          4365      
-12         Mr_Chess_Berserk          2834       8          1182      
+11         Nikitosik-ai              2838       8          4366      
+12         Mr_Chess_Berserk          2834       8          1183      
 13         faith_bot                 2831       6          3421      
 14         blundar_bot               2795       -2         12181     
 15         Palisade                  2760       23         435       
@@ -28,14 +28,14 @@ Rank       Bot                       Rating     Prog       Games
 27         SaxtonEngine              2487       1          5152      
 28         balancefish               2484       5          113       
 29         Elmichess                 2459       -35        3225      
-30         bot64jaques               2451       -4         93        
+30         bot64jaques               2449       4          94        
 31         odonata-bot               2433       2          6809      
 32         TuksuBot                  2404       3          7588      
 33         catriever                 2404       -10        2621      
 34         MrChessTheBot             2393       -52        5912      
 35         bot_adario                2392       18         2988      
 36         Phalanx-XXV               2378       1          4788      
-37         OpeningsBot               2364       -5         3679      
+37         OpeningsBot               2366       1          3680      
 38         Pseudo-0                  2355       22         4318      
 39         admete_bot                2354       9          12070     
 40         fornax-engine             2326       13         7428      
@@ -43,7 +43,7 @@ Rank       Bot                       Rating     Prog       Games
 42         bekbot                    2280       0          2070      
 43         halcyonbot                2245       -3         6570      
 44         FataliiBot                2227       1          6245      
-45         TinyHugeBot               2208       1          325       
+45         TinyHugeBot               2210       6          326       
 46         Humaia-Strong             2184       42         1327      
 47         eubos                     2163       4          13920     
 48         jangine                   2155       22         3739      
@@ -57,7 +57,7 @@ Rank       Bot                       Rating     Prog       Games
 56         MaxtheDog                 2031       -7         16696     
 57         sun_bird                  2000       24         2635      
 58         LazyBotJr                 1998       -5         987       
-59         Karl-bot                  1950       19         1909      
+59         Karl-bot                  1948       15         1910      
 60         NatesBot                  1913       -8         756       
 61         zeekat                    1907       -17        20712     
 62         Trollfish-Bot             1906       -7         6401      
@@ -95,7 +95,7 @@ Rank       Bot                       Rating     Prog       Games
 94         turochamp-1ply            1456       -4         2429      
 95         yeoldwiz                  1450       18         791       
 96         sargon-2ply               1415       21         2805      
-97         sargon-1ply               1390       6          5274      
+97         sargon-1ply               1392       6          5275      
 98         ai-con                    1389       -4         93        
 99         StupidChessRobot          1374       -4         1293      
 100        postbot                   1355       14         238       
@@ -105,6 +105,6 @@ Rank       Bot                       Rating     Prog       Games
 104        ABotWith3200Rating        1232       -14        193       
 105        bobandi                   1226       16         1157      
 106        knucklefish               1213       -6         3045      
-107        schnecken_bot             1156       2          1417      
+107        schnecken_bot             1154       -9         1418      
 108        B4ux1t3s-Bot              1154       10         143       
 109        GuineaBot                 1152       -109       24        
