@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
-1          M-Z_Bot                   2646       5          151       
-2          ReinforcementTrial        2645       1          545       
+1          ReinforcementTrial        2645       1          545       
+2          M-Z_Bot                   2645       5          152       
 3          ProteusSF-Aureo           2640       25         24        
 4          Intron014                 2635       -7         52        
 5          YoBot_v2                  2631       2          725       
@@ -9,9 +9,9 @@ Rank       Bot                       Rating     Prog       Games
 8          RaspFish                  2617       -8         844       
 9          ProteusSF-Godot           2607       2          318       
 10         Africaata                 2594       29         35        
-11         Nikitosik-ai              2590       5          346       
-12         Mr_Chess_Berserk          2586       -1         122       
-13         ArasanX                   2585       7          249       
+11         Nikitosik-ai              2590       10         347       
+12         ArasanX                   2586       8          250       
+13         Mr_Chess_Berserk          2586       0          123       
 14         faith_bot                 2563       7          230       
 15         Palisade                  2467       28         237       
 16         ELO_1500                  2449       9          546       
@@ -66,7 +66,7 @@ Rank       Bot                       Rating     Prog       Games
 65         sargon-3ply               1567       -22        772       
 66         yeoldwiz                  1562       -11        325       
 67         chat_bot                  1560       54         72        
-68         maia1                     1526       -13        68779     
+68         maia1                     1519       -16        68780     
 69         StupidChessRobot          1497       -45        35        
 70         Humaia                    1439       -31        1265      
 71         RoundMoundOfRebounds      1410       51         129       
