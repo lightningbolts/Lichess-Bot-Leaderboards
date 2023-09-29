@@ -77,7 +77,7 @@ Rank       Bot                       Rating     Prog       Games
 76         ChessChildren             1765       -2         4657      
 77         Demolito_L5               1729       -5         1982      
 78         AshNostromo               1714       -24        1329      
-79         maia9                     1685       -12        89770     
+79         maia9                     1696       0          89773     
 80         melsh_bot                 1680       -40        323       
 81         simplexitor               1678       7          607       
 82         turkjs                    1674       3          5229      
@@ -87,7 +87,7 @@ Rank       Bot                       Rating     Prog       Games
 86         ArduChessBot              1648       2          491       
 87         HardRok                   1646       12         845       
 88         dragobot                  1604       17         142       
-89         maia5                     1570       -20        106220    
+89         maia5                     1565       -30        106221    
 90         DavidsGuterBot            1557       21         713       
 91         maia1                     1542       -4         241975    
 92         sargon-4ply               1542       -6         706       
@@ -100,7 +100,7 @@ Rank       Bot                       Rating     Prog       Games
 99         turochamp-1ply            1389       -19        1786      
 100        Humaia                    1376       5          2384      
 101        sargon-1ply               1353       26         9110      
-102        sargon-2ply               1333       11         3545      
+102        sargon-2ply               1333       14         3546      
 103        pawnrobot                 1282       -17        799       
 104        king-forward-bot          1278       -111       26        
 105        ABotWith3200Rating        1201       -22        148       
@@ -109,4 +109,4 @@ Rank       Bot                       Rating     Prog       Games
 108        kireevi                   1079       -30        602       
 109        bobandi                   983        12         776       
 110        B4ux1t3s-Bot              804        15         125       
-111        G0thamB0t                 633        -19        418       
+111        G0thamB0t                 631        -20        419       
