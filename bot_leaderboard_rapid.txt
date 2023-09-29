@@ -4,8 +4,8 @@ Rank       Bot                       Rating     Prog       Games
 3          M-Z_Bot                   2915       -2         486       
 4          caissa-x                  2913       -1         3307      
 5          ReinforcementTrial        2910       -9         5927      
-6          FireFishBOT_v2            2910       -2         1086      
-7          ProteusSF-Aureo           2909       19         29        
+6          FireFishBOT_v2            2910       -2         1087      
+7          ProteusSF-Aureo           2909       19         30        
 8          ProteusSF-Godot           2907       1          244       
 9          ResoluteBot               2903       7          5910      
 10         YoBot_v2                  2897       -2         13534     
@@ -14,8 +14,8 @@ Rank       Bot                       Rating     Prog       Games
 13         Nikitosik-ai              2860       -1         1208      
 14         blundar_bot               2855       1          1451      
 15         ArasanX                   2852       2          6379      
-16         Mr_Chess_Berserk          2834       -1         217       
-17         faith_bot                 2832       14         1791      
+16         Mr_Chess_Berserk          2834       1          218       
+17         faith_bot                 2832       9          1792      
 18         Palisade                  2799       76         215       
 19         Berserk-Test              2755       -13        89        
 20         ELO_1500                  2726       14         3464      
@@ -66,10 +66,10 @@ Rank       Bot                       Rating     Prog       Games
 65         BLANK_BOT                 1964       -15        1856      
 66         sun_bird                  1957       -4         157       
 67         baby_eubos                1955       10         1116      
-68         QuintBot                  1925       -9         460       
-69         Dinora                    1923       -6         124       
+68         Dinora                    1923       -6         124       
+69         QuintBot                  1919       -18        461       
 70         NatesBot                  1906       11         987       
-71         notropis                  1892       -5         2785      
+71         notropis                  1898       8          2786      
 72         LittleGreenManBot         1825       -26        3890      
 73         Virutor                   1803       1          3372      
 74         Trollfish-Bot             1797       6          389       
@@ -88,7 +88,7 @@ Rank       Bot                       Rating     Prog       Games
 87         ArduChessBot              1641       -2         490       
 88         dragobot                  1604       17         142       
 89         RookieRobot               1596       -17        26        
-90         maia5                     1590       -8         106209    
+90         maia5                     1595       3          106210    
 91         DavidsGuterBot            1557       21         713       
 92         sargon-4ply               1542       -6         706       
 93         maia1                     1533       2          241946    
