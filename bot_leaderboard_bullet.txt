@@ -5,12 +5,12 @@ Rank       Bot                       Rating     Prog       Games
 4          ReinforcementTrial        2963       6          2944      
 5          YoBot_v2                  2961       6          19438     
 6          ProteusSF-Aureo           2956       11         327       
-7          FireFishBOT_v2            2949       -5         1763      
-8          ResoluteBot               2946       -5         28022     
+7          ResoluteBot               2950       -1         28023     
+8          FireFishBOT_v2            2949       -5         1763      
 9          caissa-x                  2946       3          14664     
 10         Intron014                 2939       2          1477      
 11         ToromBot                  2929       5          65269     
-12         RaspFish                  2854       -6         55171     
+12         RaspFish                  2850       -6         55172     
 13         Mr_Chess_Berserk          2835       13         1184      
 14         Nikitosik-ai              2834       -5         4373      
 15         faith_bot                 2820       -8         3426      
@@ -19,7 +19,7 @@ Rank       Bot                       Rating     Prog       Games
 18         Berserk-Test              2701       -18        157       
 19         Tundra4                   2684       -18        1456      
 20         LazyBot                   2630       46         1500      
-21         expositor                 2619       6          22139     
+21         expositor                 2621       10         22140     
 22         StockFish16_2023          2566       20         318       
 23         FlamingDragon_9000        2524       -5         10619     
 24         AKS-Mantissa              2520       18         11804     
@@ -52,9 +52,9 @@ Rank       Bot                       Rating     Prog       Games
 51         jangine                   2161       21         3741      
 52         matmoi                    2120       -3         3852      
 53         myopic-bot                2090       -15        2625      
-54         likeawizard-bot           2080       -4         2770      
+54         likeawizard-bot           2082       -5         2772      
 55         redtail-zero              2074       -3         1063      
-56         GarboBot                  2068       -25        10291     
+56         GarboBot                  2068       -28        10292     
 57         Lynx_BOT                  2061       7          8015      
 58         BLANK_BOT                 2059       -8         8219      
 59         MaxtheDog                 2041       4          16705     
@@ -70,7 +70,7 @@ Rank       Bot                       Rating     Prog       Games
 69         Demolito_L5               1791       -6         1459      
 70         Dinora                    1789       4          399       
 71         honzovy-sachy             1786       -12        5422      
-72         FelixLeonidovich          1786       6          645       
+72         FelixLeonidovich          1785       2          646       
 73         notropis                  1769       -16        4599      
 74         piglet_engine             1768       11         1185      
 75         simplexitor               1737       6          2591      
@@ -98,7 +98,7 @@ Rank       Bot                       Rating     Prog       Games
 97         turochamp-1ply            1457       1          2432      
 98         yeoldwiz                  1450       18         791       
 99         sargon-2ply               1408       16         2809      
-100        sargon-1ply               1389       1          5284      
+100        sargon-1ply               1386       -4         5285      
 101        ai-con                    1385       -29        98        
 102        StupidChessRobot          1370       -13        1297      
 103        postbot                   1361       19         246       
@@ -110,4 +110,4 @@ Rank       Bot                       Rating     Prog       Games
 109        knucklefish               1216       -2         3048      
 110        B4ux1t3s-Bot              1154       10         143       
 111        GuineaBot                 1152       -109       24        
-112        schnecken_bot             1148       -13        1426      
+112        schnecken_bot             1151       -7         1427      
