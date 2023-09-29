@@ -30,11 +30,11 @@ Rank       Bot                       Rating     Prog       Games
 29         Elmichess                 2459       -35        3225      
 30         bot64jaques               2451       -4         93        
 31         odonata-bot               2433       2          6809      
-32         catriever                 2404       -10        2621      
-33         TuksuBot                  2402       0          7587      
+32         TuksuBot                  2404       3          7588      
+33         catriever                 2404       -10        2621      
 34         MrChessTheBot             2393       -52        5912      
 35         bot_adario                2392       18         2988      
-36         Phalanx-XXV               2375       -6         4787      
+36         Phalanx-XXV               2378       1          4788      
 37         OpeningsBot               2374       12         3677      
 38         Pseudo-0                  2355       22         4318      
 39         admete_bot                2350       5          12068     
@@ -44,7 +44,7 @@ Rank       Bot                       Rating     Prog       Games
 43         HistoryExplorer           2267       -7         2786      
 44         halcyonbot                2238       -14        6569      
 45         FataliiBot                2233       9          6244      
-46         TinyHugeBot               2210       1          313       
+46         TinyHugeBot               2204       7          315       
 47         Humaia-Strong             2184       42         1327      
 48         eubos                     2156       -5         13919     
 49         jangine                   2142       -2         3737      
@@ -92,12 +92,12 @@ Rank       Bot                       Rating     Prog       Games
 91         maia5                     1531       8          40519     
 92         monchester                1531       -17        2881      
 93         DavidsGuterBot            1524       0          6808      
-94         botTideEval               1483       10         3999      
+94         botTideEval               1482       1          4000      
 95         turochamp-1ply            1456       -4         2429      
 96         yeoldwiz                  1450       18         791       
-97         sargon-2ply               1407       11         2803      
+97         sargon-2ply               1408       14         2804      
 98         ai-con                    1389       -4         93        
-99         sargon-1ply               1384       -7         5270      
+99         sargon-1ply               1387       -8         5271      
 100        StupidChessRobot          1374       -4         1293      
 101        postbot                   1350       11         236       
 102        dragobot                  1308       -34        78        
@@ -106,6 +106,6 @@ Rank       Bot                       Rating     Prog       Games
 105        ABotWith3200Rating        1237       -9         192       
 106        bobandi                   1220       6          1156      
 107        knucklefish               1213       -6         3045      
-108        schnecken_bot             1161       10         1415      
+108        schnecken_bot             1158       7          1416      
 109        B4ux1t3s-Bot              1154       10         143       
 110        GuineaBot                 1152       -109       24        
