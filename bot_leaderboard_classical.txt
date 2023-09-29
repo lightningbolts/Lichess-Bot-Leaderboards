@@ -1,8 +1,8 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ReinforcementTrial        2645       -3         547       
 2          M-Z_Bot                   2643       -1         156       
-3          YoBot_v2                  2629       -1         729       
-4          ResoluteBot               2624       -4         842       
+3          YoBot_v2                  2629       1          730       
+4          ResoluteBot               2624       -4         843       
 5          RaspFish                  2614       -11        845       
 6          ProteusSF-Godot           2607       2          318       
 7          Nikitosik-ai              2595       8          352       
@@ -64,7 +64,7 @@ Rank       Bot                       Rating     Prog       Games
 63         yeoldwiz                  1562       -11        325       
 64         chat_bot                  1560       54         72        
 65         StupidChessRobot          1497       -45        35        
-66         maia1                     1485       5          68814     
+66         maia1                     1483       5          68815     
 67         Humaia                    1439       -31        1265      
 68         RoundMoundOfRebounds      1410       51         129       
 69         turochamp-1ply            1402       21         833       
