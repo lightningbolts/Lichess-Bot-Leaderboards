@@ -27,7 +27,7 @@ Rank       Bot                       Rating     Prog       Games
 26         SaxtonEngine              2596       -8         1584      
 27         pawn_git                  2563       8          1495      
 28         Cheng-4                   2562       -3         3370      
-29         bot_adario                2550       -16        1498      
+29         bot_adario                2548       -21        1499      
 30         catriever                 2524       -11        462       
 31         Weiawaga                  2517       9          10513     
 32         TuksuBot                  2489       1          2298      
@@ -37,12 +37,12 @@ Rank       Bot                       Rating     Prog       Games
 36         Pseudo-0                  2439       -4         1345      
 37         admete_bot                2433       -4         4491      
 38         OpeningsBot               2396       -7         528       
-39         ChessNoobComp             2389       13         624       
+39         ChessNoobComp             2391       13         625       
 40         fornax-engine             2379       4          3831      
 41         simpleEval                2367       -8         7959      
 42         bekbot                    2310       -17        2106      
-43         FataliiBot                2292       3          2913      
-44         halcyonbot                2289       3          7545      
+43         halcyonbot                2292       9          7546      
+44         FataliiBot                2292       3          2913      
 45         eubos                     2228       17         4403      
 46         onionbot                  2219       45         67        
 47         honzovy-sachy-2           2199       14         3787      
@@ -52,8 +52,8 @@ Rank       Bot                       Rating     Prog       Games
 51         Elmichess                 2160       -7         1445      
 52         Boris-Trapsky             2152       -21        28113     
 53         jangine                   2117       4          1967      
-54         GarboBot                  2103       13         6401      
-55         redtail-zero              2103       8          638       
+54         redtail-zero              2103       8          638       
+55         GarboBot                  2100       10         6402      
 56         Humaia-Strong             2086       39         620       
 57         likeawizard-bot           2061       -7         1594      
 58         MaxtheDog                 2043       -14        897       
@@ -89,9 +89,9 @@ Rank       Bot                       Rating     Prog       Games
 88         ArduChessBot              1656       14         494       
 89         yeoldwiz                  1655       11         763       
 90         dragobot                  1602       1          146       
-91         maia5                     1577       -14        106296    
+91         maia5                     1578       -16        106297    
 92         DavidsGuterBot            1557       21         713       
-93         maia1                     1548       11         242076    
+93         maia1                     1542       2          242077    
 94         sargon-4ply               1542       -6         706       
 95         sargon-3ply               1507       -32        1286      
 96         RoundMoundOfRebounds      1485       24         394       
