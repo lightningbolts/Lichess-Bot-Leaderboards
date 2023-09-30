@@ -1,10 +1,10 @@
 Rank       Bot                       Rating     Prog       Games     
-1          EmptikBot                 2999       7          4717      
+1          EmptikBot                 2999       7          4718      
 2          ProteusSF-Aureo           2971       5          347       
 3          ProteusSF-Godot           2964       0          2327      
 4          ResoluteBot               2954       1          28053     
 5          ReinforcementTrial        2954       3          3041      
-6          YoBot_v2                  2950       3          19488     
+6          YoBot_v2                  2951       4          19489     
 7          FireFishBOT_v2            2950       3          1778      
 8          ToromBot                  2942       5          65391     
 9          European_Chess_Bot        2932       3          173       
@@ -25,7 +25,7 @@ Rank       Bot                       Rating     Prog       Games
 24         FlamingDragon_9000        2524       -5         10619     
 25         Cheng-4                   2521       8          14603     
 26         ELO_1500                  2517       18         3350      
-27         SaxtonEngine              2513       2          5202      
+27         SaxtonEngine              2513       2          5203      
 28         Weiawaga                  2499       -4         17002     
 29         AKS-Mantissa              2499       -11        11830     
 30         balancefish               2484       5          113       
@@ -52,7 +52,7 @@ Rank       Bot                       Rating     Prog       Games
 51         honzovy-sachy-2           2183       -12        7704      
 52         jangine                   2163       -26        3775      
 53         matmoi                    2150       13         3897      
-54         eubos                     2133       -8         13966     
+54         eubos                     2131       -8         13967     
 55         Lynx_BOT                  2093       -18        8069      
 56         redtail-zero              2092       18         1076      
 57         myopic-bot                2073       -7         2657      
@@ -62,8 +62,8 @@ Rank       Bot                       Rating     Prog       Games
 61         BLANK_BOT                 2029       -22        8258      
 62         LazyBotJr                 2029       6          1024      
 63         Zagreus_Engine            2008       -4         3711      
-64         chers-engine              1980       3          186       
-65         zeekat                    1977       7          20810     
+64         zeekat                    1980       9          20811     
+65         chers-engine              1980       3          186       
 66         sun_bird                  1965       7          2742      
 67         Karl-bot                  1955       -5         2001      
 68         Trollfish-Bot             1931       8          6502      
@@ -97,8 +97,8 @@ Rank       Bot                       Rating     Prog       Games
 96         RoundMoundOfRebounds      1561       5          1717      
 97         DavidsGuterBot            1554       0          6836      
 98         monchester                1522       -16        2895      
-99         botTideEval               1519       15         4094      
-100        maia1                     1517       10         128154    
+99         maia1                     1519       7          128155    
+100        botTideEval               1519       15         4094      
 101        turochamp-1ply            1483       17         2451      
 102        maia5                     1466       -24        40586     
 103        yeoldwiz                  1450       18         791       
