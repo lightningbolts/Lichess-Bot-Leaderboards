@@ -1,8 +1,8 @@
 Rank       Bot                       Rating     Prog       Games     
 1          LeelaMultiPoss            2924       1          424       
 2          ToromBot                  2917       2          3025      
-3          ResoluteBot               2913       3          5946      
-4          M-Z_Bot                   2912       -4         508       
+3          M-Z_Bot                   2915       0          509       
+4          ResoluteBot               2913       3          5946      
 5          ReinforcementTrial        2910       -1         5954      
 6          caissa-x                  2907       4          3327      
 7          ProteusSF-Godot           2907       1          244       
@@ -29,7 +29,7 @@ Rank       Bot                       Rating     Prog       Games
 28         Cheng-4                   2567       2          3372      
 29         pawn_git                  2563       8          1495      
 30         bot_adario                2545       -16        1501      
-31         Weiawaga                  2529       23         10516     
+31         Weiawaga                  2531       22         10517     
 32         catriever                 2524       -12        463       
 33         TuksuBot                  2491       0          2301      
 34         Phalanx-XXV               2474       5          1136      
@@ -41,7 +41,7 @@ Rank       Bot                       Rating     Prog       Games
 40         simpleEval                2367       -3         7965      
 41         bekbot                    2317       5          2120      
 42         halcyonbot                2295       2          7554      
-43         FataliiBot                2288       3          2917      
+43         FataliiBot                2286       -3         2918      
 44         eubos                     2223       7          4404      
 45         onionbot                  2219       45         67        
 46         honzovy-sachy-2           2210       23         3789      
@@ -51,7 +51,7 @@ Rank       Bot                       Rating     Prog       Games
 50         Boris-Trapsky             2148       -16        28121     
 51         Lynx_BOT                  2141       -14        40520     
 52         jangine                   2114       -4         1968      
-53         redtail-zero              2101       12         640       
+53         redtail-zero              2105       12         641       
 54         GarboBot                  2094       10         6407      
 55         Humaia-Strong             2086       39         620       
 56         likeawizard-bot           2071       1          1598      
@@ -64,7 +64,7 @@ Rank       Bot                       Rating     Prog       Games
 63         LazyBotJr                 1970       1          1561      
 64         KelpBot                   1966       59         19        
 65         sun_bird                  1964       8          161       
-66         zeekat                    1962       -18        9437      
+66         zeekat                    1958       -17        9438      
 67         baby_eubos                1946       -8         1120      
 68         QuintBot                  1929       5          470       
 69         Dinora                    1910       -22        130       
@@ -91,10 +91,10 @@ Rank       Bot                       Rating     Prog       Games
 90         ArduChessBot              1654       11         497       
 91         HardRok                   1644       -4         854       
 92         dragobot                  1600       2          147       
-93         sargon-4ply               1598       43         725       
+93         sargon-4ply               1594       42         726       
 94         maia5                     1555       -22        106307    
 95         DavidsGuterBot            1552       19         714       
-96         maia1                     1542       1          242128    
+96         maia1                     1536       -2         242129    
 97         sargon-3ply               1507       -32        1286      
 98         RoundMoundOfRebounds      1484       27         395       
 99         turochamp-2ply            1480       -6         1176      
