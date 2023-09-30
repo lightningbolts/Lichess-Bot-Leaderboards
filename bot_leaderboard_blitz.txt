@@ -43,7 +43,7 @@ Rank       Bot                       Rating     Prog       Games
 42         OpeningsBot               2375       15         1749      
 43         simpleEval                2324       26         15847     
 44         FlamingDragon_9000        2323       19         3331      
-45         bekbot                    2275       9          2020      
+45         bekbot                    2279       14         2021      
 46         onionbot                  2268       -14        798       
 47         halcyonbot                2257       11         11246     
 48         FataliiBot                2238       3          7416      
@@ -53,8 +53,8 @@ Rank       Bot                       Rating     Prog       Games
 52         matmoi                    2157       -30        3048      
 53         jangine                   2122       4          4013      
 54         likeawizard-bot           2103       15         5707      
-55         myopic-bot                2096       -2         2804      
-56         Lynx_BOT                  2086       9          52092     
+55         Lynx_BOT                  2092       18         52093     
+56         myopic-bot                2090       -11        2805      
 57         Boris-Trapsky             2057       10         29759     
 58         KelpBot                   2056       -102       23        
 59         Elmichess                 2041       11         3740      
@@ -93,8 +93,8 @@ Rank       Bot                       Rating     Prog       Games
 92         simplexitor               1620       5          2519      
 93         ArduChessBot              1597       -16        1625      
 94         Demolito_L4               1596       -8         141       
-95         turkjs                    1568       16         10540     
-96         maia5                     1566       39         106437    
+95         maia5                     1570       41         106439    
+96         turkjs                    1568       16         10540     
 97         HardRok                   1534       -35        1052      
 98         yeoldwiz                  1525       -1         2070      
 99         sudobot_chess             1523       -61        404       
@@ -103,7 +103,7 @@ Rank       Bot                       Rating     Prog       Games
 102        DavidsGuterBot            1450       -13        3887      
 103        sargon-3ply               1450       -5         2131      
 104        maia1                     1411       -4         215391    
-105        ai-con                    1406       0          115       
+105        ai-con                    1398       -7         116       
 106        Humaia                    1397       17         1015      
 107        turochamp-2ply            1378       9          1846      
 108        monchester                1364       15         2867      
@@ -111,13 +111,13 @@ Rank       Bot                       Rating     Prog       Games
 110        GuineaBot3                1340       -58        162       
 111        chat_bot                  1312       75         348       
 112        postbot                   1299       12         230       
-113        sargon-2ply               1239       -12        3340      
+113        sargon-2ply               1247       -4         3341      
 114        turochamp-1ply            1235       9          1961      
 115        pawnrobot                 1222       20         2303      
-116        schnecken_bot             1195       10         2675      
+116        schnecken_bot             1194       9          2676      
 117        dragobot                  1191       -25        229       
 118        king-forward-bot          1154       -44        51        
-119        sargon-1ply               1145       -14        8902      
+119        sargon-1ply               1146       -8         8903      
 120        ABotWith3200Rating        1140       -11        330       
 121        knucklefish               1035       -11        3497      
 122        bobandi                   942        9          1333      
