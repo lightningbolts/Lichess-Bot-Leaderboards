@@ -1,8 +1,8 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ToromBot                  2925       -2         3072      
-2          M-Z_Bot                   2923       -2         540       
+2          M-Z_Bot                   2923       -2         541       
 3          ReinforcementTrial        2920       3          5987      
-4          Africaata                 2917       -4         377       
+4          Africaata                 2917       0          378       
 5          TheFreshman1902           2913       2          239       
 6          ResoluteBot               2909       -9         5967      
 7          YoBot_v2                  2907       8          13566     
@@ -37,8 +37,8 @@ Rank       Bot                       Rating     Prog       Games
 36         fornax-engine             2379       4          3831      
 37         simpleEval                2369       11         7979      
 38         FataliiBot                2311       15         2935      
-39         bekbot                    2311       11         2168      
-40         halcyonbot                2300       -16        7600      
+39         bekbot                    2311       12         2169      
+40         halcyonbot                2300       -14        7601      
 41         eubos                     2220       9          4409      
 42         honzovy-sachy-2           2205       8          3794      
 43         matmoi                    2186       -11        2700      
@@ -102,7 +102,7 @@ Rank       Bot                       Rating     Prog       Games
 101        sargon-1ply               1257       -50        9145      
 102        king-forward-bot          1240       -94        31        
 103        chat_bot                  1160       -19        343       
-104        kireevi                   1077       -31        603       
+104        kireevi                   1074       -27        604       
 105        bobandi                   993        12         782       
 106        grandQ_AI                 785        1          1661      
 107        B4ux1t3s-Bot              783        -2         129       
