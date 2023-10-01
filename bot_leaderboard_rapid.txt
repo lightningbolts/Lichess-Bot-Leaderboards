@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          LeelaMultiPoss            2924       1          424       
 2          M-Z_Bot                   2922       6          534       
-3          ReinforcementTrial        2917       -4         5980      
+3          ReinforcementTrial        2921       0          5981      
 4          TheFreshman1902           2913       2          238       
 5          ResoluteBot               2910       -3         5964      
 6          ProteusSF-Aureo           2909       20         31        
@@ -14,7 +14,7 @@ Rank       Bot                       Rating     Prog       Games
 13         Intron014                 2887       -2         177       
 14         Nikitosik-ai              2864       -4         1252      
 15         mayhem23111               2835       43         105       
-16         blundar_bot               2830       -9         1486      
+16         blundar_bot               2825       -11        1487      
 17         Berserk-Test              2728       -14        110       
 18         ELO_1500                  2714       -4         3493      
 19         MrChessTheBot             2689       -53        2243      
@@ -29,7 +29,7 @@ Rank       Bot                       Rating     Prog       Games
 28         bot_adario                2557       15         1513      
 29         Weiawaga                  2540       0          10530     
 30         catriever                 2533       -3         467       
-31         TuksuBot                  2495       1          2307      
+31         TuksuBot                  2493       1          2308      
 32         bot64jaques               2475       13         34        
 33         odonata-bot               2461       -14        3924      
 34         Phalanx-XXV               2454       -20        1147      
@@ -66,7 +66,7 @@ Rank       Bot                       Rating     Prog       Games
 65         QuintBot                  1932       7          471       
 66         chers-engine              1911       12         48        
 67         Dinora                    1907       -29        132       
-68         Karl-bot                  1895       -14        698       
+68         Karl-bot                  1898       -8         699       
 69         NatesBot                  1884       -7         1017      
 70         notropis                  1876       -13        2799      
 71         LittleGreenManBot         1825       -26        3890      
@@ -79,12 +79,12 @@ Rank       Bot                       Rating     Prog       Games
 78         ChessChildren             1769       -4         4665      
 79         AshNostromo               1721       -13        1333      
 80         Demolito_L5               1707       7          2024      
-81         maia9                     1693       18         90038     
+81         maia9                     1702       17         90042     
 82         melsh_bot                 1693       -9         329       
 83         simplexitor               1690       14         615       
 84         yeoldwiz                  1680       21         768       
 85         sargon-4ply               1677       -26        777       
-86         ZE_ROOK                   1672       -11        686       
+86         ZE_ROOK                   1669       -12        687       
 87         ArduChessBot              1664       8          505       
 88         Demolito_L4               1653       -8         137       
 89         turkjs                    1650       -18        5239      
@@ -92,7 +92,7 @@ Rank       Bot                       Rating     Prog       Games
 91         dragobot                  1606       14         149       
 92         maia5                     1599       11         106430    
 93         DavidsGuterBot            1556       15         716       
-94         maia1                     1519       -14        242348    
+94         maia1                     1521       -8         242349    
 95         sargon-3ply               1503       -34        1287      
 96         RoundMoundOfRebounds      1491       24         397       
 97         turochamp-2ply            1480       -6         1176      
