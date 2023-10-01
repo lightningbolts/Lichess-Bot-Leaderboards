@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
 1          M-Z_Bot                   2925       12         530       
-2          Africaata                 2921       -4         365       
+2          Africaata                 2921       -4         366       
 3          ReinforcementTrial        2920       4          5972      
 4          ResoluteBot               2912       -1         5961      
 5          ProteusSF-Aureo           2909       20         31        
@@ -9,7 +9,7 @@ Rank       Bot                       Rating     Prog       Games
 8          YoBot_v2                  2900       -4         13558     
 9          Occhessadvanced           2900       0          151       
 10         RaspFish                  2890       -9         6482      
-11         Intron014                 2889       -4         167       
+11         Intron014                 2890       -3         168       
 12         TorBot_v2                 2883       5          241       
 13         Nikitosik-ai              2864       -9         1246      
 14         blundar_bot               2830       -4         1481      
@@ -38,11 +38,11 @@ Rank       Bot                       Rating     Prog       Games
 37         simpleEval                2354       -14        7972      
 38         bekbot                    2312       10         2153      
 39         halcyonbot                2303       -2         7583      
-40         FataliiBot                2293       11         2930      
+40         FataliiBot                2298       10         2931      
 41         eubos                     2226       10         4406      
 42         HistoryExplorer           2211       15         1153      
-43         matmoi                    2206       3          2683      
-44         honzovy-sachy-2           2204       12         3790      
+43         honzovy-sachy-2           2204       12         3790      
+44         matmoi                    2202       2          2684      
 45         Elmichess                 2168       0          1446      
 46         Lynx_BOT                  2141       -6         40533     
 47         Boris-Trapsky             2129       -7         28137     
@@ -76,7 +76,7 @@ Rank       Bot                       Rating     Prog       Games
 75         zulu_bot                  1776       3          110       
 76         ChessChildren             1769       -4         4665      
 77         AshNostromo               1721       -13        1333      
-78         sargon-4ply               1703       4          771       
+78         sargon-4ply               1707       4          772       
 79         Demolito_L5               1702       -4         2020      
 80         simplexitor               1693       16         614       
 81         melsh_bot                 1687       -21        328       
@@ -89,8 +89,8 @@ Rank       Bot                       Rating     Prog       Games
 88         dragobot                  1606       14         149       
 89         maia5                     1574       -22        106391    
 90         DavidsGuterBot            1556       15         716       
-91         sargon-3ply               1503       -34        1287      
-92         maia1                     1498       9          242274    
+91         maia1                     1505       13         242275    
+92         sargon-3ply               1503       -34        1287      
 93         RoundMoundOfRebounds      1491       24         397       
 94         turochamp-2ply            1480       -6         1176      
 95         ai-con                    1449       12         67        
