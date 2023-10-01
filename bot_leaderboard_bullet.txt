@@ -36,7 +36,7 @@ Rank       Bot                       Rating     Prog       Games
 35         AjedrezChamberi           2388       32         543       
 36         OpeningsBot               2385       6          4104      
 37         ChessNoobComp             2380       2          9559      
-38         Pseudo-0                  2338       -1         4375      
+38         Pseudo-0                  2338       -1         4379      
 39         simpleEval                2326       7          25934     
 40         fornax-engine             2326       13         7428      
 41         bekbot                    2271       9          2162      
@@ -76,8 +76,8 @@ Rank       Bot                       Rating     Prog       Games
 75         Humaia                    1692       19         487       
 76         melsh_bot                 1688       -2         4636      
 77         maia9                     1684       14         62252     
-78         turkjs                    1665       -9         19736     
-79         Virutor                   1665       -19        7223      
+78         Virutor                   1669       -17        7224      
+79         turkjs                    1665       -9         19736     
 80         ChessChildren             1659       19         15807     
 81         Demolito_L4               1653       -13        131       
 82         rudim-bot                 1644       -29        160       
@@ -85,8 +85,8 @@ Rank       Bot                       Rating     Prog       Games
 84         sargon-3ply               1604       -13        1701      
 85         sargon-4ply               1604       17         2108      
 86         sudobot_chess             1590       -295       227       
-87         turochamp-2ply            1573       -17        1894      
-88         maia1                     1563       -17        128268    
+87         maia1                     1573       2          128269    
+88         turochamp-2ply            1573       -17        1894      
 89         RoundMoundOfRebounds      1558       -22        1737      
 90         DavidsGuterBot            1549       0          6853      
 91         maia5                     1525       9          40617     
@@ -94,13 +94,13 @@ Rank       Bot                       Rating     Prog       Games
 93         botTideEval               1490       3          4144      
 94         turochamp-1ply            1468       -11        2461      
 95         yeoldwiz                  1450       18         791       
-96         postbot                   1423       28         375       
+96         postbot                   1426       29         376       
 97         sargon-2ply               1416       5          2839      
 98         ai-con                    1416       31         133       
 99         StupidChessRobot          1365       1          1342      
 100        sargon-1ply               1358       -7         5444      
 101        dragobot                  1322       43         82        
-102        pawnrobot                 1263       11         4170      
+102        pawnrobot                 1259       8          4171      
 103        king-forward-bot          1214       -16        115       
 104        bobandi                   1211       5          1165      
 105        knucklefish               1200       -11        3055      
