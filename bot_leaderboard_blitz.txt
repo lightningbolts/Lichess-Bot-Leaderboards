@@ -40,7 +40,7 @@ Rank       Bot                       Rating     Prog       Games
 39         fornax-engine             2407       15         6789      
 40         OpeningsBot               2387       12         1760      
 41         simpleEval                2344       41         15852     
-42         MisterRengar              2339       60         111       
+42         MisterRengar              2343       52         112       
 43         FlamingDragon_9000        2323       19         3331      
 44         bekbot                    2291       16         2031      
 45         FataliiBot                2250       10         7424      
@@ -51,7 +51,7 @@ Rank       Bot                       Rating     Prog       Games
 50         matmoi                    2154       -10        3053      
 51         jangine                   2118       -9         4019      
 52         Lynx_BOT                  2110       7          52126     
-53         likeawizard-bot           2098       -7         5738      
+53         likeawizard-bot           2096       -3         5739      
 54         myopic-bot                2078       -23        2811      
 55         KelpBot                   2056       -102       23        
 56         Elmichess                 2041       11         3740      
@@ -85,12 +85,12 @@ Rank       Bot                       Rating     Prog       Games
 84         ChessChildren             1660       -6         21920     
 85         melsh_bot                 1653       -2         2326      
 86         QueensGamBOT              1652       5          3410      
-87         maia9                     1642       -7         106945    
+87         maia9                     1644       4          106946    
 88         simplexitor               1629       17         2521      
 89         ArduChessBot              1613       12         1638      
 90         Demolito_L4               1585       -10        148       
 91         turkjs                    1569       12         10545     
-92         maia5                     1555       5          106467    
+92         maia5                     1549       4          106468    
 93         yeoldwiz                  1532       7          2073      
 94         HardRok                   1529       -21        1057      
 95         sudobot_chess             1523       -61        404       
@@ -98,7 +98,7 @@ Rank       Bot                       Rating     Prog       Games
 97         sargon-4ply               1485       -1         2296      
 98         sargon-3ply               1454       1          2132      
 99         DavidsGuterBot            1449       -12        3890      
-100        maia1                     1419       -15        215451    
+100        maia1                     1421       -7         215453    
 101        Humaia                    1397       17         1015      
 102        ai-con                    1389       -20        123       
 103        turochamp-2ply            1373       -7         1849      
@@ -110,11 +110,11 @@ Rank       Bot                       Rating     Prog       Games
 109        sargon-2ply               1245       -6         3342      
 110        turochamp-1ply            1235       9          1961      
 111        pawnrobot                 1224       16         2304      
-112        schnecken_bot             1203       -8         2707      
+112        schnecken_bot             1208       -2         2708      
 113        dragobot                  1191       -25        229       
 114        king-forward-bot          1154       -44        51        
-115        sargon-1ply               1138       9          8935      
-116        ABotWith3200Rating        1138       -11        332       
+115        ABotWith3200Rating        1138       -11        332       
+116        sargon-1ply               1133       3          8936      
 117        knucklefish               1039       -7         3498      
 118        bobandi                   942        9          1333      
 119        B4ux1t3s-Bot              889        -1         183       
