@@ -6,7 +6,7 @@ Rank       Bot                       Rating     Prog       Games
 5          TheFreshman1902           2954       -4         964       
 6          FireFishBOT_v2            2949       3          1795      
 7          ResoluteBot               2948       -1         28088     
-8          ReinforcementTrial        2942       -1         3106      
+8          ReinforcementTrial        2945       4          3107      
 9          Intron014                 2933       9          1596      
 10         ShashChess_MsP            2927       3          407       
 11         ToromBot                  2924       1          65481     
@@ -14,7 +14,7 @@ Rank       Bot                       Rating     Prog       Games
 13         LolFish-1                 2893       1          131       
 14         Nikitosik-ai              2863       -5         4437      
 15         RaspFish                  2808       13         55288     
-16         blundar_bot               2716       -3         12325     
+16         blundar_bot               2713       -7         12326     
 17         StockFish16_2023          2712       -4         415       
 18         Berserk-Test              2691       -4         245       
 19         LazyBot                   2630       46         1500      
@@ -30,7 +30,7 @@ Rank       Bot                       Rating     Prog       Games
 29         balancefish               2484       5          113       
 30         bot64jaques               2472       6          162       
 31         Elmichess                 2459       -35        3225      
-32         bot_adario                2429       30         3003      
+32         bot_adario                2432       30         3004      
 33         catriever                 2419       -2         2801      
 34         TuksuBot                  2416       -3         7630      
 35         odonata-bot               2416       1          6869      
@@ -38,7 +38,7 @@ Rank       Bot                       Rating     Prog       Games
 37         Phalanx-XXV               2391       18         4823      
 38         AjedrezChamberi           2388       32         543       
 39         ChessNoobComp             2378       0          9558      
-40         OpeningsBot               2368       -2         4059      
+40         OpeningsBot               2367       -3         4062      
 41         Pseudo-0                  2340       -1         4361      
 42         simpleEval                2330       11         25931     
 43         fornax-engine             2326       13         7428      
@@ -59,14 +59,14 @@ Rank       Bot                       Rating     Prog       Games
 58         LazyBotJr                 2029       6          1024      
 59         MaxtheDog                 2027       1          16839     
 60         BLANK_BOT                 1984       -4         8287      
-61         Zagreus_Engine            1978       -4         3741      
+61         Zagreus_Engine            1978       -1         3742      
 62         Karl-bot                  1972       -3         2077      
-63         Trollfish-Bot             1956       20         6563      
+63         Trollfish-Bot             1956       14         6564      
 64         sun_bird                  1956       7          2800      
 65         zeekat                    1927       -21        20862     
 66         NatesBot                  1885       -7         802       
-67         QuintBot                  1878       14         11467     
-68         QueensGamBOT              1833       -1         5647      
+67         QuintBot                  1881       17         11469     
+68         QueensGamBOT              1834       -7         5648      
 69         baby_eubos                1792       -1         6721      
 70         potato-chess-bot          1789       21         56        
 71         notropis                  1787       -19        4652      
@@ -76,7 +76,7 @@ Rank       Bot                       Rating     Prog       Games
 75         ShallowRedBot             1773       1          503       
 76         piglet_engine             1770       12         1225      
 77         simplexitor               1752       3          2615      
-78         ArduChessBot              1721       16         6351      
+78         ArduChessBot              1718       16         6352      
 79         HardRok                   1694       -3         962       
 80         Humaia                    1686       20         486       
 81         melsh_bot                 1683       -15        4634      
