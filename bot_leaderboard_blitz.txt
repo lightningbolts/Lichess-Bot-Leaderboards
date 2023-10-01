@@ -50,12 +50,12 @@ Rank       Bot                       Rating     Prog       Games
 49         matmoi                    2154       -10        3053      
 50         jangine                   2118       -9         4019      
 51         Lynx_BOT                  2110       7          52126     
-52         likeawizard-bot           2093       -12        5737      
+52         likeawizard-bot           2098       -7         5738      
 53         myopic-bot                2078       -23        2811      
 54         KelpBot                   2056       -102       23        
-55         Boris-Trapsky             2047       -4         29776     
-56         Elmichess                 2041       11         3740      
-57         redtail-zero              2040       -18        726       
+55         Elmichess                 2041       11         3740      
+56         Boris-Trapsky             2035       -19        29778     
+57         redtail-zero              2032       -28        727       
 58         Humaia-Strong             2022       38         2374      
 59         GarboBot                  2011       -9         10195     
 60         LeelaRogue                2011       0          2449      
@@ -63,10 +63,10 @@ Rank       Bot                       Rating     Prog       Games
 62         BLANK_BOT                 1987       -13        5511      
 63         Zagreus_Engine            1957       -1         4658      
 64         sun_bird                  1955       -1         2512      
-65         LazyBotJr                 1915       -22        1975      
-66         QuintBot                  1913       9          10910     
+65         QuintBot                  1920       12         10911     
+66         LazyBotJr                 1915       -22        1975      
 67         Karl-bot                  1891       -11        2483      
-68         zeekat                    1869       1          23109     
+68         zeekat                    1878       9          23110     
 69         NatesBot                  1861       17         2022      
 70         zulu_bot                  1861       -3         992       
 71         potato-chess-bot          1832       31         94        
@@ -90,7 +90,7 @@ Rank       Bot                       Rating     Prog       Games
 89         ArduChessBot              1615       16         1637      
 90         Demolito_L4               1585       -10        148       
 91         turkjs                    1569       12         10545     
-92         maia5                     1549       -5         106466    
+92         maia5                     1555       5          106467    
 93         yeoldwiz                  1532       7          2073      
 94         HardRok                   1529       -21        1057      
 95         sudobot_chess             1523       -61        404       
@@ -98,7 +98,7 @@ Rank       Bot                       Rating     Prog       Games
 97         sargon-4ply               1485       -1         2296      
 98         sargon-3ply               1454       1          2132      
 99         DavidsGuterBot            1449       -12        3890      
-100        maia1                     1422       -5         215448    
+100        maia1                     1421       -12        215449    
 101        Humaia                    1397       17         1015      
 102        ai-con                    1389       -20        123       
 103        turochamp-2ply            1373       -7         1849      
@@ -106,7 +106,7 @@ Rank       Bot                       Rating     Prog       Games
 105        StupidChessRobot          1352       8          2882      
 106        GuineaBot3                1340       -58        162       
 107        chat_bot                  1312       75         348       
-108        postbot                   1302       24         248       
+108        postbot                   1304       23         249       
 109        sargon-2ply               1245       -6         3342      
 110        turochamp-1ply            1235       9          1961      
 111        pawnrobot                 1224       16         2304      
