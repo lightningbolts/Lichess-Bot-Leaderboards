@@ -11,7 +11,7 @@ Rank       Bot                       Rating     Prog       Games
 10         ReinforcementTrial        2943       7          3093      
 11         ToromBot                  2928       2          65460     
 12         Intron014                 2924       5          1585      
-13         TorBot_v2                 2924       3          538       
+13         TorBot_v2                 2924       2          539       
 14         mayhem23111               2913       -6         295       
 15         LolFish-1                 2895       4          124       
 16         Nikitosik-ai              2868       4          4431      
@@ -38,8 +38,8 @@ Rank       Bot                       Rating     Prog       Games
 37         odonata-bot               2416       1          6868      
 38         Phalanx-XXV               2390       17         4822      
 39         AjedrezChamberi           2388       32         543       
-40         ChessNoobComp             2372       -8         9555      
-41         OpeningsBot               2370       -1         4051      
+40         OpeningsBot               2376       4          4052      
+41         ChessNoobComp             2372       -8         9555      
 42         Pseudo-0                  2336       -1         4360      
 43         fornax-engine             2326       13         7428      
 44         simpleEval                2317       8          25925     
@@ -61,8 +61,8 @@ Rank       Bot                       Rating     Prog       Games
 60         BLANK_BOT                 1989       -17        8281      
 61         Karl-bot                  1987       -8         2063      
 62         Zagreus_Engine            1974       -12        3738      
-63         Aleph_Engine              1954       20         144       
-64         sun_bird                  1953       -33        2784      
+63         Aleph_Engine              1954       25         145       
+64         sun_bird                  1953       -32        2785      
 65         zeekat                    1937       -11        20853     
 66         Trollfish-Bot             1934       3          6551      
 67         NatesBot                  1892       15         798       
@@ -91,7 +91,7 @@ Rank       Bot                       Rating     Prog       Games
 90         sargon-3ply               1610       1          1698      
 91         sudobot_chess             1590       -295       227       
 92         turochamp-2ply            1572       -12        1889      
-93         RoundMoundOfRebounds      1570       7          1730      
+93         RoundMoundOfRebounds      1569       1          1731      
 94         DavidsGuterBot            1548       -6         6847      
 95         maia1                     1529       31         128242    
 96         maia5                     1526       23         40615     
