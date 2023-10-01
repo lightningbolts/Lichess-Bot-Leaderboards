@@ -8,10 +8,10 @@ Rank       Bot                       Rating     Prog       Games
 7          FireFishBOT_v2            2949       1          1794      
 8          caissa-x                  2948       2          14679     
 9          ReinforcementTrial        2934       -2         3080      
-10         TorBot_v2                 2922       7          514       
+10         TorBot_v2                 2922       7          515       
 11         Intron014                 2921       0          1580      
 12         mayhem23111               2910       -19        294       
-13         LolFish-1                 2891       -3         117       
+13         LolFish-1                 2891       -3         118       
 14         Nikitosik-ai              2859       -6         4422      
 15         RaspFish                  2796       -1         55272     
 16         blundar_bot               2731       -17        12294     
@@ -37,7 +37,7 @@ Rank       Bot                       Rating     Prog       Games
 36         MrChessTheBot             2393       -52        5912      
 37         AjedrezChamberi           2388       32         543       
 38         Phalanx-XXV               2387       13         4819      
-39         OpeningsBot               2377       -2         3997      
+39         OpeningsBot               2377       -1         3999      
 40         Pseudo-0                  2337       4          4359      
 41         fornax-engine             2326       13         7428      
 42         simpleEval                2318       14         25924     
@@ -64,7 +64,7 @@ Rank       Bot                       Rating     Prog       Games
 63         zeekat                    1950       -9         20849     
 64         Trollfish-Bot             1921       -2         6544      
 65         NatesBot                  1892       16         796       
-66         QuintBot                  1876       15         11430     
+66         QuintBot                  1879       15         11431     
 67         QueensGamBOT              1836       -1         5639      
 68         notropis                  1797       6          4637      
 69         honzovy-sachy             1795       14         5458      
@@ -75,7 +75,7 @@ Rank       Bot                       Rating     Prog       Games
 74         Dinora                    1773       -9         416       
 75         potato-chess-bot          1767       19         48        
 76         simplexitor               1749       -4         2612      
-77         ArduChessBot              1702       3          6337      
+77         ArduChessBot              1699       4          6338      
 78         melsh_bot                 1687       -16        4627      
 79         Humaia                    1686       20         486       
 80         Virutor                   1682       0          7215      
@@ -92,8 +92,8 @@ Rank       Bot                       Rating     Prog       Games
 91         turochamp-2ply            1573       -7         1888      
 92         DavidsGuterBot            1556       4          6844      
 93         monchester                1522       -16        2895      
-94         maia5                     1507       18         40605     
-95         maia1                     1494       19         128224    
+94         maia1                     1511       35         128226    
+95         maia5                     1507       18         40605     
 96         botTideEval               1487       -7         4134      
 97         turochamp-1ply            1480       5          2457      
 98         yeoldwiz                  1450       18         791       
