@@ -13,7 +13,7 @@ Rank       Bot                       Rating     Prog       Games
 12         Intron014                 2897       -1         214       
 13         RaspFish                  2892       -9         6515      
 14         mayhem23111               2883       21         136       
-15         Nikitosik-ai              2856       -7         1261      
+15         Nikitosik-ai              2851       -13        1262      
 16         Mr_Chess_Berserk          2840       6          237       
 17         blundar_bot               2822       -1         1501      
 18         faith_bot                 2814       -7         1856      
@@ -46,7 +46,7 @@ Rank       Bot                       Rating     Prog       Games
 45         honzovy-sachy-2           2195       -9         3799      
 46         matmoi                    2183       3          2718      
 47         Elmichess                 2168       0          1446      
-48         Boris-Trapsky             2135       1          28151     
+48         Boris-Trapsky             2136       0          28152     
 49         Lynx_BOT                  2130       -11        40556     
 50         jangine                   2117       10         1985      
 51         redtail-zero              2110       5          660       
@@ -65,7 +65,7 @@ Rank       Bot                       Rating     Prog       Games
 64         KelpBot                   1966       59         19        
 65         baby_eubos                1952       1          1125      
 66         QuintBot                  1935       17         476       
-67         chers-engine              1915       11         49        
+67         chers-engine              1919       10         50        
 68         Dinora                    1903       -25        134       
 69         Karl-bot                  1888       -14        713       
 70         NatesBot                  1887       7          1032      
@@ -80,14 +80,14 @@ Rank       Bot                       Rating     Prog       Games
 79         ChessChildren             1772       7          4668      
 80         Demolito_L5               1739       22         2040      
 81         AshNostromo               1720       -13        1336      
-82         maia9                     1713       13         90188     
+82         maia9                     1715       6          90189     
 83         simplexitor               1692       -1         622       
 84         sargon-4ply               1691       -8         785       
 85         melsh_bot                 1687       7          334       
 86         yeoldwiz                  1680       23         769       
 87         ArduChessBot              1674       22         509       
 88         maia5                     1665       7          106495    
-89         ZE_ROOK                   1658       -16        690       
+89         ZE_ROOK                   1656       -17        691       
 90         turkjs                    1654       -10        5243      
 91         Demolito_L4               1653       10         153       
 92         HardRok                   1611       -36        866       
@@ -110,5 +110,4 @@ Rank       Bot                       Rating     Prog       Games
 109        kireevi                   1074       -27        604       
 110        bobandi                   1000       20         785       
 111        grandQ_AI                 782        -1         1662      
-112        B4ux1t3s-Bot              778        -2         131       
-113        G0thamB0t                 614        -20        427       
+112        G0thamB0t                 614        -20        427       
