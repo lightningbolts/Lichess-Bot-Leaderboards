@@ -32,7 +32,7 @@ Rank       Bot                       Rating     Prog       Games
 31         catriever                 2417       -3         2803      
 32         odonata-bot               2405       -1         6951      
 33         MrChessTheBot             2393       -52        5912      
-34         Phalanx-XXV               2389       -1         4845      
+34         Phalanx-XXV               2388       -2         4851      
 35         OpeningsBot               2386       7          4109      
 36         simpleEval                2336       14         25938     
 37         Pseudo-0                  2335       -1         4407      
@@ -53,9 +53,9 @@ Rank       Bot                       Rating     Prog       Games
 52         LazyBotJr                 2029       6          1024      
 53         MaxtheDog                 2024       -5         16868     
 54         BLANK_BOT                 2007       26         8299      
-55         Zagreus_Engine            2000       18         3761      
-56         sun_bird                  1970       14         2811      
-57         Karl-bot                  1946       -12        2100      
+55         Zagreus_Engine            2005       29         3762      
+56         sun_bird                  1973       18         2812      
+57         Karl-bot                  1941       -14        2101      
 58         Trollfish-Bot             1940       -15        6590      
 59         zeekat                    1931       -13        20884     
 60         NatesBot                  1895       6          808       
@@ -63,9 +63,9 @@ Rank       Bot                       Rating     Prog       Games
 62         QueensGamBOT              1824       -14        5657      
 63         baby_eubos                1804       22         6739      
 64         honzovy-sachy             1788       -7         5469      
-65         piglet_engine             1785       6          1233      
-66         Demolito_L5               1782       10         1487      
-67         Dinora                    1782       2          420       
+65         Demolito_L5               1782       10         1487      
+66         Dinora                    1782       2          420       
+67         piglet_engine             1782       9          1234      
 68         ShallowRedBot             1771       1          507       
 69         notropis                  1769       -10        4665      
 70         simplexitor               1759       13         2618      
@@ -83,7 +83,7 @@ Rank       Bot                       Rating     Prog       Games
 82         sudobot_chess             1590       -295       227       
 83         sargon-4ply               1584       -18        2114      
 84         turochamp-2ply            1573       -17        1894      
-85         maia1                     1555       -4         128299    
+85         maia1                     1564       2          128301    
 86         DavidsGuterBot            1546       -7         6854      
 87         RoundMoundOfRebounds      1536       -28        1740      
 88         monchester                1517       -18        2899      
