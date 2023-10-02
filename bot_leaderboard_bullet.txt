@@ -31,7 +31,7 @@ Rank       Bot                       Rating     Prog       Games
 30         bot_adario                2443       10         3016      
 31         catriever                 2430       10         2807      
 32         TuksuBot                  2425       5          7640      
-33         OpeningsBot               2396       3          4142      
+33         OpeningsBot               2395       -3         4146      
 34         MrChessTheBot             2393       -52        5912      
 35         odonata-bot               2389       -7         6967      
 36         AjedrezChamberi           2388       32         543       
@@ -57,8 +57,8 @@ Rank       Bot                       Rating     Prog       Games
 56         Zagreus_Engine            2005       18         3778      
 57         BLANK_BOT                 2000       21         8303      
 58         MaxtheDog                 1993       -49        16899     
-59         sun_bird                  1972       8          2821      
-60         Trollfish-Bot             1966       15         6620      
+59         Trollfish-Bot             1975       24         6621      
+60         sun_bird                  1972       8          2821      
 61         zeekat                    1936       3          20918     
 62         NatesBot                  1907       13         820       
 63         potato-chess-bot          1870       24         86        
@@ -99,12 +99,12 @@ Rank       Bot                       Rating     Prog       Games
 98         ai-con                    1410       -2         146       
 99         StupidChessRobot          1363       -1         1358      
 100        sargon-1ply               1348       -11        5454      
-101        dragobot                  1304       38         84        
-102        Calvin_Bot                1295       -20        38        
+101        Calvin_Bot                1306       15         39        
+102        dragobot                  1304       38         84        
 103        pawnrobot                 1235       -27        4178      
 104        king-forward-bot          1221       -7         120       
 105        bobandi                   1205       -21        1168      
-106        knucklefish               1200       -11        3055      
+106        knucklefish               1196       -17        3056      
 107        schnecken_bot             1190       1          1557      
 108        GuineaBot                 1166       -97        27        
 109        grandQ_AI                 809        -43        878       
