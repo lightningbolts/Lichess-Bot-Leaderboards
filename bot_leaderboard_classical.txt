@@ -1,14 +1,14 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ReinforcementTrial        2652       0          582       
-2          LeelaMultiPoss            2652       17         110       
+1          LeelaMultiPoss            2652       17         110       
+2          ReinforcementTrial        2651       -1         583       
 3          M-Z_Bot                   2637       1          177       
 4          Intron014                 2637       6          75        
-5          TheFreshman1902           2632       6          83        
+5          TheFreshman1902           2632       6          84        
 6          YoBot_v2                  2628       2          763       
 7          Occhessadvanced           2623       0          92        
-8          TorBot                    2619       0          68        
+8          TorBot                    2619       1          69        
 9          ResoluteBot               2612       3          868       
-10         Africaata                 2609       6          66        
+10         Africaata                 2609       9          67        
 11         RaspFish                  2600       -5         878       
 12         Nikitosik-ai              2596       2          376       
 13         Mr_Chess_Berserk          2575       -7         139       
@@ -59,7 +59,7 @@ Rank       Bot                       Rating     Prog       Games
 58         honzovy-sachy             1667       2          325       
 59         Demolito_L4               1640       -21        20        
 60         simplexitor               1638       -25        152       
-61         maia9                     1630       6          22720     
+61         maia9                     1631       12         22722     
 62         ZE_ROOK                   1629       -14        253       
 63         sargon-4ply               1624       3          470       
 64         turkjs                    1615       7          947       
@@ -69,7 +69,7 @@ Rank       Bot                       Rating     Prog       Games
 68         sargon-3ply               1567       -22        772       
 69         yeoldwiz                  1562       -11        325       
 70         chat_bot                  1560       54         72        
-71         maia1                     1534       4          69060     
+71         maia1                     1528       4          69061     
 72         StupidChessRobot          1497       -45        35        
 73         Humaia                    1422       -34        1270      
 74         sargon-2ply               1379       -31        1269      
