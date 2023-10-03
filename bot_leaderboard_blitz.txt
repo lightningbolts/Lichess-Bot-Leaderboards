@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          LeelaMultiPoss            2946       5          701       
 2          ReinforcementTrial        2931       15         4208      
-3          EmptikBot                 2929       -9         807       
+3          EmptikBot                 2929       -12        808       
 4          M-Z_Bot                   2921       2          1372      
 5          ToromBot                  2919       2          6310      
 6          mayhem23111               2912       8          360       
@@ -33,7 +33,7 @@ Rank       Bot                       Rating     Prog       Games
 32         Pseudo-0                  2427       -15        3336      
 33         TuksuBot                  2422       -4         4475      
 34         Phalanx-XXV               2419       -18        3078      
-35         OpeningsBot               2417       12         1811      
+35         OpeningsBot               2408       6          1812      
 36         fornax-engine             2407       8          6796      
 37         admete_bot                2359       -3         6935      
 38         simpleEval                2328       -3         15888     
@@ -44,10 +44,10 @@ Rank       Bot                       Rating     Prog       Games
 43         honzovy-sachy-2           2197       7          7440      
 44         eubos                     2196       1          15738     
 45         matmoi                    2188       -2         3117      
-46         jangine                   2151       9          4047      
+46         jangine                   2160       13         4048      
 47         Lynx_BOT                  2083       -14        52290     
 48         myopic-bot                2070       -6         2846      
-49         Boris-Trapsky             2056       14         29833     
+49         Boris-Trapsky             2057       8          29834     
 50         KelpBot                   2056       -102       23        
 51         GarboBot                  2054       7          10239     
 52         Elmichess                 2041       11         3740      
@@ -90,7 +90,7 @@ Rank       Bot                       Rating     Prog       Games
 89         sargon-4ply               1490       12         2318      
 90         RoundMoundOfRebounds      1466       -20        1528      
 91         sargon-3ply               1456       5          2147      
-92         maia1                     1447       -5         215829    
+92         maia1                     1437       -12        215830    
 93         DavidsGuterBot            1435       7          3912      
 94         ai-con                    1380       3          160       
 95         Calvin_Bot                1374       25         51        
