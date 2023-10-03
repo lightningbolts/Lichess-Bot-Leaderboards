@@ -3,7 +3,7 @@ Rank       Bot                       Rating     Prog       Games
 2          TheFreshman1902           2920       0          269       
 3          M-Z_Bot                   2919       -1         589       
 4          ReinforcementTrial        2916       -2         6044      
-5          ToromBot                  2915       -6         3125      
+5          ToromBot                  2914       -7         3126      
 6          ResoluteBot               2913       0          6002      
 7          TorBot                    2912       6          888       
 8          EmanPureNN                2911       -5         483       
@@ -18,8 +18,8 @@ Rank       Bot                       Rating     Prog       Games
 17         ArasanX                   2856       10         6392      
 18         Mr_Chess_Berserk          2847       10         251       
 19         faith_bot                 2822       5          1889      
-20         MphoBot                   2819       6          110       
-21         blundar_bot               2817       2          1515      
+20         blundar_bot               2819       8          1516      
+21         MphoBot                   2819       6          110       
 22         Berserk-Test              2739       9          130       
 23         StockFish16_2023          2702       21         181       
 24         MrChessTheBot             2689       -53        2243      
@@ -50,10 +50,10 @@ Rank       Bot                       Rating     Prog       Games
 49         eubos                     2207       -19        4417      
 50         matmoi                    2178       12         2746      
 51         Elmichess                 2168       0          1446      
-52         Lynx_BOT                  2133       -1         40578     
+52         Lynx_BOT                  2127       -11        40579     
 53         jangine                   2123       15         1989      
 54         Boris-Trapsky             2121       -10        28165     
-55         redtail-zero              2109       -1         665       
+55         redtail-zero              2115       2          666       
 56         GarboBot                  2092       7          6435      
 57         myopic-bot                2056       21         677       
 58         likeawizard-bot           2046       10         1661      
@@ -77,8 +77,8 @@ Rank       Bot                       Rating     Prog       Games
 76         ShallowRedBot             1798       16         112       
 77         Virutor                   1796       -13        3393      
 78         honzovy-sachy             1794       12         1155      
-79         maia9                     1785       2          90349     
-80         Trollfish-Bot             1783       -7         405       
+79         Trollfish-Bot             1783       -7         405       
+80         maia9                     1778       -7         90350     
 81         zulu_bot                  1776       3          110       
 82         ChessChildren             1770       -3         4675      
 83         dtsudo                    1748       11         30        
@@ -95,7 +95,7 @@ Rank       Bot                       Rating     Prog       Games
 94         maia5                     1606       -4         106586    
 95         dragobot                  1606       17         150       
 96         DavidsGuterBot            1553       -1         720       
-97         maia1                     1542       -6         242675    
+97         maia1                     1534       -9         242677    
 98         sargon-3ply               1499       -21        1292      
 99         RoundMoundOfRebounds      1491       24         397       
 100        turochamp-2ply            1487       4          1179      
@@ -109,7 +109,8 @@ Rank       Bot                       Rating     Prog       Games
 108        king-forward-bot          1240       -94        31        
 109        schnecken_bot             1238       12         508       
 110        sargon-1ply               1236       -21        9156      
-111        chat_bot                  1160       -19        343       
-112        bobandi                   993        5          794       
-113        grandQ_AI                 779        -4         1663      
-114        G0thamB0t                 629        13         436       
+111        ABotWith3200Rating        1190       -30        149       
+112        chat_bot                  1160       -19        343       
+113        bobandi                   993        5          794       
+114        grandQ_AI                 779        -4         1663      
+115        G0thamB0t                 629        13         436       
