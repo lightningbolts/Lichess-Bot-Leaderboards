@@ -3,8 +3,8 @@ Rank       Bot                       Rating     Prog       Games
 2          TheFreshman1902           2920       0          269       
 3          M-Z_Bot                   2919       0          590       
 4          ReinforcementTrial        2916       -2         6044      
-5          ToromBot                  2914       -7         3126      
-6          ResoluteBot               2913       0          6002      
+5          ResoluteBot               2913       0          6002      
+6          ToromBot                  2912       -8         3127      
 7          TorBot                    2912       6          888       
 8          EmanPureNN                2911       -5         483       
 9          FireFishBOT_v2            2909       5          1140      
@@ -18,7 +18,7 @@ Rank       Bot                       Rating     Prog       Games
 17         ArasanX                   2858       11         6393      
 18         Mr_Chess_Berserk          2847       10         251       
 19         faith_bot                 2822       5          1889      
-20         blundar_bot               2819       8          1516      
+20         blundar_bot               2821       9          1517      
 21         MphoBot                   2819       6          110       
 22         Berserk-Test              2739       9          130       
 23         StockFish16_2023          2702       21         181       
@@ -77,8 +77,8 @@ Rank       Bot                       Rating     Prog       Games
 76         ShallowRedBot             1798       16         112       
 77         Virutor                   1796       -13        3393      
 78         honzovy-sachy             1794       12         1155      
-79         Trollfish-Bot             1783       -7         405       
-80         maia9                     1778       -7         90350     
+79         maia9                     1789       6          90352     
+80         Trollfish-Bot             1783       -7         405       
 81         zulu_bot                  1776       3          110       
 82         ChessChildren             1770       -3         4675      
 83         dtsudo                    1748       11         30        
@@ -92,10 +92,10 @@ Rank       Bot                       Rating     Prog       Games
 91         turkjs                    1660       6          5254      
 92         Demolito_L4               1651       -3         166       
 93         HardRok                   1610       -10        873       
-94         maia5                     1606       -4         106586    
-95         dragobot                  1606       17         150       
+94         dragobot                  1606       17         150       
+95         maia5                     1603       -16        106587    
 96         DavidsGuterBot            1553       -1         720       
-97         maia1                     1538       4          242679    
+97         maia1                     1542       -2         242682    
 98         sargon-3ply               1499       -21        1292      
 99         RoundMoundOfRebounds      1491       24         397       
 100        turochamp-2ply            1487       4          1179      
@@ -106,9 +106,9 @@ Rank       Bot                       Rating     Prog       Games
 105        sargon-2ply               1347       -10        3587      
 106        postbot                   1308       78         22        
 107        pawnrobot                 1287       -2         811       
-108        king-forward-bot          1240       -94        31        
-109        schnecken_bot             1238       12         508       
-110        sargon-1ply               1236       -21        9156      
+108        sargon-1ply               1253       -5         9158      
+109        schnecken_bot             1245       22         509       
+110        king-forward-bot          1240       -94        31        
 111        ABotWith3200Rating        1190       -30        149       
 112        chat_bot                  1160       -19        343       
 113        bobandi                   993        5          794       
