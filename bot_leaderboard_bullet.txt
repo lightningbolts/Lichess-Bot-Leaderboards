@@ -12,7 +12,7 @@ Rank       Bot                       Rating     Prog       Games
 11         Mr_Chess_Berserk          2846       -16        1252      
 12         RaspFish                  2826       5          55408     
 13         faith_bot                 2805       -17        3443      
-14         StockFish16_2023          2772       8          489       
+14         StockFish16_2023          2766       -2         490       
 15         blundar_bot               2747       1          12387     
 16         Berserk-Test              2692       10         291       
 17         LazyBot                   2630       46         1500      
@@ -35,7 +35,7 @@ Rank       Bot                       Rating     Prog       Games
 34         odonata-bot               2387       -9         6972      
 35         OpeningsBot               2373       -20        4164      
 36         Phalanx-XXV               2370       -16        5051      
-37         admete_bot                2357       -2         12655     
+37         admete_bot                2357       -1         12660     
 38         Pseudo-0                  2335       -1         4407      
 39         fornax-engine             2333       11         7434      
 40         simpleEval                2320       -13        25947     
@@ -60,7 +60,7 @@ Rank       Bot                       Rating     Prog       Games
 59         Trollfish-Bot             1955       -20        6642      
 60         zeekat                    1948       -12        20941     
 61         NatesBot                  1906       10         828       
-62         QuintBot                  1857       -17        11616     
+62         QuintBot                  1860       -10        11617     
 63         QueensGamBOT              1833       11         5666      
 64         piglet_engine             1790       10         1255      
 65         honzovy-sachy             1778       -10        5480      
@@ -72,8 +72,8 @@ Rank       Bot                       Rating     Prog       Games
 71         baby_eubos                1757       -32        6772      
 72         melsh_bot                 1705       -2         4664      
 73         ArduChessBot              1700       16         6410      
-74         Virutor                   1672       -8         7247      
-75         ChessChildren             1671       -3         15828     
+74         ChessChildren             1671       -3         15828     
+75         Virutor                   1669       -9         7248      
 76         maia9                     1651       -16        62283     
 77         Jibbby                    1650       -5         2956      
 78         rudim-bot                 1644       -29        160       
