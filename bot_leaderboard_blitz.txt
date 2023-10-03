@@ -23,7 +23,7 @@ Rank       Bot                       Rating     Prog       Games
 22         FrozenightEngine          2602       1          6811      
 23         MrChessTheBot             2542       -53        2009      
 24         SaxtonEngine              2526       1          2829      
-25         Weiawaga                  2512       1          12584     
+25         Weiawaga                  2516       3          12585     
 26         pawn_git                  2509       -2         3077      
 27         Cheng-4                   2499       13         6953      
 28         catriever                 2485       13         1265      
@@ -34,7 +34,7 @@ Rank       Bot                       Rating     Prog       Games
 33         TuksuBot                  2422       -4         4475      
 34         OpeningsBot               2421       20         1810      
 35         Phalanx-XXV               2419       -18        3078      
-36         fornax-engine             2411       11         6795      
+36         fornax-engine             2407       8          6796      
 37         admete_bot                2359       -3         6935      
 38         simpleEval                2328       -3         15888     
 39         FlamingDragon_9000        2323       19         3331      
@@ -90,10 +90,10 @@ Rank       Bot                       Rating     Prog       Games
 89         postbot                   1509       12         374       
 90         sargon-4ply               1486       2          2317      
 91         sargon-3ply               1456       5          2147      
-92         maia1                     1447       -5         215824    
+92         maia1                     1449       -8         215826    
 93         DavidsGuterBot            1435       7          3912      
 94         ai-con                    1382       7          159       
-95         Calvin_Bot                1371       75         48        
+95         Calvin_Bot                1373       65         49        
 96         monchester                1348       -22        2874      
 97         turochamp-2ply            1340       -31        1864      
 98         GuineaBot3                1340       -58        162       
@@ -107,6 +107,6 @@ Rank       Bot                       Rating     Prog       Games
 106        sargon-1ply               1184       28         8971      
 107        king-forward-bot          1135       -13        63        
 108        GuineaBot                 1069       24         32        
-109        knucklefish               993        -24        3532      
+109        knucklefish               992        -19        3533      
 110        grandQ_AI                 921        -33        1404      
 111        bobandi                   905        14         1368      
