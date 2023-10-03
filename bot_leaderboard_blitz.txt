@@ -16,7 +16,7 @@ Rank       Bot                       Rating     Prog       Games
 15         blundar_bot               2758       -17        1941      
 16         StockFish16_2023          2722       10         414       
 17         LazyBot                   2665       -21        2063      
-18         AKS-Mantissa              2614       -7         11091     
+18         AKS-Mantissa              2615       -4         11092     
 19         expositor                 2605       3          7922      
 20         FrozenightEngine          2592       -11        6812      
 21         MrChessTheBot             2542       -53        2009      
@@ -40,9 +40,9 @@ Rank       Bot                       Rating     Prog       Games
 39         bekbot                    2299       2          2120      
 40         halcyonbot                2270       26         11348     
 41         FataliiBot                2255       11         7473      
-42         honzovy-sachy-2           2197       7          7440      
+42         honzovy-sachy-2           2197       12         7441      
 43         eubos                     2196       -4         15742     
-44         matmoi                    2190       -7         3120      
+44         matmoi                    2190       -3         3121      
 45         jangine                   2163       26         4051      
 46         myopic-bot                2069       -12        2847      
 47         Lynx_BOT                  2057       -33        52300     
@@ -62,12 +62,12 @@ Rank       Bot                       Rating     Prog       Games
 61         zeekat                    1891       -2         23207     
 62         zulu_bot                  1861       -3         992       
 63         NatesBot                  1851       -10        2111      
-64         baby_eubos                1825       11         9289      
+64         baby_eubos                1824       5          9290      
 65         Trollfish-Bot             1820       5          3119      
-66         QuintBot                  1814       7          11113     
-67         Dinora                    1779       4          599       
-68         honzovy-sachy             1731       -3         5615      
-69         notropis                  1731       -6         7587      
+66         QuintBot                  1818       14         11114     
+67         Dinora                    1779       2          600       
+68         notropis                  1731       -6         7587      
+69         honzovy-sachy             1726       -4         5616      
 70         piglet_engine             1720       -13        327       
 71         LittleGreenManBot         1714       7          4667      
 72         Virutor                   1710       12         7958      
@@ -82,7 +82,7 @@ Rank       Bot                       Rating     Prog       Games
 81         ArduChessBot              1582       -15        1667      
 82         turkjs                    1573       5          10558     
 83         Demolito_L4               1566       -5         185       
-84         maia5                     1556       35         106671    
+84         maia5                     1551       37         106672    
 85         maia9                     1551       -29        107175    
 86         sudobot_chess             1523       -61        404       
 87         postbot                   1516       5          383       
@@ -90,7 +90,7 @@ Rank       Bot                       Rating     Prog       Games
 89         sargon-4ply               1480       7          2320      
 90         RoundMoundOfRebounds      1465       -22        1529      
 91         sargon-3ply               1456       5          2147      
-92         maia1                     1452       5          215835    
+92         maia1                     1444       -3         215836    
 93         DavidsGuterBot            1435       7          3912      
 94         Calvin_Bot                1398       32         61        
 95         ai-con                    1378       3          162       
