@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
 1          LeelaMultiPoss            2946       5          701       
-2          ToromBot                  2936       16         6381      
+2          ToromBot                  2934       11         6382      
 3          ReinforcementTrial        2933       4          4249      
 4          ProteusSF-Godot           2918       0          1503      
 5          YoBot_v2                  2915       9          4819      
@@ -15,7 +15,7 @@ Rank       Bot                       Rating     Prog       Games
 14         ResoluteBot               2862       -12        13135     
 15         Nikitosik-ai              2844       -7         1450      
 16         RaspFish                  2816       -13        13848     
-17         ta_alexopoulakia          2806       96         18        
+17         ta_alexopoulakia          2815       105        19        
 18         faith_bot                 2781       6          890       
 19         SaturnBot                 2762       28         16        
 20         Berserk-Test              2746       -5         288       
@@ -27,11 +27,11 @@ Rank       Bot                       Rating     Prog       Games
 26         MrChessTheBot             2542       -53        2009      
 27         Weiawaga                  2529       6          12609     
 28         SaxtonEngine              2525       -4         2848      
-29         pawn_git                  2505       -2         3091      
+29         pawn_git                  2509       4          3092      
 30         Cheng-4                   2492       -6         6963      
 31         bot_adario                2485       5          2716      
 32         catriever                 2479       0          1273      
-33         LTChessBot                2467       -7         498       
+33         LTChessBot                2471       -7         499       
 34         bot64jaques               2467       -2         188       
 35         Phalanx-XXV               2439       18         3091      
 36         Pseudo-0                  2435       6          3342      
@@ -39,10 +39,10 @@ Rank       Bot                       Rating     Prog       Games
 38         TuksuBot                  2430       12         4484      
 39         odonata-bot               2428       -8         6403      
 40         fornax-engine             2418       4          6804      
-41         admete_bot                2367       21         7024      
-42         MisterRengar              2332       -8         124       
+41         admete_bot                2362       11         7027      
+42         MisterRengar              2328       -17        125       
 43         FlamingDragon_9000        2323       19         3331      
-44         simpleEval                2310       -5         15919     
+44         simpleEval                2312       5          15920     
 45         bekbot                    2292       -14        2141      
 46         FataliiBot                2239       -6         7491      
 47         halcyonbot                2229       -19        11377     
@@ -56,8 +56,8 @@ Rank       Bot                       Rating     Prog       Games
 55         myopic-bot                2063       1          2873      
 56         likeawizard-bot           2062       -25        5919      
 57         KelpBot                   2056       -102       23        
-58         sun_bird                  2043       3          2625      
-59         Elmichess                 2041       11         3740      
+58         Elmichess                 2041       11         3740      
+59         sun_bird                  2041       3          2626      
 60         Lynx_BOT                  2035       21         52372     
 61         MaxtheDog                 2033       14         5749      
 62         redtail-zero              2029       -5         750       
@@ -97,8 +97,8 @@ Rank       Bot                       Rating     Prog       Games
 96         maia5                     1510       7          106759    
 97         postbot                   1501       -3         427       
 98         sargon-4ply               1482       -4         2328      
-99         maia1                     1468       -11        215987    
-100        sargon-3ply               1461       -1         2151      
+99         sargon-3ply               1461       -1         2151      
+100        maia1                     1460       -13        215988    
 101        Calvin_Bot                1448       19         104       
 102        RoundMoundOfRebounds      1438       -29        1538      
 103        DavidsGuterBot            1432       1          3918      
