@@ -4,11 +4,11 @@ Rank       Bot                       Rating     Prog       Games
 3          ReinforcementTrial        2928       -4         4264      
 4          TorBot                    2926       -3         1807      
 5          ProteusSF-Godot           2918       0          1503      
-6          caissa-x                  2913       0          3912      
-7          mayhem23111               2913       0          383       
-8          YoBot_v2                  2912       -4         4829      
-9          M-Z_Bot                   2912       -2         1425      
-10         Africaata                 2911       4          545       
+6          Africaata                 2914       6          546       
+7          caissa-x                  2913       0          3912      
+8          mayhem23111               2913       0          383       
+9          YoBot_v2                  2912       -4         4829      
+10         M-Z_Bot                   2912       -2         1425      
 11         Occhessadvanced           2908       3          233       
 12         ProteusSF-Aureo           2908       0          95        
 13         Intron014                 2896       -1         965       
@@ -21,8 +21,8 @@ Rank       Bot                       Rating     Prog       Games
 20         faith_bot                 2778       7          894       
 21         SaturnBot                 2764       31         19        
 22         StockFish16_2023          2747       12         450       
-23         Berserk-Test              2747       -1         300       
-24         blundar_bot               2735       -9         1964      
+23         Berserk-Test              2739       -6         301       
+24         blundar_bot               2732       -9         1965      
 25         LazyBot                   2665       -22        2065      
 26         AKS-Mantissa              2611       0          11121     
 27         expositor                 2601       -5         7952      
@@ -41,7 +41,7 @@ Rank       Bot                       Rating     Prog       Games
 40         fornax-engine             2408       -6         6809      
 41         OpeningsBot               2408       -16        1859      
 42         AjedrezChamberi           2376       10         276       
-43         admete_bot                2336       -3         7197      
+43         admete_bot                2336       -3         7199      
 44         FlamingDragon_9000        2323       19         3331      
 45         simpleEval                2312       4          15943     
 46         bekbot                    2295       10         2154      
@@ -100,9 +100,9 @@ Rank       Bot                       Rating     Prog       Games
 99         postbot                   1516       10         449       
 100        maia5                     1491       1          106817    
 101        sargon-4ply               1479       -11        2329      
-102        maia1                     1471       -2         216053    
+102        maia1                     1468       -9         216054    
 103        sargon-3ply               1458       2          2153      
-104        DavidsGuterBot            1437       -2         3920      
+104        DavidsGuterBot            1434       -3         3921      
 105        RoundMoundOfRebounds      1429       -30        1542      
 106        ai-con                    1417       18         178       
 107        Humaia                    1395       11         1021      
@@ -110,7 +110,7 @@ Rank       Bot                       Rating     Prog       Games
 109        GuineaBot3                1340       -58        162       
 110        turochamp-2ply            1317       -23        1874      
 111        chat_bot                  1312       75         348       
-112        StupidChessRobot          1267       -23        3025      
+112        StupidChessRobot          1270       -13        3026      
 113        sargon-2ply               1258       19         3380      
 114        schnecken_bot             1245       19         2783      
 115        turochamp-1ply            1238       -2         1980      
