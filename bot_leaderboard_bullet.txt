@@ -12,8 +12,8 @@ Rank       Bot                       Rating     Prog       Games
 11         ResoluteBot               2922       5          28211     
 12         ToromBot                  2921       6          65720     
 13         Intron014                 2910       -10        1754      
-14         ta_alexopoulakia          2861       -2         35        
-15         Nikitosik-ai              2851       1          4480      
+14         ta_alexopoulakia          2861       -2         36        
+15         Nikitosik-ai              2851       -1         4481      
 16         RaspFish                  2828       12         55496     
 17         faith_bot                 2810       0          3460      
 18         StockFish16_2023          2798       -4         536       
@@ -27,7 +27,7 @@ Rank       Bot                       Rating     Prog       Games
 26         SaxtonEngine              2516       3          5296      
 27         pawn_git                  2509       5          5154      
 28         AKS-Mantissa              2498       1          11867     
-29         LTChessBot                2494       16         638       
+29         LTChessBot                2491       8          639       
 30         balancefish               2485       -4         117       
 31         Weiawaga                  2469       -18        17065     
 32         bot64jaques               2453       5          224       
@@ -40,7 +40,7 @@ Rank       Bot                       Rating     Prog       Games
 39         OpeningsBot               2386       0          4185      
 40         odonata-bot               2374       -26        6981      
 41         Phalanx-XXV               2364       -11        5060      
-42         admete_bot                2340       8          12936     
+42         admete_bot                2343       8          12937     
 43         Pseudo-0                  2339       3          4416      
 44         fornax-engine             2323       -10        7446      
 45         simpleEval                2312       -5         25957     
@@ -64,8 +64,8 @@ Rank       Bot                       Rating     Prog       Games
 63         Trollfish-Bot             1950       13         6708      
 64         NatesBot                  1914       11         849       
 65         QuintBot                  1907       -6         11738     
-66         zeekat                    1901       -26        20989     
-67         Demolito_L6               1883       -4         1225      
+66         zeekat                    1901       -29        20990     
+67         Demolito_L6               1881       -9         1227      
 68         potato-chess-bot          1867       -3         95        
 69         QueensGamBOT              1811       -29        5679      
 70         honzovy-sachy             1802       4          5504      
@@ -73,9 +73,9 @@ Rank       Bot                       Rating     Prog       Games
 72         simplexitor               1778       0          2637      
 73         Dinora                    1774       -6         449       
 74         baby_eubos                1771       -6         6804      
-75         ShallowRedBot             1757       -19        541       
-76         notropis                  1755       -8         4698      
-77         dtsudo                    1751       -3         352       
+75         dtsudo                    1758       8          353       
+76         ShallowRedBot             1757       -19        541       
+77         notropis                  1755       -8         4698      
 78         chesstango_bot            1709       12         105       
 79         QChessV2                  1702       -17        284       
 80         HardRok                   1700       2          979       
