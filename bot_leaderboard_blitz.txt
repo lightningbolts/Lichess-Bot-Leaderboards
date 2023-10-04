@@ -5,9 +5,9 @@ Rank       Bot                       Rating     Prog       Games
 4          ProteusSF-Godot           2918       0          1503      
 5          YoBot_v2                  2915       9          4819      
 6          M-Z_Bot                   2914       -2         1410      
-7          Africaata                 2908       0          526       
+7          Africaata                 2908       0          527       
 8          ProteusSF-Aureo           2908       0          95        
-9          Intron014                 2901       0          924       
+9          Intron014                 2901       -1         925       
 10         Occhessadvanced           2898       8          212       
 11         FireFishBOT_v2            2896       2          10201     
 12         LolFish-1                 2880       0          180       
@@ -33,13 +33,13 @@ Rank       Bot                       Rating     Prog       Games
 32         catriever                 2479       0          1273      
 33         LTChessBot                2471       -7         499       
 34         bot64jaques               2467       -2         188       
-35         Phalanx-XXV               2439       18         3091      
+35         Phalanx-XXV               2441       19         3092      
 36         Pseudo-0                  2435       6          3342      
 37         OpeningsBot               2431       -1         1841      
 38         TuksuBot                  2430       12         4484      
 39         odonata-bot               2428       -8         6403      
 40         fornax-engine             2418       4          6804      
-41         admete_bot                2362       11         7027      
+41         admete_bot                2362       7          7029      
 42         MisterRengar              2328       -17        125       
 43         FlamingDragon_9000        2323       19         3331      
 44         simpleEval                2312       5          15920     
@@ -48,8 +48,8 @@ Rank       Bot                       Rating     Prog       Games
 47         halcyonbot                2229       -19        11377     
 48         honzovy-sachy-2           2191       12         7445      
 49         matmoi                    2185       2          3143      
-50         eubos                     2180       -5         15767     
-51         HistoryExplorer           2180       16         3034      
+50         HistoryExplorer           2180       16         3034      
+51         eubos                     2178       -10        15768     
 52         jangine                   2162       17         4056      
 53         GarboBot                  2074       26         10252     
 54         Boris-Trapsky             2069       15         29852     
@@ -90,7 +90,7 @@ Rank       Bot                       Rating     Prog       Games
 89         QueensGamBOT              1610       -16        3466      
 90         turkjs                    1584       8          10571     
 91         ArduChessBot              1578       -11        1677      
-92         maia9                     1566       -18        107284    
+92         maia9                     1574       -2         107286    
 93         Demolito_L4               1534       -3         208       
 94         sudobot_chess             1523       -61        404       
 95         yeoldwiz                  1518       3          2108      
@@ -98,7 +98,7 @@ Rank       Bot                       Rating     Prog       Games
 97         postbot                   1501       -3         427       
 98         sargon-4ply               1482       -4         2328      
 99         sargon-3ply               1461       -1         2151      
-100        maia1                     1460       -13        215988    
+100        maia1                     1456       -20        215989    
 101        Calvin_Bot                1448       19         104       
 102        RoundMoundOfRebounds      1438       -29        1538      
 103        DavidsGuterBot            1432       1          3918      
