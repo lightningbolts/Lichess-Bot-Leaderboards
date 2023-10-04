@@ -11,8 +11,8 @@ Rank       Bot                       Rating     Prog       Games
 10         Africaata                 2912       5          541       
 11         ProteusSF-Aureo           2908       0          95        
 12         Occhessadvanced           2905       1          224       
-13         Intron014                 2901       7          946       
-14         FireFishBOT_v2            2883       -5         10232     
+13         Intron014                 2901       8          947       
+14         FireFishBOT_v2            2884       -3         10233     
 15         ArasanX                   2866       -3         2773      
 16         ResoluteBot               2862       -4         13144     
 17         ta_alexopoulakia          2850       35         30        
@@ -30,7 +30,7 @@ Rank       Bot                       Rating     Prog       Games
 29         Weiawaga                  2538       13         12617     
 30         SaxtonEngine              2528       0          2849      
 31         LTChessBot                2523       13         525       
-32         pawn_git                  2511       8          3099      
+32         pawn_git                  2513       5          3100      
 33         Cheng-4                   2489       -12        6967      
 34         HackerChessBot            2488       3          47        
 35         bot_adario                2484       0          2722      
@@ -43,12 +43,12 @@ Rank       Bot                       Rating     Prog       Games
 42         OpeningsBot               2412       -19        1850      
 43         fornax-engine             2405       -4         6808      
 44         AjedrezChamberi           2376       10         276       
-45         admete_bot                2347       0          7153      
+45         admete_bot                2347       0          7154      
 46         FlamingDragon_9000        2323       19         3331      
 47         simpleEval                2309       -1         15930     
 48         bekbot                    2300       8          2152      
 49         WilliamEngine             2283       31         1488      
-50         MisterRengar              2269       -41        145       
+50         MisterRengar              2267       -35        146       
 51         FataliiBot                2253       10         7496      
 52         halcyonbot                2210       -21        11394     
 53         matmoi                    2197       20         3152      
@@ -74,9 +74,9 @@ Rank       Bot                       Rating     Prog       Games
 73         zulu_bot                  1861       -3         992       
 74         potato-chess-bot          1858       -13        179       
 75         Demolito_L6               1855       -20        1946      
-76         QuintBot                  1847       3          11212     
+76         QuintBot                  1841       -3         11213     
 77         NatesBot                  1837       1          2153      
-78         baby_eubos                1819       15         9339      
+78         baby_eubos                1825       17         9340      
 79         QChessV2                  1802       -37        247       
 80         notropis                  1764       8          7628      
 81         Dinora                    1743       -15        627       
@@ -95,7 +95,7 @@ Rank       Bot                       Rating     Prog       Games
 94         QueensGamBOT              1607       -5         3471      
 95         turkjs                    1581       -1         10573     
 96         ArduChessBot              1573       -6         1679      
-97         maia9                     1557       -3         107326    
+97         maia9                     1558       -1         107327    
 98         HardRok                   1546       25         1088      
 99         Demolito_L4               1544       16         217       
 100        yeoldwiz                  1527       13         2109      
@@ -125,5 +125,5 @@ Rank       Bot                       Rating     Prog       Games
 124        ABotWith3200Rating        1124       -20        340       
 125        GuineaBot                 1069       24         32        
 126        knucklefish               1016       19         3538      
-127        bobandi                   901        15         1370      
+127        bobandi                   899        13         1371      
 128        grandQ_AI                 898        -47        1409      
