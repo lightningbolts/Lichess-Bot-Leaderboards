@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          LeelaMultiPoss            2928       5          426       
-2          ResoluteBot               2916       4          6019      
-3          ToromBot                  2916       3          3152      
+2          ToromBot                  2920       7          3153      
+3          ResoluteBot               2916       4          6019      
 4          Occhessadvanced           2916       7          239       
 5          M-Z_Bot                   2913       -4         611       
 6          TorBot                    2912       3          892       
@@ -18,7 +18,7 @@ Rank       Bot                       Rating     Prog       Games
 17         ArasanX                   2867       0          6421      
 18         Nikitosik-ai              2847       4          1283      
 19         faith_bot                 2828       -3         1928      
-20         blundar_bot               2818       0          1534      
+20         blundar_bot               2814       -5         1535      
 21         Berserk-Test              2744       8          143       
 22         StockFish16_2023          2706       13         188       
 23         MrChessTheBot             2689       -53        2243      
@@ -60,8 +60,8 @@ Rank       Bot                       Rating     Prog       Games
 59         AjedrezChamberi           2041       -34        131       
 60         MaxtheDog                 2032       -11        912       
 61         BLANK_BOT                 2008       13         1884      
-62         LazyBotJr                 1980       3          1566      
-63         zeekat                    1978       12         9513      
+62         zeekat                    1981       10         9514      
+63         LazyBotJr                 1980       3          1566      
 64         sun_bird                  1976       11         176       
 65         LeelaRogue                1967       -3         2393      
 66         KelpBot                   1966       59         19        
@@ -73,7 +73,7 @@ Rank       Bot                       Rating     Prog       Games
 72         NatesBot                  1885       -6         1059      
 73         potato-chess-bot          1865       214        27        
 74         notropis                  1852       -9         2818      
-75         chesstango_bot            1832       -14        65        
+75         chesstango_bot            1828       -15        66        
 76         LittleGreenManBot         1825       -26        3890      
 77         honzovy-sachy             1802       9          1161      
 78         Virutor                   1799       -8         3395      
@@ -97,7 +97,7 @@ Rank       Bot                       Rating     Prog       Games
 96         dragobot                  1606       17         150       
 97         DavidsGuterBot            1553       -1         720       
 98         sargon-3ply               1495       -29        1293      
-99         maia1                     1490       10         242849    
+99         maia1                     1492       17         242850    
 100        RoundMoundOfRebounds      1490       16         398       
 101        turochamp-2ply            1487       4          1179      
 102        ai-con                    1474       20         94        
@@ -105,11 +105,11 @@ Rank       Bot                       Rating     Prog       Games
 104        GuineaBot3                1407       -188       26        
 105        Humaia                    1378       -3         2416      
 106        turochamp-1ply            1376       -17        1798      
-107        sargon-2ply               1364       15         3600      
+107        sargon-2ply               1357       1          3601      
 108        postbot                   1318       93         23        
 109        pawnrobot                 1292       10         812       
-110        sargon-1ply               1254       2          9171      
-111        schnecken_bot             1252       3          513       
+110        schnecken_bot             1260       14         514       
+111        sargon-1ply               1254       2          9171      
 112        king-forward-bot          1233       -85        32        
 113        ABotWith3200Rating        1190       -24        152       
 114        chat_bot                  1160       -19        343       
