@@ -20,7 +20,7 @@ Rank       Bot                       Rating     Prog       Games
 19         blundar_bot               2785       -6         12468     
 20         SaturnBot                 2783       36         16        
 21         Berserk-Test              2688       -3         317       
-22         LazyBot                   2632       2          1512      
+22         LazyBot                   2622       -8         1513      
 23         expositor                 2551       -2         22670     
 24         FlamingDragon_9000        2524       -5         10619     
 25         Cheng-4                   2523       12         14631     
@@ -40,7 +40,7 @@ Rank       Bot                       Rating     Prog       Games
 39         OpeningsBot               2385       12         4187      
 40         odonata-bot               2374       -26        6981      
 41         Phalanx-XXV               2364       -11        5060      
-42         admete_bot                2343       8          12937     
+42         admete_bot                2346       8          12938     
 43         Pseudo-0                  2341       5          4417      
 44         fornax-engine             2323       -10        7446      
 45         simpleEval                2316       1          25959     
@@ -50,7 +50,7 @@ Rank       Bot                       Rating     Prog       Games
 49         FataliiBot                2234       6          6323      
 50         honzovy-sachy-2           2206       3          7764      
 51         Humaia-Strong             2184       42         1327      
-52         matmoi                    2178       5          4030      
+52         matmoi                    2175       -1         4031      
 53         jangine                   2146       8          3823      
 54         eubos                     2137       -2         14086     
 55         Lynx_BOT                  2117       13         8231      
@@ -58,15 +58,15 @@ Rank       Bot                       Rating     Prog       Games
 57         likeawizard-bot           2094       -9         3028      
 58         myopic-bot                2094       9          2704      
 59         GarboBot                  2081       0          10363     
-60         LazyBotJr                 2047       7          1045      
-61         MaxtheDog                 2013       13         16989     
+60         LazyBotJr                 2034       -8         1047      
+61         MaxtheDog                 2017       14         16990     
 62         sun_bird                  1987       6          2936      
 63         BLANK_BOT                 1967       -8         8347      
 64         Trollfish-Bot             1962       37         6710      
 65         NatesBot                  1914       11         849       
 66         zeekat                    1904       -16        20993     
 67         Demolito_L6               1881       -9         1227      
-68         QuintBot                  1878       -29        11747     
+68         QuintBot                  1874       -29        11748     
 69         potato-chess-bot          1873       9          96        
 70         QueensGamBOT              1811       -29        5679      
 71         honzovy-sachy             1805       0          5507      
@@ -101,8 +101,8 @@ Rank       Bot                       Rating     Prog       Games
 100        botTideEval               1494       10         4205      
 101        monchester                1490       -22        2913      
 102        turochamp-1ply            1464       1          2482      
-103        yeoldwiz                  1450       18         791       
-104        ai-con                    1446       17         170       
+103        ai-con                    1452       27         171       
+104        yeoldwiz                  1450       18         791       
 105        sargon-2ply               1417       -1         2861      
 106        StupidChessRobot          1361       4          1385      
 107        dragobot                  1304       38         84        
