@@ -29,7 +29,7 @@ Rank       Bot                       Rating     Prog       Games
 28         catriever                 2549       -5         491       
 29         TuksuBot                  2487       1          2331      
 30         odonata-bot               2462       4          3945      
-31         Phalanx-XXV               2457       6          1164      
+31         Phalanx-XXV               2450       3          1165      
 32         Pseudo-0                  2446       -9         1379      
 33         admete_bot                2443       -2         4518      
 34         fornax-engine             2404       5          3854      
@@ -84,10 +84,10 @@ Rank       Bot                       Rating     Prog       Games
 83         ArduChessBot              1670       -3         521       
 84         sargon-4ply               1664       -21        797       
 85         HardRok                   1630       8          891       
-86         maia5                     1594       14         106831    
-87         maia1                     1552       34         243186    
-88         ai-con                    1552       58         113       
-89         DavidsGuterBot            1548       -4         721       
+86         maia5                     1601       18         106832    
+87         ai-con                    1552       58         113       
+88         DavidsGuterBot            1548       -4         721       
+89         maia1                     1546       19         243187    
 90         sargon-3ply               1490       -9         1299      
 91         turochamp-2ply            1482       4          1180      
 92         RoundMoundOfRebounds      1469       -7         402       
@@ -100,7 +100,7 @@ Rank       Bot                       Rating     Prog       Games
 99         schnecken_bot             1291       27         532       
 100        sargon-1ply               1238       -16        9216      
 101        king-forward-bot          1238       -46        36        
-102        ABotWith3200Rating        1170       -13        166       
+102        ABotWith3200Rating        1164       -35        167       
 103        CHoMPBoT                  1127       6          555       
 104        bobandi                   998        0          802       
 105        grandQ_AI                 798        16         1673      
