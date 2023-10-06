@@ -3,8 +3,8 @@ Rank       Bot                       Rating     Prog       Games
 2          ReinforcementTrial        2646       -5         619       
 3          ProteusSF-Aureo           2640       25         24        
 4          LeelaMultiPoss            2637       23         140       
-5          Occhessadvanced           2629       -5         138       
-6          YoBot_v2                  2626       7          795       
+5          Occhessadvanced           2629       -4         139       
+6          YoBot_v2                  2626       2          796       
 7          M-Z_Bot                   2616       -7         219       
 8          ResoluteBot               2610       -8         899       
 9          ProteusSF-Godot           2607       2          318       
@@ -18,7 +18,7 @@ Rank       Bot                       Rating     Prog       Games
 17         MrChessTheBot             2421       -61        314       
 18         expositor                 2403       -1         1331      
 19         LazyBot                   2368       32         204       
-20         catriever                 2361       16         379       
+20         catriever                 2357       9          380       
 21         AKS-Mantissa              2351       -6         1179      
 22         SaxtonEngine              2310       -8         586       
 23         pawn_git                  2306       -7         369       
@@ -27,7 +27,7 @@ Rank       Bot                       Rating     Prog       Games
 26         FlamingDragon_9000        2238       -18        514       
 27         TuksuBot                  2154       17         1071      
 28         Pseudo-0                  2149       5          491       
-29         Phalanx-XXV               2127       2          427       
+29         Phalanx-XXV               2130       -4         428       
 30         simpleEval                2045       -9         1923      
 31         Humaia-Strong             2016       52         239       
 32         Boris-Trapsky             2006       18         10592     
@@ -74,4 +74,3 @@ Rank       Bot                       Rating     Prog       Games
 73         bobandi                   1178       29         196       
 74         ABotWith3200Rating        1130       -10        110       
 75         grandQ_AI                 859        -7         819       
-76         G0thamB0t                 786        -8         250       
