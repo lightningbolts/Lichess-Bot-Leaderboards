@@ -2,8 +2,8 @@ Rank       Bot                       Rating     Prog       Games
 1          LeelaMultiPoss            2931       8          428       
 2          ToromBot                  2924       -1         3167      
 3          FireFishBOT_v2            2908       0          1175      
-4          Occhessadvanced           2907       -2         279       
-5          M-Z_Bot                   2906       -1         658       
+4          M-Z_Bot                   2907       0          659       
+5          Occhessadvanced           2907       -2         280       
 6          ReinforcementTrial        2904       -2         6130      
 7          RaspFish                  2902       -3         6613      
 8          YoBot_v2                  2901       -5         13646     
@@ -74,7 +74,7 @@ Rank       Bot                       Rating     Prog       Games
 73         turkjs                    1678       9          5268      
 74         ArduChessBot              1670       -3         521       
 75         sargon-4ply               1664       -21        797       
-76         maia5                     1582       2          106815    
+76         maia5                     1587       2          106816    
 77         maia1                     1569       17         243141    
 78         DavidsGuterBot            1548       -4         721       
 79         ai-con                    1531       44         110       
@@ -87,6 +87,6 @@ Rank       Bot                       Rating     Prog       Games
 86         postbot                   1316       98         24        
 87         king-forward-bot          1255       -47        34        
 88         sargon-1ply               1248       -11        9207      
-89         ABotWith3200Rating        1190       -13        157       
+89         ABotWith3200Rating        1188       -14        158       
 90         bobandi                   994        10         800       
 91         grandQ_AI                 804        26         1670      
