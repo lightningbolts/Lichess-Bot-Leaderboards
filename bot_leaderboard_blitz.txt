@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
-1          VariantsTop               2951       -9         821       
-2          LeelaMultiPoss            2950       15         704       
+1          LeelaMultiPoss            2951       16         705       
+2          VariantsTop               2951       -9         821       
 3          TorBot                    2924       1          1821      
 4          ReinforcementTrial        2921       4          4320      
 5          YoBot_v2                  2910       -3         4881      
@@ -20,7 +20,7 @@ Rank       Bot                       Rating     Prog       Games
 19         Berserk-Test              2752       5          348       
 20         LazyBot                   2665       -23        2066      
 21         ELO_1500                  2652       2          13413     
-22         expositor                 2597       -6         7977      
+22         expositor                 2596       -5         7978      
 23         AKS-Mantissa              2577       -6         11176     
 24         MrChessTheBot             2542       -53        2009      
 25         Weiawaga                  2504       1          12675     
@@ -35,7 +35,7 @@ Rank       Bot                       Rating     Prog       Games
 34         odonata-bot               2424       1          6417      
 35         AjedrezChamberi           2376       10         276       
 36         OpeningsBot               2370       22         1930      
-37         admete_bot                2336       4          7614      
+37         admete_bot                2336       4          7615      
 38         simpleEval                2305       -9         15986     
 39         halcyonbot                2247       20         11472     
 40         FataliiBot                2222       -18        7533      
@@ -52,9 +52,9 @@ Rank       Bot                       Rating     Prog       Games
 51         redtail-zero              2049       21         766       
 52         Elmichess                 2041       11         3740      
 53         MaxtheDog                 2036       1          5812      
-54         Lynx_BOT                  2024       -21        52568     
-55         Humaia-Strong             2023       30         2375      
-56         BLANK_BOT                 2016       0          5619      
+54         Humaia-Strong             2023       30         2375      
+55         BLANK_BOT                 2022       0          5620      
+56         Lynx_BOT                  2019       -20        52569     
 57         LeelaRogue                2012       -2         2450      
 58         sun_bird                  2010       21         2764      
 59         Zagreus_Engine            1939       1          4742      
