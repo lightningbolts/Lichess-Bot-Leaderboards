@@ -29,7 +29,7 @@ Rank       Bot                       Rating     Prog       Games
 28         bot_adario                2556       -3         1525      
 29         catriever                 2549       -5         491       
 30         HackerChessBot            2523       127        46        
-31         TuksuBot                  2487       1          2331      
+31         TuksuBot                  2480       -10        2332      
 32         odonata-bot               2462       4          3945      
 33         Phalanx-XXV               2449       -2         1166      
 34         Pseudo-0                  2446       -9         1379      
@@ -77,8 +77,8 @@ Rank       Bot                       Rating     Prog       Games
 76         Demolito_L5               1746       2          2066      
 77         dtsudo                    1730       -30        31        
 78         AshNostromo               1722       -1         1346      
-79         melsh_bot                 1713       17         350       
-80         maia9                     1707       -2         90832     
+79         maia9                     1713       6          90833     
+80         melsh_bot                 1713       17         350       
 81         turkjs                    1705       26         5278      
 82         Jibbby                    1698       -10        2261      
 83         simplexitor               1697       7          628       
@@ -86,7 +86,7 @@ Rank       Bot                       Rating     Prog       Games
 85         ArduChessBot              1670       -3         521       
 86         sargon-4ply               1664       -21        797       
 87         HardRok                   1622       -1         892       
-88         maia5                     1605       20         106833    
+88         maia5                     1602       23         106834    
 89         maia1                     1568       16         243197    
 90         ai-con                    1552       58         113       
 91         DavidsGuterBot            1548       -4         721       
@@ -95,7 +95,7 @@ Rank       Bot                       Rating     Prog       Games
 94         RoundMoundOfRebounds      1469       -7         402       
 95         StupidChessRobot          1419       5          110       
 96         Humaia                    1400       17         2426      
-97         turochamp-1ply            1395       18         1805      
+97         turochamp-1ply            1389       16         1806      
 98         sargon-2ply               1348       -16        3611      
 99         postbot                   1316       98         24        
 100        pawnrobot                 1301       16         816       
