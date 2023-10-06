@@ -8,11 +8,11 @@ Rank       Bot                       Rating     Prog       Games
 7          M-Z_Bot                   2904       -3         670       
 8          RaspFish                  2903       1          6624      
 9          Intron014                 2903       4          316       
-10         YoBot_v2                  2899       -4         13652     
+10         YoBot_v2                  2898       -4         13653     
 11         ResoluteBot               2891       -6         6066      
-12         ArasanX                   2865       -7         6486      
+12         ArasanX                   2867       -1         6487      
 13         chessbot2880              2859       5          271       
-14         Nikitosik-ai              2856       8          1303      
+14         Nikitosik-ai              2857       8          1304      
 15         faith_bot                 2836       -3         2021      
 16         Berserk-Test              2757       4          169       
 17         ELO_1500                  2735       16         3524      
@@ -23,12 +23,12 @@ Rank       Bot                       Rating     Prog       Games
 22         LazyBot                   2601       2          814       
 23         SaxtonEngine              2600       3          1608      
 24         pawn_git                  2592       11         1518      
-25         Weiawaga                  2576       -17        10606     
+25         Weiawaga                  2574       -22        10607     
 26         bot_adario                2560       4          1526      
 27         Cheng-4                   2556       -7         3385      
 28         catriever                 2549       -5         492       
 29         HackerChessBot            2523       127        46        
-30         TuksuBot                  2475       -18        2333      
+30         TuksuBot                  2479       -16        2334      
 31         odonata-bot               2462       4          3945      
 32         Phalanx-XXV               2449       -2         1166      
 33         Pseudo-0                  2446       -9         1379      
@@ -36,7 +36,7 @@ Rank       Bot                       Rating     Prog       Games
 35         fornax-engine             2404       5          3854      
 36         OpeningsBot               2401       -3         571       
 37         simpleEval                2354       -29        8004      
-38         halcyonbot                2326       31         7749      
+38         halcyonbot                2323       24         7750      
 39         FataliiBot                2300       3          2982      
 40         eubos                     2214       -5         4436      
 41         honzovy-sachy-2           2184       -31        3829      
@@ -84,8 +84,8 @@ Rank       Bot                       Rating     Prog       Games
 83         yeoldwiz                  1671       6          777       
 84         ArduChessBot              1670       -3         521       
 85         sargon-4ply               1664       -23        798       
-86         HardRok                   1627       2          893       
-87         maia5                     1600       -5         106844    
+86         HardRok                   1627       -1         894       
+87         maia5                     1592       -10        106845    
 88         ai-con                    1552       58         113       
 89         DavidsGuterBot            1548       -4         721       
 90         maia1                     1528       -43        243209    
@@ -103,6 +103,6 @@ Rank       Bot                       Rating     Prog       Games
 102        king-forward-bot          1238       -46        36        
 103        ABotWith3200Rating        1155       -39        170       
 104        CHoMPBoT                  1148       30         556       
-105        bobandi                   998        0          802       
+105        bobandi                   998        4          803       
 106        grandQ_AI                 798        16         1673      
 107        G0thamB0t                 623        12         446       
