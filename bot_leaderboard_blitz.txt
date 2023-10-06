@@ -6,10 +6,10 @@ Rank       Bot                       Rating     Prog       Games
 5          YoBot_v2                  2911       -2         4888      
 6          caissa-x                  2910       2          3982      
 7          Occhessadvanced           2910       2          283       
-8          M-Z_Bot                   2901       -3         1475      
-9          FireFishBOT_v2            2896       2          10553     
-10         Intron014                 2896       0          1105      
-11         ResoluteBot               2879       -2         13215     
+8          M-Z_Bot                   2901       -3         1476      
+9          Intron014                 2896       0          1105      
+10         FireFishBOT_v2            2892       0          10554     
+11         ResoluteBot               2880       -1         13216     
 12         ArasanX                   2869       -1         2842      
 13         Nikitosik-ai              2847       2          1478      
 14         RaspFish                  2828       -5         13975     
@@ -22,8 +22,8 @@ Rank       Bot                       Rating     Prog       Games
 21         expositor                 2592       -11        7984      
 22         AKS-Mantissa              2569       -10        11181     
 23         MrChessTheBot             2542       -53        2009      
-24         Weiawaga                  2509       2          12677     
-25         HackerChessBot            2509       12         50        
+24         HackerChessBot            2526       8          51        
+25         Weiawaga                  2509       2          12677     
 26         pawn_git                  2490       0          3132      
 27         bot_adario                2480       -5         2750      
 28         Cheng-4                   2478       -5         6987      
@@ -35,7 +35,7 @@ Rank       Bot                       Rating     Prog       Games
 34         fornax-engine             2418       11         6820      
 35         OpeningsBot               2376       -5         1933      
 36         AjedrezChamberi           2376       10         276       
-37         admete_bot                2329       -2         7668      
+37         admete_bot                2329       -2         7670      
 38         FlamingDragon_9000        2323       19         3331      
 39         simpleEval                2297       -2         15991     
 40         halcyonbot                2250       8          11475     
@@ -74,7 +74,7 @@ Rank       Bot                       Rating     Prog       Games
 73         honzovy-sachy             1724       -2         5666      
 74         ShallowRedBot             1719       3          757       
 75         Virutor                   1710       -1         8024      
-76         melsh_bot                 1699       9          2426      
+76         melsh_bot                 1702       15         2427      
 77         AshNostromo               1669       -11        1088      
 78         Demolito_L5               1666       -5         2923      
 79         ChessChildren             1662       14         22023     
@@ -84,10 +84,10 @@ Rank       Bot                       Rating     Prog       Games
 83         dtsudo                    1618       3          251       
 84         ArduChessBot              1597       -4         1713      
 85         turkjs                    1559       -14        10588     
-86         postbot                   1526       -3         556       
+86         postbot                   1523       -3         557       
 87         sudobot_chess             1523       -61        404       
 88         HardRok                   1522       -12        1102      
-89         maia5                     1517       -40        107058    
+89         maia5                     1520       -27        107060    
 90         yeoldwiz                  1508       -12        2122      
 91         ShallowLearnBot           1480       -58        34        
 92         sargon-4ply               1474       -8         2341      
