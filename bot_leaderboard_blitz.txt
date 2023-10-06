@@ -35,14 +35,14 @@ Rank       Bot                       Rating     Prog       Games
 34         fornax-engine             2424       11         6818      
 35         ChessNoobComp             2410       11         1723      
 36         OpeningsBot               2370       12         1926      
-37         admete_bot                2327       4          7559      
+37         admete_bot                2327       4          7560      
 38         FlamingDragon_9000        2323       19         3331      
 39         simpleEval                2307       -10        15984     
 40         halcyonbot                2228       -23        11454     
 41         FataliiBot                2217       -24        7530      
 42         eubos                     2185       20         15817     
 43         matmoi                    2175       -3         3203      
-44         honzovy-sachy-2           2171       -4         7480      
+44         honzovy-sachy-2           2169       -9         7481      
 45         jangine                   2155       -7         4081      
 46         GarboBot                  2098       -6         10289     
 47         myopic-bot                2074       15         2897      
@@ -59,7 +59,7 @@ Rank       Bot                       Rating     Prog       Games
 58         sun_bird                  1986       -10        2743      
 59         Zagreus_Engine            1941       4          4735      
 60         LazyBotJr                 1925       -16        1980      
-61         zeekat                    1920       15         23349     
+61         zeekat                    1923       26         23350     
 62         Demolito_L6               1894       8          1986      
 63         zulu_bot                  1861       -3         992       
 64         Trollfish-Bot             1849       5          3200      
@@ -67,7 +67,7 @@ Rank       Bot                       Rating     Prog       Games
 66         baby_eubos                1823       -3         9367      
 67         NatesBot                  1820       3          2211      
 68         Dinora                    1792       20         652       
-69         notropis                  1773       24         7678      
+69         notropis                  1770       14         7679      
 70         honzovy-sachy             1735       18         5658      
 71         LittleGreenManBot         1728       19         4675      
 72         piglet_engine             1725       10         335       
@@ -99,8 +99,8 @@ Rank       Bot                       Rating     Prog       Games
 98         monchester                1335       -21        2881      
 99         turochamp-2ply            1311       -24        1876      
 100        schnecken_bot             1269       11         2804      
-101        StupidChessRobot          1265       8          3087      
-102        sargon-2ply               1233       -14        3386      
+101        StupidChessRobot          1264       9          3088      
+102        sargon-2ply               1233       -18        3387      
 103        turochamp-1ply            1219       -29        1986      
 104        pawnrobot                 1205       -14        2323      
 105        king-forward-bot          1151       -5         69        
