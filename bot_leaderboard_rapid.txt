@@ -9,9 +9,9 @@ Rank       Bot                       Rating     Prog       Games
 8          YoBot_v2                  2901       -5         13646     
 9          Intron014                 2899       5          307       
 10         ResoluteBot               2895       -4         6058      
-11         ArasanX                   2871       9          6474      
+11         ArasanX                   2872       10         6475      
 12         Nikitosik-ai              2847       2          1291      
-13         faith_bot                 2837       -6         2004      
+13         faith_bot                 2834       -12        2005      
 14         Berserk-Test              2762       11         165       
 15         ELO_1500                  2729       14         3521      
 16         StockFish16_2023          2722       5          212       
@@ -19,7 +19,7 @@ Rank       Bot                       Rating     Prog       Games
 18         AKS-Mantissa              2630       -3         4438      
 19         LazyBot                   2601       2          814       
 20         Weiawaga                  2589       -5         10601     
-21         pawn_git                  2585       7          1514      
+21         pawn_git                  2589       8          1515      
 22         Cheng-4                   2561       -6         3383      
 23         bot_adario                2554       0          1523      
 24         catriever                 2550       -3         490       
@@ -89,8 +89,9 @@ Rank       Bot                       Rating     Prog       Games
 88         sargon-2ply               1355       -13        3610      
 89         postbot                   1316       98         24        
 90         pawnrobot                 1301       16         816       
-91         king-forward-bot          1255       -47        34        
-92         sargon-1ply               1248       -11        9207      
-93         ABotWith3200Rating        1188       -14        158       
-94         bobandi                   994        10         800       
-95         grandQ_AI                 804        26         1670      
+91         schnecken_bot             1284       23         531       
+92         king-forward-bot          1255       -47        34        
+93         sargon-1ply               1248       -11        9207      
+94         ABotWith3200Rating        1188       -14        158       
+95         bobandi                   994        10         800       
+96         grandQ_AI                 804        26         1670      
