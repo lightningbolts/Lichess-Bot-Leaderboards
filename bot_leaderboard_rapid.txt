@@ -52,7 +52,7 @@ Rank       Bot                       Rating     Prog       Games
 51         myopic-bot                2064       7          691       
 52         AjedrezChamberi           2041       -34        131       
 53         MaxtheDog                 2027       -14        928       
-54         Zagreus_Engine            2017       22         2177      
+54         Zagreus_Engine            2020       29         2178      
 55         BLANK_BOT                 2007       6          1902      
 56         sun_bird                  2000       25         184       
 57         KelpBot                   1994       87         20        
@@ -64,8 +64,8 @@ Rank       Bot                       Rating     Prog       Games
 63         NatesBot                  1892       -6         1095      
 64         Dinora                    1886       -24        141       
 65         Demolito_L6               1871       -24        1302      
-66         notropis                  1866       4          2832      
-67         potato-chess-bot          1864       60         35        
+66         potato-chess-bot          1864       60         35        
+67         notropis                  1863       -1         2833      
 68         LittleGreenManBot         1816       -30        3894      
 69         ShallowRedBot             1806       14         117       
 70         Virutor                   1797       4          3410      
@@ -86,7 +86,7 @@ Rank       Bot                       Rating     Prog       Games
 85         ArduChessBot              1670       -3         521       
 86         sargon-4ply               1664       -23        798       
 87         HardRok                   1627       -1         894       
-88         maia5                     1592       -3         106848    
+88         maia5                     1589       -2         106849    
 89         ai-con                    1555       65         114       
 90         DavidsGuterBot            1548       -4         721       
 91         maia1                     1523       -19        243214    
@@ -94,7 +94,7 @@ Rank       Bot                       Rating     Prog       Games
 93         sargon-3ply               1490       -9         1299      
 94         RoundMoundOfRebounds      1469       -7         402       
 95         StupidChessRobot          1419       5          110       
-96         Humaia                    1400       17         2426      
+96         Humaia                    1406       24         2428      
 97         turochamp-1ply            1389       16         1806      
 98         sargon-2ply               1340       -25        3613      
 99         postbot                   1316       98         24        
@@ -105,5 +105,5 @@ Rank       Bot                       Rating     Prog       Games
 104        ABotWith3200Rating        1155       -39        170       
 105        CHoMPBoT                  1148       30         556       
 106        bobandi                   998        4          803       
-107        grandQ_AI                 798        16         1673      
+107        grandQ_AI                 805        26         1674      
 108        G0thamB0t                 623        12         446       
