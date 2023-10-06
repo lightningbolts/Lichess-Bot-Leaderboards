@@ -22,7 +22,7 @@ Rank       Bot                       Rating     Prog       Games
 21         pawn_git                  2585       7          1514      
 22         Cheng-4                   2561       -6         3383      
 23         bot_adario                2554       0          1523      
-24         catriever                 2553       4          489       
+24         catriever                 2550       -3         490       
 25         TuksuBot                  2489       -4         2329      
 26         odonata-bot               2462       4          3945      
 27         Phalanx-XXV               2454       3          1163      
@@ -30,7 +30,7 @@ Rank       Bot                       Rating     Prog       Games
 29         Pseudo-0                  2447       -9         1378      
 30         fornax-engine             2404       10         3853      
 31         OpeningsBot               2403       1          567       
-32         ChessNoobComp             2400       16         654       
+32         ChessNoobComp             2402       14         655       
 33         simpleEval                2378       3          7999      
 34         halcyonbot                2299       6          7739      
 35         FataliiBot                2297       1          2977      
@@ -39,7 +39,7 @@ Rank       Bot                       Rating     Prog       Games
 38         Elmichess                 2168       0          1446      
 39         matmoi                    2147       13         2822      
 40         Boris-Trapsky             2139       23         28215     
-41         jangine                   2130       20         2010      
+41         jangine                   2134       30         2011      
 42         Lynx_BOT                  2123       -7         40631     
 43         redtail-zero              2094       -5         685       
 44         Humaia-Strong             2090       37         621       
@@ -48,11 +48,11 @@ Rank       Bot                       Rating     Prog       Games
 47         myopic-bot                2059       1          689       
 48         MaxtheDog                 2031       -12        927       
 49         BLANK_BOT                 2013       14         1901      
-50         Zagreus_Engine            2005       20         2170      
+50         Zagreus_Engine            2001       19         2171      
 51         sun_bird                  1996       20         183       
 52         KelpBot                   1994       87         20        
 53         LazyBotJr                 1982       3          1567      
-54         zeekat                    1964       -8         9552      
+54         zeekat                    1962       -7         9553      
 55         LeelaRogue                1957       -14        2396      
 56         baby_eubos                1946       -6         1136      
 57         QuintBot                  1943       1          493       
@@ -60,7 +60,7 @@ Rank       Bot                       Rating     Prog       Games
 59         Dinora                    1890       -18        140       
 60         notropis                  1871       14         2830      
 61         Demolito_L6               1870       -35        1298      
-62         LittleGreenManBot         1825       -26        3890      
+62         LittleGreenManBot         1828       -16        3891      
 63         ShallowRedBot             1804       18         115       
 64         Virutor                   1799       -1         3407      
 65         honzovy-sachy             1788       -6         1166      
@@ -94,4 +94,3 @@ Rank       Bot                       Rating     Prog       Games
 93         ABotWith3200Rating        1188       -14        158       
 94         bobandi                   994        10         800       
 95         grandQ_AI                 804        26         1670      
-96         G0thamB0t                 625        13         444       
