@@ -4,16 +4,16 @@ Rank       Bot                       Rating     Prog       Games
 3          TorBot                    2922       11         907       
 4          FireFishBOT_v2            2908       0          1175      
 5          Occhessadvanced           2907       -2         286       
-6          M-Z_Bot                   2906       -1         663       
+6          M-Z_Bot                   2906       -1         664       
 7          RaspFish                  2904       8          6618      
 8          ReinforcementTrial        2901       -6         6134      
-9          caissa-x                  2900       -1         3393      
+9          caissa-x                  2900       0          3394      
 10         YoBot_v2                  2899       -6         13650     
-11         Intron014                 2899       5          309       
+11         Intron014                 2899       5          310       
 12         ResoluteBot               2893       -9         6063      
 13         ArasanX                   2870       7          6480      
 14         Nikitosik-ai              2850       5          1296      
-15         faith_bot                 2838       -4         2009      
+15         faith_bot                 2839       -4         2010      
 16         Berserk-Test              2762       11         165       
 17         ELO_1500                  2731       15         3522      
 18         StockFish16_2023          2727       4          214       
@@ -32,7 +32,7 @@ Rank       Bot                       Rating     Prog       Games
 31         Pseudo-0                  2447       -9         1378      
 32         admete_bot                2442       -6         4517      
 33         ChessNoobComp             2410       8          659       
-34         fornax-engine             2404       10         3853      
+34         fornax-engine             2404       5          3854      
 35         OpeningsBot               2401       1          570       
 36         simpleEval                2370       -14        8001      
 37         halcyonbot                2316       19         7745      
@@ -76,9 +76,9 @@ Rank       Bot                       Rating     Prog       Games
 75         dtsudo                    1748       11         30        
 76         Demolito_L5               1738       -3         2064      
 77         AshNostromo               1722       -1         1346      
-78         maia9                     1712       -12        90802     
+78         maia9                     1715       0          90804     
 79         melsh_bot                 1707       9          349       
-80         Jibbby                    1705       -8         2258      
+80         Jibbby                    1705       -8         2259      
 81         simplexitor               1697       7          628       
 82         SimpleChessEngine         1674       36         27        
 83         turkjs                    1673       6          5269      
@@ -88,7 +88,7 @@ Rank       Bot                       Rating     Prog       Games
 87         maia5                     1579       -1         106823    
 88         DavidsGuterBot            1548       -4         721       
 89         ai-con                    1548       50         112       
-90         maia1                     1511       -37        243169    
+90         maia1                     1508       -34        243170    
 91         sargon-3ply               1502       -5         1297      
 92         turochamp-2ply            1482       4          1180      
 93         RoundMoundOfRebounds      1469       -7         402       
@@ -105,3 +105,4 @@ Rank       Bot                       Rating     Prog       Games
 104        CHoMPBoT                  1127       6          555       
 105        bobandi                   998        0          802       
 106        grandQ_AI                 804        26         1670      
+107        G0thamB0t                 623        12         446       
