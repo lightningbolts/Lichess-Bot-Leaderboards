@@ -1,5 +1,5 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ToromBot                  2926       0          3166      
+1          ToromBot                  2924       -1         3167      
 2          ProteusSF-Aureo           2909       20         31        
 3          FireFishBOT_v2            2908       0          1175      
 4          ProteusSF-Godot           2907       1          244       
@@ -12,10 +12,10 @@ Rank       Bot                       Rating     Prog       Games
 11         ResoluteBot               2895       -4         6058      
 12         ArasanX                   2869       9          6472      
 13         Nikitosik-ai              2847       2          1291      
-14         faith_bot                 2844       12         2000      
+14         faith_bot                 2846       9          2001      
 15         Berserk-Test              2762       11         165       
 16         ELO_1500                  2725       13         3519      
-17         StockFish16_2023          2722       8          211       
+17         StockFish16_2023          2722       5          212       
 18         MrChessTheBot             2689       -53        2243      
 19         AKS-Mantissa              2630       -3         4438      
 20         expositor                 2622       -12        4932      
@@ -43,9 +43,9 @@ Rank       Bot                       Rating     Prog       Games
 42         matmoi                    2148       14         2820      
 43         Boris-Trapsky             2140       17         28212     
 44         jangine                   2130       20         2010      
-45         Lynx_BOT                  2118       -27        40629     
+45         Lynx_BOT                  2118       -20        40630     
 46         Humaia-Strong             2090       37         621       
-47         redtail-zero              2087       -21        683       
+47         redtail-zero              2087       -14        684       
 48         GarboBot                  2080       0          6464      
 49         likeawizard-bot           2080       6          1711      
 50         myopic-bot                2066       10         688       
@@ -65,7 +65,7 @@ Rank       Bot                       Rating     Prog       Games
 64         notropis                  1867       15         2829      
 65         LittleGreenManBot         1825       -26        3890      
 66         ShallowRedBot             1804       18         115       
-67         Virutor                   1799       0          3406      
+67         Virutor                   1799       -1         3407      
 68         honzovy-sachy             1797       -3         1163      
 69         Trollfish-Bot             1778       -12        409       
 70         zulu_bot                  1776       3          110       
@@ -81,7 +81,7 @@ Rank       Bot                       Rating     Prog       Games
 80         yeoldwiz                  1679       20         776       
 81         ArduChessBot              1670       -3         521       
 82         sargon-4ply               1664       -21        797       
-83         maia5                     1577       14         106811    
+83         maia5                     1580       8          106812    
 84         maia1                     1572       -1         243137    
 85         DavidsGuterBot            1548       -4         721       
 86         ai-con                    1531       44         110       
