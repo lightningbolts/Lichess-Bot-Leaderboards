@@ -1,11 +1,11 @@
 Rank       Bot                       Rating     Prog       Games     
 1          LeelaMultiPoss            2931       8          428       
-2          ToromBot                  2926       1          3180      
+2          ToromBot                  2926       -3         3181      
 3          Occhessadvanced           2919       3          312       
 4          TorBot                    2917       -2         921       
 5          ReinforcementTrial        2916       5          6183      
 6          M-Z_Bot                   2912       4          693       
-7          ProteusSF-Aureo           2910       2          35        
+7          ProteusSF-Aureo           2911       3          36        
 8          ProteusSF-Godot           2907       1          244       
 9          FireFishBOT_v2            2905       -3         1185      
 10         RaspFish                  2903       -5         6660      
@@ -55,8 +55,8 @@ Rank       Bot                       Rating     Prog       Games
 54         redtail-zero              2066       -21        695       
 55         MaxtheDog                 2053       11         936       
 56         AjedrezChamberi           2041       -34        131       
-57         Zagreus_Engine            2015       -5         2201      
-58         BLANK_BOT                 2014       6          1910      
+57         Zagreus_Engine            2015       -9         2202      
+58         BLANK_BOT                 2014       3          1911      
 59         sun_bird                  2012       35         187       
 60         KelpBot                   1994       87         20        
 61         LazyBotJr                 1986       16         1572      
@@ -85,7 +85,7 @@ Rank       Bot                       Rating     Prog       Games
 84         yeoldwiz                  1663       -17        780       
 85         ArduChessBot              1663       4          524       
 86         sargon-4ply               1657       -32        801       
-87         maia5                     1634       -9         106927    
+87         maia5                     1630       -10        106929    
 88         HardRok                   1628       0          897       
 89         dragobot                  1616       8          154       
 90         ai-con                    1567       19         123       
@@ -95,7 +95,7 @@ Rank       Bot                       Rating     Prog       Games
 94         turochamp-2ply            1487       -7         1182      
 95         RoundMoundOfRebounds      1476       -9         405       
 96         StupidChessRobot          1415       -10        113       
-97         Humaia                    1413       7          2441      
+97         Humaia                    1414       2          2447      
 98         turochamp-1ply            1385       14         1807      
 99         sargon-2ply               1340       -25        3613      
 100        postbot                   1328       69         25        
