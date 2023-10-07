@@ -4,13 +4,13 @@ Rank       Bot                       Rating     Prog       Games
 3          Mate-AI                   2967       8          13341     
 4          ProteusSF-Godot           2964       0          2327      
 5          YoBot_v2                  2949       -3         19727     
-6          TorBot                    2939       -11        7574      
-7          ToromBot                  2937       9          66054     
+6          TorBot                    2939       -9         7575      
+7          ToromBot                  2937       5          66055     
 8          FireFishBOT_v2            2937       -2         1897      
 9          European_Chess_Bot        2932       3          173       
 10         ReinforcementTrial        2931       -1         3425      
-11         Intron014                 2931       3          1938      
-12         ResoluteBot               2922       2          28402     
+11         Intron014                 2931       1          1939      
+12         ResoluteBot               2923       3          28403     
 13         Nikitosik-ai              2900       -4         4701      
 14         RaspFish                  2843       1          55672     
 15         StockFish16_2023          2815       0          711       
@@ -43,7 +43,7 @@ Rank       Bot                       Rating     Prog       Games
 42         bekbot                    2291       5          2277      
 43         admete_bot                2275       -6         13791     
 44         halcyonbot                2250       -5         6768      
-45         FataliiBot                2224       -7         6370      
+45         FataliiBot                2228       -1         6371      
 46         Humaia-Strong             2184       42         1327      
 47         matmoi                    2175       12         4142      
 48         honzovy-sachy-2           2157       1          7829      
@@ -51,7 +51,7 @@ Rank       Bot                       Rating     Prog       Games
 50         eubos                     2118       -19        14191     
 51         GarboBot                  2118       9          10402     
 52         myopic-bot                2113       -1         2763      
-53         jangine                   2104       -21        3879      
+53         jangine                   2100       -29        3880      
 54         likeawizard-bot           2099       7          3129      
 55         Lynx_BOT                  2058       6          8364      
 56         LazyBotJr                 2047       3          1048      
@@ -71,7 +71,7 @@ Rank       Bot                       Rating     Prog       Games
 70         melsh_bot                 1768       -2         4782      
 71         simplexitor               1752       -22        2666      
 72         baby_eubos                1751       -4         6822      
-73         notropis                  1748       21         4751      
+73         notropis                  1750       21         4752      
 74         chesstango_bot            1708       -12        208       
 75         Virutor                   1690       -9         7327      
 76         Humaia                    1690       -4         500       
@@ -86,9 +86,9 @@ Rank       Bot                       Rating     Prog       Games
 85         ai-con                    1574       30         218       
 86         maia9                     1566       -2         62359     
 87         sargon-3ply               1554       -26        1758      
-88         maia5                     1553       3          40815     
-89         sargon-4ply               1553       -11        2170      
-90         ShallowLearnBot           1531       36         38        
+88         sargon-4ply               1553       -11        2170      
+89         maia5                     1547       -12        40817     
+90         ShallowLearnBot           1525       36         39        
 91         DavidsGuterBot            1492       -12        6937      
 92         RoundMoundOfRebounds      1483       -11        1788      
 93         monchester                1469       -22        2947      
