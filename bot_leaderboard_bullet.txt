@@ -2,7 +2,7 @@ Rank       Bot                       Rating     Prog       Games
 1          LeelaMultiPoss            2984       8          986       
 2          ProteusSF-Godot           2964       0          2327      
 3          Mate-AI                   2962       0          13346     
-4          YoBot_v2                  2954       -2         19731     
+4          YoBot_v2                  2952       -3         19732     
 5          FireFishBOT_v2            2939       1          1899      
 6          TorBot                    2939       -8         7577      
 7          ToromBot                  2934       -3         66072     
@@ -22,11 +22,11 @@ Rank       Bot                       Rating     Prog       Games
 21         SaxtonEngine              2498       -6         5356      
 22         Cheng-4                   2493       -6         14716     
 23         pawn_git                  2489       -8         5235      
-24         Weiawaga                  2487       5          17131     
-25         AKS-Mantissa              2485       -1         11934     
+24         AKS-Mantissa              2485       -1         11934     
+25         Weiawaga                  2481       0          17132     
 26         Elmichess                 2447       -48        3226      
-27         catriever                 2438       11         2881      
-28         bot_adario                2432       -13        3058      
+27         bot_adario                2438       -6         3059      
+28         catriever                 2438       11         2881      
 29         TuksuBot                  2424       -10        7692      
 30         balancefish               2418       -67        126       
 31         MrChessTheBot             2393       -52        5912      
@@ -75,9 +75,9 @@ Rank       Bot                       Rating     Prog       Games
 74         Virutor                   1690       -6         7331      
 75         HardRok                   1672       -18        1005      
 76         ChessChildren             1664       7          15900     
-77         rudim-bot                 1644       -29        160       
-78         Jibbby                    1628       12         3048      
-79         maia1                     1622       -4         128738    
+77         maia1                     1655       24         128743    
+78         rudim-bot                 1644       -29        160       
+79         Jibbby                    1625       6          3049      
 80         postbot                   1610       2          682       
 81         turkjs                    1598       -8         19832     
 82         turochamp-2ply            1595       12         1948      
