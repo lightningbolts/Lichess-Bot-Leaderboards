@@ -3,7 +3,7 @@ Rank       Bot                       Rating     Prog       Games
 2          Occhessadvanced           2920       10         311       
 3          TorBot                    2917       0          917       
 4          ReinforcementTrial        2914       3          6182      
-5          M-Z_Bot                   2909       1          691       
+5          M-Z_Bot                   2912       4          692       
 6          ProteusSF-Godot           2907       1          244       
 7          FireFishBOT_v2            2905       -3         1185      
 8          RaspFish                  2903       -5         6660      
@@ -14,8 +14,8 @@ Rank       Bot                       Rating     Prog       Games
 13         chessbot2880              2855       1          274       
 14         faith_bot                 2832       1          2067      
 15         Berserk-Test              2751       -9         181       
-16         StockFish16_2023          2739       14         224       
-17         ELO_1500                  2731       6          3530      
+16         StockFish16_2023          2736       9          225       
+17         ELO_1500                  2732       5          3531      
 18         MrChessTheBot             2689       -53        2243      
 19         expositor                 2618       -4         4943      
 20         AKS-Mantissa              2612       -13        4451      
@@ -34,12 +34,12 @@ Rank       Bot                       Rating     Prog       Games
 33         fornax-engine             2414       10         3864      
 34         OpeningsBot               2392       -5         575       
 35         simpleEval                2360       0          8014      
-36         FataliiBot                2304       8          2991      
-37         bekbot                    2299       11         2337      
+36         FataliiBot                2303       6          2992      
+37         bekbot                    2302       16         2338      
 38         halcyonbot                2283       -17        7780      
 39         eubos                     2232       7          4444      
 40         honzovy-sachy-2           2193       -8         3837      
-41         matmoi                    2175       -5         2856      
+41         matmoi                    2172       -10        2857      
 42         Elmichess                 2168       0          1446      
 43         jangine                   2141       10         2016      
 44         GarboBot                  2116       9          6487      
@@ -98,7 +98,7 @@ Rank       Bot                       Rating     Prog       Games
 97         pawnrobot                 1297       4          817       
 98         sargon-1ply               1243       -5         9218      
 99         king-forward-bot          1238       -46        36        
-100        CHoMPBoT                  1147       30         565       
+100        CHoMPBoT                  1157       30         566       
 101        ABotWith3200Rating        1126       -24        184       
 102        bobandi                   998        4          803       
 103        grandQ_AI                 815        14         1679      
