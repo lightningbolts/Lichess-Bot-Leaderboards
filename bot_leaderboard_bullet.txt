@@ -8,7 +8,7 @@ Rank       Bot                       Rating     Prog       Games
 7          ToromBot                  2936       8          66096     
 8          European_Chess_Bot        2933       0          176       
 9          ReinforcementTrial        2931       -1         3425      
-10         czech-bot                 2922       7          91        
+10         czech-bot                 2922       6          92        
 11         ResoluteBot               2921       -1         28410     
 12         Nikitosik-ai              2906       6          4711      
 13         LolFish-1                 2872       2          222       
@@ -59,7 +59,7 @@ Rank       Bot                       Rating     Prog       Games
 58         BLANK_BOT                 2046       0          8416      
 59         MaxtheDog                 2015       12         17179     
 60         Trollfish-Bot             1978       -15        6920      
-61         sun_bird                  1975       5          3152      
+61         sun_bird                  1972       4          3153      
 62         potato-chess-bot          1905       -8         115       
 63         zeekat                    1891       6          21187     
 64         NatesBot                  1884       3          896       
@@ -67,12 +67,12 @@ Rank       Bot                       Rating     Prog       Games
 66         QueensGamBOT              1819       19         5700      
 67         piglet_engine             1797       10         1331      
 68         ShallowRedBot             1791       -9         603       
-69         Demolito_L5               1782       9          1535      
+69         Demolito_L5               1785       8          1536      
 70         Dinora                    1777       -16        495       
 71         honzovy-sachy             1774       4          5584      
 72         melsh_bot                 1772       -1         4787      
-73         notropis                  1764       18         4760      
-74         simplexitor               1759       -2         2673      
+73         simplexitor               1770       12         2674      
+74         notropis                  1764       18         4760      
 75         baby_eubos                1751       -4         6822      
 76         Humaia                    1707       18         511       
 77         maia1                     1686       -27        128763    
