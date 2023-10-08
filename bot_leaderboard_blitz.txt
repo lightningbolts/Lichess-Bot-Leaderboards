@@ -1,5 +1,5 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ToromBot                  2926       -1         6837      
+1          ToromBot                  2925       -2         6838      
 2          M-Z_Bot                   2920       1          1551      
 3          ProteusSF-Godot           2918       0          1503      
 4          caissa-x                  2916       6          4011      
@@ -7,12 +7,12 @@ Rank       Bot                       Rating     Prog       Games
 6          ProteusSF-Aureo           2908       0          95        
 7          ReinforcementTrial        2905       0          4409      
 8          YoBot_v2                  2902       -3         4936      
-9          FireFishBOT_v2            2896       -4         10804     
+9          FireFishBOT_v2            2896       -4         10805     
 10         Intron014                 2893       -1         1243      
 11         TorBot_v2                 2890       2          189       
 12         ResoluteBot               2886       2          13298     
 13         Nikitosik-ai              2881       2          1560      
-14         StockFish16_2023          2838       3          605       
+14         StockFish16_2023          2837       1          606       
 15         RETI_BOT                  2837       -1         64        
 16         chessbot2880              2836       20         288       
 17         RaspFish                  2828       -16        14067     
@@ -22,7 +22,7 @@ Rank       Bot                       Rating     Prog       Games
 21         Berserk-Test              2732       -3         392       
 22         LazyBot                   2668       5          2067      
 23         ELO_1500                  2642       -1         13432     
-24         expositor                 2576       0          8085      
+24         expositor                 2580       6          8087      
 25         AKS-Mantissa              2574       15         11219     
 26         MrChessTheBot             2542       -53        2009      
 27         Weiawaga                  2502       -6         12718     
@@ -72,7 +72,7 @@ Rank       Bot                       Rating     Prog       Games
 71         baby_eubos                1823       -3         9367      
 72         QuintBot                  1811       5          11567     
 73         notropis                  1801       -4         7737      
-74         Dinora                    1791       8          689       
+74         Dinora                    1791       12         690       
 75         honzovy-sachy             1741       6          5710      
 76         chesstango_bot            1723       3          331       
 77         piglet_engine             1710       -17        343       
@@ -89,7 +89,7 @@ Rank       Bot                       Rating     Prog       Games
 88         maia9                     1595       -14        107930    
 89         turkjs                    1589       12         10615     
 90         postbot                   1545       6          656       
-91         ai-con                    1536       24         244       
+91         ai-con                    1539       25         245       
 92         Demolito_L4               1535       -2         232       
 93         maia5                     1524       5          107237    
 94         sudobot_chess             1523       -61        404       
@@ -99,13 +99,13 @@ Rank       Bot                       Rating     Prog       Games
 98         sargon-4ply               1465       -13        2358      
 99         DavidsGuterBot            1445       20         3960      
 100        sargon-3ply               1437       -24        2180      
-101        maia1                     1410       -9         216692    
+101        maia1                     1415       3          216693    
 102        RoundMoundOfRebounds      1392       -7         1571      
-103        Humaia                    1389       -3         1024      
+103        Humaia                    1380       -15        1025      
 104        chat_bot                  1312       75         348       
 105        monchester                1300       -15        2899      
-106        turochamp-2ply            1299       -7         1892      
-107        StupidChessRobot          1297       2          3173      
+106        StupidChessRobot          1297       3          3174      
+107        turochamp-2ply            1297       -7         1893      
 108        sargon-2ply               1255       7          3405      
 109        turochamp-1ply            1220       5          1996      
 110        dragobot                  1209       17         244       
