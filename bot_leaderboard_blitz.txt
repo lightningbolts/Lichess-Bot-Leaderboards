@@ -22,7 +22,7 @@ Rank       Bot                       Rating     Prog       Games
 21         Berserk-Test              2732       -3         392       
 22         LazyBot                   2668       5          2067      
 23         ELO_1500                  2642       -1         13432     
-24         expositor                 2579       0          8088      
+24         expositor                 2578       0          8089      
 25         AKS-Mantissa              2574       15         11219     
 26         MrChessTheBot             2542       -53        2009      
 27         Weiawaga                  2502       -6         12718     
@@ -33,7 +33,7 @@ Rank       Bot                       Rating     Prog       Games
 32         Cheng-4                   2457       -13        7006      
 33         TuksuBot                  2442       -6         4533      
 34         fornax-engine             2418       -4         6833      
-35         odonata-bot               2417       -4         6439      
+35         odonata-bot               2418       0          6440      
 36         Pseudo-0                  2416       -5         3395      
 37         OpeningsBot               2403       12         1969      
 38         AjedrezChamberi           2376       10         276       
@@ -45,7 +45,7 @@ Rank       Bot                       Rating     Prog       Games
 44         halcyonbot                2266       13         11567     
 45         FataliiBot                2199       -21        7571      
 46         matmoi                    2178       31         3276      
-47         eubos                     2162       -7         15891     
+47         eubos                     2160       -15        15892     
 48         honzovy-sachy-2           2157       -17        7510      
 49         jangine                   2145       -4         4121      
 50         myopic-bot                2098       15         2943      
@@ -55,17 +55,17 @@ Rank       Bot                       Rating     Prog       Games
 54         KelpBot                   2056       -102       23        
 55         redtail-zero              2048       -4         779       
 56         Elmichess                 2038       3          3741      
-57         GarboBot                  2029       10         10351     
+57         GarboBot                  2031       16         10352     
 58         Humaia-Strong             2029       42         2377      
 59         sun_bird                  2023       9          2895      
 60         LeelaRogue                2012       -2         2450      
-61         Lynx_BOT                  2010       -12        52736     
+61         Lynx_BOT                  2009       -15        52737     
 62         MaxtheDog                 2008       -3         5863      
 63         BLANK_BOT                 2002       4          5659      
 64         Aleph_Engine              2000       -10        120       
 65         Zagreus_Engine            1989       -5         4794      
 66         LazyBotJr                 1925       -16        1980      
-67         zeekat                    1914       -5         23455     
+67         zeekat                    1917       -8         23456     
 68         Trollfish-Bot             1913       -1         3265      
 69         zulu_bot                  1861       -3         992       
 70         NatesBot                  1857       13         2296      
@@ -79,7 +79,7 @@ Rank       Bot                       Rating     Prog       Games
 78         ShallowRedBot             1708       -3         790       
 79         Virutor                   1702       -11        8059      
 80         melsh_bot                 1700       22         2462      
-81         LittleGreenManBot         1697       -23        4712      
+81         LittleGreenManBot         1694       -34        4713      
 82         Demolito_L5               1692       8          2976      
 83         AshNostromo               1670       -9         1092      
 84         simplexitor               1654       0          2606      
