@@ -13,7 +13,7 @@ Rank       Bot                       Rating     Prog       Games
 12         FireFishBOT_v2            2900       -6         1193      
 13         ResoluteBot               2894       5          6096      
 14         TorBot_v2                 2882       4          248       
-15         ArasanX                   2862       -6         6495      
+15         ArasanX                   2864       0          6496      
 16         faith_bot                 2825       0          2107      
 17         MphoBot                   2823       5          120       
 18         blundar_bot               2815       -3         1552      
@@ -21,7 +21,7 @@ Rank       Bot                       Rating     Prog       Games
 20         Berserk-Test              2752       -5         189       
 21         ELO_1500                  2728       1          3550      
 22         MrChessTheBot             2689       -53        2243      
-23         expositor                 2636       13         4957      
+23         expositor                 2634       9          4958      
 24         LazyBot                   2605       6          815       
 25         AKS-Mantissa              2604       -7         4463      
 26         pawn_git                  2599       6          1535      
@@ -38,7 +38,7 @@ Rank       Bot                       Rating     Prog       Games
 37         fornax-engine             2414       10         3864      
 38         OpeningsBot               2378       -15        587       
 39         ChessNoobComp             2374       -26        676       
-40         simpleEval                2367       10         8024      
+40         simpleEval                2365       5          8025      
 41         bekbot                    2315       0          2387      
 42         FataliiBot                2292       -4         3004      
 43         halcyonbot                2288       -9         7821      
@@ -110,4 +110,3 @@ Rank       Bot                       Rating     Prog       Games
 109        ABotWith3200Rating        1115       -14        193       
 110        bobandi                   997        3          804       
 111        grandQ_AI                 813        17         1680      
-112        G0thamB0t                 631        7          456       
