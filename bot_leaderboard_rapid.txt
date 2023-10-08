@@ -31,10 +31,10 @@ Rank       Bot                       Rating     Prog       Games
 30         Cheng-4                   2550       -1         3397      
 31         bot_adario                2540       -20        1537      
 32         TuksuBot                  2482       -1         2347      
-33         Phalanx-XXV               2453       8          1181      
-34         Pseudo-0                  2451       5          1390      
-35         odonata-bot               2449       -15        3953      
-36         admete_bot                2449       1          4534      
+33         admete_bot                2460       13         4535      
+34         Phalanx-XXV               2453       8          1181      
+35         Pseudo-0                  2451       5          1390      
+36         odonata-bot               2449       -15        3953      
 37         fornax-engine             2414       10         3864      
 38         OpeningsBot               2387       -5         588       
 39         ChessNoobComp             2374       -26        676       
@@ -84,7 +84,7 @@ Rank       Bot                       Rating     Prog       Games
 83         melsh_bot                 1708       12         356       
 84         simplexitor               1699       4          640       
 85         turkjs                    1695       -7         5288      
-86         maia9                     1693       26         91125     
+86         maia9                     1691       27         91126     
 87         yeoldwiz                  1670       -8         781       
 88         Demolito_L4               1654       1          199       
 89         sargon-4ply               1651       -27        804       
@@ -94,7 +94,7 @@ Rank       Bot                       Rating     Prog       Games
 93         ai-con                    1599       25         132       
 94         maia1                     1553       -14        243567    
 95         DavidsGuterBot            1552       -4         727       
-96         LeElaGuess                1535       -226       45        
+96         LeElaGuess                1547       -221       46        
 97         turochamp-2ply            1487       -7         1182      
 98         sargon-3ply               1484       -7         1301      
 99         RoundMoundOfRebounds      1457       -29        410       
@@ -102,7 +102,7 @@ Rank       Bot                       Rating     Prog       Games
 101        StupidChessRobot          1410       -15        118       
 102        turochamp-1ply            1374       -7         1811      
 103        postbot                   1328       69         25        
-104        sargon-2ply               1325       -38        3617      
+104        sargon-2ply               1321       -47        3618      
 105        pawnrobot                 1284       -6         821       
 106        sargon-1ply               1267       22         9225      
 107        king-forward-bot          1228       -46        38        
