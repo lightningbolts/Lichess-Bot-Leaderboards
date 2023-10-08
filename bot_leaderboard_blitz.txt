@@ -7,9 +7,9 @@ Rank       Bot                       Rating     Prog       Games
 6          Mate-AI                   2910       -1         3702      
 7          ReinforcementTrial        2908       -6         4403      
 8          ProteusSF-Aureo           2908       0          95        
-9          FireFishBOT_v2            2904       0          10786     
+9          FireFishBOT_v2            2904       2          10787     
 10         YoBot_v2                  2902       -2         4934      
-11         Intron014                 2895       2          1235      
+11         Intron014                 2895       2          1236      
 12         TorBot_v2                 2889       3          187       
 13         ResoluteBot               2885       8          13291     
 14         Nikitosik-ai              2880       1          1557      
@@ -21,7 +21,7 @@ Rank       Bot                       Rating     Prog       Games
 20         Berserk-Test              2731       -1         391       
 21         LazyBot                   2668       5          2067      
 22         ELO_1500                  2642       -1         13432     
-23         expositor                 2579       11         8059      
+23         expositor                 2578       5          8060      
 24         AKS-Mantissa              2569       18         11217     
 25         MrChessTheBot             2542       -53        2009      
 26         Weiawaga                  2502       -6         12718     
@@ -62,7 +62,7 @@ Rank       Bot                       Rating     Prog       Games
 61         LeelaRogue                2012       -2         2450      
 62         MaxtheDog                 2008       -3         5863      
 63         BLANK_BOT                 2003       8          5657      
-64         Aleph_Engine              1998       -14        119       
+64         Aleph_Engine              2000       -10        120       
 65         Zagreus_Engine            1987       -10        4791      
 66         LazyBotJr                 1925       -16        1980      
 67         Trollfish-Bot             1913       0          3264      
@@ -74,7 +74,7 @@ Rank       Bot                       Rating     Prog       Games
 73         notropis                  1801       -4         7737      
 74         Dinora                    1793       10         688       
 75         honzovy-sachy             1744       0          5709      
-76         ShallowRedBot             1710       -5         789       
+76         ShallowRedBot             1708       -3         790       
 77         LittleGreenManBot         1707       -18        4709      
 78         piglet_engine             1706       -30        342       
 79         melsh_bot                 1696       16         2459      
@@ -97,13 +97,13 @@ Rank       Bot                       Rating     Prog       Games
 96         sargon-4ply               1466       -6         2356      
 97         DavidsGuterBot            1444       16         3959      
 98         sargon-3ply               1437       -24        2180      
-99         maia1                     1425       -12        216665    
+99         maia1                     1431       9          216668    
 100        RoundMoundOfRebounds      1392       -7         1571      
 101        Humaia                    1389       -3         1024      
 102        chat_bot                  1312       75         348       
 103        monchester                1308       -13        2897      
 104        turochamp-2ply            1299       -7         1892      
-105        StupidChessRobot          1296       4          3166      
+105        StupidChessRobot          1297       6          3167      
 106        sargon-2ply               1255       7          3405      
 107        turochamp-1ply            1220       5          1996      
 108        dragobot                  1212       16         243       
@@ -112,7 +112,7 @@ Rank       Bot                       Rating     Prog       Games
 111        sargon-1ply               1137       3          9048      
 112        ABotWith3200Rating        1113       -10        352       
 113        CHoMPBoT                  1057       -6         1795      
-114        knucklefish               1019       20         3546      
+114        knucklefish               1017       12         3547      
 115        GuineaBot                 1009       -31        40        
 116        bobandi                   916        1          1387      
 117        grandQ_AI                 896        -35        1411      
