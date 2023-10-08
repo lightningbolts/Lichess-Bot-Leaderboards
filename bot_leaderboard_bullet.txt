@@ -4,9 +4,9 @@ Rank       Bot                       Rating     Prog       Games
 3          ProteusSF-Godot           2964       0          2327      
 4          Mate-AI                   2956       -1         13364     
 5          YoBot_v2                  2950       -5         19735     
-6          caissa-x                  2940       -12        14714     
-7          FireFishBOT_v2            2939       3          1906      
-8          ToromBot                  2938       -1         66105     
+6          ToromBot                  2941       2          66106     
+7          caissa-x                  2940       -12        14714     
+8          FireFishBOT_v2            2939       3          1906      
 9          Intron014                 2938       -1         1972      
 10         TorBot_v2                 2933       -2         573       
 11         ReinforcementTrial        2931       0          3428      
@@ -15,9 +15,9 @@ Rank       Bot                       Rating     Prog       Games
 14         RaspFish                  2827       -8         55694     
 15         StockFish16_2023          2818       2          738       
 16         faith_bot                 2782       4          3494      
-17         blundar_bot               2768       -14        12498     
+17         blundar_bot               2765       -12        12499     
 18         Berserk-Test              2686       6          439       
-19         LazyBot                   2621       -11        1519      
+19         LazyBot                   2625       3          1520      
 20         expositor                 2538       28         22751     
 21         FlamingDragon_9000        2524       -5         10619     
 22         ELO_1500                  2515       2          3373      
@@ -58,9 +58,9 @@ Rank       Bot                       Rating     Prog       Games
 57         Zagreus_Engine            2051       6          3893      
 58         Lynx_BOT                  2050       -10        8392      
 59         BLANK_BOT                 2041       4          8420      
-60         LazyBotJr                 2036       10         1062      
-61         MaxtheDog                 2016       1          17190     
-62         Aleph_Engine              1976       22         155       
+60         LazyBotJr                 2036       25         1064      
+61         MaxtheDog                 2010       -5         17191     
+62         Aleph_Engine              1983       29         156       
 63         sun_bird                  1975       0          3163      
 64         Trollfish-Bot             1959       -20        6934      
 65         zeekat                    1910       18         21199     
@@ -77,8 +77,8 @@ Rank       Bot                       Rating     Prog       Games
 76         honzovy-sachy             1762       -12        5590      
 77         baby_eubos                1751       -4         6822      
 78         Humaia                    1707       18         511       
-79         maia1                     1699       -16        128804    
-80         Virutor                   1694       9          7334      
+79         Virutor                   1694       9          7334      
+80         maia1                     1690       -16        128805    
 81         ChessChildren             1665       7          15904     
 82         Demolito_L4               1659       14         183       
 83         Jibbby                    1645       20         3060      
@@ -90,7 +90,7 @@ Rank       Bot                       Rating     Prog       Games
 89         maia9                     1570       4          62370     
 90         sargon-4ply               1560       7          2181      
 91         sargon-3ply               1555       -10        1763      
-92         maia5                     1534       -29        40842     
+92         maia5                     1544       -24        40843     
 93         DavidsGuterBot            1499       -1         6943      
 94         RoundMoundOfRebounds      1477       -23        1791      
 95         monchester                1461       -14        2953      
