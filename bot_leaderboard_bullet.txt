@@ -4,13 +4,13 @@ Rank       Bot                       Rating     Prog       Games
 3          Mate-AI                   2957       -9         13353     
 4          YoBot_v2                  2951       -4         19733     
 5          FireFishBOT_v2            2939       3          1906      
-6          Intron014                 2939       1          1962      
+6          Intron014                 2937       -1         1963      
 7          ToromBot                  2936       8          66096     
 8          ReinforcementTrial        2931       -1         3425      
 9          ResoluteBot               2921       -1         28410     
 10         Nikitosik-ai              2906       6          4711      
 11         LolFish-1                 2872       2          222       
-12         RaspFish                  2833       -6         55689     
+12         RaspFish                  2834       -7         55690     
 13         StockFish16_2023          2818       3          722       
 14         faith_bot                 2779       4          3493      
 15         blundar_bot               2766       -14        12496     
@@ -19,7 +19,7 @@ Rank       Bot                       Rating     Prog       Games
 18         expositor                 2535       21         22747     
 19         FlamingDragon_9000        2524       -5         10619     
 20         ELO_1500                  2515       2          3373      
-21         SaxtonEngine              2503       -3         5360      
+21         SaxtonEngine              2505       0          5361      
 22         Cheng-4                   2491       -7         14717     
 23         pawn_git                  2488       -8         5236      
 24         AKS-Mantissa              2481       -2         11937     
@@ -41,7 +41,7 @@ Rank       Bot                       Rating     Prog       Games
 40         HistoryExplorer           2281       5          2844      
 41         admete_bot                2273       -8         13792     
 42         halcyonbot                2261       23         6777      
-43         FataliiBot                2231       -3         6372      
+43         FataliiBot                2229       2          6373      
 44         Humaia-Strong             2184       42         1327      
 45         honzovy-sachy-2           2183       19         7835      
 46         matmoi                    2162       -15        4157      
@@ -62,11 +62,11 @@ Rank       Bot                       Rating     Prog       Games
 61         zeekat                    1891       5          21185     
 62         NatesBot                  1884       3          896       
 63         QuintBot                  1848       -8         12034     
-64         QueensGamBOT              1813       18         5697      
+64         QueensGamBOT              1816       26         5698      
 65         piglet_engine             1797       10         1331      
 66         ShallowRedBot             1788       -15        601       
 67         Demolito_L5               1782       9          1535      
-68         Dinora                    1778       -14        494       
+68         Dinora                    1777       -16        495       
 69         melsh_bot                 1775       -3         4786      
 70         honzovy-sachy             1774       4          5584      
 71         notropis                  1764       18         4760      
@@ -78,7 +78,7 @@ Rank       Bot                       Rating     Prog       Games
 77         ChessChildren             1658       3          15901     
 78         Demolito_L4               1658       1          174       
 79         rudim-bot                 1644       -29        160       
-80         Jibbby                    1625       12         3050      
+80         Jibbby                    1622       3          3051      
 81         postbot                   1615       3          695       
 82         turkjs                    1596       -5         19833     
 83         turochamp-2ply            1595       12         1948      
