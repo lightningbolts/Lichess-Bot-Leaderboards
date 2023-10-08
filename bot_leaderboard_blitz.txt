@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          LeelaMultiPoss            2949       5          711       
-2          M-Z_Bot                   2923       3          1535      
-3          ToromBot                  2922       1          6821      
+2          ToromBot                  2922       1          6821      
+3          M-Z_Bot                   2922       2          1536      
 4          ProteusSF-Godot           2918       0          1503      
 5          ReinforcementTrial        2914       1          4389      
 6          Mate-AI                   2911       4          3693      
@@ -59,15 +59,15 @@ Rank       Bot                       Rating     Prog       Games
 58         BLANK_BOT                 2009       28         5653      
 59         sun_bird                  2007       1          2877      
 60         Lynx_BOT                  1994       -30        52700     
-61         Zagreus_Engine            1994       -6         4783      
-62         zeekat                    1928       -9         23440     
+61         Zagreus_Engine            1991       -6         4784      
+62         zeekat                    1930       -8         23441     
 63         LazyBotJr                 1925       -16        1980      
 64         Trollfish-Bot             1923       21         3257      
 65         potato-chess-bot          1899       26         215       
 66         zulu_bot                  1861       -3         992       
 67         NatesBot                  1838       4          2283      
 68         baby_eubos                1823       -3         9367      
-69         QuintBot                  1812       -21        11532     
+69         QuintBot                  1814       -16        11533     
 70         Dinora                    1798       16         684       
 71         notropis                  1797       2          7734      
 72         honzovy-sachy             1744       2          5698      
@@ -79,7 +79,7 @@ Rank       Bot                       Rating     Prog       Games
 78         Demolito_L5               1684       12         2965      
 79         melsh_bot                 1678       -15        2455      
 80         AshNostromo               1670       -9         1092      
-81         simplexitor               1665       9          2602      
+81         simplexitor               1663       3          2603      
 82         ChessChildren             1652       -11        22057     
 83         maia9                     1644       -2         107892    
 84         Jibbby                    1631       -5         6512      
