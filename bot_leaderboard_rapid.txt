@@ -1,11 +1,11 @@
 Rank       Bot                       Rating     Prog       Games     
 1          LeelaMultiPoss            2931       8          428       
 2          ToromBot                  2924       -2         3190      
-3          M-Z_Bot                   2920       11         700       
+3          M-Z_Bot                   2920       11         701       
 4          Occhessadvanced           2919       3          312       
 5          TorBot                    2916       -2         923       
-6          ReinforcementTrial        2907       -5         6191      
-7          ProteusSF-Godot           2907       1          244       
+6          ProteusSF-Godot           2907       1          244       
+7          ReinforcementTrial        2905       -9         6192      
 8          Intron014                 2904       4          346       
 9          FireFishBOT_v2            2902       -5         1188      
 10         Mate-AI                   2901       4          2658      
@@ -16,7 +16,7 @@ Rank       Bot                       Rating     Prog       Games
 15         faith_bot                 2830       -1         2077      
 16         blundar_bot               2820       3          1549      
 17         Berserk-Test              2750       -14        184       
-18         StockFish16_2023          2736       3          229       
+18         StockFish16_2023          2739       4          230       
 19         ELO_1500                  2727       -9         3536      
 20         MrChessTheBot             2689       -53        2243      
 21         expositor                 2620       0          4944      
@@ -37,8 +37,8 @@ Rank       Bot                       Rating     Prog       Games
 36         ChessNoobComp             2394       -16        670       
 37         OpeningsBot               2384       -19        578       
 38         simpleEval                2374       27         8019      
-39         bekbot                    2310       3          2354      
-40         halcyonbot                2294       7          7794      
+39         bekbot                    2310       1          2355      
+40         halcyonbot                2294       4          7795      
 41         FataliiBot                2292       -11        2994      
 42         eubos                     2235       17         4445      
 43         HistoryExplorer           2209       -10        1168      
@@ -87,7 +87,7 @@ Rank       Bot                       Rating     Prog       Games
 86         dragobot                  1616       8          154       
 87         ai-con                    1569       14         125       
 88         DavidsGuterBot            1550       -2         725       
-89         maia1                     1521       5          243442    
+89         maia1                     1507       -18        243444    
 90         sargon-3ply               1488       -10        1300      
 91         turochamp-2ply            1487       -7         1182      
 92         RoundMoundOfRebounds      1466       -26        407       
