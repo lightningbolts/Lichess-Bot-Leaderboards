@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          LeelaMultiPoss            2931       8          428       
 2          Occhessadvanced           2919       3          312       
-3          M-Z_Bot                   2917       0          708       
+3          M-Z_Bot                   2917       -4         709       
 4          ProteusSF-Aureo           2914       4          45        
 5          Intron014                 2909       10         353       
 6          ProteusSF-Godot           2907       1          244       
@@ -24,8 +24,8 @@ Rank       Bot                       Rating     Prog       Games
 23         AKS-Mantissa              2609       -5         4457      
 24         pawn_git                  2605       13         1529      
 25         LazyBot                   2605       6          815       
-26         SaxtonEngine              2587       -9         1634      
-27         Weiawaga                  2567       -12        10630     
+26         SaxtonEngine              2592       -3         1635      
+27         Weiawaga                  2562       -15        10631     
 28         catriever                 2557       4          500       
 29         Cheng-4                   2546       -17        3390      
 30         bot_adario                2546       -8         1534      
@@ -34,12 +34,12 @@ Rank       Bot                       Rating     Prog       Games
 33         odonata-bot               2453       -9         3951      
 34         Pseudo-0                  2453       6          1389      
 35         Phalanx-XXV               2452       -5         1172      
-36         admete_bot                2448       5          4529      
+36         admete_bot                2449       3          4531      
 37         fornax-engine             2414       10         3864      
 38         OpeningsBot               2382       -19        582       
 39         ChessNoobComp             2380       -36        672       
 40         simpleEval                2374       27         8019      
-41         bekbot                    2301       0          2371      
+41         bekbot                    2302       7          2372      
 42         halcyonbot                2291       -3         7806      
 43         FataliiBot                2288       -19        3000      
 44         eubos                     2243       24         4448      
@@ -64,7 +64,7 @@ Rank       Bot                       Rating     Prog       Games
 63         zeekat                    1959       -12        9598      
 64         LeelaRogue                1957       -14        2396      
 65         baby_eubos                1946       -6         1136      
-66         QuintBot                  1928       -4         506       
+66         QuintBot                  1927       -12        507       
 67         NatesBot                  1908       1          1124      
 68         potato-chess-bot          1904       52         37        
 69         Dinora                    1880       -17        146       
@@ -90,7 +90,7 @@ Rank       Bot                       Rating     Prog       Games
 89         maia5                     1607       -4         107000    
 90         ai-con                    1576       15         127       
 91         DavidsGuterBot            1550       -2         725       
-92         maia1                     1528       -3         243481    
+92         maia1                     1522       -3         243482    
 93         sargon-3ply               1488       -10        1300      
 94         turochamp-2ply            1487       -7         1182      
 95         RoundMoundOfRebounds      1466       -26        407       
@@ -104,7 +104,7 @@ Rank       Bot                       Rating     Prog       Games
 103        king-forward-bot          1233       -45        37        
 104        CHoMPBoT                  1182       44         570       
 105        chat_bot                  1157       -20        345       
-106        ABotWith3200Rating        1121       -15        188       
+106        ABotWith3200Rating        1120       -14        189       
 107        bobandi                   998        4          803       
 108        grandQ_AI                 815        14         1679      
 109        G0thamB0t                 632        0          454       
