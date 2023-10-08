@@ -21,7 +21,7 @@ Rank       Bot                       Rating     Prog       Games
 20         Berserk-Test              2752       -7         187       
 21         ELO_1500                  2728       -8         3544      
 22         MrChessTheBot             2689       -53        2243      
-23         expositor                 2642       30         4952      
+23         expositor                 2644       28         4953      
 24         AKS-Mantissa              2608       -6         4461      
 25         LazyBot                   2605       6          815       
 26         pawn_git                  2601       8          1533      
@@ -38,7 +38,7 @@ Rank       Bot                       Rating     Prog       Games
 37         fornax-engine             2414       10         3864      
 38         OpeningsBot               2385       -11        584       
 39         simpleEval                2366       16         8021      
-40         bekbot                    2313       17         2377      
+40         bekbot                    2311       18         2378      
 41         halcyonbot                2299       6          7813      
 42         FataliiBot                2284       -19        3001      
 43         eubos                     2243       24         4448      
@@ -92,7 +92,7 @@ Rank       Bot                       Rating     Prog       Games
 91         ai-con                    1587       22         129       
 92         maia5                     1576       -23        107018    
 93         DavidsGuterBot            1550       -2         725       
-94         maia1                     1539       15         243497    
+94         maia1                     1545       8          243500    
 95         sargon-3ply               1488       -10        1300      
 96         turochamp-2ply            1487       -7         1182      
 97         RoundMoundOfRebounds      1457       -29        410       
@@ -103,9 +103,10 @@ Rank       Bot                       Rating     Prog       Games
 102        postbot                   1328       69         25        
 103        pawnrobot                 1295       -4         818       
 104        sargon-1ply               1242       5          9220      
-105        king-forward-bot          1233       -45        37        
+105        king-forward-bot          1228       -46        38        
 106        CHoMPBoT                  1182       44         570       
 107        chat_bot                  1157       -20        345       
 108        ABotWith3200Rating        1115       -14        193       
 109        bobandi                   997        3          804       
 110        grandQ_AI                 815        14         1679      
+111        G0thamB0t                 632        0          454       
