@@ -8,10 +8,10 @@ Rank       Bot                       Rating     Prog       Games
 7          ReinforcementTrial        2908       -6         4404      
 8          ProteusSF-Aureo           2908       0          95        
 9          YoBot_v2                  2902       -2         4934      
-10         FireFishBOT_v2            2900       0          10789     
+10         FireFishBOT_v2            2900       -1         10791     
 11         Intron014                 2895       2          1237      
-12         TorBot_v2                 2889       3          187       
-13         ResoluteBot               2885       2          13292     
+12         TorBot_v2                 2889       5          188       
+13         ResoluteBot               2885       2          13293     
 14         Nikitosik-ai              2880       1          1558      
 15         StockFish16_2023          2839       4          599       
 16         RaspFish                  2828       -13        14064     
@@ -21,7 +21,7 @@ Rank       Bot                       Rating     Prog       Games
 20         Berserk-Test              2731       -1         391       
 21         LazyBot                   2668       5          2067      
 22         ELO_1500                  2642       -1         13432     
-23         expositor                 2575       -6         8063      
+23         expositor                 2574       -6         8064      
 24         AKS-Mantissa              2573       17         11218     
 25         MrChessTheBot             2542       -53        2009      
 26         Weiawaga                  2502       -6         12718     
@@ -32,7 +32,7 @@ Rank       Bot                       Rating     Prog       Games
 31         Cheng-4                   2457       -13        7006      
 32         TuksuBot                  2444       -2         4532      
 33         fornax-engine             2418       -2         6832      
-34         odonata-bot               2418       -5         6437      
+34         odonata-bot               2417       -5         6438      
 35         Pseudo-0                  2414       -7         3394      
 36         OpeningsBot               2405       26         1965      
 37         Phalanx-XXV               2378       -9         3157      
@@ -93,11 +93,11 @@ Rank       Bot                       Rating     Prog       Games
 92         Demolito_L4               1531       -8         231       
 93         sudobot_chess             1523       -61        404       
 94         yeoldwiz                  1506       0          2136      
-95         justdvl_bot               1480       151        48        
-96         sargon-4ply               1466       -6         2356      
+95         sargon-4ply               1466       -6         2356      
+96         justdvl_bot               1461       154        49        
 97         DavidsGuterBot            1444       16         3959      
 98         sargon-3ply               1437       -24        2180      
-99         maia1                     1426       0          216670    
+99         maia1                     1425       9          216672    
 100        RoundMoundOfRebounds      1392       -7         1571      
 101        Humaia                    1389       -3         1024      
 102        chat_bot                  1312       75         348       
@@ -110,8 +110,8 @@ Rank       Bot                       Rating     Prog       Games
 109        pawnrobot                 1199       -9         2340      
 110        king-forward-bot          1148       -14        81        
 111        sargon-1ply               1137       3          9048      
-112        ABotWith3200Rating        1113       -10        352       
-113        CHoMPBoT                  1057       -6         1795      
+112        ABotWith3200Rating        1118       -4         353       
+113        CHoMPBoT                  1051       -8         1796      
 114        knucklefish               1017       12         3547      
 115        GuineaBot                 1009       -31        40        
 116        bobandi                   916        1          1387      
