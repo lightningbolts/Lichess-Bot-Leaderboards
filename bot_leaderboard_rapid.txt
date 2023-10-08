@@ -35,7 +35,7 @@ Rank       Bot                       Rating     Prog       Games
 34         Phalanx-XXV               2452       -5         1172      
 35         admete_bot                2448       5          4529      
 36         fornax-engine             2414       10         3864      
-37         OpeningsBot               2383       -18        580       
+37         OpeningsBot               2384       -17        581       
 38         ChessNoobComp             2380       -36        672       
 39         simpleEval                2374       27         8019      
 40         bekbot                    2295       -11        2369      
@@ -61,7 +61,7 @@ Rank       Bot                       Rating     Prog       Games
 60         BLANK_BOT                 2014       15         1915      
 61         KelpBot                   1994       87         20        
 62         LazyBotJr                 1975       4          1573      
-63         zeekat                    1960       -18        9597      
+63         zeekat                    1959       -12        9598      
 64         LeelaRogue                1957       -14        2396      
 65         baby_eubos                1946       -6         1136      
 66         QuintBot                  1928       -4         506       
@@ -86,8 +86,8 @@ Rank       Bot                       Rating     Prog       Games
 85         yeoldwiz                  1670       -8         781       
 86         Demolito_L4               1652       -10        191       
 87         sargon-4ply               1651       -31        802       
-88         dragobot                  1609       5          156       
-89         maia5                     1608       -5         106996    
+88         maia5                     1610       -5         106997    
+89         dragobot                  1609       5          156       
 90         ai-con                    1576       15         127       
 91         DavidsGuterBot            1550       -2         725       
 92         maia1                     1531       0          243470    
@@ -107,4 +107,3 @@ Rank       Bot                       Rating     Prog       Games
 106        ABotWith3200Rating        1124       -22        186       
 107        bobandi                   998        4          803       
 108        grandQ_AI                 815        14         1679      
-109        G0thamB0t                 632        0          454       
