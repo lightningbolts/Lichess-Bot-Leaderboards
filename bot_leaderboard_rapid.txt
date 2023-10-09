@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ToromBot                  2929       1          3207      
 2          Mate-AI                   2919       8          2681      
-3          Occhessadvanced           2918       4          339       
+3          Occhessadvanced           2918       4          340       
 4          M-Z_Bot                   2914       -1         738       
 5          ProteusSF-Aureo           2914       4          45        
 6          ReinforcementTrial        2908       2          6247      
@@ -9,7 +9,7 @@ Rank       Bot                       Rating     Prog       Games
 8          ProteusSF-Godot           2907       1          244       
 9          FireFishBOT_v2            2899       -3         1203      
 10         Intron014                 2899       -6         375       
-11         ResoluteBot               2892       -1         6102      
+11         ResoluteBot               2893       -1         6103      
 12         RaspFish                  2890       -5         6703      
 13         ArasanX                   2875       7          6516      
 14         chessbot2880              2856       -6         278       
@@ -31,7 +31,7 @@ Rank       Bot                       Rating     Prog       Games
 30         bot_adario                2543       -15        1538      
 31         TuksuBot                  2481       -3         2349      
 32         Phalanx-XXV               2452       3          1182      
-33         odonata-bot               2451       -15        3955      
+33         odonata-bot               2451       -11        3956      
 34         admete_bot                2450       -6         4608      
 35         Pseudo-0                  2437       -4         1397      
 36         fornax-engine             2412       7          3869      
@@ -80,10 +80,10 @@ Rank       Bot                       Rating     Prog       Games
 79         AshNostromo               1729       14         1348      
 80         Demolito_L5               1723       8          2113      
 81         melsh_bot                 1709       5          359       
-82         Jibbby                    1708       -7         2309      
+82         Jibbby                    1708       -6         2310      
 83         simplexitor               1703       -1         643       
 84         turkjs                    1697       0          5291      
-85         maia9                     1673       -16        91174     
+85         maia9                     1675       -10        91175     
 86         yeoldwiz                  1665       -25        783       
 87         ZE_ROOK                   1662       -8         693       
 88         sargon-4ply               1653       -4         812       
@@ -92,7 +92,7 @@ Rank       Bot                       Rating     Prog       Games
 91         ai-con                    1621       52         136       
 92         DavidsGuterBot            1556       -1         730       
 93         maia5                     1544       -33        107088    
-94         maia1                     1498       -4         243646    
+94         maia1                     1495       -5         243647    
 95         turochamp-2ply            1495       3          1183      
 96         sargon-3ply               1488       -11        1303      
 97         LeElaGuess                1477       -27        88        
