@@ -20,8 +20,8 @@ Rank       Bot                       Rating     Prog       Games
 19         blundar_bot               2749       7          2013      
 20         Berserk-Test              2727       -2         401       
 21         LazyBot                   2670       6          2068      
-22         ELO_1500                  2643       8          13436     
-23         AKS-Mantissa              2593       6          11240     
+22         ELO_1500                  2637       2          13437     
+23         AKS-Mantissa              2599       10         11241     
 24         expositor                 2581       3          8100      
 25         MrChessTheBot             2542       -53        2009      
 26         pawn_git                  2511       14         3183      
@@ -89,7 +89,7 @@ Rank       Bot                       Rating     Prog       Games
 88         turkjs                    1593       3          10621     
 89         ai-con                    1566       33         251       
 90         postbot                   1565       -8         687       
-91         Demolito_L4               1555       24         242       
+91         Demolito_L4               1552       17         243       
 92         sudobot_chess             1523       -61        404       
 93         HardRok                   1521       2          1122      
 94         yeoldwiz                  1515       11         2143      
@@ -100,10 +100,10 @@ Rank       Bot                       Rating     Prog       Games
 99         sargon-3ply               1425       -14        2189      
 100        Humaia                    1405       10         1034      
 101        RoundMoundOfRebounds      1401       -3         1574      
-102        maia1                     1375       -10        216786    
+102        maia1                     1372       -21        216787    
 103        chat_bot                  1312       75         348       
-104        StupidChessRobot          1298       2          3195      
-105        turochamp-2ply            1295       -2         1904      
+104        StupidChessRobot          1300       -1         3196      
+105        turochamp-2ply            1297       -7         1905      
 106        monchester                1291       -24        2903      
 107        sargon-2ply               1260       6          3411      
 108        dragobot                  1236       28         248       
@@ -112,8 +112,8 @@ Rank       Bot                       Rating     Prog       Games
 111        sargon-1ply               1138       4          9053      
 112        king-forward-bot          1136       -12        88        
 113        ABotWith3200Rating        1119       -1         355       
-114        CHoMPBoT                  1031       -26        1806      
-115        knucklefish               1022       -3         3550      
+114        CHoMPBoT                  1029       -22        1807      
+115        knucklefish               1020       -5         3551      
 116        GuineaBot                 1009       -31        40        
 117        bobandi                   914        4          1390      
 118        grandQ_AI                 896        -35        1411      
