@@ -1,10 +1,10 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ToromBot                  2929       1          3207      
 2          Mate-AI                   2919       8          2680      
-3          Occhessadvanced           2919       5          337       
+3          Occhessadvanced           2918       4          338       
 4          M-Z_Bot                   2914       3          736       
 5          ProteusSF-Aureo           2914       4          45        
-6          ReinforcementTrial        2908       1          6246      
+6          ReinforcementTrial        2908       2          6247      
 7          YoBot_v2                  2907       -1         13693     
 8          ProteusSF-Godot           2907       1          244       
 9          FireFishBOT_v2            2899       -3         1203      
@@ -29,7 +29,7 @@ Rank       Bot                       Rating     Prog       Games
 28         Cheng-4                   2550       6          3400      
 29         bot_adario                2543       -15        1538      
 30         TuksuBot                  2478       -8         2348      
-31         admete_bot                2452       -6         4603      
+31         admete_bot                2452       -6         4604      
 32         Phalanx-XXV               2452       3          1182      
 33         odonata-bot               2451       -15        3955      
 34         Pseudo-0                  2437       -4         1397      
@@ -92,7 +92,7 @@ Rank       Bot                       Rating     Prog       Games
 91         maia5                     1560       -30        107086    
 92         DavidsGuterBot            1556       -1         730       
 93         turochamp-2ply            1495       3          1183      
-94         maia1                     1490       -16        243641    
+94         maia1                     1488       -15        243642    
 95         sargon-3ply               1488       -11        1303      
 96         LeElaGuess                1472       -22        86        
 97         Humaia                    1451       37         2457      
@@ -104,10 +104,9 @@ Rank       Bot                       Rating     Prog       Games
 103        sargon-2ply               1321       -35        3620      
 104        pawnrobot                 1284       -6         821       
 105        sargon-1ply               1259       21         9227      
-106        king-forward-bot          1228       -46        38        
+106        king-forward-bot          1226       -44        39        
 107        CHoMPBoT                  1182       44         570       
 108        chat_bot                  1157       -20        345       
 109        ABotWith3200Rating        1123       -1         197       
 110        bobandi                   997        4          805       
 111        grandQ_AI                 813        17         1680      
-112        G0thamB0t                 631        8          458       
