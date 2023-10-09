@@ -26,12 +26,12 @@ Rank       Bot                       Rating     Prog       Games
 25         AKS-Mantissa              2601       -7         4465      
 26         pawn_git                  2597       0          1537      
 27         SaxtonEngine              2594       -4         1638      
-28         Weiawaga                  2560       -7         10641     
+28         Weiawaga                  2563       1          10642     
 29         catriever                 2552       2          501       
 30         Cheng-4                   2550       -1         3397      
 31         bot_adario                2540       -20        1537      
 32         TuksuBot                  2482       -1         2347      
-33         admete_bot                2459       12         4538      
+33         admete_bot                2470       24         4539      
 34         Phalanx-XXV               2453       8          1181      
 35         Pseudo-0                  2451       5          1390      
 36         odonata-bot               2449       -15        3953      
@@ -39,7 +39,7 @@ Rank       Bot                       Rating     Prog       Games
 38         OpeningsBot               2387       -5         588       
 39         ChessNoobComp             2374       -26        676       
 40         simpleEval                2365       -5         8029      
-41         bekbot                    2313       8          2393      
+41         bekbot                    2311       4          2394      
 42         FataliiBot                2294       -1         3006      
 43         halcyonbot                2287       -5         7828      
 44         eubos                     2244       19         4453      
@@ -48,8 +48,8 @@ Rank       Bot                       Rating     Prog       Games
 47         Boris-Trapsky             2203       -13        28281     
 48         honzovy-sachy-2           2194       0          3854      
 49         Elmichess                 2168       0          1446      
-50         matmoi                    2161       26         2903      
-51         Hyperopic                 2158       24         524       
+50         matmoi                    2161       21         2904      
+51         Hyperopic                 2158       25         525       
 52         jangine                   2118       -21        2029      
 53         GarboBot                  2095       -15        6506      
 54         Lynx_BOT                  2094       -7         40680     
@@ -66,8 +66,8 @@ Rank       Bot                       Rating     Prog       Games
 65         LeelaRogue                1957       -14        2396      
 66         baby_eubos                1946       -6         1136      
 67         zeekat                    1934       -24        9612      
-68         QuintBot                  1929       -13        508       
-69         NatesBot                  1902       -8         1128      
+68         QuintBot                  1934       -9         509       
+69         NatesBot                  1896       -10        1129      
 70         Dinora                    1886       -14        148       
 71         notropis                  1862       11         2856      
 72         LittleGreenManBot         1833       -4         3915      
@@ -83,7 +83,7 @@ Rank       Bot                       Rating     Prog       Games
 82         melsh_bot                 1708       12         356       
 83         simplexitor               1699       4          640       
 84         turkjs                    1695       -7         5288      
-85         maia9                     1684       12         91130     
+85         maia9                     1686       11         91131     
 86         yeoldwiz                  1670       -8         781       
 87         Demolito_L4               1654       1          199       
 88         sargon-4ply               1651       -27        804       
@@ -91,7 +91,7 @@ Rank       Bot                       Rating     Prog       Games
 90         dragobot                  1609       5          156       
 91         maia5                     1600       -4         107060    
 92         ai-con                    1599       25         132       
-93         maia1                     1554       1          243569    
+93         maia1                     1558       8          243570    
 94         DavidsGuterBot            1552       -4         727       
 95         LeElaGuess                1547       -221       46        
 96         turochamp-2ply            1487       -7         1182      
