@@ -15,7 +15,7 @@ Rank       Bot                       Rating     Prog       Games
 14         faith_bot                 2758       1          933       
 15         Berserk-Test              2739       9          416       
 16         LazyBot                   2670       6          2068      
-17         RubysBot                  2632       26         59        
+17         RubysBot                  2632       26         60        
 18         ELO_1500                  2631       -8         13442     
 19         AKS-Mantissa              2594       7          11270     
 20         expositor                 2574       3          8119      
@@ -61,7 +61,7 @@ Rank       Bot                       Rating     Prog       Games
 60         LazyBotJr                 1925       -16        1980      
 61         zeekat                    1918       -3         23522     
 62         potato-chess-bot          1907       27         223       
-63         Trollfish-Bot             1877       -16        3319      
+63         Trollfish-Bot             1877       -21        3320      
 64         zulu_bot                  1861       -3         992       
 65         baby_eubos                1853       6          9400      
 66         notropis                  1838       7          7781      
@@ -78,14 +78,14 @@ Rank       Bot                       Rating     Prog       Games
 77         AshNostromo               1659       -19        1095      
 78         maia9                     1641       21         108198    
 79         simplexitor               1639       3          2623      
-80         Jibbby                    1636       18         6593      
+80         Jibbby                    1636       19         6594      
 81         ai-con                    1586       15         268       
 82         LeElaGuess                1577       -139       123       
 83         turkjs                    1574       3          10645     
 84         postbot                   1565       1          739       
 85         Demolito_L4               1563       6          263       
 86         ZE_ROOK                   1554       4          3379      
-87         maia5                     1541       18         107429    
+87         maia5                     1532       9          107430    
 88         Leela8-Test               1530       -81        14        
 89         yeoldwiz                  1525       15         2152      
 90         sudobot_chess             1523       -61        404       
@@ -97,7 +97,7 @@ Rank       Bot                       Rating     Prog       Games
 96         ShallowLearnBot           1422       -13        77        
 97         Humaia                    1416       30         1037      
 98         RoundMoundOfRebounds      1406       13         1581      
-99         schnecken_bot             1346       14         2851      
+99         schnecken_bot             1355       26         2852      
 100        chat_bot                  1312       75         348       
 101        StupidChessRobot          1293       11         3228      
 102        turochamp-2ply            1293       -4         1916      
