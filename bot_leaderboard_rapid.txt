@@ -10,7 +10,7 @@ Rank       Bot                       Rating     Prog       Games
 9          Intron014                 2897       3          385       
 10         mayhem23111               2895       15         162       
 11         ResoluteBot               2891       -3         6108      
-12         ArasanX                   2875       3          6530      
+12         ArasanX                   2876       3          6531      
 13         faith_bot                 2834       8          2171      
 14         blundar_bot               2812       -8         1560      
 15         Berserk-Test              2736       -18        201       
@@ -32,7 +32,7 @@ Rank       Bot                       Rating     Prog       Games
 31         admete_bot                2440       -9         4621      
 32         Pseudo-0                  2437       -4         1397      
 33         fornax-engine             2411       5          3871      
-34         OpeningsBot               2394       16         598       
+34         OpeningsBot               2393       7          599       
 35         ChessNoobComp             2372       -24        680       
 36         simpleEval                2359       -7         8034      
 37         halcyonbot                2315       -7         7865      
@@ -43,12 +43,12 @@ Rank       Bot                       Rating     Prog       Games
 42         honzovy-sachy-2           2195       -9         3861      
 43         Boris-Trapsky             2176       -14        28295     
 44         Elmichess                 2173       5          1447      
-45         matmoi                    2151       -6         2931      
+45         matmoi                    2150       -11        2932      
 46         jangine                   2118       0          2040      
 47         likeawizard-bot           2095       3          1781      
 48         Lynx_BOT                  2092       -16        40696     
 49         Humaia-Strong             2092       35         622       
-50         GarboBot                  2085       -15        6516      
+50         GarboBot                  2086       -9         6517      
 51         myopic-bot                2071       6          705       
 52         redtail-zero              2065       -12        717       
 53         MaxtheDog                 2044       -11        953       
@@ -86,11 +86,11 @@ Rank       Bot                       Rating     Prog       Games
 85         dragobot                  1635       25         162       
 86         ai-con                    1608       21         140       
 87         DavidsGuterBot            1577       25         734       
-88         maia5                     1548       -15        107123    
-89         maia1                     1513       15         243779    
+88         maia5                     1545       -21        107124    
+89         maia1                     1507       6          243780    
 90         turochamp-2ply            1487       4          1186      
 91         sargon-3ply               1484       -4         1305      
-92         LeElaGuess                1457       -11        123       
+92         LeElaGuess                1460       -6         124       
 93         Humaia                    1435       -14        2466      
 94         RoundMoundOfRebounds      1432       -38        415       
 95         StupidChessRobot          1411       -10        119       
@@ -98,7 +98,7 @@ Rank       Bot                       Rating     Prog       Games
 97         schnecken_bot             1369       52         551       
 98         postbot                   1365       113        27        
 99         sargon-2ply               1317       -31        3622      
-100        pawnrobot                 1295       -7         826       
+100        pawnrobot                 1292       -9         827       
 101        sargon-1ply               1256       13         9229      
 102        king-forward-bot          1200       -40        42        
 103        CHoMPBoT                  1181       29         574       
