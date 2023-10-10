@@ -1,9 +1,9 @@
 Rank       Bot                       Rating     Prog       Games     
 1          LeelaMultiPoss            2932       5          443       
 2          Mate-AI                   2919       0          2691      
-3          Occhessadvanced           2915       1          358       
+3          Occhessadvanced           2915       1          359       
 4          ProteusSF-Aureo           2914       4          45        
-5          YoBot_v2                  2911       6          13701     
+5          YoBot_v2                  2911       7          13702     
 6          ReinforcementTrial        2910       7          6271      
 7          M-Z_Bot                   2907       -4         752       
 8          ProteusSF-Godot           2907       1          244       
@@ -22,8 +22,8 @@ Rank       Bot                       Rating     Prog       Games
 21         pawn_git                  2601       -1         1541      
 22         SaxtonEngine              2598       5          1643      
 23         Cheng-4                   2567       19         3407      
-24         Weiawaga                  2553       -16        10655     
-25         catriever                 2552       2          501       
+24         catriever                 2554       5          502       
+25         Weiawaga                  2553       -16        10655     
 26         Altair_Engine             2548       76         41        
 27         bot_adario                2542       -10        1539      
 28         TuksuBot                  2487       1          2352      
@@ -36,7 +36,7 @@ Rank       Bot                       Rating     Prog       Games
 35         ChessNoobComp             2372       -24        680       
 36         simpleEval                2359       -7         8034      
 37         bekbot                    2327       19         2437      
-38         halcyonbot                2311       -14        7867      
+38         halcyonbot                2309       -20        7868      
 39         FataliiBot                2265       -29        3017      
 40         eubos                     2255       23         4455      
 41         Nakshatra3                2215       5          1057      
@@ -87,10 +87,10 @@ Rank       Bot                       Rating     Prog       Games
 86         ai-con                    1608       21         140       
 87         DavidsGuterBot            1577       25         734       
 88         maia5                     1539       -11        107132    
-89         maia1                     1490       -14        243797    
+89         maia1                     1494       -2         243798    
 90         turochamp-2ply            1487       4          1186      
 91         sargon-3ply               1484       -4         1305      
-92         LeElaGuess                1477       18         127       
+92         LeElaGuess                1479       16         128       
 93         Humaia                    1435       -14        2466      
 94         RoundMoundOfRebounds      1432       -38        415       
 95         StupidChessRobot          1411       -10        119       
@@ -101,7 +101,7 @@ Rank       Bot                       Rating     Prog       Games
 100        pawnrobot                 1292       -3         829       
 101        sargon-1ply               1255       13         9231      
 102        king-forward-bot          1200       -40        42        
-103        CHoMPBoT                  1178       28         575       
+103        CHoMPBoT                  1175       28         576       
 104        chat_bot                  1155       -20        346       
 105        ABotWith3200Rating        1131       11         200       
 106        bobandi                   996        4          806       
