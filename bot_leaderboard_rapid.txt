@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          LeelaMultiPoss            2932       5          443       
 2          Mate-AI                   2919       0          2691      
-3          Occhessadvanced           2915       2          360       
+3          Occhessadvanced           2915       4          361       
 4          ProteusSF-Aureo           2914       4          45        
 5          YoBot_v2                  2911       7          13702     
 6          ReinforcementTrial        2907       4          6274      
@@ -10,7 +10,7 @@ Rank       Bot                       Rating     Prog       Games
 9          FireFishBOT_v2            2901       3          1212      
 10         Intron014                 2897       3          385       
 11         LolFish-1                 2897       -5         39        
-12         ResoluteBot               2892       -2         6109      
+12         ResoluteBot               2892       -3         6110      
 13         faith_bot                 2837       3          2178      
 14         blundar_bot               2816       2          1562      
 15         Berserk-Test              2735       -10        203       
@@ -21,9 +21,9 @@ Rank       Bot                       Rating     Prog       Games
 20         AKS-Mantissa              2601       -9         4471      
 21         pawn_git                  2601       -2         1543      
 22         SaxtonEngine              2598       5          1643      
-23         Cheng-4                   2567       19         3407      
-24         catriever                 2554       5          502       
-25         Weiawaga                  2553       -16        10655     
+23         Cheng-4                   2573       23         3408      
+24         Weiawaga                  2553       -16        10655     
+25         catriever                 2549       0          503       
 26         bot_adario                2544       -3         1540      
 27         TuksuBot                  2487       1          2352      
 28         odonata-bot               2460       4          3961      
@@ -77,7 +77,7 @@ Rank       Bot                       Rating     Prog       Games
 76         turkjs                    1701       4          5293      
 77         simplexitor               1699       -9         644       
 78         ZE_ROOK                   1671       4          699       
-79         maia9                     1669       -5         91268     
+79         maia9                     1666       -14        91269     
 80         yeoldwiz                  1663       -24        786       
 81         sargon-4ply               1651       -3         816       
 82         HardRok                   1648       12         914       
@@ -85,7 +85,7 @@ Rank       Bot                       Rating     Prog       Games
 84         dragobot                  1629       14         163       
 85         ai-con                    1608       21         140       
 86         DavidsGuterBot            1569       20         735       
-87         maia5                     1536       -15        107133    
+87         maia5                     1534       -14        107134    
 88         maia1                     1516       23         243803    
 89         turochamp-2ply            1487       4          1186      
 90         LeElaGuess                1486       26         129       
