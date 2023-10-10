@@ -3,13 +3,13 @@ Rank       Bot                       Rating     Prog       Games
 2          Mate-AI                   2919       0          2691      
 3          Occhessadvanced           2915       4          361       
 4          ProteusSF-Aureo           2914       4          45        
-5          YoBot_v2                  2911       7          13702     
+5          YoBot_v2                  2910       6          13703     
 6          ReinforcementTrial        2907       4          6274      
 7          M-Z_Bot                   2907       -4         752       
 8          ProteusSF-Godot           2907       1          244       
 9          FireFishBOT_v2            2901       3          1212      
-10         Intron014                 2897       3          385       
-11         LolFish-1                 2897       -5         39        
+10         LolFish-1                 2898       -1         40        
+11         Intron014                 2897       3          385       
 12         ResoluteBot               2892       -3         6110      
 13         faith_bot                 2837       3          2178      
 14         blundar_bot               2816       2          1562      
@@ -32,7 +32,7 @@ Rank       Bot                       Rating     Prog       Games
 31         Pseudo-0                  2437       -4         1397      
 32         fornax-engine             2411       5          3871      
 33         OpeningsBot               2396       5          601       
-34         ChessNoobComp             2370       -24        681       
+34         ChessNoobComp             2370       -19        682       
 35         simpleEval                2359       -7         8034      
 36         bekbot                    2331       20         2440      
 37         halcyonbot                2312       -13        7869      
@@ -58,7 +58,7 @@ Rank       Bot                       Rating     Prog       Games
 57         LazyBotJr                 1977       10         1575      
 58         LeelaRogue                1957       -14        2396      
 59         baby_eubos                1945       -2         1138      
-60         QuintBot                  1925       -3         517       
+60         QuintBot                  1924       -3         518       
 61         potato-chess-bot          1917       52         38        
 62         zeekat                    1906       -22        9628      
 63         NatesBot                  1903       1          1148      
@@ -86,7 +86,7 @@ Rank       Bot                       Rating     Prog       Games
 85         ai-con                    1608       21         140       
 86         DavidsGuterBot            1569       20         735       
 87         maia5                     1534       -14        107134    
-88         maia1                     1516       23         243803    
+88         maia1                     1513       26         243804    
 89         turochamp-2ply            1487       4          1186      
 90         LeElaGuess                1486       26         129       
 91         sargon-3ply               1484       -4         1305      
