@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ToromBot                  2928       1          3211      
-2          ReinforcementTrial        2926       -1         6336      
+1          ToromBot                  2928       1          3212      
+2          ReinforcementTrial        2926       0          6337      
 3          Mate-AI                   2922       2          2715      
 4          Occhessadvanced           2919       2          403       
 5          M-Z_Bot                   2915       1          797       
@@ -10,7 +10,7 @@ Rank       Bot                       Rating     Prog       Games
 9          YoBot_v2                  2905       -1         13734     
 10         ResoluteBot               2899       6          6138      
 11         Intron014                 2896       0          439       
-12         RaspFish                  2888       0          6715      
+12         RaspFish                  2888       -1         6716      
 13         Mr_Chess_Berserk          2857       -4         280       
 14         JuroJ                     2856       9          2869      
 15         faith_bot                 2823       -1         2262      
@@ -43,7 +43,7 @@ Rank       Bot                       Rating     Prog       Games
 42         FataliiBot                2251       5          3035      
 43         honzovy-sachy-2           2210       16         3878      
 44         Nakshatra3                2206       -15        1065      
-45         Elmichess                 2173       5          1447      
+45         Elmichess                 2178       10         1448      
 46         matmoi                    2169       -6         2986      
 47         jangine                   2135       -9         2056      
 48         Boris-Trapsky             2128       9          28349     
