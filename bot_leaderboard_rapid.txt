@@ -3,14 +3,14 @@ Rank       Bot                       Rating     Prog       Games
 2          Mate-AI                   2922       -3         2717      
 3          ReinforcementTrial        2920       -6         6343      
 4          Occhessadvanced           2919       -2         406       
-5          M-Z_Bot                   2915       2          799       
+5          M-Z_Bot                   2915       3          800       
 6          caissa-x                  2909       -1         3448      
 7          FireFishBOT_v2            2907       2          1237      
-8          YoBot_v2                  2906       -1         13736     
+8          YoBot_v2                  2906       -1         13737     
 9          ResoluteBot               2899       6          6139      
 10         Intron014                 2896       0          439       
 11         RaspFish                  2889       1          6718      
-12         JuroJ                     2862       6          2874      
+12         JuroJ                     2863       6          2875      
 13         Mr_Chess_Berserk          2857       -4         280       
 14         MphoBot                   2839       -6         163       
 15         faith_bot                 2825       2          2264      
@@ -19,7 +19,7 @@ Rank       Bot                       Rating     Prog       Games
 18         ELO_1500                  2719       17         3605      
 19         MrChessTheBot             2689       -53        2243      
 20         SATRANC_KAZANSIN_BOT      2685       -85        26        
-21         expositor                 2651       17         4991      
+21         expositor                 2652       23         4992      
 22         AKS-Mantissa              2611       5          4477      
 23         LazyBot                   2609       9          818       
 24         SaxtonEngine              2607       8          1657      
@@ -37,7 +37,7 @@ Rank       Bot                       Rating     Prog       Games
 36         fornax-engine             2402       -11        3876      
 37         ChessNoobComp             2366       -2         689       
 38         simpleEval                2354       -1         8047      
-39         bekbot                    2323       13         2525      
+39         bekbot                    2321       12         2526      
 40         halcyonbot                2300       -1         7927      
 41         eubos                     2255       23         4455      
 42         FataliiBot                2251       5          3035      
@@ -88,12 +88,12 @@ Rank       Bot                       Rating     Prog       Games
 87         maia5                     1614       -17        107294    
 88         DavidsGuterBot            1562       -12        743       
 89         ShallowLearnBot           1551       -162       19        
-90         sargon-3ply               1520       7          1327      
-91         LeElaGuess                1520       10         210       
+90         LeElaGuess                1524       20         211       
+91         sargon-3ply               1520       7          1327      
 92         maia1                     1500       -11        244097    
 93         turochamp-2ply            1478       -9         1197      
 94         Humaia                    1436       -11        2475      
-95         RoundMoundOfRebounds      1421       -16        428       
+95         RoundMoundOfRebounds      1417       -21        429       
 96         StupidChessRobot          1404       -11        124       
 97         postbot                   1389       97         31        
 98         turochamp-1ply            1369       -3         1823      
@@ -106,3 +106,4 @@ Rank       Bot                       Rating     Prog       Games
 105        chat_bot                  1151       -22        348       
 106        ABotWith3200Rating        1135       -2         210       
 107        grandQ_AI                 813        17         1680      
+108        G0thamB0t                 630        8          460       
