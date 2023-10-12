@@ -2,12 +2,12 @@ Rank       Bot                       Rating     Prog       Games
 1          LeelaMultiPoss            2937       8          452       
 2          ReinforcementTrial        2932       6          6348      
 3          ToromBot                  2928       2          3213      
-4          Mate-AI                   2926       1          2718      
+4          Mate-AI                   2925       1          2719      
 5          Occhessadvanced           2920       1          413       
 6          M-Z_Bot                   2918       3          806       
 7          FireFishBOT_v2            2907       3          1239      
 8          YoBot_v2                  2903       -4         13738     
-9          Intron014                 2894       -3         442       
+9          Intron014                 2895       0          443       
 10         ResoluteBot               2893       -5         6143      
 11         RaspFish                  2884       -5         6720      
 12         JuroJ                     2861       5          2880      
@@ -30,10 +30,10 @@ Rank       Bot                       Rating     Prog       Games
 29         odonata-bot               2477       18         3969      
 30         admete_bot                2425       -14        4633      
 31         OpeningsBot               2409       16         610       
-32         fornax-engine             2407       -4         3877      
+32         fornax-engine             2406       -4         3878      
 33         ChessNoobComp             2380       9          692       
 34         simpleEval                2363       11         8050      
-35         bekbot                    2318       11         2529      
+35         bekbot                    2319       16         2530      
 36         halcyonbot                2299       -11        7929      
 37         eubos                     2255       23         4455      
 38         FataliiBot                2255       5          3036      
@@ -62,7 +62,7 @@ Rank       Bot                       Rating     Prog       Games
 61         Dinora                    1887       7          153       
 62         ShallowRedBot             1867       15         145       
 63         notropis                  1862       -1         2873      
-64         LittleGreenManBot         1853       31         3940      
+64         LittleGreenManBot         1847       28         3941      
 65         honzovy-sachy             1817       18         1192      
 66         zulu_bot                  1776       3          110       
 67         Trollfish-Bot             1762       3          438       
@@ -84,7 +84,7 @@ Rank       Bot                       Rating     Prog       Games
 83         LeElaGuess                1544       30         216       
 84         ShallowLearnBot           1533       -180       20        
 85         sargon-3ply               1520       7          1327      
-86         maia1                     1497       -6         244107    
+86         maia1                     1502       2          244108    
 87         turochamp-2ply            1478       -9         1197      
 88         Humaia                    1436       -11        2475      
 89         RoundMoundOfRebounds      1412       -25        430       
