@@ -12,8 +12,8 @@ Rank       Bot                       Rating     Prog       Games
 11         RaspFish                  2889       1          6718      
 12         JuroJ                     2859       9          2871      
 13         Mr_Chess_Berserk          2857       -4         280       
-14         MphoBot                   2835       -2         159       
-15         faith_bot                 2823       -1         2262      
+14         MphoBot                   2835       -3         160       
+15         faith_bot                 2824       1          2263      
 16         blundar_bot               2813       7          1582      
 17         Berserk-Test              2734       12         223       
 18         ELO_1500                  2721       21         3604      
@@ -71,7 +71,7 @@ Rank       Bot                       Rating     Prog       Games
 70         Virutor                   1816       -15        3439      
 71         zulu_bot                  1776       3          110       
 72         Trollfish-Bot             1761       1          437       
-73         Jibbby                    1742       13         2353      
+73         Jibbby                    1752       13         2355      
 74         Demolito_L5               1741       14         2151      
 75         ChessChildren             1740       -12        4721      
 76         AshNostromo               1713       -16        1355      
@@ -105,3 +105,4 @@ Rank       Bot                       Rating     Prog       Games
 104        chat_bot                  1151       -22        348       
 105        ABotWith3200Rating        1135       -2         210       
 106        grandQ_AI                 813        17         1680      
+107        G0thamB0t                 630        8          460       
