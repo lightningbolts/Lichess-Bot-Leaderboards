@@ -34,7 +34,7 @@ Rank       Bot                       Rating     Prog       Games
 33         fornax-engine             2408       -4         3880      
 34         OpeningsBot               2403       11         611       
 35         ChessNoobComp             2395       25         701       
-36         simpleEval                2357       -3         8054      
+36         simpleEval                2360       1          8055      
 37         bekbot                    2324       -9         2550      
 38         halcyonbot                2288       -20        7934      
 39         eubos                     2255       23         4455      
@@ -43,7 +43,7 @@ Rank       Bot                       Rating     Prog       Games
 42         HistoryExplorer           2207       5          1174      
 43         honzovy-sachy-2           2201       6          3882      
 44         Elmichess                 2178       10         1448      
-45         matmoi                    2167       9          3002      
+45         matmoi                    2164       10         3003      
 46         jangine                   2148       12         2063      
 47         Boris-Trapsky             2123       1          28357     
 48         Lynx_BOT                  2116       -6         40755     
@@ -76,7 +76,7 @@ Rank       Bot                       Rating     Prog       Games
 75         ChessChildren             1739       -10        4726      
 76         AshNostromo               1715       -7         1357      
 77         turkjs                    1700       -1         5304      
-78         maia9                     1699       -9         91540     
+78         maia9                     1698       -7         91541     
 79         simplexitor               1677       -26        652       
 80         ZE_ROOK                   1667       3          715       
 81         yeoldwiz                  1649       -14        795       
@@ -86,12 +86,12 @@ Rank       Bot                       Rating     Prog       Games
 85         Demolito_L4               1628       -23        254       
 86         sargon-4ply               1627       -19        829       
 87         maia5                     1586       5          107357    
-88         LeElaGuess                1577       19         230       
+88         LeElaGuess                1579       18         231       
 89         DavidsGuterBot            1558       -18        744       
 90         sargon-3ply               1541       27         1330      
 91         ShallowLearnBot           1510       -203       21        
 92         turochamp-2ply            1475       -14        1198      
-93         maia1                     1445       9          244211    
+93         maia1                     1441       7          244213    
 94         Humaia                    1427       -8         2477      
 95         RoundMoundOfRebounds      1412       -25        430       
 96         StupidChessRobot          1404       -11        124       
