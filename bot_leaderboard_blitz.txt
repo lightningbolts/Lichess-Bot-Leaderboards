@@ -46,11 +46,11 @@ Rank       Bot                       Rating     Prog       Games
 45         myopic-bot                2068       -1         3010      
 46         redtail-zero              2059       7          796       
 47         KelpBot                   2056       -102       23        
-48         likeawizard-bot           2045       6          6375      
+48         likeawizard-bot           2045       13         6376      
 49         Elmichess                 2040       12         3748      
 50         BLANK_BOT                 2034       8          5726      
 51         Humaia-Strong             2029       42         2377      
-52         Lynx_BOT                  2009       0          53045     
+52         Lynx_BOT                  2010       6          53046     
 53         LeelaRogue                2008       -2         2456      
 54         sun_bird                  1982       -2         3116      
 55         GarboBot                  1972       25         10476     
@@ -70,7 +70,7 @@ Rank       Bot                       Rating     Prog       Games
 69         piglet_engine             1720       7          365       
 70         Demolito_L5               1682       0          3062      
 71         LittleGreenManBot         1674       -17        4766      
-72         Jibbby                    1650       2          6661      
+72         Jibbby                    1651       4          6662      
 73         AshNostromo               1648       -21        1099      
 74         simplexitor               1616       -14        2654      
 75         ai-con                    1610       11         304       
@@ -79,8 +79,8 @@ Rank       Bot                       Rating     Prog       Games
 78         yeoldwiz                  1561       33         2165      
 79         postbot                   1558       6          843       
 80         turkjs                    1554       -12        10670     
-81         ZE_ROOK                   1543       -5         3411      
-82         Demolito_L4               1543       -5         301       
+81         Demolito_L4               1545       -6         302       
+82         ZE_ROOK                   1543       -5         3411      
 83         sudobot_chess             1523       -61        404       
 84         maia1                     1472       4          217350    
 85         sargon-4ply               1431       -14        2388      
@@ -94,8 +94,8 @@ Rank       Bot                       Rating     Prog       Games
 93         chat_bot                  1312       75         348       
 94         turochamp-2ply            1309       20         1929      
 95         StupidChessRobot          1294       -12        3303      
-96         monchester                1276       -9         2919      
-97         sargon-2ply               1257       -3         3436      
+96         monchester                1274       -9         2920      
+97         sargon-2ply               1256       -4         3437      
 98         turochamp-1ply            1241       19         2006      
 99         dragobot                  1239       3          259       
 100        pawnrobot                 1191       -8         2363      
