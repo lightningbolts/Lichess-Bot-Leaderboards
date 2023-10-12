@@ -1,8 +1,8 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ToromBot                  2927       8          7037      
+1          ToromBot                  2925       3          7038      
 2          ReinforcementTrial        2913       -3         4537      
 3          M-Z_Bot                   2911       8          1675      
-4          Occhessadvanced           2907       0          381       
+4          Occhessadvanced           2907       0          382       
 5          Intron014                 2904       0          1483      
 6          ResoluteBot               2903       6          13434     
 7          caissa-x                  2897       -4         4079      
@@ -16,7 +16,7 @@ Rank       Bot                       Rating     Prog       Games
 15         JuroJ                     2776       16         1938      
 16         faith_bot                 2769       12         941       
 17         blundar_bot               2764       -4         2070      
-18         Berserk-Test              2741       -8         442       
+18         Berserk-Test              2744       -6         443       
 19         LazyBot                   2674       9          2075      
 20         ELO_1500                  2651       19         13456     
 21         AKS-Mantissa              2610       14         11320     
@@ -65,10 +65,10 @@ Rank       Bot                       Rating     Prog       Games
 64         Leela8-Test               1896       35         52        
 65         zulu_bot                  1861       -3         992       
 66         baby_eubos                1834       25         9483      
-67         Trollfish-Bot             1822       -35        3464      
+67         Trollfish-Bot             1828       -19        3465      
 68         NatesBot                  1820       -11        2449      
-69         Dinora                    1801       -3         750       
-70         QuintBot                  1796       0          11880     
+69         QuintBot                  1796       0          11880     
+70         Dinora                    1796       -3         751       
 71         notropis                  1795       0          7867      
 72         ShallowRedBot             1748       10         868       
 73         Virutor                   1729       -6         8125      
@@ -89,7 +89,7 @@ Rank       Bot                       Rating     Prog       Games
 88         Demolito_L4               1545       -3         300       
 89         ZE_ROOK                   1537       -11        3410      
 90         sudobot_chess             1523       -61        404       
-91         maia1                     1495       3          217329    
+91         maia1                     1497       9          217330    
 92         sargon-4ply               1434       -11        2387      
 93         ShallowLearnBot           1433       9          99        
 94         sargon-3ply               1424       -18        2210      
