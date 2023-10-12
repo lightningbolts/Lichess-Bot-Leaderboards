@@ -1,5 +1,5 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ToromBot                  2967       11         7108      
+1          ToromBot                  2969       15         7109      
 2          LeelaMultiPoss            2961       12         743       
 3          ReinforcementTrial        2922       0          4573      
 4          Occhessadvanced           2911       5          401       
@@ -14,7 +14,7 @@ Rank       Bot                       Rating     Prog       Games
 13         JuroJ                     2783       12         1940      
 14         faith_bot                 2751       -18        952       
 15         blundar_bot               2745       -16        2083      
-16         Berserk-Test              2734       -14        455       
+16         Berserk-Test              2731       -14        456       
 17         LazyBot                   2674       6          2078      
 18         ELO_1500                  2654       7          13465     
 19         AKS-Mantissa              2609       -6         11348     
@@ -43,8 +43,8 @@ Rank       Bot                       Rating     Prog       Games
 42         FataliiBot                2209       -20        7661      
 43         honzovy-sachy-2           2161       6          7596      
 44         eubos                     2160       9          15914     
-45         jangine                   2153       4          4166      
-46         matmoi                    2151       -16        3445      
+45         matmoi                    2151       -16        3445      
+46         jangine                   2148       -4         4167      
 47         Boris-Trapsky             2104       0          30087     
 48         myopic-bot                2071       -7         3023      
 49         redtail-zero              2058       7          800       
@@ -104,10 +104,11 @@ Rank       Bot                       Rating     Prog       Games
 103        monchester                1273       -5         2925      
 104        sargon-2ply               1264       8          3439      
 105        turochamp-1ply            1236       16         2007      
-106        pawnrobot                 1184       -11        2365      
-107        king-forward-bot          1162       30         100       
-108        sargon-1ply               1149       -6         9074      
-109        ABotWith3200Rating        1114       -4         376       
-110        CHoMPBoT                  1014       -15        1860      
-111        knucklefish               999        -25        3560      
-112        grandQ_AI                 882        -39        1415      
+106        dragobot                  1231       -10        263       
+107        pawnrobot                 1184       -11        2365      
+108        king-forward-bot          1162       30         100       
+109        sargon-1ply               1149       -6         9074      
+110        ABotWith3200Rating        1114       -4         376       
+111        CHoMPBoT                  1014       -15        1860      
+112        knucklefish               999        -25        3560      
+113        grandQ_AI                 882        -39        1415      
