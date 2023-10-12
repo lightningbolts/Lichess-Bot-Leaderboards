@@ -2,7 +2,7 @@ Rank       Bot                       Rating     Prog       Games
 1          LeelaMultiPoss            3004       12         1089      
 2          YoBot_v2                  2959       -1         19930     
 3          ToromBot                  2958       3          66366     
-4          Mate-AI                   2950       11         13536     
+4          Mate-AI                   2950       12         13537     
 5          ReinforcementTrial        2945       7          3476      
 6          FireFishBOT_v2            2934       1          1954      
 7          ResoluteBot               2932       0          28611     
@@ -52,11 +52,11 @@ Rank       Bot                       Rating     Prog       Games
 51         redtail-zero              2095       6          1187      
 52         likeawizard-bot           2068       -3         3279      
 53         BLANK_BOT                 2049       3          8510      
-54         sun_bird                  2038       -10        3463      
+54         sun_bird                  2036       -15        3464      
 55         Lynx_BOT                  2005       25         8597      
 56         zeekat                    1979       0          21393     
 57         MaxtheDog                 1972       -6         17422     
-58         Trollfish-Bot             1943       5          7096      
+58         Trollfish-Bot             1944       11         7097      
 59         potato-chess-bot          1903       14         165       
 60         NatesBot                  1832       1          959       
 61         QuintBot                  1818       6          12412     
@@ -103,6 +103,5 @@ Rank       Bot                       Rating     Prog       Games
 102        CHoMPBoT                  1241       -20        1033      
 103        pawnrobot                 1222       -14        4214      
 104        king-forward-bot          1187       -19        142       
-105        bobandi                   1184       5          1194      
-106        knucklefish               1177       -12        3070      
-107        grandQ_AI                 826        6          885       
+105        knucklefish               1177       -12        3070      
+106        grandQ_AI                 826        6          885       
