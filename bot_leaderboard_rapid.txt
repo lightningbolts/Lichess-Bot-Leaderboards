@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ToromBot                  2928       1          3212      
-2          ReinforcementTrial        2924       0          6341      
-3          Mate-AI                   2922       -3         2716      
+2          Mate-AI                   2922       -3         2716      
+3          ReinforcementTrial        2921       -3         6342      
 4          Occhessadvanced           2919       3          405       
 5          M-Z_Bot                   2915       2          799       
 6          caissa-x                  2909       -1         3448      
@@ -15,7 +15,7 @@ Rank       Bot                       Rating     Prog       Games
 14         MphoBot                   2838       -6         162       
 15         faith_bot                 2825       2          2264      
 16         blundar_bot               2813       7          1582      
-17         Berserk-Test              2734       12         223       
+17         Berserk-Test              2736       19         224       
 18         ELO_1500                  2721       21         3604      
 19         MrChessTheBot             2689       -53        2243      
 20         SATRANC_KAZANSIN_BOT      2685       -85        26        
@@ -105,4 +105,3 @@ Rank       Bot                       Rating     Prog       Games
 104        chat_bot                  1151       -22        348       
 105        ABotWith3200Rating        1135       -2         210       
 106        grandQ_AI                 813        17         1680      
-107        G0thamB0t                 630        8          460       
