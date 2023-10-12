@@ -2,10 +2,10 @@ Rank       Bot                       Rating     Prog       Games
 1          ToromBot                  2945       9          7083      
 2          ReinforcementTrial        2920       1          4550      
 3          M-Z_Bot                   2915       4          1688      
-4          Occhessadvanced           2906       -1         388       
-5          FireFishBOT_v2            2901       5          11231     
-6          ResoluteBot               2896       -6         13445     
-7          Mate-AI                   2890       -7         3826      
+4          Occhessadvanced           2906       0          389       
+5          FireFishBOT_v2            2901       6          11232     
+6          ResoluteBot               2896       -6         13446     
+7          Mate-AI                   2890       -7         3827      
 8          YoBot_v2                  2881       -10        5035      
 9          Mr_Chess_Berserk          2843       1          820       
 10         ShallowEngine             2818       -35        45        
@@ -23,8 +23,8 @@ Rank       Bot                       Rating     Prog       Games
 22         SATRANC_KAZANSIN_BOT      2533       0          27        
 23         SaxtonEngine              2506       -9         3004      
 24         Weiawaga                  2496       -5         12776     
-25         catriever                 2483       -1         1360      
-26         pawn_git                  2482       -17        3230      
+25         pawn_git                  2487       -10        3231      
+26         catriever                 2483       -1         1360      
 27         bot_adario                2474       -8         2801      
 28         Cheng-4                   2445       -5         7034      
 29         odonata-bot               2443       13         6493      
@@ -38,7 +38,7 @@ Rank       Bot                       Rating     Prog       Games
 37         admete_bot                2334       4          7884      
 38         FlamingDragon_9000        2323       19         3331      
 39         bekbot                    2317       8          2341      
-40         simpleEval                2291       10         16153     
+40         simpleEval                2293       12         16154     
 41         halcyonbot                2243       -20        11727     
 42         FataliiBot                2229       22         7650      
 43         Nakshatra3                2210       -21        2057      
@@ -56,7 +56,7 @@ Rank       Bot                       Rating     Prog       Games
 55         Humaia-Strong             2029       42         2377      
 56         BLANK_BOT                 2025       -14        5729      
 57         LeelaRogue                2008       -2         2456      
-58         Lynx_BOT                  2003       -15        53059     
+58         Lynx_BOT                  2004       -11        53061     
 59         sun_bird                  1984       5          3121      
 60         GarboBot                  1964       11         10479     
 61         MaxtheDog                 1933       -14        5969      
@@ -64,7 +64,7 @@ Rank       Bot                       Rating     Prog       Games
 63         LazyBotJr                 1926       -10        1981      
 64         zeekat                    1883       -9         23629     
 65         zulu_bot                  1861       -3         992       
-66         QuintBot                  1831       5          11922     
+66         QuintBot                  1828       -6         11923     
 67         Trollfish-Bot             1825       6          3491      
 68         baby_eubos                1824       -8         9496      
 69         NatesBot                  1816       -9         2464      
@@ -90,10 +90,10 @@ Rank       Bot                       Rating     Prog       Games
 89         Demolito_L4               1551       -7         303       
 90         ZE_ROOK                   1536       -13        3412      
 91         sudobot_chess             1523       -61        404       
-92         maia1                     1468       0          217375    
-93         maia5                     1430       2          107705    
-94         sargon-4ply               1428       -11        2391      
-95         ShallowLearnBot           1427       2          103       
+92         maia1                     1461       -9         217376    
+93         sargon-4ply               1428       -11        2391      
+94         ShallowLearnBot           1427       2          103       
+95         maia5                     1421       0          107706    
 96         Humaia                    1416       30         1037      
 97         sargon-3ply               1415       -19        2214      
 98         DavidsGuterBot            1413       -32        4002      
