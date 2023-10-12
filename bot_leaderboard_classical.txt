@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
-1          Occhessadvanced           2639       6          236       
-2          ReinforcementTrial        2633       9          685       
-3          European_Chess_Bot        2628       6          17        
+1          MphoBot                   2652       72         33        
+2          Occhessadvanced           2639       6          236       
+3          ReinforcementTrial        2633       9          685       
 4          LeelaMultiPoss            2627       -8         160       
 5          YoBot_v2                  2621       -3         857       
 6          ResoluteBot               2608       -5         954       
@@ -66,7 +66,7 @@ Rank       Bot                       Rating     Prog       Games
 65         chat_bot                  1560       54         72        
 66         sargon-3ply               1556       -33        773       
 67         yeoldwiz                  1556       -1         328       
-68         maia5                     1531       -14        24193     
+68         maia5                     1538       -11        24194     
 69         maia1                     1501       23         69703     
 70         StupidChessRobot          1492       -49        36        
 71         Humaia                    1491       47         1288      
