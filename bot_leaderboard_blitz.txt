@@ -23,10 +23,10 @@ Rank       Bot                       Rating     Prog       Games
 22         MrChessTheBot             2542       -53        2009      
 23         SATRANC_KAZANSIN_BOT      2533       0          27        
 24         SaxtonEngine              2508       -8         3007      
-25         Weiawaga                  2494       -10        12778     
+25         Weiawaga                  2499       -1         12779     
 26         pawn_git                  2485       -6         3235      
-27         catriever                 2483       -1         1360      
-28         bot_adario                2480       0          2802      
+27         bot_adario                2480       0          2802      
+28         catriever                 2477       -9         1361      
 29         Cheng-4                   2445       -5         7034      
 30         odonata-bot               2437       4          6494      
 31         fornax-engine             2422       2          6865      
@@ -51,11 +51,11 @@ Rank       Bot                       Rating     Prog       Games
 50         Boris-Trapsky             2097       -6         30082     
 51         myopic-bot                2083       11         3014      
 52         redtail-zero              2059       7          797       
-53         KelpBot                   2056       -102       23        
-54         likeawizard-bot           2050       13         6392      
+53         likeawizard-bot           2056       9          6393      
+54         KelpBot                   2056       -102       23        
 55         Elmichess                 2040       12         3748      
 56         Humaia-Strong             2029       42         2377      
-57         BLANK_BOT                 2025       -14        5729      
+57         BLANK_BOT                 2020       -16        5730      
 58         LeelaRogue                2013       11         2456      
 59         Lynx_BOT                  2005       -4         53068     
 60         sun_bird                  1979       -4         3124      
@@ -83,7 +83,7 @@ Rank       Bot                       Rating     Prog       Games
 82         Jibbby                    1638       -12        6671      
 83         ai-con                    1611       -3         308       
 84         simplexitor               1610       -27        2656      
-85         maia9                     1595       10         108451    
+85         maia9                     1597       14         108453    
 86         postbot                   1570       7          853       
 87         yeoldwiz                  1561       33         2165      
 88         turkjs                    1557       -2         10673     
@@ -91,7 +91,7 @@ Rank       Bot                       Rating     Prog       Games
 90         LeElaGuess                1544       -25        225       
 91         ZE_ROOK                   1536       -8         3413      
 92         sudobot_chess             1523       -61        404       
-93         maia1                     1465       13         217392    
+93         maia1                     1471       8          217394    
 94         sargon-4ply               1428       -11        2391      
 95         ShallowLearnBot           1427       2          103       
 96         maia5                     1417       -13        107711    
