@@ -2,11 +2,11 @@ Rank       Bot                       Rating     Prog       Games
 1          YoBot_v2                  2962       -4         19915     
 2          Mate-AI                   2940       7          13520     
 3          ReinforcementTrial        2938       3          3465      
-4          ResoluteBot               2933       -3         28575     
-5          ToromBot                  2933       2          66318     
+4          ToromBot                  2934       3          66319     
+5          ResoluteBot               2933       -3         28575     
 6          FireFishBOT_v2            2930       -5         1948      
-7          Intron014                 2925       -7         2131      
-8          caissa-x                  2923       -5         14741     
+7          caissa-x                  2926       -2         14742     
+8          Intron014                 2925       -7         2131      
 9          RaspFish                  2875       10         55833     
 10         Mr_Chess_Berserk          2843       11         1324      
 11         blundar_bot               2777       -15        12605     
@@ -21,7 +21,7 @@ Rank       Bot                       Rating     Prog       Games
 20         Weiawaga                  2501       -1         17209     
 21         ELO_1500                  2501       -3         3389      
 22         pawn_git                  2498       1          5286      
-23         SaxtonEngine              2491       0          5410      
+23         SaxtonEngine              2490       0          5411      
 24         Cheng-4                   2487       -5         14751     
 25         AKS-Mantissa              2479       -16        11990     
 26         catriever                 2460       4          2907      
@@ -38,7 +38,7 @@ Rank       Bot                       Rating     Prog       Games
 37         fornax-engine             2348       1          7516      
 38         simpleEval                2310       9          26067     
 39         admete_bot                2293       26         14123     
-40         bekbot                    2282       7          2378      
+40         bekbot                    2286       7          2379      
 41         Nakshatra3                2282       9          2063      
 42         HistoryExplorer           2282       8          2852      
 43         halcyonbot                2273       -17        6876      
@@ -47,7 +47,7 @@ Rank       Bot                       Rating     Prog       Games
 46         Humaia-Strong             2188       30         1329      
 47         honzovy-sachy-2           2157       -34        7919      
 48         eubos                     2149       18         14245     
-49         matmoi                    2140       -5         4296      
+49         matmoi                    2136       -1         4297      
 50         myopic-bot                2118       15         2811      
 51         GarboBot                  2112       10         10451     
 52         jangine                   2105       9          3948      
@@ -81,7 +81,7 @@ Rank       Bot                       Rating     Prog       Games
 80         LeElaGuess                1627       -196       59        
 81         postbot                   1597       -7         889       
 82         ZE_ROOK                   1586       -12        2410      
-83         turkjs                    1577       9          19861     
+83         turkjs                    1581       9          19862     
 84         turochamp-2ply            1577       11         1975      
 85         maia5                     1569       3          40961     
 86         sargon-3ply               1564       -1         1788      
@@ -90,8 +90,8 @@ Rank       Bot                       Rating     Prog       Games
 89         DavidsGuterBot            1490       -6         6971      
 90         RoundMoundOfRebounds      1487       8          1809      
 91         ShallowLearnBot           1462       -12        79        
-92         botTideEval               1452       -26        4253      
-93         yeoldwiz                  1450       18         791       
+92         yeoldwiz                  1450       18         791       
+93         botTideEval               1449       -36        4254      
 94         monchester                1434       3          2975      
 95         schnecken_bot             1429       4          1701      
 96         turochamp-1ply            1418       -26        2532      
