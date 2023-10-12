@@ -5,7 +5,7 @@ Rank       Bot                       Rating     Prog       Games
 4          ReinforcementTrial        2939       3          3467      
 5          Mate-AI                   2934       -4         13524     
 6          FireFishBOT_v2            2930       -2         1952      
-7          RaspFish                  2879       -1         55850     
+7          RaspFish                  2879       -2         55851     
 8          Mr_Chess_Berserk          2845       12         1325      
 9          ShallowEngine             2787       0          50        
 10         blundar_bot               2771       -16        12608     
@@ -30,7 +30,7 @@ Rank       Bot                       Rating     Prog       Games
 29         MrChessTheBot             2393       -52        5912      
 30         AjedrezChamberi           2388       32         543       
 31         odonata-bot               2369       5          7032      
-32         OpeningsBot               2369       -25        4291      
+32         OpeningsBot               2368       -23        4292      
 33         Phalanx-XXV               2367       5          5148      
 34         Pseudo-0                  2366       -22        4490      
 35         ChessNoobComp             2359       -2         9612      
@@ -45,9 +45,9 @@ Rank       Bot                       Rating     Prog       Games
 44         LazyBotJr                 2192       20         1162      
 45         Humaia-Strong             2188       30         1329      
 46         honzovy-sachy-2           2157       -34        7919      
-47         matmoi                    2152       12         4307      
+47         matmoi                    2157       21         4308      
 48         eubos                     2149       18         14245     
-49         myopic-bot                2113       16         2812      
+49         myopic-bot                2108       5          2813      
 50         GarboBot                  2107       -1         10452     
 51         jangine                   2101       -5         3950      
 52         redtail-zero              2095       -17        1180      
@@ -57,8 +57,8 @@ Rank       Bot                       Rating     Prog       Games
 56         MaxtheDog                 2008       17         17392     
 57         Lynx_BOT                  1980       -7         8576      
 58         zeekat                    1980       17         21373     
-59         Trollfish-Bot             1919       -2         7061      
-60         QuintBot                  1852       32         12364     
+59         Trollfish-Bot             1923       -3         7062      
+60         QuintBot                  1847       22         12365     
 61         NatesBot                  1832       0          946       
 62         piglet_engine             1801       9          1388      
 63         ShallowRedBot             1783       -2         662       
@@ -87,7 +87,7 @@ Rank       Bot                       Rating     Prog       Games
 86         maia1                     1554       23         129051    
 87         sargon-4ply               1540       -16        2200      
 88         DavidsGuterBot            1503       3          6973      
-89         RoundMoundOfRebounds      1477       5          1812      
+89         RoundMoundOfRebounds      1480       5          1813      
 90         ShallowLearnBot           1462       -12        79        
 91         yeoldwiz                  1450       18         791       
 92         botTideEval               1440       -26        4258      
@@ -98,7 +98,7 @@ Rank       Bot                       Rating     Prog       Games
 97         StupidChessRobot          1377       20         1529      
 98         sargon-1ply               1266       14         5538      
 99         dragobot                  1261       -47        89        
-100        CHoMPBoT                  1253       -23        1030      
+100        CHoMPBoT                  1249       -21        1031      
 101        ABotWith3200Rating        1243       12         232       
 102        pawnrobot                 1222       -14        4214      
 103        king-forward-bot          1187       -19        142       
