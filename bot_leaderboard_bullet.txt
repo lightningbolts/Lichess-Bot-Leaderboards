@@ -1,8 +1,8 @@
 Rank       Bot                       Rating     Prog       Games     
 1          LeelaMultiPoss            3004       12         1089      
-2          YoBot_v2                  2959       3          19929     
+2          YoBot_v2                  2959       -1         19930     
 3          ToromBot                  2955       8          66355     
-4          Mate-AI                   2950       10         13533     
+4          Mate-AI                   2950       13         13534     
 5          ReinforcementTrial        2945       7          3476      
 6          FireFishBOT_v2            2934       1          1954      
 7          ResoluteBot               2926       -6         28601     
@@ -53,13 +53,13 @@ Rank       Bot                       Rating     Prog       Games
 52         redtail-zero              2090       -12        1185      
 53         likeawizard-bot           2066       0          3276      
 54         BLANK_BOT                 2056       11         8509      
-55         sun_bird                  2046       10         3443      
+55         sun_bird                  2049       15         3444      
 56         Lynx_BOT                  1995       22         8591      
 57         MaxtheDog                 1986       2          17415     
 58         zeekat                    1980       4          21390     
-59         Trollfish-Bot             1933       -7         7086      
-60         potato-chess-bot          1899       -3         145       
-61         NatesBot                  1836       4          955       
+59         Trollfish-Bot             1931       -15        7087      
+60         potato-chess-bot          1895       -9         146       
+61         NatesBot                  1837       5          956       
 62         QuintBot                  1812       -30        12401     
 63         piglet_engine             1799       2          1393      
 64         baby_eubos                1781       10         6930      
@@ -73,7 +73,7 @@ Rank       Bot                       Rating     Prog       Games
 72         Virutor                   1732       -3         7396      
 73         ChessChildren             1709       5          15950     
 74         ai-con                    1700       10         295       
-75         HardRok                   1669       8          1035      
+75         HardRok                   1671       14         1036      
 76         Jibbby                    1659       -2         3137      
 77         Humaia                    1655       16         612       
 78         Demolito_L4               1646       -5         233       
@@ -94,7 +94,7 @@ Rank       Bot                       Rating     Prog       Games
 93         yeoldwiz                  1450       18         791       
 94         schnecken_bot             1442       5          1710      
 95         botTideEval               1438       -2         4269      
-96         monchester                1428       2          2977      
+96         monchester                1426       2          2978      
 97         turochamp-1ply            1423       -12        2536      
 98         sargon-2ply               1392       -8         2940      
 99         StupidChessRobot          1385       25         1535      
