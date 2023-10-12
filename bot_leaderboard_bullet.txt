@@ -52,12 +52,12 @@ Rank       Bot                       Rating     Prog       Games
 51         redtail-zero              2096       0          1186      
 52         likeawizard-bot           2066       0          3276      
 53         BLANK_BOT                 2056       11         8509      
-54         sun_bird                  2036       -20        3457      
+54         sun_bird                  2040       -14        3458      
 55         Lynx_BOT                  2005       27         8595      
 56         zeekat                    1979       0          21393     
 57         MaxtheDog                 1967       -16        17420     
 58         Trollfish-Bot             1946       10         7094      
-59         potato-chess-bot          1904       17         160       
+59         potato-chess-bot          1900       5          161       
 60         NatesBot                  1832       1          959       
 61         QuintBot                  1827       1          12407     
 62         piglet_engine             1802       1          1394      
@@ -78,8 +78,8 @@ Rank       Bot                       Rating     Prog       Games
 77         LeElaGuess                1648       6          67        
 78         rudim-bot                 1644       -29        160       
 79         Demolito_L4               1640       -16        234       
-80         postbot                   1623       13         916       
-81         maia9                     1622       -20        62507     
+80         maia9                     1632       2          62509     
+81         postbot                   1623       13         916       
 82         ZE_ROOK                   1594       7          2415      
 83         turkjs                    1591       15         19870     
 84         maia5                     1571       -6         40987     
@@ -103,5 +103,6 @@ Rank       Bot                       Rating     Prog       Games
 102        CHoMPBoT                  1241       -20        1033      
 103        pawnrobot                 1222       -14        4214      
 104        king-forward-bot          1187       -19        142       
-105        knucklefish               1177       -12        3070      
-106        grandQ_AI                 826        6          885       
+105        bobandi                   1184       5          1194      
+106        knucklefish               1177       -12        3070      
+107        grandQ_AI                 826        6          885       
