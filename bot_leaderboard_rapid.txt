@@ -3,12 +3,12 @@ Rank       Bot                       Rating     Prog       Games
 2          ReinforcementTrial        2934       4          6361      
 3          Mate-AI                   2924       2          2725      
 4          Occhessadvanced           2924       5          426       
-5          M-Z_Bot                   2914       -3         823       
+5          M-Z_Bot                   2914       -3         824       
 6          caissa-x                  2910       0          3453      
-7          FireFishBOT_v2            2907       5          1242      
+7          FireFishBOT_v2            2907       4          1243      
 8          YoBot_v2                  2901       -4         13744     
 9          ResoluteBot               2901       7          6152      
-10         RaspFish                  2886       7          6734      
+10         RaspFish                  2886       7          6735      
 11         ttBOT                     2882       -5         180       
 12         JuroJ                     2863       4          2882      
 13         MphoBot                   2833       -7         169       
@@ -71,7 +71,7 @@ Rank       Bot                       Rating     Prog       Games
 70         ShallowRedBot             1869       9          147       
 71         honzovy-sachy             1824       10         1195      
 72         Virutor                   1812       -14        3440      
-73         Jibbby                    1774       19         2372      
+73         Jibbby                    1767       13         2373      
 74         Trollfish-Bot             1762       3          438       
 75         Demolito_L5               1752       23         2160      
 76         ChessChildren             1739       -10        4726      
@@ -92,7 +92,7 @@ Rank       Bot                       Rating     Prog       Games
 91         sargon-3ply               1541       27         1330      
 92         ShallowLearnBot           1510       -203       21        
 93         turochamp-2ply            1475       -14        1198      
-94         maia1                     1440       -9         244205    
+94         maia1                     1451       6          244206    
 95         Humaia                    1430       -12        2476      
 96         RoundMoundOfRebounds      1412       -25        430       
 97         StupidChessRobot          1404       -11        124       
@@ -106,5 +106,6 @@ Rank       Bot                       Rating     Prog       Games
 105        CHoMPBoT                  1169       -9         586       
 106        chat_bot                  1151       -22        348       
 107        ABotWith3200Rating        1135       -2         210       
-108        grandQ_AI                 813        17         1680      
-109        G0thamB0t                 630        8          460       
+108        bobandi                   1005       10         808       
+109        grandQ_AI                 813        17         1680      
+110        G0thamB0t                 630        8          460       
