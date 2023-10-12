@@ -89,7 +89,7 @@ Rank       Bot                       Rating     Prog       Games
 88         sargon-3ply               1544       33         1332      
 89         ShallowLearnBot           1538       -176       22        
 90         turochamp-2ply            1472       -24        1199      
-91         maia1                     1434       7          244257    
+91         maia1                     1439       6          244259    
 92         Humaia                    1427       -8         2477      
 93         RoundMoundOfRebounds      1412       -25        430       
 94         StupidChessRobot          1404       -11        124       
@@ -103,4 +103,5 @@ Rank       Bot                       Rating     Prog       Games
 102        king-forward-bot          1156       -77        48        
 103        chat_bot                  1151       -22        348       
 104        ABotWith3200Rating        1135       -2         210       
-105        grandQ_AI                 812        8          1681      
+105        bobandi                   1005       10         808       
+106        grandQ_AI                 812        8          1681      
