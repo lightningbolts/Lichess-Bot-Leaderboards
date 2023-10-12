@@ -52,12 +52,12 @@ Rank       Bot                       Rating     Prog       Games
 51         redtail-zero              2090       -12        1185      
 52         likeawizard-bot           2066       0          3276      
 53         BLANK_BOT                 2056       11         8509      
-54         sun_bird                  2043       -2         3449      
+54         sun_bird                  2047       -2         3450      
 55         Lynx_BOT                  2007       29         8594      
-56         MaxtheDog                 1981       -9         17417     
-57         zeekat                    1980       2          21392     
-58         Trollfish-Bot             1927       -20        7089      
-59         potato-chess-bot          1897       -3         151       
+56         zeekat                    1980       2          21392     
+57         MaxtheDog                 1974       -10        17418     
+58         Trollfish-Bot             1934       -14        7090      
+59         potato-chess-bot          1894       -8         152       
 60         NatesBot                  1837       5          958       
 61         QuintBot                  1820       -14        12405     
 62         piglet_engine             1799       2          1393      
@@ -70,7 +70,7 @@ Rank       Bot                       Rating     Prog       Games
 69         simplexitor               1758       -12        2730      
 70         Calvin_Bot                1737       7          333       
 71         Virutor                   1732       -3         7396      
-72         ChessChildren             1709       5          15950     
+72         ChessChildren             1711       14         15951     
 73         ai-con                    1698       5          296       
 74         HardRok                   1671       14         1036      
 75         Jibbby                    1659       -2         3137      
@@ -86,7 +86,7 @@ Rank       Bot                       Rating     Prog       Games
 85         sargon-3ply               1567       -2         1791      
 86         turochamp-2ply            1561       -15        1981      
 87         sargon-4ply               1524       -22        2205      
-88         maia1                     1505       -25        129103    
+88         maia1                     1500       -32        129104    
 89         DavidsGuterBot            1500       9          6980      
 90         RoundMoundOfRebounds      1482       8          1818      
 91         ShallowLearnBot           1460       -11        80        
@@ -96,7 +96,7 @@ Rank       Bot                       Rating     Prog       Games
 95         turochamp-1ply            1423       -12        2536      
 96         monchester                1423       1          2979      
 97         sargon-2ply               1392       -8         2940      
-98         StupidChessRobot          1382       15         1536      
+98         StupidChessRobot          1380       7          1537      
 99         sargon-1ply               1264       10         5539      
 100        dragobot                  1261       -47        89        
 101        ABotWith3200Rating        1243       12         232       
