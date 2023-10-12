@@ -1,5 +1,5 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ReinforcementTrial        2930       10         6354      
+1          ReinforcementTrial        2930       5          6355      
 2          Mate-AI                   2924       1          2723      
 3          Occhessadvanced           2919       -4         421       
 4          M-Z_Bot                   2917       3          814       
@@ -7,7 +7,7 @@ Rank       Bot                       Rating     Prog       Games
 6          YoBot_v2                  2903       -3         13739     
 7          ResoluteBot               2900       1          6149      
 8          ttBOT                     2884       -3         179       
-9          RaspFish                  2882       -7         6729      
+9          RaspFish                  2883       -1         6730      
 10         JuroJ                     2863       4          2882      
 11         Mr_Chess_Berserk          2855       -2         288       
 12         MphoBot                   2837       -7         165       
@@ -34,8 +34,8 @@ Rank       Bot                       Rating     Prog       Games
 33         OpeningsBot               2409       16         610       
 34         fornax-engine             2406       -4         3878      
 35         ChessNoobComp             2386       17         695       
-36         simpleEval                2357       3          8051      
-37         bekbot                    2333       17         2539      
+36         simpleEval                2357       -3         8052      
+37         bekbot                    2333       15         2540      
 38         halcyonbot                2289       -15        7931      
 39         eubos                     2255       23         4455      
 40         FataliiBot                2254       6          3039      
@@ -44,7 +44,7 @@ Rank       Bot                       Rating     Prog       Games
 43         Elmichess                 2178       10         1448      
 44         matmoi                    2160       -16        2996      
 45         jangine                   2143       12         2062      
-46         Boris-Trapsky             2116       -5         28353     
+46         Boris-Trapsky             2117       -4         28354     
 47         Lynx_BOT                  2115       -9         40751     
 48         likeawizard-bot           2100       21         1836      
 49         Humaia-Strong             2092       35         622       
@@ -86,8 +86,8 @@ Rank       Bot                       Rating     Prog       Games
 85         maia5                     1597       -39        107324    
 86         DavidsGuterBot            1562       -12        743       
 87         LeElaGuess                1558       39         221       
-88         maia1                     1522       2          244166    
-89         sargon-3ply               1520       7          1327      
+88         sargon-3ply               1520       7          1327      
+89         maia1                     1518       2          244167    
 90         ShallowLearnBot           1510       -203       21        
 91         turochamp-2ply            1478       -9         1197      
 92         Humaia                    1436       -11        2475      
