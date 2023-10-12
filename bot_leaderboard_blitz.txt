@@ -16,7 +16,7 @@ Rank       Bot                       Rating     Prog       Games
 15         blundar_bot               2750       -14        2081      
 16         Berserk-Test              2744       -1         449       
 17         LazyBot                   2674       6          2078      
-18         ELO_1500                  2658       16         13463     
+18         ELO_1500                  2661       16         13464     
 19         AKS-Mantissa              2613       3          11341     
 20         expositor                 2588       2          8154      
 21         MrChessTheBot             2542       -53        2009      
@@ -26,7 +26,7 @@ Rank       Bot                       Rating     Prog       Games
 25         catriever                 2478       -3         1363      
 26         pawn_git                  2477       -9         3254      
 27         bot_adario                2471       -4         2806      
-28         Cheng-4                   2451       1          7036      
+28         Cheng-4                   2449       -2         7037      
 29         odonata-bot               2436       3          6495      
 30         fornax-engine             2425       6          6869      
 31         OpeningsBot               2410       2          2077      
@@ -63,10 +63,10 @@ Rank       Bot                       Rating     Prog       Games
 62         MaxtheDog                 1938       -5         5975      
 63         potato-chess-bot          1933       0          242       
 64         zeekat                    1882       -3         23641     
-65         QuintBot                  1827       7          11956     
-66         baby_eubos                1825       10         9511      
+65         baby_eubos                1825       10         9511      
+66         QuintBot                  1821       -2         11957     
 67         notropis                  1818       20         7887      
-68         Trollfish-Bot             1806       -13        3514      
+68         Trollfish-Bot             1812       -13        3515      
 69         NatesBot                  1806       8          2480      
 70         Dinora                    1775       -23        766       
 71         ShallowRedBot             1751       7          891       
@@ -97,7 +97,7 @@ Rank       Bot                       Rating     Prog       Games
 96         sargon-3ply               1418       -13        2218      
 97         RoundMoundOfRebounds      1413       19         1611      
 98         ShallowLearnBot           1412       -6         107       
-99         maia5                     1404       -20        107729    
+99         maia5                     1400       -17        107730    
 100        schnecken_bot             1350       -14        2901      
 101        StupidChessRobot          1330       11         3326      
 102        turochamp-2ply            1312       17         1932      
