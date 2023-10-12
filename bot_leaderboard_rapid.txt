@@ -3,10 +3,10 @@ Rank       Bot                       Rating     Prog       Games
 2          ReinforcementTrial        2928       7          6353      
 3          Mate-AI                   2925       1          2722      
 4          Occhessadvanced           2918       -1         419       
-5          M-Z_Bot                   2917       3          812       
+5          M-Z_Bot                   2917       3          813       
 6          FireFishBOT_v2            2907       5          1242      
 7          YoBot_v2                  2903       -3         13739     
-8          ResoluteBot               2900       1          6148      
+8          ResoluteBot               2900       1          6149      
 9          RaspFish                  2885       -3         6727      
 10         JuroJ                     2863       4          2882      
 11         Mr_Chess_Berserk          2855       -1         287       
@@ -35,7 +35,7 @@ Rank       Bot                       Rating     Prog       Games
 34         fornax-engine             2406       -4         3878      
 35         ChessNoobComp             2386       17         695       
 36         simpleEval                2357       3          8051      
-37         bekbot                    2325       4          2537      
+37         bekbot                    2328       11         2538      
 38         halcyonbot                2294       -14        7930      
 39         eubos                     2255       23         4455      
 40         FataliiBot                2252       2          3038      
@@ -45,8 +45,8 @@ Rank       Bot                       Rating     Prog       Games
 44         Elmichess                 2178       10         1448      
 45         matmoi                    2156       -17        2995      
 46         jangine                   2143       12         2062      
-47         Boris-Trapsky             2119       -1         28352     
-48         Lynx_BOT                  2117       -14        40750     
+47         Lynx_BOT                  2117       -14        40750     
+48         Boris-Trapsky             2116       -5         28353     
 49         likeawizard-bot           2095       21         1835      
 50         Humaia-Strong             2092       35         622       
 51         GarboBot                  2067       -16        6536      
@@ -62,7 +62,7 @@ Rank       Bot                       Rating     Prog       Games
 61         baby_eubos                1943       -5         1142      
 62         zeekat                    1928       -11        9670      
 63         QuintBot                  1920       -3         524       
-64         NatesBot                  1901       -13        1181      
+64         NatesBot                  1904       -6         1182      
 65         Dinora                    1887       7          153       
 66         notropis                  1871       -2         2876      
 67         ShallowRedBot             1868       12         146       
@@ -74,9 +74,9 @@ Rank       Bot                       Rating     Prog       Games
 73         Jibbby                    1754       12         2362      
 74         Demolito_L5               1748       17         2156      
 75         ChessChildren             1743       -10        4725      
-76         AshNostromo               1713       -16        1355      
+76         AshNostromo               1710       -17        1356      
 77         turkjs                    1698       1          5302      
-78         maia9                     1696       19         91498     
+78         maia9                     1684       4          91500     
 79         simplexitor               1677       -26        652       
 80         ZE_ROOK                   1661       4          714       
 81         yeoldwiz                  1654       -11        794       
@@ -87,8 +87,8 @@ Rank       Bot                       Rating     Prog       Games
 86         maia5                     1616       -20        107321    
 87         DavidsGuterBot            1562       -12        743       
 88         LeElaGuess                1558       39         221       
-89         maia1                     1520       -25        244155    
-90         sargon-3ply               1520       7          1327      
+89         sargon-3ply               1520       7          1327      
+90         maia1                     1512       -29        244157    
 91         ShallowLearnBot           1510       -203       21        
 92         turochamp-2ply            1478       -9         1197      
 93         Humaia                    1436       -11        2475      
