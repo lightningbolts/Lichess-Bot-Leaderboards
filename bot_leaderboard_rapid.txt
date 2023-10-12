@@ -1,5 +1,5 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ReinforcementTrial        2941       11         6371      
+1          ReinforcementTrial        2940       6          6372      
 2          LeelaMultiPoss            2937       8          452       
 3          ToromBot                  2932       3          3220      
 4          Mate-AI                   2923       1          2728      
@@ -8,7 +8,7 @@ Rank       Bot                       Rating     Prog       Games
 7          FireFishBOT_v2            2905       -2         1244      
 8          ResoluteBot               2904       4          6159      
 9          YoBot_v2                  2901       -4         13745     
-10         RaspFish                  2888       5          6741      
+10         RaspFish                  2888       1          6742      
 11         JuroJ                     2864       3          2883      
 12         MphoBot                   2834       -1         171       
 13         faith_bot                 2829       2          2295      
@@ -18,7 +18,7 @@ Rank       Bot                       Rating     Prog       Games
 17         MrChessTheBot             2689       -53        2243      
 18         expositor                 2651       4          4999      
 19         AKS-Mantissa              2614       13         4479      
-20         LazyBot                   2611       2          827       
+20         LazyBot                   2611       2          829       
 21         SaxtonEngine              2597       -1         1661      
 22         pawn_git                  2588       -11        1563      
 23         Cheng-4                   2578       5          3427      
@@ -60,7 +60,7 @@ Rank       Bot                       Rating     Prog       Games
 59         potato-chess-bot          1947       89         43        
 60         baby_eubos                1943       -5         1142      
 61         zeekat                    1933       3          9679      
-62         NatesBot                  1908       13         1190      
+62         NatesBot                  1910       18         1191      
 63         QuintBot                  1905       -20        528       
 64         Dinora                    1887       7          153       
 65         notropis                  1872       9          2881      
@@ -75,7 +75,7 @@ Rank       Bot                       Rating     Prog       Games
 74         AshNostromo               1710       -18        1358      
 75         turkjs                    1704       0          5305      
 76         maia9                     1688       -12        91572     
-77         simplexitor               1678       -22        653       
+77         simplexitor               1675       -28        654       
 78         ZE_ROOK                   1666       5          716       
 79         ai-con                    1662       30         164       
 80         yeoldwiz                  1649       -14        795       
