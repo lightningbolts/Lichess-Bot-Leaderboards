@@ -1,8 +1,8 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ToromBot                  2928       1          3212      
 2          ReinforcementTrial        2924       0          6341      
-3          Mate-AI                   2922       2          2715      
-4          Occhessadvanced           2919       2          404       
+3          Mate-AI                   2922       -3         2716      
+4          Occhessadvanced           2919       3          405       
 5          M-Z_Bot                   2915       2          799       
 6          caissa-x                  2909       -1         3448      
 7          FireFishBOT_v2            2907       2          1237      
@@ -10,9 +10,9 @@ Rank       Bot                       Rating     Prog       Games
 9          ResoluteBot               2899       6          6139      
 10         Intron014                 2896       0          439       
 11         RaspFish                  2889       1          6718      
-12         JuroJ                     2860       8          2872      
+12         JuroJ                     2861       7          2873      
 13         Mr_Chess_Berserk          2857       -4         280       
-14         MphoBot                   2836       -2         161       
+14         MphoBot                   2838       -6         162       
 15         faith_bot                 2825       2          2264      
 16         blundar_bot               2813       7          1582      
 17         Berserk-Test              2734       12         223       
@@ -60,7 +60,7 @@ Rank       Bot                       Rating     Prog       Games
 59         LazyBotJr                 1984       11         1576      
 60         LeelaRogue                1964       -6         2397      
 61         baby_eubos                1943       -5         1142      
-62         zeekat                    1937       20         9661      
+62         zeekat                    1933       11         9662      
 63         QuintBot                  1920       -3         524       
 64         NatesBot                  1909       -2         1176      
 65         Dinora                    1887       7          153       
@@ -70,8 +70,8 @@ Rank       Bot                       Rating     Prog       Games
 69         honzovy-sachy             1817       18         1192      
 70         Virutor                   1816       -15        3439      
 71         zulu_bot                  1776       3          110       
-72         Jibbby                    1762       12         2357      
-73         Trollfish-Bot             1761       1          437       
+72         Trollfish-Bot             1761       1          437       
+73         Jibbby                    1755       11         2358      
 74         Demolito_L5               1741       14         2151      
 75         ChessChildren             1740       -12        4721      
 76         AshNostromo               1713       -16        1355      
@@ -79,7 +79,7 @@ Rank       Bot                       Rating     Prog       Games
 78         turkjs                    1701       -2         5301      
 79         simplexitor               1681       -19        650       
 80         ZE_ROOK                   1656       -4         713       
-81         yeoldwiz                  1650       -24        793       
+81         yeoldwiz                  1654       -11        794       
 82         Demolito_L4               1647       10         239       
 83         sargon-4ply               1640       -11        827       
 84         dragobot                  1639       9          170       
@@ -89,7 +89,7 @@ Rank       Bot                       Rating     Prog       Games
 88         ShallowLearnBot           1551       -162       19        
 89         sargon-3ply               1520       7          1327      
 90         LeElaGuess                1520       10         210       
-91         maia1                     1517       22         244092    
+91         maia1                     1508       11         244094    
 92         turochamp-2ply            1478       -9         1197      
 93         Humaia                    1436       -11        2475      
 94         RoundMoundOfRebounds      1421       -16        428       
