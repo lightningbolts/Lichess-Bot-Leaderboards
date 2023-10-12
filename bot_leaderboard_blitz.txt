@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
 1          LeelaMultiPoss            2961       12         743       
-2          ToromBot                  2942       -1         7090      
+2          ToromBot                  2941       -2         7091      
 3          ReinforcementTrial        2924       1          4571      
 4          European_Chess_Bot        2919       4          110       
 5          FireFishBOT_v2            2910       -1         11308     
@@ -31,12 +31,12 @@ Rank       Bot                       Rating     Prog       Games
 30         fornax-engine             2425       6          6869      
 31         OpeningsBot               2410       2          2077      
 32         TuksuBot                  2408       -10        4595      
-33         ChessNoobComp             2403       15         1820      
+33         ChessNoobComp             2408       23         1821      
 34         Pseudo-0                  2391       -5         3445      
 35         Phalanx-XXV               2379       10         3209      
 36         AjedrezChamberi           2376       10         276       
 37         admete_bot                2359       25         7895      
-38         bekbot                    2331       13         2351      
+38         bekbot                    2326       9          2352      
 39         FlamingDragon_9000        2323       19         3331      
 40         simpleEval                2293       2          16164     
 41         halcyonbot                2231       -25        11734     
@@ -74,7 +74,7 @@ Rank       Bot                       Rating     Prog       Games
 73         honzovy-sachy             1735       1          5792      
 74         Virutor                   1729       0          8140      
 75         piglet_engine             1717       -12        370       
-76         Calvin_Bot                1681       22         375       
+76         Calvin_Bot                1686       25         376       
 77         LittleGreenManBot         1677       -3         4784      
 78         Demolito_L5               1664       -11        3071      
 79         maia9                     1653       -47        108533    
