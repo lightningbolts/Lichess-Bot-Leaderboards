@@ -5,7 +5,7 @@ Rank       Bot                       Rating     Prog       Games
 4          Mate-AI                   2938       -1         13526     
 5          ttBOT                     2935       -6         1508      
 6          FireFishBOT_v2            2929       -3         1953      
-7          RaspFish                  2879       -1         55863     
+7          RaspFish                  2879       3          55864     
 8          Mr_Chess_Berserk          2845       12         1325      
 9          blundar_bot               2771       -16        12608     
 10         faith_bot                 2770       12         3521      
@@ -37,8 +37,8 @@ Rank       Bot                       Rating     Prog       Games
 36         fornax-engine             2345       -5         7520      
 37         simpleEval                2304       2          26075     
 38         admete_bot                2290       26         14126     
-39         bekbot                    2283       -4         2387      
-40         Nakshatra3                2283       6          2065      
+39         Nakshatra3                2283       6          2065      
+40         bekbot                    2282       -1         2388      
 41         halcyonbot                2268       -14        6878      
 42         FataliiBot                2260       1          6432      
 43         LazyBotJr                 2192       20         1162      
@@ -72,9 +72,9 @@ Rank       Bot                       Rating     Prog       Games
 71         ChessChildren             1703       1          15948     
 72         ai-con                    1681       14         290       
 73         Jibbby                    1662       -1         3130      
-74         Demolito_L4               1648       0          231       
-75         rudim-bot                 1644       -29        160       
-76         Humaia                    1642       -1         606       
+74         Humaia                    1651       4          609       
+75         Demolito_L4               1648       0          231       
+76         rudim-bot                 1644       -29        160       
 77         LeElaGuess                1642       -65        63        
 78         maia9                     1640       -10        62491     
 79         postbot                   1609       15         899       
