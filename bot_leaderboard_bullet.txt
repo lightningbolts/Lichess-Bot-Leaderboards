@@ -54,15 +54,15 @@ Rank       Bot                       Rating     Prog       Games
 53         BLANK_BOT                 2049       3          8510      
 54         sun_bird                  2025       -11        3468      
 55         Lynx_BOT                  2019       22         8603      
-56         zeekat                    1983       12         21395     
+56         zeekat                    1983       10         21396     
 57         MaxtheDog                 1968       -18        17426     
-58         Trollfish-Bot             1945       10         7102      
+58         Trollfish-Bot             1946       11         7103      
 59         potato-chess-bot          1907       19         167       
 60         NatesBot                  1835       5          960       
 61         QuintBot                  1816       -23        12420     
 62         piglet_engine             1800       6          1396      
 63         notropis                  1786       3          4843      
-64         baby_eubos                1777       7          6934      
+64         baby_eubos                1779       13         6935      
 65         Dinora                    1768       23         531       
 66         ShallowRedBot             1765       -16        668       
 67         Demolito_L5               1763       -16        1585      
@@ -86,7 +86,7 @@ Rank       Bot                       Rating     Prog       Games
 85         sargon-3ply               1567       -2         1791      
 86         turochamp-2ply            1564       -16        1982      
 87         sargon-4ply               1524       -30        2207      
-88         maia1                     1501       -24        129108    
+88         maia1                     1509       -10        129110    
 89         DavidsGuterBot            1501       11         6982      
 90         RoundMoundOfRebounds      1482       8          1818      
 91         ShallowLearnBot           1460       -11        80        
@@ -103,5 +103,6 @@ Rank       Bot                       Rating     Prog       Games
 102        CHoMPBoT                  1241       -20        1033      
 103        pawnrobot                 1221       -19        4215      
 104        king-forward-bot          1187       -19        142       
-105        knucklefish               1177       -12        3070      
-106        grandQ_AI                 826        6          885       
+105        bobandi                   1184       5          1194      
+106        knucklefish               1177       -12        3070      
+107        grandQ_AI                 826        6          885       
