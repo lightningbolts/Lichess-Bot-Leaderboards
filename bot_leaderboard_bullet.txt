@@ -3,13 +3,13 @@ Rank       Bot                       Rating     Prog       Games
 2          Mate-AI                   2940       7          13520     
 3          ReinforcementTrial        2938       3          3465      
 4          ResoluteBot               2933       -3         28575     
-5          FireFishBOT_v2            2930       -5         1948      
-6          ToromBot                  2926       -9         66316     
+5          ToromBot                  2930       -1         66317     
+6          FireFishBOT_v2            2930       -5         1948      
 7          Intron014                 2925       -7         2131      
 8          caissa-x                  2923       -5         14741     
 9          RaspFish                  2875       10         55833     
 10         Mr_Chess_Berserk          2843       11         1324      
-11         blundar_bot               2784       -15        12603     
+11         blundar_bot               2781       -15        12604     
 12         faith_bot                 2770       12         3521      
 13         Berserk-Test              2735       33         553       
 14         JuroJ                     2692       -27        2118      
@@ -36,7 +36,7 @@ Rank       Bot                       Rating     Prog       Games
 35         Pseudo-0                  2366       -22        4490      
 36         ChessNoobComp             2363       -6         9609      
 37         fornax-engine             2348       1          7516      
-38         simpleEval                2302       3          26064     
+38         simpleEval                2310       9          26067     
 39         admete_bot                2293       26         14123     
 40         bekbot                    2282       7          2378      
 41         Nakshatra3                2282       9          2063      
@@ -82,7 +82,7 @@ Rank       Bot                       Rating     Prog       Games
 81         ZE_ROOK                   1586       -12        2410      
 82         turkjs                    1577       9          19861     
 83         turochamp-2ply            1577       11         1975      
-84         maia5                     1565       -9         40960     
+84         maia5                     1569       3          40961     
 85         sargon-3ply               1564       -1         1788      
 86         sargon-4ply               1542       -11        2199      
 87         maia1                     1536       19         129043    
@@ -92,7 +92,7 @@ Rank       Bot                       Rating     Prog       Games
 91         botTideEval               1452       -26        4253      
 92         yeoldwiz                  1450       18         791       
 93         monchester                1434       3          2975      
-94         schnecken_bot             1433       16         1700      
+94         schnecken_bot             1429       4          1701      
 95         turochamp-1ply            1418       -26        2532      
 96         sargon-2ply               1388       -2         2935      
 97         StupidChessRobot          1367       1          1525      
