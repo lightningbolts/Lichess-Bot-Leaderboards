@@ -25,7 +25,7 @@ Rank       Bot                       Rating     Prog       Games
 24         SaxtonEngine              2506       -9         3004      
 25         Weiawaga                  2492       -1         12774     
 26         pawn_git                  2491       -13        3224      
-27         catriever                 2482       5          1358      
+27         catriever                 2484       4          1359      
 28         bot_adario                2475       -10        2799      
 29         odonata-bot               2446       20         6491      
 30         fornax-engine             2423       10         6862      
@@ -43,7 +43,7 @@ Rank       Bot                       Rating     Prog       Games
 42         matmoi                    2162       -7         3416      
 43         eubos                     2160       9          15914     
 44         jangine                   2146       -20        4157      
-45         Boris-Trapsky             2099       -3         30081     
+45         Boris-Trapsky             2097       -6         30082     
 46         myopic-bot                2068       -1         3010      
 47         redtail-zero              2059       7          796       
 48         KelpBot                   2056       -102       23        
@@ -51,7 +51,7 @@ Rank       Bot                       Rating     Prog       Games
 50         Elmichess                 2040       12         3748      
 51         BLANK_BOT                 2038       9          5725      
 52         Humaia-Strong             2029       42         2377      
-53         Lynx_BOT                  2015       -8         53043     
+53         Lynx_BOT                  2016       0          53044     
 54         LeelaRogue                2008       -2         2456      
 55         sun_bird                  1982       -2         3116      
 56         GarboBot                  1966       14         10475     
@@ -75,11 +75,11 @@ Rank       Bot                       Rating     Prog       Games
 74         AshNostromo               1648       -21        1099      
 75         ChessChildren             1647       1          22137     
 76         simplexitor               1611       -14        2653      
-77         ai-con                    1611       8          303       
-78         LeElaGuess                1569       8          214       
-79         maia9                     1568       2          108430    
-80         postbot                   1565       5          840       
-81         yeoldwiz                  1555       33         2164      
+77         ai-con                    1610       11         304       
+78         maia9                     1575       6          108431    
+79         LeElaGuess                1569       8          214       
+80         yeoldwiz                  1561       33         2165      
+81         postbot                   1560       8          841       
 82         turkjs                    1554       -12        10670     
 83         ZE_ROOK                   1543       -5         3411      
 84         Demolito_L4               1543       -5         301       
@@ -95,7 +95,7 @@ Rank       Bot                       Rating     Prog       Games
 94         schnecken_bot             1362       8          2888      
 95         chat_bot                  1312       75         348       
 96         turochamp-2ply            1309       20         1929      
-97         StupidChessRobot          1296       -12        3300      
+97         StupidChessRobot          1298       -12        3301      
 98         monchester                1276       -9         2919      
 99         sargon-2ply               1257       -3         3436      
 100        turochamp-1ply            1241       19         2006      
@@ -105,5 +105,5 @@ Rank       Bot                       Rating     Prog       Games
 104        sargon-1ply               1149       -6         9074      
 105        ABotWith3200Rating        1114       -14        373       
 106        CHoMPBoT                  1030       -5         1848      
-107        knucklefish               1001       -22        3559      
+107        knucklefish               999        -25        3560      
 108        grandQ_AI                 886        -41        1414      
