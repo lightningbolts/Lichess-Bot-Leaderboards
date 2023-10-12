@@ -6,7 +6,7 @@ Rank       Bot                       Rating     Prog       Games
 5          ReinforcementTrial        2939       3          3467      
 6          Mate-AI                   2938       -1         13526     
 7          FireFishBOT_v2            2929       -3         1953      
-8          RaspFish                  2877       0          55859     
+8          RaspFish                  2877       -1         55860     
 9          Mr_Chess_Berserk          2845       12         1325      
 10         ShallowEngine             2794       14         51        
 11         blundar_bot               2771       -16        12608     
@@ -37,7 +37,7 @@ Rank       Bot                       Rating     Prog       Games
 36         Pseudo-0                  2365       -24        4491      
 37         ChessNoobComp             2359       -2         9612      
 38         fornax-engine             2345       -5         7520      
-39         simpleEval                2307       13         26072     
+39         simpleEval                2307       17         26073     
 40         admete_bot                2291       21         14124     
 41         Nakshatra3                2286       11         2064      
 42         HistoryExplorer           2286       7          2853      
@@ -59,8 +59,8 @@ Rank       Bot                       Rating     Prog       Games
 58         MaxtheDog                 1997       6          17394     
 59         Lynx_BOT                  1976       -13        8578      
 60         zeekat                    1976       11         21374     
-61         Trollfish-Bot             1937       3          7064      
-62         QuintBot                  1844       -1         12374     
+61         Trollfish-Bot             1941       3          7065      
+62         QuintBot                  1844       -3         12376     
 63         NatesBot                  1831       -3         948       
 64         piglet_engine             1801       9          1388      
 65         ShallowRedBot             1786       6          663       
@@ -73,7 +73,7 @@ Rank       Bot                       Rating     Prog       Games
 72         Virutor                   1739       5          7392      
 73         Calvin_Bot                1716       4          317       
 74         ChessChildren             1703       1          15948     
-75         ai-con                    1693       35         287       
+75         ai-con                    1690       27         288       
 76         Jibbby                    1656       -7         3129      
 77         Demolito_L4               1648       0          231       
 78         rudim-bot                 1644       -29        160       
