@@ -1,11 +1,11 @@
 Rank       Bot                       Rating     Prog       Games     
 1          LeelaMultiPoss            3003       14         1086      
 2          YoBot_v2                  2960       -4         19920     
-3          czech-bot                 2947       -5         127       
-4          ReinforcementTrial        2946       6          3473      
+3          czech-bot                 2947       -13        131       
+4          ReinforcementTrial        2946       7          3475      
 5          Mate-AI                   2944       6          13528     
 6          FireFishBOT_v2            2934       1          1954      
-7          ResoluteBot               2932       -1         28590     
+7          ResoluteBot               2932       -11        28592     
 8          caissa-x                  2926       -2         14744     
 9          RaspFish                  2854       -25        55879     
 10         blundar_bot               2776       -10        12610     
@@ -35,8 +35,8 @@ Rank       Bot                       Rating     Prog       Games
 34         OpeningsBot               2369       -14        4295      
 35         Phalanx-XXV               2363       -1         5150      
 36         odonata-bot               2362       -10        7034      
-37         ChessNoobComp             2352       -8         9615      
-38         fornax-engine             2345       -5         7520      
+37         ChessNoobComp             2358       -3         9616      
+38         fornax-engine             2340       -9         7521      
 39         admete_bot                2305       24         14131     
 40         simpleEval                2302       -3         26076     
 41         Nakshatra3                2287       15         2068      
@@ -62,8 +62,8 @@ Rank       Bot                       Rating     Prog       Games
 61         QuintBot                  1845       -1         12392     
 62         NatesBot                  1839       16         951       
 63         piglet_engine             1802       16         1390      
-64         notropis                  1776       -15        4839      
-65         baby_eubos                1772       -7         6927      
+64         baby_eubos                1778       1          6928      
+65         notropis                  1770       -16        4840      
 66         ShallowRedBot             1768       -12        666       
 67         Demolito_L5               1767       -17        1583      
 68         honzovy-sachy             1763       11         5674      
@@ -84,7 +84,7 @@ Rank       Bot                       Rating     Prog       Games
 83         ZE_ROOK                   1582       -19        2412      
 84         maia5                     1577       15         40979     
 85         sargon-3ply               1570       6          1790      
-86         maia1                     1566       26         129059    
+86         maia1                     1568       20         129060    
 87         turochamp-2ply            1565       -5         1980      
 88         sargon-4ply               1527       -20        2203      
 89         DavidsGuterBot            1506       12         6977      
