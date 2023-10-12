@@ -5,8 +5,8 @@ Rank       Bot                       Rating     Prog       Games
 4          Occhessadvanced           2906       -1         393       
 5          ttBOT                     2901       -5         655       
 6          caissa-x                  2897       0          4091      
-7          ResoluteBot               2896       -6         13451     
-8          FireFishBOT_v2            2895       -8         11264     
+7          ResoluteBot               2896       -4         13452     
+8          FireFishBOT_v2            2895       -9         11265     
 9          Mate-AI                   2891       -6         3829      
 10         YoBot_v2                  2878       -10        5041      
 11         Mr_Chess_Berserk          2847       0          826       
@@ -25,7 +25,7 @@ Rank       Bot                       Rating     Prog       Games
 24         SATRANC_KAZANSIN_BOT      2533       0          27        
 25         SaxtonEngine              2499       -20        3009      
 26         Weiawaga                  2494       -3         12781     
-27         pawn_git                  2487       2          3246      
+27         pawn_git                  2486       2          3247      
 28         bot_adario                2480       0          2802      
 29         catriever                 2480       -4         1362      
 30         Cheng-4                   2450       -2         7035      
@@ -41,7 +41,7 @@ Rank       Bot                       Rating     Prog       Games
 40         FlamingDragon_9000        2323       19         3331      
 41         bekbot                    2318       0          2346      
 42         simpleEval                2295       4          16161     
-43         morabandbot               2252       47         228       
+43         morabandbot               2255       45         229       
 44         halcyonbot                2245       -18        11730     
 45         FataliiBot                2224       3          7657      
 46         Nakshatra3                2214       -14        2059      
@@ -59,8 +59,8 @@ Rank       Bot                       Rating     Prog       Games
 58         Humaia-Strong             2029       42         2377      
 59         BLANK_BOT                 2015       -27        5731      
 60         LeelaRogue                2013       11         2456      
-61         Lynx_BOT                  2007       2          53078     
-62         sun_bird                  1975       -8         3128      
+61         Lynx_BOT                  2010       5          53079     
+62         sun_bird                  1973       -11        3129      
 63         GarboBot                  1967       2          10484     
 64         Leela8-Test               1949       77         59        
 65         MaxtheDog                 1929       -10        5972      
@@ -70,7 +70,7 @@ Rank       Bot                       Rating     Prog       Games
 69         Trollfish-Bot             1830       19         3505      
 70         QuintBot                  1829       7          11940     
 71         notropis                  1829       38         7884      
-72         baby_eubos                1824       -10        9504      
+72         baby_eubos                1821       -18        9505      
 73         NatesBot                  1795       -25        2470      
 74         Dinora                    1783       -19        763       
 75         ShallowRedBot             1750       11         885       
@@ -94,7 +94,7 @@ Rank       Bot                       Rating     Prog       Games
 93         ZE_ROOK                   1531       -18        3416      
 94         sudobot_chess             1523       -61        404       
 95         HardRok                   1511       -3         1136      
-96         maia1                     1442       -33        217427    
+96         maia1                     1442       -27        217428    
 97         sargon-4ply               1425       -9         2393      
 98         ShallowLearnBot           1419       -7         104       
 99         Humaia                    1418       28         1042      
