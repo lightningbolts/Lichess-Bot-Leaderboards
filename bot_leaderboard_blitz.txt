@@ -5,12 +5,12 @@ Rank       Bot                       Rating     Prog       Games
 4          M-Z_Bot                   2910       -5         1699      
 5          Occhessadvanced           2906       -1         394       
 6          ttBOT                     2901       -4         657       
-7          caissa-x                  2898       5          4095      
+7          caissa-x                  2897       5          4096      
 8          ResoluteBot               2896       -4         13453     
 9          Mate-AI                   2892       -5         3832      
 10         YoBot_v2                  2878       -10        5041      
 11         MphoBot                   2839       -2         305       
-12         RaspFish                  2818       4          14180     
+12         RaspFish                  2819       4          14181     
 13         RubysBot                  2815       8          280       
 14         JuroJ                     2778       9          1939      
 15         faith_bot                 2759       -1         948       
@@ -61,8 +61,8 @@ Rank       Bot                       Rating     Prog       Games
 60         GarboBot                  1966       -2         10485     
 61         sun_bird                  1962       -17        3138      
 62         Leela8-Test               1959       63         63        
-63         MaxtheDog                 1935       -4         5974      
-64         LazyBotJr                 1926       -10        1981      
+63         LazyBotJr                 1943       10         1983      
+64         MaxtheDog                 1935       -4         5974      
 65         zeekat                    1879       -5         23639     
 66         zulu_bot                  1861       -3         992       
 67         notropis                  1826       30         7886      
@@ -79,9 +79,9 @@ Rank       Bot                       Rating     Prog       Games
 78         Demolito_L5               1666       -10        3069      
 79         Calvin_Bot                1662       7          367       
 80         Jibbby                    1655       18         6680      
-81         maia9                     1650       34         108494    
-82         AshNostromo               1648       -21        1099      
-83         ChessChildren             1632       -15        22148     
+81         AshNostromo               1648       -21        1099      
+82         maia9                     1642       21         108495    
+83         ChessChildren             1634       -12        22149     
 84         ai-con                    1619       4          310       
 85         simplexitor               1605       -24        2657      
 86         postbot                   1601       37         866       
@@ -93,7 +93,7 @@ Rank       Bot                       Rating     Prog       Games
 92         sudobot_chess             1523       -61        404       
 93         HardRok                   1515       6          1137      
 94         sargon-4ply               1425       -9         2393      
-95         maia1                     1422       -22        217448    
+95         maia1                     1423       -22        217450    
 96         Humaia                    1418       28         1042      
 97         DavidsGuterBot            1414       -20        4006      
 98         RoundMoundOfRebounds      1413       19         1611      
@@ -101,7 +101,7 @@ Rank       Bot                       Rating     Prog       Games
 100        sargon-3ply               1409       -19        2216      
 101        maia5                     1403       -22        107726    
 102        schnecken_bot             1354       -8         2899      
-103        StupidChessRobot          1335       32         3323      
+103        StupidChessRobot          1334       27         3324      
 104        turochamp-2ply            1312       17         1932      
 105        chat_bot                  1312       75         348       
 106        monchester                1272       -8         2924      
