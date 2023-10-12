@@ -25,7 +25,7 @@ Rank       Bot                       Rating     Prog       Games
 24         SaxtonEngine              2600       3          1658      
 25         pawn_git                  2590       -7         1560      
 26         Cheng-4                   2578       8          3424      
-27         catriever                 2560       5          523       
+27         catriever                 2560       8          524       
 28         Weiawaga                  2552       2          10682     
 29         bot_adario                2534       -10        1551      
 30         TuksuBot                  2491       -3         2365      
@@ -56,7 +56,7 @@ Rank       Bot                       Rating     Prog       Games
 55         myopic-bot                2051       -13        725       
 56         AjedrezChamberi           2041       -34        131       
 57         sun_bird                  2025       8          205       
-58         BLANK_BOT                 2023       4          1945      
+58         BLANK_BOT                 2022       0          1946      
 59         MaxtheDog                 2019       -21        965       
 60         KelpBot                   1994       87         20        
 61         LazyBotJr                 1984       11         1576      
@@ -68,7 +68,7 @@ Rank       Bot                       Rating     Prog       Games
 67         Dinora                    1887       7          153       
 68         notropis                  1874       5          2877      
 69         ShallowRedBot             1869       9          147       
-70         LittleGreenManBot         1849       0          3948      
+70         LittleGreenManBot         1850       3          3949      
 71         honzovy-sachy             1824       15         1194      
 72         Virutor                   1812       -14        3440      
 73         zulu_bot                  1776       3          110       
@@ -77,7 +77,7 @@ Rank       Bot                       Rating     Prog       Games
 76         Demolito_L5               1750       18         2159      
 77         ChessChildren             1743       -10        4725      
 78         AshNostromo               1710       -17        1356      
-79         maia9                     1701       34         91527     
+79         maia9                     1708       37         91529     
 80         turkjs                    1695       -5         5303      
 81         simplexitor               1677       -26        652       
 82         ZE_ROOK                   1661       4          714       
@@ -87,8 +87,8 @@ Rank       Bot                       Rating     Prog       Games
 86         sargon-4ply               1634       -17        828       
 87         dragobot                  1634       0          171       
 88         Demolito_L4               1632       -15        250       
-89         maia5                     1573       -25        107335    
-90         LeElaGuess                1570       36         225       
+89         LeElaGuess                1568       27         226       
+90         maia5                     1566       -24        107336    
 91         DavidsGuterBot            1562       -12        743       
 92         sargon-3ply               1531       9          1329      
 93         ShallowLearnBot           1510       -203       21        
@@ -100,7 +100,7 @@ Rank       Bot                       Rating     Prog       Games
 99         postbot                   1400       91         32        
 100        turochamp-1ply            1363       -4         1830      
 101        schnecken_bot             1356       -1         558       
-102        sargon-1ply               1306       29         9251      
+102        sargon-1ply               1304       30         9252      
 103        sargon-2ply               1300       -21        3644      
 104        pawnrobot                 1296       12         832       
 105        king-forward-bot          1184       -76        44        
