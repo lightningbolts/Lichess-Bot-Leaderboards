@@ -1,10 +1,10 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ToromBot                  2928       1          3212      
-2          ReinforcementTrial        2925       1          6340      
+2          ReinforcementTrial        2924       0          6341      
 3          Mate-AI                   2922       2          2715      
 4          Occhessadvanced           2919       2          404       
-5          M-Z_Bot                   2915       1          798       
-6          caissa-x                  2909       -1         3447      
+5          M-Z_Bot                   2915       2          799       
+6          caissa-x                  2909       -1         3448      
 7          FireFishBOT_v2            2908       2          1236      
 8          YoBot_v2                  2906       -1         13736     
 9          ResoluteBot               2899       6          6139      
@@ -12,7 +12,7 @@ Rank       Bot                       Rating     Prog       Games
 11         RaspFish                  2889       1          6718      
 12         JuroJ                     2860       8          2872      
 13         Mr_Chess_Berserk          2857       -4         280       
-14         MphoBot                   2835       -3         160       
+14         MphoBot                   2836       -2         161       
 15         faith_bot                 2824       1          2263      
 16         blundar_bot               2813       7          1582      
 17         Berserk-Test              2734       12         223       
@@ -70,8 +70,8 @@ Rank       Bot                       Rating     Prog       Games
 69         honzovy-sachy             1817       18         1192      
 70         Virutor                   1816       -15        3439      
 71         zulu_bot                  1776       3          110       
-72         Trollfish-Bot             1761       1          437       
-73         Jibbby                    1757       12         2356      
+72         Jibbby                    1762       12         2357      
+73         Trollfish-Bot             1761       1          437       
 74         Demolito_L5               1741       14         2151      
 75         ChessChildren             1740       -12        4721      
 76         AshNostromo               1713       -16        1355      
