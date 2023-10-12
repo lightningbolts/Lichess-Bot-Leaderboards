@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          LeelaMultiPoss            3003       14         1086      
 2          YoBot_v2                  2960       -6         19916     
-3          ToromBot                  2949       11         66346     
+3          ToromBot                  2950       12         66347     
 4          ResoluteBot               2948       15         28583     
 5          Mate-AI                   2940       2          13522     
 6          ReinforcementTrial        2938       3          3465      
@@ -20,7 +20,7 @@ Rank       Bot                       Rating     Prog       Games
 19         Weiawaga                  2499       -2         17213     
 20         ELO_1500                  2499       -3         3391      
 21         SaxtonEngine              2494       6          5413      
-22         AKS-Mantissa              2488       -5         11994     
+22         AKS-Mantissa              2487       -1         11995     
 23         Cheng-4                   2486       -5         14752     
 24         catriever                 2459       0          2909      
 25         Elmichess                 2447       -48        3226      
@@ -43,10 +43,10 @@ Rank       Bot                       Rating     Prog       Games
 42         LazyBotJr                 2192       20         1162      
 43         Humaia-Strong             2188       30         1329      
 44         honzovy-sachy-2           2157       -34        7919      
-45         eubos                     2149       18         14245     
-46         matmoi                    2145       -12        4303      
+45         matmoi                    2150       -1         4304      
+46         eubos                     2149       18         14245     
 47         myopic-bot                2113       16         2812      
-48         GarboBot                  2112       10         10451     
+48         GarboBot                  2107       -1         10452     
 49         jangine                   2101       -5         3950      
 50         redtail-zero              2090       -24        1179      
 51         likeawizard-bot           2070       8          3263      
@@ -63,8 +63,8 @@ Rank       Bot                       Rating     Prog       Games
 62         baby_eubos                1776       -8         6913      
 63         notropis                  1775       -19        4834      
 64         Demolito_L5               1771       -11        1579      
-65         simplexitor               1771       1          2717      
-66         honzovy-sachy             1769       10         5670      
+65         honzovy-sachy             1769       10         5670      
+66         simplexitor               1769       2          2718      
 67         Dinora                    1754       -3         523       
 68         Virutor                   1735       1          7385      
 69         Calvin_Bot                1710       12         308       
@@ -76,7 +76,7 @@ Rank       Bot                       Rating     Prog       Games
 75         LeElaGuess                1644       -131       61        
 76         rudim-bot                 1644       -29        160       
 77         Humaia                    1637       -1         605       
-78         postbot                   1600       -3         892       
+78         postbot                   1603       -1         893       
 79         turkjs                    1593       29         19864     
 80         ZE_ROOK                   1586       -12        2410      
 81         maia5                     1570       10         40967     
