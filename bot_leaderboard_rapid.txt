@@ -1,9 +1,9 @@
 Rank       Bot                       Rating     Prog       Games     
 1          VariantsTop               2951       6          197       
-2          ReinforcementTrial        2938       -8         6396      
+2          ReinforcementTrial        2938       -4         6397      
 3          LeelaMultiPoss            2937       8          452       
 4          Mate-AI                   2934       11         2740      
-5          ToromBot                  2931       3          3223      
+5          ToromBot                  2931       3          3224      
 6          Occhessadvanced           2915       -9         437       
 7          EmanPureNN                2914       6          505       
 8          ResoluteBot               2902       2          6161      
@@ -15,7 +15,7 @@ Rank       Bot                       Rating     Prog       Games
 14         faith_bot                 2830       -3         2317      
 15         blundar_bot               2808       -3         1592      
 16         Berserk-Test              2743       6          238       
-17         ELO_1500                  2726       1          3620      
+17         ELO_1500                  2728       5          3621      
 18         MrChessTheBot             2689       -53        2243      
 19         AKS-Mantissa              2611       14         4484      
 20         LazyBot                   2611       1          831       
@@ -30,7 +30,7 @@ Rank       Bot                       Rating     Prog       Games
 29         odonata-bot               2481       25         3971      
 30         Phalanx-XXV               2456       -1         1204      
 31         Pseudo-0                  2446       -1         1416      
-32         admete_bot                2425       -3         4642      
+32         admete_bot                2423       -4         4643      
 33         OpeningsBot               2406       11         613       
 34         fornax-engine             2400       -11        3882      
 35         simpleEval                2385       7          8072      
@@ -79,7 +79,7 @@ Rank       Bot                       Rating     Prog       Games
 78         ZE_ROOK                   1673       13         720       
 79         ai-con                    1661       23         169       
 80         yeoldwiz                  1655       -11        798       
-81         maia5                     1640       -26        107477    
+81         maia5                     1625       -30        107479    
 82         sargon-4ply               1624       -25        830       
 83         Demolito_L4               1620       -11        264       
 84         LeElaGuess                1588       -16        256       
