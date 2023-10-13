@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
 1          LeelaMultiPoss            3004       12         1089      
-2          YoBot_v2                  2956       1          19937     
+2          YoBot_v2                  2956       -1         19938     
 3          Mate-AI                   2944       -6         13554     
 4          ReinforcementTrial        2940       1          3481      
 5          caissa-x                  2926       1          14759     
@@ -47,7 +47,7 @@ Rank       Bot                       Rating     Prog       Games
 46         redtail-zero              2082       -13        1192      
 47         likeawizard-bot           2079       17         3288      
 48         BLANK_BOT                 2052       9          8516      
-49         sun_bird                  2046       7          3495      
+49         sun_bird                  2048       4          3496      
 50         Lynx_BOT                  2005       2          8626      
 51         zeekat                    1981       0          21417     
 52         MaxtheDog                 1946       -34        17446     
@@ -57,13 +57,13 @@ Rank       Bot                       Rating     Prog       Games
 56         piglet_engine             1801       5          1398      
 57         notropis                  1790       21         4846      
 58         Dinora                    1780       22         537       
-59         dtsudo                    1765       17         435       
-60         baby_eubos                1764       -17        6941      
-61         Virutor                   1758       27         7402      
-62         honzovy-sachy             1757       -11        5678      
-63         Demolito_L5               1755       -19        1586      
+59         baby_eubos                1769       -7         6942      
+60         dtsudo                    1765       17         435       
+61         honzovy-sachy             1763       -5         5679      
+62         Virutor                   1758       27         7402      
+63         Demolito_L5               1747       -22        1588      
 64         ShallowRedBot             1739       -35        676       
-65         ChessChildren             1712       14         15955     
+65         ChessChildren             1707       5          15956     
 66         ai-con                    1699       -2         304       
 67         chesstango_bot            1684       10         306       
 68         postbot                   1662       18         935       
