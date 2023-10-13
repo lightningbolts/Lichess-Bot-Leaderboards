@@ -1,5 +1,5 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ToromBot                  2965       -7         7175      
+1          ToromBot                  2964       -4         7176      
 2          VariantsTop               2956       1          823       
 3          ReinforcementTrial        2919       -6         4598      
 4          YoBot_v2                  2913       10         5062      
@@ -9,7 +9,7 @@ Rank       Bot                       Rating     Prog       Games
 8          Mate-AI                   2895       -6         3845      
 9          RaspFish                  2839       1          14228     
 10         MphoBot                   2834       -4         320       
-11         RubysBot                  2826       0          315       
+11         RubysBot                  2826       0          316       
 12         JuroJ                     2783       12         1940      
 13         faith_bot                 2748       -23        953       
 14         blundar_bot               2733       -20        2091      
@@ -45,7 +45,7 @@ Rank       Bot                       Rating     Prog       Games
 44         Boris-Trapsky             2097       -4         30095     
 45         likeawizard-bot           2075       3          6460      
 46         Leela8-Test               2071       39         86        
-47         myopic-bot                2061       -14        3032      
+47         myopic-bot                2061       -11        3033      
 48         redtail-zero              2056       7          802       
 49         KelpBot                   2056       -102       23        
 50         Elmichess                 2040       12         3748      
@@ -75,7 +75,7 @@ Rank       Bot                       Rating     Prog       Games
 74         maia9                     1655       2          108600    
 75         AshNostromo               1648       -21        1099      
 76         postbot                   1630       -5         911       
-77         Jibbby                    1626       -5         6708      
+77         Jibbby                    1628       2          6709      
 78         ai-con                    1626       8          329       
 79         dtsudo                    1598       -4         269       
 80         turkjs                    1573       19         10681     
@@ -84,9 +84,9 @@ Rank       Bot                       Rating     Prog       Games
 83         ZE_ROOK                   1543       7          3424      
 84         sudobot_chess             1523       -61        404       
 85         LeElaGuess                1514       4          288       
-86         maia5                     1454       29         107777    
-87         DavidsGuterBot            1425       8          4016      
-88         Humaia                    1423       14         1046      
+86         maia5                     1447       17         107778    
+87         Humaia                    1423       14         1046      
+88         DavidsGuterBot            1422       8          4017      
 89         sargon-4ply               1419       -12        2399      
 90         ShallowLearnBot           1418       4          119       
 91         RoundMoundOfRebounds      1415       8          1617      
