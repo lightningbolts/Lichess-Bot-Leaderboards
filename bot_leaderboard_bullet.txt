@@ -1,5 +1,5 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ToromBot                  2964       5          66406     
+1          ToromBot                  2966       6          66408     
 2          YoBot_v2                  2959       -1         19931     
 3          ReinforcementTrial        2941       2          3480      
 4          Mate-AI                   2937       -13        13549     
@@ -19,8 +19,8 @@ Rank       Bot                       Rating     Prog       Games
 18         Weiawaga                  2503       -5         17227     
 19         SaxtonEngine              2500       10         5422      
 20         ELO_1500                  2495       -8         3398      
-21         Cheng-4                   2493       5          14755     
-22         AKS-Mantissa              2492       13         12001     
+21         AKS-Mantissa              2492       13         12001     
+22         Cheng-4                   2491       4          14757     
 23         catriever                 2460       2          2915      
 24         Elmichess                 2447       -48        3226      
 25         TuksuBot                  2432       -6         7736      
@@ -61,13 +61,13 @@ Rank       Bot                       Rating     Prog       Games
 60         piglet_engine             1800       6          1396      
 61         notropis                  1790       15         4845      
 62         Dinora                    1772       26         532       
-63         baby_eubos                1770       -2         6938      
+63         baby_eubos                1763       -15        6939      
 64         Demolito_L5               1763       -16        1585      
 65         honzovy-sachy             1752       -11        5677      
 66         simplexitor               1752       -14        2734      
 67         Virutor                   1747       21         7398      
 68         ShallowRedBot             1743       -40        673       
-69         ChessChildren             1711       14         15951     
+69         ChessChildren             1718       15         15952     
 70         ai-con                    1694       -1         297       
 71         chesstango_bot            1674       -3         295       
 72         Humaia                    1655       16         612       
