@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ReinforcementTrial        2638       18         687       
 2          Occhessadvanced           2638       5          238       
-3          LeelaMultiPoss            2626       -1         171       
+3          LeelaMultiPoss            2628       -1         172       
 4          YoBot_v2                  2617       -6         862       
 5          ResoluteBot               2604       -9         959       
 6          RaspFish                  2584       11         958       
@@ -11,7 +11,7 @@ Rank       Bot                       Rating     Prog       Games
 10         Berserk-Test              2510       37         41        
 11         ELO_1500                  2441       1          639       
 12         MrChessTheBot             2421       -61        314       
-13         AKS-Mantissa              2374       16         1217      
+13         AKS-Mantissa              2372       16         1218      
 14         LazyBot                   2367       18         211       
 15         catriever                 2330       -18        409       
 16         SaxtonEngine              2317       0          603       
@@ -63,10 +63,10 @@ Rank       Bot                       Rating     Prog       Games
 62         chat_bot                  1560       54         72        
 63         sargon-3ply               1556       -33        773       
 64         maia5                     1543       0          24198     
-65         maia1                     1498       -3         69714     
+65         sargon-2ply               1494       28         1422      
 66         StupidChessRobot          1492       -49        36        
 67         Humaia                    1491       47         1288      
-68         sargon-2ply               1489       6          1420      
+68         maia1                     1490       -17        69716     
 69         RoundMoundOfRebounds      1469       125        133       
 70         turochamp-1ply            1364       -4         851       
 71         sargon-1ply               1297       3          3669      
