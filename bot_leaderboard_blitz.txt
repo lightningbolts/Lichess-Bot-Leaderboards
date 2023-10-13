@@ -10,7 +10,7 @@ Rank       Bot                       Rating     Prog       Games
 9          JuroJ                     2783       12         1940      
 10         faith_bot                 2748       -23        953       
 11         blundar_bot               2731       -26        2090      
-12         Berserk-Test              2722       -22        463       
+12         Berserk-Test              2724       -18        464       
 13         LazyBot                   2674       6          2078      
 14         ELO_1500                  2661       7          13469     
 15         AKS-Mantissa              2620       12         11360     
@@ -57,11 +57,11 @@ Rank       Bot                       Rating     Prog       Games
 56         MaxtheDog                 1951       20         5984      
 57         LazyBotJr                 1943       10         1983      
 58         zeekat                    1890       11         23656     
-59         baby_eubos                1844       1          9527      
+59         baby_eubos                1843       6          9528      
 60         notropis                  1820       2          7898      
 61         Trollfish-Bot             1811       4          3523      
 62         NatesBot                  1798       0          2498      
-63         QuintBot                  1786       -14        12001     
+63         QuintBot                  1786       -17        12002     
 64         Dinora                    1773       -10        774       
 65         honzovy-sachy             1747       12         5803      
 66         ShallowRedBot             1739       -19        901       
@@ -73,8 +73,8 @@ Rank       Bot                       Rating     Prog       Games
 72         AshNostromo               1648       -21        1099      
 73         ChessChildren             1647       9          22161     
 74         postbot                   1634       21         896       
-75         Jibbby                    1626       -17        6698      
-76         maia9                     1624       8          108561    
+75         maia9                     1624       8          108561    
+76         Jibbby                    1623       -23        6699      
 77         ai-con                    1616       -8         322       
 78         simplexitor               1590       -25        2665      
 79         turkjs                    1570       21         10679     
@@ -83,7 +83,7 @@ Rank       Bot                       Rating     Prog       Games
 82         ZE_ROOK                   1531       -6         3420      
 83         sudobot_chess             1523       -61        404       
 84         LeElaGuess                1517       5          271       
-85         maia1                     1438       -5         217513    
+85         maia1                     1441       4          217514    
 86         DavidsGuterBot            1425       8          4016      
 87         Humaia                    1423       14         1046      
 88         ShallowLearnBot           1423       0          112       
@@ -104,4 +104,5 @@ Rank       Bot                       Rating     Prog       Games
 103        ABotWith3200Rating        1114       -4         377       
 104        CHoMPBoT                  1019       -6         1863      
 105        knucklefish               999        -25        3560      
-106        grandQ_AI                 882        -39        1415      
+106        bobandi                   922        1          1393      
+107        grandQ_AI                 882        -39        1415      
