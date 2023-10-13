@@ -1,10 +1,10 @@
 Rank       Bot                       Rating     Prog       Games     
 1          LeelaMultiPoss            2961       12         743       
-2          VariantsTop               2956       3          827       
-3          ToromBot                  2955       -7         7190      
+2          ToromBot                  2955       -7         7190      
+3          VariantsTop               2954       3          829       
 4          ReinforcementTrial        2919       -5         4600      
-5          EmanPureNN                2918       -2         1868      
-6          YoBot_v2                  2914       6          5065      
+5          EmanPureNN                2919       -1         1869      
+6          YoBot_v2                  2915       9          5066      
 7          Occhessadvanced           2906       -5         413       
 8          ResoluteBot               2902       4          13484     
 9          caissa-x                  2902       7          4120      
@@ -89,10 +89,10 @@ Rank       Bot                       Rating     Prog       Games
 88         maia5                     1461       19         107785    
 89         sargon-4ply               1426       -2         2400      
 90         Humaia                    1423       14         1046      
-91         DavidsGuterBot            1422       8          4017      
-92         maia1                     1418       -5         217587    
-93         ShallowLearnBot           1418       4          119       
-94         RoundMoundOfRebounds      1415       8          1617      
+91         DavidsGuterBot            1421       -1         4018      
+92         ShallowLearnBot           1418       4          119       
+93         RoundMoundOfRebounds      1415       8          1617      
+94         maia1                     1413       -5         217588    
 95         sargon-3ply               1409       -9         2229      
 96         StupidChessRobot          1371       -14        3383      
 97         DeepKalle                 1348       -6         152       
@@ -106,6 +106,6 @@ Rank       Bot                       Rating     Prog       Games
 105        king-forward-bot          1158       11         102       
 106        sargon-1ply               1157       1          9082      
 107        ABotWith3200Rating        1114       -4         378       
-108        CHoMPBoT                  1012       -5         1869      
+108        CHoMPBoT                  1017       1          1870      
 109        knucklefish               1010       -13        3561      
 110        grandQ_AI                 882        -39        1415      
