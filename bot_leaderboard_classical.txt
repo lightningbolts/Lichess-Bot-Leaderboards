@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ReinforcementTrial        2638       18         687       
-2          Occhessadvanced           2638       5          238       
+1          Occhessadvanced           2642       4          239       
+2          ReinforcementTrial        2638       18         687       
 3          LeelaMultiPoss            2630       -2         173       
 4          YoBot_v2                  2616       -7         863       
 5          ttBOT                     2615       -3         66        
@@ -8,8 +8,8 @@ Rank       Bot                       Rating     Prog       Games
 7          RaspFish                  2584       11         958       
 8          caissa-x                  2560       -6         370       
 9          faith_bot                 2557       10         258       
-10         JuroJ                     2536       18         1848      
-11         Berserk-Test              2510       37         41        
+10         JuroJ                     2538       23         1849      
+11         Berserk-Test              2503       24         42        
 12         ELO_1500                  2441       0          641       
 13         MrChessTheBot             2421       -61        314       
 14         AKS-Mantissa              2373       20         1219      
@@ -75,4 +75,3 @@ Rank       Bot                       Rating     Prog       Games
 74         ABotWith3200Rating        1121       -3         114       
 75         CHoMPBoT                  1115       -25        194       
 76         grandQ_AI                 848        -6         825       
-77         G0thamB0t                 783        -6         254       
