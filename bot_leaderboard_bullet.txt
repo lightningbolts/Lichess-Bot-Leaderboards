@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          LeelaMultiPoss            3004       12         1089      
 2          YoBot_v2                  2959       -1         19931     
-3          ToromBot                  2958       6          66390     
+3          ToromBot                  2959       9          66391     
 4          Mate-AI                   2953       3          13542     
 5          ReinforcementTrial        2946       7          3478      
 6          FireFishBOT_v2            2934       3          1956      
@@ -22,7 +22,7 @@ Rank       Bot                       Rating     Prog       Games
 21         pawn_git                  2494       -6         5301      
 22         Cheng-4                   2493       5          14755     
 23         AKS-Mantissa              2493       13         11999     
-24         catriever                 2460       3          2913      
+24         catriever                 2460       -3         2914      
 25         Elmichess                 2447       -48        3226      
 26         TuksuBot                  2443       3          7732      
 27         bot_adario                2422       -4         3076      
@@ -51,12 +51,12 @@ Rank       Bot                       Rating     Prog       Games
 50         redtail-zero              2089       0          1190      
 51         likeawizard-bot           2068       -3         3279      
 52         BLANK_BOT                 2048       4          8512      
-53         sun_bird                  2019       -21        3473      
+53         sun_bird                  2029       -7         3475      
 54         Lynx_BOT                  2006       -2         8609      
 55         zeekat                    1983       9          21397     
-56         MaxtheDog                 1980       6          17430     
+56         MaxtheDog                 1975       8          17431     
 57         Trollfish-Bot             1947       7          7104      
-58         potato-chess-bot          1915       12         171       
+58         potato-chess-bot          1911       11         172       
 59         NatesBot                  1841       6          961       
 60         QuintBot                  1836       20         12431     
 61         piglet_engine             1800       6          1396      
@@ -89,11 +89,11 @@ Rank       Bot                       Rating     Prog       Games
 88         DavidsGuterBot            1504       1          6984      
 89         RoundMoundOfRebounds      1482       8          1818      
 90         ShallowLearnBot           1460       -11        80        
-91         botTideEval               1454       5          4273      
+91         botTideEval               1459       14         4274      
 92         yeoldwiz                  1450       18         791       
 93         monchester                1421       1          2980      
 94         turochamp-1ply            1415       -17        2538      
-95         sargon-2ply               1392       -8         2940      
+95         sargon-2ply               1387       -18        2941      
 96         StupidChessRobot          1376       1          1539      
 97         sargon-1ply               1264       10         5539      
 98         dragobot                  1261       -47        89        
