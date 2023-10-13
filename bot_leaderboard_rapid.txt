@@ -14,7 +14,7 @@ Rank       Bot                       Rating     Prog       Games
 13         faith_bot                 2829       2          2295      
 14         blundar_bot               2809       -5         1590      
 15         Berserk-Test              2743       11         233       
-16         ELO_1500                  2718       4          3613      
+16         ELO_1500                  2720       4          3614      
 17         MrChessTheBot             2689       -53        2243      
 18         expositor                 2651       4          4999      
 19         AKS-Mantissa              2614       13         4479      
@@ -28,7 +28,7 @@ Rank       Bot                       Rating     Prog       Games
 27         TuksuBot                  2495       4          2366      
 28         odonata-bot               2478       20         3970      
 29         Phalanx-XXV               2462       2          1202      
-30         Pseudo-0                  2442       2          1412      
+30         Pseudo-0                  2440       -4         1413      
 31         admete_bot                2421       -9         4637      
 32         fornax-engine             2407       -5         3881      
 33         OpeningsBot               2403       11         611       
@@ -42,11 +42,11 @@ Rank       Bot                       Rating     Prog       Games
 41         honzovy-sachy-2           2197       0          3883      
 42         Elmichess                 2178       10         1448      
 43         matmoi                    2161       0          3012      
-44         jangine                   2152       24         2065      
+44         jangine                   2145       12         2066      
 45         Lynx_BOT                  2120       -3         40756     
 46         Boris-Trapsky             2118       -5         28358     
 47         Humaia-Strong             2092       35         622       
-48         likeawizard-bot           2077       -18        1846      
+48         likeawizard-bot           2084       -16        1847      
 49         GarboBot                  2072       -4         6539      
 50         redtail-zero              2066       6          736       
 51         myopic-bot                2047       -15        726       
@@ -81,8 +81,8 @@ Rank       Bot                       Rating     Prog       Games
 80         HardRok                   1636       -9         927       
 81         Demolito_L4               1634       -4         257       
 82         dragobot                  1634       0          171       
-83         maia5                     1627       -26        107407    
-84         sargon-4ply               1627       -19        829       
+83         sargon-4ply               1627       -19        829       
+84         maia5                     1622       -28        107408    
 85         LeElaGuess                1588       21         239       
 86         DavidsGuterBot            1558       -18        744       
 87         sargon-3ply               1544       33         1332      
