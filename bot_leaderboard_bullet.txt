@@ -2,7 +2,7 @@ Rank       Bot                       Rating     Prog       Games
 1          LeelaMultiPoss            3004       12         1089      
 2          YoBot_v2                  2959       -1         19931     
 3          Mate-AI                   2956       12         13540     
-4          ToromBot                  2950       -4         66380     
+4          ToromBot                  2951       0          66381     
 5          ReinforcementTrial        2946       7          3478      
 6          FireFishBOT_v2            2934       2          1955      
 7          ResoluteBot               2932       0          28611     
@@ -18,7 +18,7 @@ Rank       Bot                       Rating     Prog       Games
 17         Weiawaga                  2511       12         17224     
 18         MphoBot                   2506       -5         307       
 19         SaxtonEngine              2501       8          5420      
-20         ELO_1500                  2497       -2         3395      
+20         ELO_1500                  2496       -8         3396      
 21         pawn_git                  2495       -2         5299      
 22         Cheng-4                   2493       5          14755     
 23         AKS-Mantissa              2493       13         11999     
@@ -28,7 +28,7 @@ Rank       Bot                       Rating     Prog       Games
 27         bot_adario                2422       -4         3076      
 28         balancefish               2418       -67        126       
 29         MrChessTheBot             2393       -52        5912      
-30         OpeningsBot               2381       9          4299      
+30         OpeningsBot               2385       12         4300      
 31         Pseudo-0                  2370       -22        4492      
 32         odonata-bot               2362       -10        7034      
 33         ChessNoobComp             2359       -4         9620      
@@ -37,7 +37,7 @@ Rank       Bot                       Rating     Prog       Games
 36         admete_bot                2309       24         14132     
 37         simpleEval                2302       -3         26076     
 38         Nakshatra3                2280       -3         2072      
-39         FataliiBot                2272       12         6435      
+39         FataliiBot                2268       11         6436      
 40         halcyonbot                2266       -11        6880      
 41         bekbot                    2255       -14        2406      
 42         LazyBotJr                 2226       17         1206      
@@ -57,8 +57,8 @@ Rank       Bot                       Rating     Prog       Games
 56         MaxtheDog                 1976       2          17429     
 57         Trollfish-Bot             1947       7          7104      
 58         potato-chess-bot          1911       12         169       
-59         NatesBot                  1835       5          960       
-60         QuintBot                  1832       12         12427     
+59         NatesBot                  1841       6          961       
+60         QuintBot                  1826       1          12428     
 61         piglet_engine             1800       6          1396      
 62         notropis                  1783       5          4844      
 63         baby_eubos                1770       -5         6937      
