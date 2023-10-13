@@ -19,13 +19,13 @@ Rank       Bot                       Rating     Prog       Games
 18         AKS-Mantissa              2623       14         11365     
 19         MrChessTheBot             2542       -53        2009      
 20         SaxtonEngine              2493       0          3024      
-21         Weiawaga                  2487       -4         12803     
+21         Weiawaga                  2492       2          12804     
 22         catriever                 2485       1          1370      
 23         bot_adario                2474       -1         2810      
 24         pawn_git                  2468       -6         3267      
 25         Cheng-4                   2445       2          7043      
-26         fornax-engine             2429       5          6879      
-27         odonata-bot               2427       -10        6505      
+26         odonata-bot               2427       -10        6505      
+27         fornax-engine             2424       -1         6880      
 28         OpeningsBot               2420       5          2094      
 29         TuksuBot                  2407       -2         4604      
 30         Phalanx-XXV               2387       8          3220      
@@ -56,7 +56,7 @@ Rank       Bot                       Rating     Prog       Games
 55         LazyBotJr                 1952       25         1988      
 56         MaxtheDog                 1947       -1         5991      
 57         zeekat                    1900       2          23668     
-58         baby_eubos                1830       -12        9536      
+58         baby_eubos                1833       -6         9537      
 59         notropis                  1819       4          7905      
 60         Trollfish-Bot             1808       -11        3531      
 61         NatesBot                  1808       11         2507      
@@ -72,8 +72,8 @@ Rank       Bot                       Rating     Prog       Games
 71         maia9                     1654       15         108596    
 72         ChessChildren             1654       19         22162     
 73         AshNostromo               1648       -21        1099      
-74         postbot                   1629       -2         908       
-75         ai-con                    1629       8          328       
+74         ai-con                    1629       8          328       
+75         postbot                   1626       -10        909       
 76         Jibbby                    1623       -8         6707      
 77         dtsudo                    1598       -4         269       
 78         turkjs                    1573       19         10681     
@@ -89,7 +89,7 @@ Rank       Bot                       Rating     Prog       Games
 88         RoundMoundOfRebounds      1420       12         1616      
 89         sargon-4ply               1419       -12        2399      
 90         sargon-3ply               1413       3          2228      
-91         maia1                     1396       -11        217545    
+91         maia1                     1401       0          217546    
 92         StupidChessRobot          1387       5          3378      
 93         turochamp-2ply            1328       17         1937      
 94         schnecken_bot             1321       -29        2912      
