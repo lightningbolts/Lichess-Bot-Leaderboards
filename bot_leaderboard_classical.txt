@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          MphoBot                   2652       72         33        
 2          ReinforcementTrial        2633       9          685       
-3          LeelaMultiPoss            2626       4          165       
+3          LeelaMultiPoss            2628       8          166       
 4          YoBot_v2                  2620       -4         858       
 5          ResoluteBot               2609       -4         956       
 6          RaspFish                  2579       8          956       
@@ -15,7 +15,7 @@ Rank       Bot                       Rating     Prog       Games
 14         LazyBot                   2367       18         211       
 15         AKS-Mantissa              2364       5          1216      
 16         catriever                 2330       -18        409       
-17         SaxtonEngine              2321       7          601       
+17         SaxtonEngine              2319       7          602       
 18         pawn_git                  2307       9          385       
 19         Cheng-4                   2275       19         1643      
 20         Weiawaga                  2273       -17        6047      
@@ -51,8 +51,8 @@ Rank       Bot                       Rating     Prog       Games
 50         ShallowRedBot             1714       -35        19        
 51         notropis                  1705       -45        145       
 52         honzovy-sachy             1690       32         328       
-53         maia9                     1683       -11        23005     
-54         Virutor                   1680       -10        675       
+53         Virutor                   1680       -10        675       
+54         maia9                     1679       -8         23006     
 55         turochamp-2ply            1661       6          829       
 56         Demolito_L4               1648       -2         24        
 57         simplexitor               1628       -34        157       
@@ -75,3 +75,4 @@ Rank       Bot                       Rating     Prog       Games
 74         ABotWith3200Rating        1121       -3         114       
 75         CHoMPBoT                  1115       -25        194       
 76         grandQ_AI                 848        -6         825       
+77         G0thamB0t                 784        -9         252       
