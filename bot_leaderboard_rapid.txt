@@ -11,7 +11,7 @@ Rank       Bot                       Rating     Prog       Games
 10         MphoBot                   2835       -3         173       
 11         faith_bot                 2832       -1         2313      
 12         blundar_bot               2809       -5         1590      
-13         Berserk-Test              2740       4          235       
+13         Berserk-Test              2743       4          236       
 14         ELO_1500                  2724       2          3619      
 15         MrChessTheBot             2689       -53        2243      
 16         AKS-Mantissa              2611       14         4484      
@@ -21,7 +21,7 @@ Rank       Bot                       Rating     Prog       Games
 20         Cheng-4                   2575       6          3429      
 21         catriever                 2564       12         528       
 22         bot_adario                2535       -15        1554      
-23         Weiawaga                  2533       -17        10692     
+23         Weiawaga                  2530       -22        10693     
 24         TuksuBot                  2495       4          2366      
 25         odonata-bot               2478       20         3970      
 26         Phalanx-XXV               2456       -1         1204      
@@ -73,7 +73,7 @@ Rank       Bot                       Rating     Prog       Games
 72         munfish                   1715       -15        16        
 73         turkjs                    1707       2          5306      
 74         AshNostromo               1707       -24        1360      
-75         maia9                     1694       5          91599     
+75         maia9                     1698       12         91600     
 76         ZE_ROOK                   1673       13         720       
 77         maia5                     1666       16         107466    
 78         ai-con                    1663       24         168       
@@ -85,7 +85,7 @@ Rank       Bot                       Rating     Prog       Games
 84         sargon-3ply               1531       0          1340      
 85         ShallowLearnBot           1525       -100       25        
 86         turochamp-2ply            1469       -25        1202      
-87         maia1                     1441       2          244316    
+87         maia1                     1441       11         244318    
 88         Humaia                    1422       -15        2478      
 89         RoundMoundOfRebounds      1422       -11        431       
 90         StupidChessRobot          1404       -11        124       
@@ -100,3 +100,4 @@ Rank       Bot                       Rating     Prog       Games
 99         king-forward-bot          1148       -80        49        
 100        ABotWith3200Rating        1135       -2         210       
 101        grandQ_AI                 812        8          1681      
+102        G0thamB0t                 630        8          460       
