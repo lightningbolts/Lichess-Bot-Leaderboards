@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
 1          LeelaMultiPoss            3004       12         1089      
-2          ToromBot                  2964       0          66427     
+2          ToromBot                  2964       0          66428     
 3          YoBot_v2                  2956       1          19937     
 4          Mate-AI                   2944       -6         13554     
 5          ReinforcementTrial        2941       2          3480      
@@ -11,8 +11,8 @@ Rank       Bot                       Rating     Prog       Games
 10         Berserk-Test              2746       9          565       
 11         JuroJ                     2690       -19        2121      
 12         LazyBot                   2605       -30        1536      
-13         pawn_git                  2503       1          5306      
-14         Weiawaga                  2501       -10        17228     
+13         Weiawaga                  2503       -12        17229     
+14         pawn_git                  2503       1          5306      
 15         SaxtonEngine              2501       2          5426      
 16         AKS-Mantissa              2496       18         12002     
 17         ELO_1500                  2495       -8         3398      
@@ -28,11 +28,11 @@ Rank       Bot                       Rating     Prog       Games
 27         Pseudo-0                  2359       -23        4498      
 28         Phalanx-XXV               2357       -15        5156      
 29         ChessNoobComp             2347       -9         9625      
-30         fornax-engine             2340       -1         7528      
+30         fornax-engine             2340       -6         7529      
 31         admete_bot                2309       24         14132     
 32         simpleEval                2302       -3         26076     
 33         Nakshatra3                2280       -3         2072      
-34         FataliiBot                2278       12         6438      
+34         FataliiBot                2275       3          6439      
 35         bekbot                    2264       8          2413      
 36         LazyBotJr                 2226       17         1206      
 37         Humaia-Strong             2188       30         1329      
@@ -53,7 +53,7 @@ Rank       Bot                       Rating     Prog       Games
 52         QuintBot                  1828       1          12437     
 53         piglet_engine             1800       6          1396      
 54         notropis                  1790       15         4845      
-55         Dinora                    1779       27         533       
+55         Dinora                    1785       31         534       
 56         baby_eubos                1764       -17        6941      
 57         Demolito_L5               1763       -16        1585      
 58         Virutor                   1752       20         7399      
@@ -84,7 +84,7 @@ Rank       Bot                       Rating     Prog       Games
 83         yeoldwiz                  1450       18         791       
 84         monchester                1416       -11        2982      
 85         turochamp-1ply            1415       -17        2538      
-86         sargon-2ply               1388       -7         2945      
+86         sargon-2ply               1382       -6         2946      
 87         sargon-1ply               1264       10         5539      
 88         ABotWith3200Rating        1243       12         232       
 89         CHoMPBoT                  1241       -20        1033      
