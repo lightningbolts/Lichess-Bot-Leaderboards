@@ -1,5 +1,5 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ReinforcementTrial        2938       -4         6379      
+1          ReinforcementTrial        2940       -2         6380      
 2          LeelaMultiPoss            2937       8          452       
 3          ToromBot                  2931       3          3221      
 4          Mate-AI                   2921       -4         2731      
@@ -18,7 +18,7 @@ Rank       Bot                       Rating     Prog       Games
 17         LazyBot                   2611       1          831       
 18         pawn_git                  2601       6          1567      
 19         SaxtonEngine              2595       -2         1662      
-20         Cheng-4                   2578       5          3427      
+20         Cheng-4                   2577       4          3428      
 21         catriever                 2566       14         527       
 22         Weiawaga                  2536       -14        10689     
 23         bot_adario                2536       -14        1553      
@@ -71,8 +71,8 @@ Rank       Bot                       Rating     Prog       Games
 70         ChessChildren             1744       1          4730      
 71         turkjs                    1707       2          5306      
 72         AshNostromo               1702       -27        1359      
-73         simplexitor               1675       -28        654       
-74         maia9                     1671       -22        91579     
+73         maia9                     1678       -21        91580     
+74         simplexitor               1675       -28        654       
 75         ZE_ROOK                   1668       14         719       
 76         ai-con                    1660       23         167       
 77         yeoldwiz                  1655       -5         796       
@@ -82,8 +82,8 @@ Rank       Bot                       Rating     Prog       Games
 81         sargon-4ply               1627       -19        829       
 82         LeElaGuess                1604       22         245       
 83         DavidsGuterBot            1558       -18        744       
-84         sargon-3ply               1533       8          1339      
-85         ShallowLearnBot           1533       -103       23        
+84         ShallowLearnBot           1533       -103       23        
+85         sargon-3ply               1531       0          1340      
 86         turochamp-2ply            1473       -15        1201      
 87         maia1                     1431       21         244294    
 88         Humaia                    1422       -15        2478      
@@ -98,5 +98,6 @@ Rank       Bot                       Rating     Prog       Games
 97         king-forward-bot          1156       -77        48        
 98         chat_bot                  1151       -22        348       
 99         ABotWith3200Rating        1135       -2         210       
-100        grandQ_AI                 812        8          1681      
-101        G0thamB0t                 630        8          460       
+100        bobandi                   1005       10         808       
+101        grandQ_AI                 812        8          1681      
+102        G0thamB0t                 630        8          460       
