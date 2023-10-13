@@ -3,7 +3,7 @@ Rank       Bot                       Rating     Prog       Games
 2          YoBot_v2                  2956       1          19937     
 3          Mate-AI                   2944       -6         13554     
 4          ReinforcementTrial        2941       2          3480      
-5          caissa-x                  2925       2          14757     
+5          caissa-x                  2926       2          14758     
 6          ResoluteBot               2924       -6         28617     
 7          RaspFish                  2852       0          55917     
 8          blundar_bot               2776       -1         12624     
@@ -13,7 +13,7 @@ Rank       Bot                       Rating     Prog       Games
 12         LazyBot                   2605       -30        1536      
 13         pawn_git                  2503       1          5306      
 14         Weiawaga                  2501       -4         17231     
-15         SaxtonEngine              2501       2          5426      
+15         SaxtonEngine              2500       -1         5427      
 16         AKS-Mantissa              2499       10         12004     
 17         ELO_1500                  2495       -8         3398      
 18         Cheng-4                   2491       4          14757     
@@ -46,11 +46,11 @@ Rank       Bot                       Rating     Prog       Games
 45         redtail-zero              2082       -13        1192      
 46         likeawizard-bot           2077       11         3287      
 47         BLANK_BOT                 2058       18         8515      
-48         sun_bird                  2044       14         3489      
-49         Lynx_BOT                  1999       -5         8622      
+48         sun_bird                  2049       15         3490      
+49         Lynx_BOT                  1994       -14        8623      
 50         zeekat                    1975       -6         21414     
-51         MaxtheDog                 1955       -14        17444     
-52         Trollfish-Bot             1937       2          7118      
+51         MaxtheDog                 1949       -25        17445     
+52         Trollfish-Bot             1943       7          7119      
 53         NatesBot                  1841       4          968       
 54         QuintBot                  1827       -12        12441     
 55         piglet_engine             1798       4          1397      
@@ -77,8 +77,8 @@ Rank       Bot                       Rating     Prog       Games
 76         maia5                     1569       4          40999     
 77         turochamp-2ply            1561       -15        1983      
 78         sargon-3ply               1559       -15        1793      
-79         sargon-4ply               1514       -26        2211      
-80         maia1                     1511       1          129113    
+79         sargon-4ply               1516       -21        2212      
+80         maia1                     1515       10         129114    
 81         DavidsGuterBot            1507       0          6986      
 82         botTideEval               1484       42         4279      
 83         RoundMoundOfRebounds      1482       8          1818      
@@ -92,7 +92,7 @@ Rank       Bot                       Rating     Prog       Games
 91         sargon-1ply               1264       10         5539      
 92         ABotWith3200Rating        1243       12         232       
 93         CHoMPBoT                  1241       -20        1033      
-94         pawnrobot                 1221       -19        4215      
+94         pawnrobot                 1219       -17        4216      
 95         king-forward-bot          1187       -19        142       
 96         knucklefish               1177       -12        3070      
 97         grandQ_AI                 826        6          885       
