@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ToromBot                  2971       6          7158      
+1          ToromBot                  2971       4          7159      
 2          LeelaMultiPoss            2961       12         743       
-3          ReinforcementTrial        2923       4          4588      
+3          ReinforcementTrial        2924       5          4589      
 4          FireFishBOT_v2            2911       0          11346     
 5          YoBot_v2                  2908       22         5054      
 6          ResoluteBot               2902       4          13482     
@@ -61,10 +61,10 @@ Rank       Bot                       Rating     Prog       Games
 60         notropis                  1814       -9         7899      
 61         Trollfish-Bot             1811       4          3523      
 62         NatesBot                  1798       0          2498      
-63         QuintBot                  1793       -6         12003     
+63         QuintBot                  1786       -12        12004     
 64         Dinora                    1773       -10        774       
 65         honzovy-sachy             1747       12         5803      
-66         ShallowRedBot             1739       -19        901       
+66         ShallowRedBot             1746       -5         902       
 67         Virutor                   1715       -22        8148      
 68         piglet_engine             1713       -18        371       
 69         chesstango_bot            1713       6          412       
@@ -100,7 +100,7 @@ Rank       Bot                       Rating     Prog       Games
 99         dragobot                  1229       -20        264       
 100        pawnrobot                 1182       -11        2366      
 101        king-forward-bot          1160       17         101       
-102        sargon-1ply               1156       5          9079      
+102        sargon-1ply               1150       -5         9080      
 103        ABotWith3200Rating        1114       -4         377       
 104        CHoMPBoT                  1019       -6         1863      
 105        knucklefish               999        -25        3560      
