@@ -1,14 +1,14 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ToromBot                  2970       -1         7127      
 2          LeelaMultiPoss            2961       12         743       
-3          ReinforcementTrial        2920       -1         4575      
-4          Occhessadvanced           2908       2          406       
-5          FireFishBOT_v2            2904       -2         11337     
+3          ReinforcementTrial        2920       -5         4576      
+4          Occhessadvanced           2908       2          407       
+5          FireFishBOT_v2            2902       -3         11338     
 6          Mate-AI                   2900       9          3839      
 7          ResoluteBot               2899       0          13476     
 8          caissa-x                  2899       2          4107      
 9          YoBot_v2                  2893       12         5047      
-10         MphoBot                   2827       -12        317       
+10         MphoBot                   2828       -12        318       
 11         RaspFish                  2826       19         14207     
 12         RubysBot                  2826       1          304       
 13         JuroJ                     2783       12         1940      
@@ -29,7 +29,7 @@ Rank       Bot                       Rating     Prog       Games
 28         odonata-bot               2433       -13        6497      
 29         fornax-engine             2429       7          6871      
 30         TuksuBot                  2412       1          4597      
-31         OpeningsBot               2409       8          2079      
+31         OpeningsBot               2412       12         2080      
 32         ChessNoobComp             2403       10         1827      
 33         Pseudo-0                  2389       -8         3448      
 34         Phalanx-XXV               2379       10         3209      
@@ -39,7 +39,7 @@ Rank       Bot                       Rating     Prog       Games
 38         simpleEval                2301       5          16166     
 39         halcyonbot                2227       -16        11738     
 40         Nakshatra3                2211       -22        2060      
-41         FataliiBot                2209       -20        7661      
+41         FataliiBot                2206       -26        7662      
 42         honzovy-sachy-2           2161       6          7596      
 43         eubos                     2160       9          15914     
 44         matmoi                    2151       -4         3447      
@@ -65,7 +65,7 @@ Rank       Bot                       Rating     Prog       Games
 64         Trollfish-Bot             1825       3          3517      
 65         notropis                  1815       -10        7894      
 66         NatesBot                  1797       -2         2489      
-67         QuintBot                  1791       -19        11980     
+67         QuintBot                  1794       -13        11981     
 68         Dinora                    1764       -31        770       
 69         honzovy-sachy             1754       20         5796      
 70         ShallowRedBot             1752       2          896       
@@ -77,8 +77,8 @@ Rank       Bot                       Rating     Prog       Games
 76         AshNostromo               1648       -21        1099      
 77         Jibbby                    1635       -20        6691      
 78         ChessChildren             1629       -5         22157     
-79         ai-con                    1626       15         314       
-80         maia9                     1623       15         108555    
+79         maia9                     1623       15         108555    
+80         ai-con                    1623       13         315       
 81         postbot                   1607       17         883       
 82         simplexitor               1605       -12        2661      
 83         turkjs                    1570       21         10679     
@@ -109,5 +109,4 @@ Rank       Bot                       Rating     Prog       Games
 108        ABotWith3200Rating        1114       -4         377       
 109        CHoMPBoT                  1024       -2         1861      
 110        knucklefish               999        -25        3560      
-111        bobandi                   922        1          1393      
-112        grandQ_AI                 882        -39        1415      
+111        grandQ_AI                 882        -39        1415      
