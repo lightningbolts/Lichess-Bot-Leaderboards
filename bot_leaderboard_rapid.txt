@@ -32,13 +32,13 @@ Rank       Bot                       Rating     Prog       Games
 31         ChessNoobComp             2394       6          707       
 32         simpleEval                2382       25         8065      
 33         bekbot                    2346       8          2579      
-34         halcyonbot                2276       -17        7943      
+34         halcyonbot                2280       -11        7944      
 35         eubos                     2255       23         4455      
 36         FataliiBot                2242       -9         3048      
 37         Nakshatra3                2217       -2         1073      
 38         honzovy-sachy-2           2191       -12        3884      
-39         matmoi                    2180       11         3026      
-40         Elmichess                 2178       10         1448      
+39         Elmichess                 2178       10         1448      
+40         matmoi                    2176       1          3027      
 41         jangine                   2145       12         2066      
 42         Lynx_BOT                  2126       11         40762     
 43         Boris-Trapsky             2118       0          28369     
@@ -58,7 +58,7 @@ Rank       Bot                       Rating     Prog       Games
 57         zeekat                    1929       -1         9691      
 58         NatesBot                  1913       1          1198      
 59         QuintBot                  1906       -18        531       
-60         LittleGreenManBot         1890       34         3962      
+60         LittleGreenManBot         1895       34         3963      
 61         Dinora                    1887       7          153       
 62         ShallowRedBot             1871       8          148       
 63         chesstango_bot            1869       9          223       
@@ -85,7 +85,7 @@ Rank       Bot                       Rating     Prog       Games
 84         sargon-3ply               1531       0          1340      
 85         ShallowLearnBot           1525       -100       25        
 86         turochamp-2ply            1469       -25        1202      
-87         maia1                     1429       3          244314    
+87         maia1                     1441       2          244316    
 88         Humaia                    1422       -15        2478      
 89         RoundMoundOfRebounds      1422       -11        431       
 90         StupidChessRobot          1404       -11        124       
@@ -100,4 +100,3 @@ Rank       Bot                       Rating     Prog       Games
 99         king-forward-bot          1148       -80        49        
 100        ABotWith3200Rating        1135       -2         210       
 101        grandQ_AI                 812        8          1681      
-102        G0thamB0t                 630        8          460       
