@@ -1,8 +1,8 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ToromBot                  2935       3          3230      
+1          ToromBot                  2935       3          3231      
 2          ReinforcementTrial        2935       -3         6412      
 3          Mate-AI                   2932       6          2743      
-4          Occhessadvanced           2924       2          444       
+4          Occhessadvanced           2924       4          445       
 5          FireFishBOT_v2            2906       -1         1248      
 6          caissa-x                  2900       -9         3467      
 7          ResoluteBot               2899       -2         6164      
@@ -13,8 +13,8 @@ Rank       Bot                       Rating     Prog       Games
 12         MphoBot                   2838       5          180       
 13         faith_bot                 2826       -3         2338      
 14         blundar_bot               2805       -4         1594      
-15         Berserk-Test              2745       10         242       
-16         ELO_1500                  2731       14         3622      
+15         Berserk-Test              2746       6          243       
+16         ELO_1500                  2732       11         3623      
 17         MrChessTheBot             2689       -53        2243      
 18         AKS-Mantissa              2614       3          4488      
 19         LazyBot                   2611       1          831       
@@ -28,7 +28,7 @@ Rank       Bot                       Rating     Prog       Games
 27         odonata-bot               2481       25         3971      
 28         Phalanx-XXV               2461       -5         1208      
 29         Pseudo-0                  2458       15         1422      
-30         admete_bot                2426       -6         4668      
+30         admete_bot                2426       -5         4669      
 31         fornax-engine             2417       10         3885      
 32         RenegadeEngine            2414       41         426       
 33         OpeningsBot               2409       -2         617       
@@ -37,9 +37,9 @@ Rank       Bot                       Rating     Prog       Games
 36         eubos                     2245       2          4459      
 37         FataliiBot                2245       -4         3055      
 38         Nakshatra3                2213       0          1078      
-39         honzovy-sachy-2           2199       -1         3885      
-40         HistoryExplorer           2197       -12        1179      
-41         matmoi                    2190       2          3049      
+39         HistoryExplorer           2203       -6         1180      
+40         honzovy-sachy-2           2199       -1         3885      
+41         matmoi                    2184       -7         3050      
 42         Elmichess                 2178       10         1448      
 43         jangine                   2146       17         2069      
 44         Boris-Trapsky             2126       4          28377     
@@ -77,9 +77,9 @@ Rank       Bot                       Rating     Prog       Games
 76         maia9                     1701       -11        91669     
 77         ai-con                    1670       13         174       
 78         ZE_ROOK                   1660       -1         725       
-79         yeoldwiz                  1651       -7         802       
-80         dragobot                  1643       8          173       
-81         Demolito_L4               1641       25         272       
+79         Demolito_L4               1647       32         273       
+80         yeoldwiz                  1645       -7         803       
+81         dragobot                  1643       8          173       
 82         sargon-4ply               1631       -23        833       
 83         LeElaGuess                1591       3          267       
 84         maia5                     1558       -34        107514    
