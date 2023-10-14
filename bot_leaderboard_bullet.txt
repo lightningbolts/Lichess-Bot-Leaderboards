@@ -2,8 +2,8 @@ Rank       Bot                       Rating     Prog       Games
 1          VariantsTop               3033       -1         2404      
 2          LeelaMultiPoss            3002       5          1140      
 3          EmanPureNN                2967       3          4833      
-4          YoBot_v2                  2964       1          19953     
-5          ToromBot                  2961       2          66533     
+4          YoBot_v2                  2966       6          19955     
+5          ToromBot                  2958       -1         66534     
 6          Mate-AI                   2950       5          13592     
 7          czech-bot                 2947       -6         135       
 8          TorBot_v2                 2946       -1         744       
@@ -11,7 +11,7 @@ Rank       Bot                       Rating     Prog       Games
 10         FireFishBOT_v2            2932       2          1963      
 11         ResoluteBot               2924       -1         28627     
 12         caissa-x                  2921       9          14785     
-13         RaspFish                  2819       -19        55974     
+13         RaspFish                  2821       -16        55975     
 14         blundar_bot               2786       -1         12666     
 15         faith_bot                 2749       -21        3532      
 16         Berserk-Test              2744       1          602       
@@ -62,11 +62,11 @@ Rank       Bot                       Rating     Prog       Games
 61         zeekat                    1951       -5         21481     
 62         Demolito_L6               1895       10         1271      
 63         NatesBot                  1880       17         987       
-64         Trollfish-Bot             1878       -30        7183      
-65         QuintBot                  1877       20         12553     
-66         piglet_engine             1800       -4         1418      
-67         Dinora                    1799       19         555       
-68         notropis                  1795       1          4873      
+64         QuintBot                  1877       20         12553     
+65         Trollfish-Bot             1871       -30        7184      
+66         notropis                  1802       5          4874      
+67         piglet_engine             1800       -4         1418      
+68         Dinora                    1799       19         555       
 69         Virutor                   1775       8          7431      
 70         baby_eubos                1771       -6         6975      
 71         honzovy-sachy             1768       -1         5708      
@@ -95,7 +95,7 @@ Rank       Bot                       Rating     Prog       Games
 94         ShallowLearnBot           1468       3          103       
 95         yeoldwiz                  1450       18         791       
 96         monchester                1449       29         2995      
-97         schnecken_bot             1435       3          1724      
+97         schnecken_bot             1437       7          1725      
 98         turochamp-1ply            1424       1          2545      
 99         botTideEval               1419       -26        4306      
 100        sargon-2ply               1407       15         2962      
@@ -107,6 +107,6 @@ Rank       Bot                       Rating     Prog       Games
 106        CHoMPBoT                  1234       -22        1040      
 107        king-forward-bot          1194       -7         145       
 108        knucklefish               1193       15         3077      
-109        DeepKalle                 1131       -33        367       
+109        DeepKalle                 1129       -31        368       
 110        GuineaBot                 1072       -6         67        
 111        grandQ_AI                 823        7          886       
