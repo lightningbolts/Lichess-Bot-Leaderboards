@@ -13,7 +13,7 @@ Rank       Bot                       Rating     Prog       Games
 12         Berserk-Test              2503       24         42        
 13         ELO_1500                  2442       -3         647       
 14         MrChessTheBot             2421       -61        314       
-15         AKS-Mantissa              2383       26         1225      
+15         AKS-Mantissa              2387       32         1226      
 16         LazyBot                   2367       18         211       
 17         catriever                 2359       31         416       
 18         SaxtonEngine              2315       -10        607       
@@ -52,8 +52,8 @@ Rank       Bot                       Rating     Prog       Games
 51         AshNostromo               1723       -104       27        
 52         notropis                  1705       -45        145       
 53         honzovy-sachy             1690       32         328       
-54         maia9                     1689       11         23027     
-55         Virutor                   1687       -6         676       
+54         Virutor                   1687       -6         676       
+55         maia9                     1684       1          23028     
 56         turochamp-2ply            1661       6          829       
 57         sargon-4ply               1624       3          470       
 58         ZE_ROOK                   1620       -17        259       
@@ -65,7 +65,7 @@ Rank       Bot                       Rating     Prog       Games
 64         yeoldwiz                  1568       -21        330       
 65         chat_bot                  1560       54         72        
 66         sargon-3ply               1556       -33        773       
-67         sargon-2ply               1533       -3         1495      
+67         sargon-2ply               1535       2          1496      
 68         StupidChessRobot          1492       -49        36        
 69         Humaia                    1485       43         1289      
 70         maia1                     1476       10         69755     
