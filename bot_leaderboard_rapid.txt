@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ToromBot                  2942       11         3233      
 2          LeelaMultiPoss            2937       8          452       
-3          ReinforcementTrial        2935       2          6418      
+3          ReinforcementTrial        2933       0          6419      
 4          Mate-AI                   2933       -2         2750      
 5          Occhessadvanced           2919       -7         459       
 6          ResoluteBot               2906       7          6169      
@@ -12,8 +12,8 @@ Rank       Bot                       Rating     Prog       Games
 11         TorBot_v2                 2890       7          252       
 12         ArasanX                   2864       -4         6549      
 13         JuroJ                     2859       -3         2885      
-14         faith_bot                 2811       -11        2358      
-15         blundar_bot               2810       0          1598      
+14         blundar_bot               2812       1          1599      
+15         faith_bot                 2811       -11        2358      
 16         Berserk-Test              2745       2          247       
 17         ELO_1500                  2733       11         3628      
 18         MrChessTheBot             2689       -53        2243      
@@ -34,7 +34,7 @@ Rank       Bot                       Rating     Prog       Games
 33         OpeningsBot               2420       11         621       
 34         admete_bot                2405       1          4722      
 35         simpleEval                2359       -16        8081      
-36         bekbot                    2277       -4         2631      
+36         bekbot                    2279       -5         2632      
 37         halcyonbot                2276       -3         7986      
 38         FataliiBot                2250       5          3061      
 39         eubos                     2244       4          4463      
@@ -53,7 +53,7 @@ Rank       Bot                       Rating     Prog       Games
 52         Aleph_Engine              2042       -67        24        
 53         GarboBot                  2039       -31        6552      
 54         MaxtheDog                 2039       11         974       
-55         Zagreus_Engine            2023       -11        2254      
+55         Zagreus_Engine            2021       -17        2255      
 56         sun_bird                  2020       -5         211       
 57         LeelaRogue                2007       43         2408      
 58         BLANK_BOT                 2005       -23        1953      
@@ -89,7 +89,7 @@ Rank       Bot                       Rating     Prog       Games
 88         LeElaGuess                1616       17         280       
 89         maia5                     1599       12         107560    
 90         DavidsGuterBot            1556       -12        747       
-91         maia1                     1544       14         244474    
+91         maia1                     1537       13         244475    
 92         sargon-3ply               1518       -29        1344      
 93         ShallowLearnBot           1513       -74        27        
 94         turochamp-2ply            1457       -14        1205      
