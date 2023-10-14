@@ -5,9 +5,9 @@ Rank       Bot                       Rating     Prog       Games
 4          Mate-AI                   2945       0          13581     
 5          ReinforcementTrial        2936       -4         3492      
 6          FireFishBOT_v2            2933       3          1961      
-7          ResoluteBot               2924       -7         28621     
+7          ResoluteBot               2923       -9         28622     
 8          caissa-x                  2915       -3         14781     
-9          RaspFish                  2847       -5         55948     
+9          RaspFish                  2849       -5         55949     
 10         blundar_bot               2791       19         12657     
 11         faith_bot                 2753       -9         3531      
 12         Berserk-Test              2740       1          592       
@@ -56,11 +56,11 @@ Rank       Bot                       Rating     Prog       Games
 55         sun_bird                  2010       -9         3577      
 56         MaxtheDog                 1996       -2         17502     
 57         zeekat                    1947       -17        21474     
-58         Trollfish-Bot             1915       -4         7171      
+58         Trollfish-Bot             1908       -12        7172      
 59         NatesBot                  1885       34         983       
-60         QuintBot                  1863       48         12527     
+60         QuintBot                  1856       36         12528     
 61         piglet_engine             1797       -11        1415      
-62         notropis                  1787       -2         4867      
+62         notropis                  1794       -1         4868      
 63         Dinora                    1780       3          551       
 64         baby_eubos                1775       -5         6967      
 65         Virutor                   1773       9          7428      
@@ -101,6 +101,7 @@ Rank       Bot                       Rating     Prog       Games
 100        CHoMPBoT                  1234       -22        1040      
 101        king-forward-bot          1194       -7         145       
 102        knucklefish               1193       15         3077      
-103        DeepKalle                 1129       -33        366       
-104        GuineaBot                 1072       -6         67        
-105        grandQ_AI                 823        7          886       
+103        bobandi                   1184       5          1194      
+104        DeepKalle                 1129       -33        366       
+105        GuineaBot                 1072       -6         67        
+106        grandQ_AI                 823        7          886       
