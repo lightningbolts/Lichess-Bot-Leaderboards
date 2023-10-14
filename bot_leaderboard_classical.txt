@@ -11,7 +11,7 @@ Rank       Bot                       Rating     Prog       Games
 10         JuroJ                     2545       20         1856      
 11         mayhem23111               2518       56         32        
 12         Berserk-Test              2506       -2         48        
-13         ELO_1500                  2443       3          651       
+13         ELO_1500                  2444       3          652       
 14         MrChessTheBot             2421       -61        314       
 15         expositor                 2393       -14        1384      
 16         AKS-Mantissa              2387       23         1227      
@@ -27,7 +27,7 @@ Rank       Bot                       Rating     Prog       Games
 26         TuksuBot                  2133       -14        1087      
 27         Nakshatra3                2041       -30        214       
 28         Humaia-Strong             2039       51         243       
-29         bekbot                    2035       3          141       
+29         bekbot                    2033       5          142       
 30         simpleEval                2027       -12        1937      
 31         Boris-Trapsky             2008       -10        10638     
 32         HistoryExplorer           1992       -2         212       
@@ -69,11 +69,12 @@ Rank       Bot                       Rating     Prog       Games
 68         sargon-3ply               1553       -35        775       
 69         maia5                     1546       -26        24217     
 70         StupidChessRobot          1492       -49        36        
-71         sargon-2ply               1483       -21        1584      
-72         Humaia                    1480       41         1291      
+71         Humaia                    1480       41         1291      
+72         sargon-2ply               1474       -20        1585      
 73         RoundMoundOfRebounds      1469       125        133       
 74         turochamp-1ply            1364       -4         854       
 75         sargon-1ply               1313       -1         3724      
 76         ABotWith3200Rating        1117       -3         116       
 77         CHoMPBoT                  1111       -25        196       
 78         grandQ_AI                 868        4          828       
+79         G0thamB0t                 783        -6         254       
