@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          VariantsTop               2948       -2         211       
 2          ToromBot                  2942       11         3234      
-3          ReinforcementTrial        2932       -2         6425      
+3          ReinforcementTrial        2934       -2         6426      
 4          Mate-AI                   2932       2          2757      
 5          TheFreshman1902           2918       -2         279       
 6          Occhessadvanced           2917       -3         467       
@@ -9,8 +9,8 @@ Rank       Bot                       Rating     Prog       Games
 8          ResoluteBot               2905       6          6175      
 9          FireFishBOT_v2            2905       -2         1249      
 10         caissa-x                  2904       0          3481      
-11         RaspFish                  2901       5          6770      
-12         mayhem23111               2894       -3         174       
+11         RaspFish                  2901       6          6771      
+12         mayhem23111               2895       -4         175       
 13         YoBot_v2                  2892       -9         13764     
 14         TorBot_v2                 2890       7          252       
 15         European_Chess_Bot        2878       1          57        
@@ -22,7 +22,7 @@ Rank       Bot                       Rating     Prog       Games
 21         ELO_1500                  2736       4          3634      
 22         MrChessTheBot             2689       -53        2243      
 23         expositor                 2660       9          5010      
-24         AKS-Mantissa              2611       2          4493      
+24         AKS-Mantissa              2609       -4         4494      
 25         LazyBot                   2607       -3         835       
 26         pawn_git                  2605       14         1573      
 27         SaxtonEngine              2584       -16        1669      
@@ -40,9 +40,9 @@ Rank       Bot                       Rating     Prog       Games
 39         clueless-bot              2365       -1         823       
 40         simpleEval                2364       -11        8086      
 41         bekbot                    2311       23         2647      
-42         halcyonbot                2285       8          7996      
-43         eubos                     2246       -3         4467      
-44         FataliiBot                2244       3          3065      
+42         halcyonbot                2279       3          7997      
+43         FataliiBot                2250       6          3066      
+44         eubos                     2246       -3         4467      
 45         honzovy-sachy-2           2210       0          3889      
 46         Nakshatra3                2206       -7         1081      
 47         Elmichess                 2178       10         1448      
@@ -80,7 +80,7 @@ Rank       Bot                       Rating     Prog       Games
 79         munfish                   1723       -24        25        
 80         turkjs                    1720       22         5313      
 81         AshNostromo               1705       -28        1361      
-82         maia9                     1702       -12        91723     
+82         maia9                     1696       -12        91724     
 83         ai-con                    1683       21         182       
 84         simplexitor               1673       -23        656       
 85         ZE_ROOK                   1659       -11        729       
@@ -93,7 +93,7 @@ Rank       Bot                       Rating     Prog       Games
 92         DavidsGuterBot            1556       -12        747       
 93         sargon-3ply               1526       -17        1345      
 94         ShallowLearnBot           1513       -74        27        
-95         maia1                     1502       4          244537    
+95         maia1                     1495       -1         244538    
 96         postbot                   1465       137        36        
 97         turochamp-2ply            1457       -14        1205      
 98         Humaia                    1430       -6         2486      
