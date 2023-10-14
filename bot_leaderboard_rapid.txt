@@ -31,7 +31,7 @@ Rank       Bot                       Rating     Prog       Games
 30         Pseudo-0                  2450       3          1427      
 31         fornax-engine             2424       22         3887      
 32         OpeningsBot               2421       14         620       
-33         admete_bot                2398       -7         4720      
+33         admete_bot                2397       -7         4721      
 34         ChessNoobComp             2387       -9         711       
 35         simpleEval                2377       1          8078      
 36         halcyonbot                2284       11         7977      
@@ -83,11 +83,11 @@ Rank       Bot                       Rating     Prog       Games
 82         dragobot                  1643       8          173       
 83         sargon-4ply               1630       -20        834       
 84         LeElaGuess                1612       18         274       
-85         maia5                     1591       13         107547    
+85         maia5                     1589       1          107548    
 86         DavidsGuterBot            1556       -12        747       
 87         sargon-3ply               1522       -22        1343      
 88         ShallowLearnBot           1513       -74        27        
-89         maia1                     1503       5          244452    
+89         maia1                     1502       9          244453    
 90         turochamp-2ply            1457       -14        1205      
 91         RoundMoundOfRebounds      1431       5          432       
 92         Humaia                    1423       -18        2483      
@@ -97,7 +97,7 @@ Rank       Bot                       Rating     Prog       Games
 96         sargon-1ply               1326       -6         9288      
 97         sargon-2ply               1312       7          3652      
 98         pawnrobot                 1294       7          833       
-99         CHoMPBoT                  1177       -1         588       
+99         CHoMPBoT                  1175       0          589       
 100        king-forward-bot          1165       -21        56        
 101        chat_bot                  1151       -22        348       
 102        ABotWith3200Rating        1135       4          211       
