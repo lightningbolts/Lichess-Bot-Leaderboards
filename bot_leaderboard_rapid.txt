@@ -4,12 +4,12 @@ Rank       Bot                       Rating     Prog       Games
 3          Mate-AI                   2929       -7         2747      
 4          FireFishBOT_v2            2906       -1         1248      
 5          ResoluteBot               2899       -1         6165      
-6          caissa-x                  2899       -9         3469      
-7          YoBot_v2                  2898       -3         13758     
-8          RaspFish                  2893       3          6762      
+6          YoBot_v2                  2898       -3         13758     
+7          RaspFish                  2893       3          6762      
+8          TorBot_v2                 2890       7          252       
 9          ArasanX                   2870       -2         6540      
 10         JuroJ                     2859       -3         2885      
-11         faith_bot                 2827       4          2346      
+11         faith_bot                 2822       -2         2347      
 12         blundar_bot               2807       -4         1595      
 13         Berserk-Test              2743       0          244       
 14         ELO_1500                  2734       17         3626      
@@ -82,7 +82,7 @@ Rank       Bot                       Rating     Prog       Games
 81         dragobot                  1643       8          173       
 82         sargon-4ply               1630       -20        834       
 83         LeElaGuess                1606       22         272       
-84         maia5                     1565       6          107534    
+84         maia5                     1569       0          107535    
 85         DavidsGuterBot            1556       -12        747       
 86         sargon-3ply               1526       -11        1342      
 87         ShallowLearnBot           1513       -74        27        
