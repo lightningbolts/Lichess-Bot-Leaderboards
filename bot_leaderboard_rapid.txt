@@ -29,13 +29,13 @@ Rank       Bot                       Rating     Prog       Games
 28         odonata-bot               2481       25         3971      
 29         Phalanx-XXV               2461       -5         1208      
 30         Pseudo-0                  2458       15         1422      
-31         admete_bot                2428       -5         4666      
+31         admete_bot                2427       -5         4667      
 32         fornax-engine             2417       10         3885      
 33         RenegadeEngine            2414       41         426       
 34         OpeningsBot               2409       -2         617       
 35         simpleEval                2382       3          8073      
-36         bekbot                    2300       -27        2607      
-37         halcyonbot                2267       0          7965      
+36         bekbot                    2294       -35        2608      
+37         halcyonbot                2273       9          7966      
 38         eubos                     2245       2          4459      
 39         FataliiBot                2245       -4         3055      
 40         Nakshatra3                2213       0          1078      
@@ -59,7 +59,7 @@ Rank       Bot                       Rating     Prog       Games
 58         LazyBotJr                 1984       11         1576      
 59         potato-chess-bot          1947       89         43        
 60         baby_eubos                1937       -9         1147      
-61         zeekat                    1926       -5         9706      
+61         zeekat                    1931       1          9707      
 62         NatesBot                  1916       -3         1214      
 63         chesstango_bot            1904       29         236       
 64         LittleGreenManBot         1903       -4         3982      
@@ -105,4 +105,3 @@ Rank       Bot                       Rating     Prog       Games
 104        ABotWith3200Rating        1135       4          211       
 105        GuineaBot                 858        -84        28        
 106        grandQ_AI                 806        8          1684      
-107        G0thamB0t                 630        8          460       
