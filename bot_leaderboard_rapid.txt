@@ -24,7 +24,7 @@ Rank       Bot                       Rating     Prog       Games
 23         pawn_git                  2605       14         1573      
 24         SaxtonEngine              2587       -20        1668      
 25         Cheng-4                   2575       6          3429      
-26         catriever                 2572       6          538       
+26         catriever                 2575       11         539       
 27         bot_adario                2535       -15        1554      
 28         Weiawaga                  2503       -10        10718     
 29         TuksuBot                  2490       -6         2373      
@@ -33,15 +33,15 @@ Rank       Bot                       Rating     Prog       Games
 32         Pseudo-0                  2445       -4         1428      
 33         fornax-engine             2424       22         3887      
 34         OpeningsBot               2420       11         621       
-35         admete_bot                2405       1          4722      
+35         admete_bot                2402       -1         4723      
 36         simpleEval                2360       -20        8082      
-37         bekbot                    2289       18         2638      
+37         bekbot                    2293       18         2639      
 38         halcyonbot                2277       -13        7990      
 39         FataliiBot                2253       13         3062      
 40         eubos                     2249       5          4464      
 41         Nakshatra3                2211       -7         1080      
 42         honzovy-sachy-2           2210       0          3889      
-43         matmoi                    2185       -1         3065      
+43         matmoi                    2181       2          3066      
 44         Elmichess                 2178       10         1448      
 45         jangine                   2147       13         2071      
 46         Boris-Trapsky             2117       -12        28384     
@@ -76,8 +76,8 @@ Rank       Bot                       Rating     Prog       Games
 75         ChessChildren             1745       5          4732      
 76         munfish                   1729       -19        24        
 77         turkjs                    1720       22         5313      
-78         maia9                     1708       -24        91706     
-79         AshNostromo               1705       -28        1361      
+78         AshNostromo               1705       -28        1361      
+79         maia9                     1703       -19        91707     
 80         ai-con                    1681       20         180       
 81         simplexitor               1679       -20        655       
 82         ZE_ROOK                   1659       -11        729       
@@ -90,7 +90,7 @@ Rank       Bot                       Rating     Prog       Games
 89         DavidsGuterBot            1556       -12        747       
 90         sargon-3ply               1518       -29        1344      
 91         ShallowLearnBot           1513       -74        27        
-92         maia1                     1499       -45        244485    
+92         maia1                     1504       -26        244487    
 93         postbot                   1465       137        36        
 94         turochamp-2ply            1457       -14        1205      
 95         Humaia                    1430       -6         2484      
