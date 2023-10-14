@@ -3,7 +3,7 @@ Rank       Bot                       Rating     Prog       Games
 2          LeelaMultiPoss            2943       11         454       
 3          ToromBot                  2942       11         3234      
 4          Mate-AI                   2933       -2         2750      
-5          ReinforcementTrial        2932       -9         6421      
+5          ReinforcementTrial        2931       -10        6422      
 6          Occhessadvanced           2918       -6         460       
 7          EmanPureNN                2914       6          508       
 8          ResoluteBot               2905       1          6171      
@@ -12,7 +12,7 @@ Rank       Bot                       Rating     Prog       Games
 11         RaspFish                  2901       5          6770      
 12         YoBot_v2                  2894       -6         13762     
 13         TorBot_v2                 2890       7          252       
-14         ArasanX                   2865       -5         6551      
+14         ArasanX                   2866       -4         6552      
 15         JuroJ                     2859       -3         2885      
 16         MphoBot                   2843       9          182       
 17         faith_bot                 2816       -7         2361      
@@ -40,11 +40,11 @@ Rank       Bot                       Rating     Prog       Games
 39         bekbot                    2288       15         2636      
 40         halcyonbot                2278       -13        7989      
 41         FataliiBot                2253       13         3062      
-42         eubos                     2244       4          4463      
+42         eubos                     2249       5          4464      
 43         Nakshatra3                2211       -7         1080      
 44         honzovy-sachy-2           2210       0          3889      
 45         HistoryExplorer           2203       -2         1184      
-46         matmoi                    2190       8          3064      
+46         matmoi                    2185       -1         3065      
 47         Elmichess                 2178       10         1448      
 48         jangine                   2147       13         2071      
 49         Boris-Trapsky             2117       -12        28384     
@@ -69,8 +69,8 @@ Rank       Bot                       Rating     Prog       Games
 68         chesstango_bot            1896       -1         254       
 69         QuintBot                  1894       -9         538       
 70         ShallowRedBot             1889       11         154       
-71         LittleGreenManBot         1868       -32        4001      
-72         notropis                  1866       -13        2898      
+71         notropis                  1866       -13        2898      
+72         LittleGreenManBot         1862       -31        4002      
 73         Demolito_L6               1854       -12        1310      
 74         honzovy-sachy             1819       -8         1207      
 75         Virutor                   1798       -14        3451      
@@ -79,8 +79,8 @@ Rank       Bot                       Rating     Prog       Games
 78         Trollfish-Bot             1748       -11        450       
 79         ChessChildren             1745       5          4732      
 80         munfish                   1729       -19        24        
-81         turkjs                    1720       22         5313      
-82         maia9                     1716       -17        91702     
+81         maia9                     1724       -15        91703     
+82         turkjs                    1720       22         5313      
 83         AshNostromo               1705       -28        1361      
 84         ai-con                    1681       20         180       
 85         simplexitor               1679       -20        655       
@@ -90,7 +90,7 @@ Rank       Bot                       Rating     Prog       Games
 89         dragobot                  1643       8          173       
 90         sargon-4ply               1630       -20        834       
 91         LeElaGuess                1608       5          284       
-92         maia5                     1605       5          107569    
+92         maia5                     1599       -6         107570    
 93         DavidsGuterBot            1556       -12        747       
 94         sargon-3ply               1518       -29        1344      
 95         ShallowLearnBot           1513       -74        27        
