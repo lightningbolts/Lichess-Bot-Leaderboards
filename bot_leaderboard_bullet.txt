@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
 1          VariantsTop               3025       -6         2410      
-2          LeelaMultiPoss            3006       6          1145      
+2          LeelaMultiPoss            3005       6          1146      
 3          EmanPureNN                2967       3          4833      
 4          YoBot_v2                  2966       6          19955     
 5          Mate-AI                   2951       1          13593     
@@ -37,7 +37,7 @@ Rank       Bot                       Rating     Prog       Games
 36         admete_bot                2327       14         14146     
 37         Nakshatra3                2304       25         2084      
 38         simpleEval                2299       -5         26086     
-39         halcyonbot                2263       2          6914      
+39         halcyonbot                2263       6          6915      
 40         FataliiBot                2263       -13        6452      
 41         bekbot                    2255       -3         2448      
 42         Humaia-Strong             2188       30         1329      
@@ -60,7 +60,7 @@ Rank       Bot                       Rating     Prog       Games
 59         QuintBot                  1882       20         12554     
 60         NatesBot                  1880       17         987       
 61         Trollfish-Bot             1871       -30        7184      
-62         notropis                  1802       5          4874      
+62         notropis                  1802       6          4875      
 63         piglet_engine             1800       -4         1418      
 64         Dinora                    1794       16         556       
 65         baby_eubos                1771       -6         6975      
@@ -82,7 +82,7 @@ Rank       Bot                       Rating     Prog       Games
 81         LeElaGuess                1593       -46        83        
 82         ZE_ROOK                   1592       2          2430      
 83         turkjs                    1588       11         19887     
-84         maia5                     1585       1          41046     
+84         maia5                     1583       2          41047     
 85         turochamp-2ply            1570       9          1994      
 86         sargon-3ply               1553       -10        1803      
 87         maia1                     1538       49         129198    
@@ -92,7 +92,7 @@ Rank       Bot                       Rating     Prog       Games
 91         ShallowLearnBot           1468       3          103       
 92         yeoldwiz                  1450       18         791       
 93         monchester                1449       29         2995      
-94         schnecken_bot             1437       7          1725      
+94         schnecken_bot             1439       11         1726      
 95         turochamp-1ply            1424       1          2545      
 96         botTideEval               1419       -26        4306      
 97         sargon-2ply               1407       15         2962      
