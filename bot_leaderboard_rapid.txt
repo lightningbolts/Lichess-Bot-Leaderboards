@@ -1,5 +1,5 @@
 Rank       Bot                       Rating     Prog       Games     
-1          VariantsTop               2947       -5         206       
+1          VariantsTop               2946       -6         207       
 2          ToromBot                  2942       11         3234      
 3          Mate-AI                   2933       1          2754      
 4          ReinforcementTrial        2932       -2         6425      
@@ -10,7 +10,7 @@ Rank       Bot                       Rating     Prog       Games
 9          FireFishBOT_v2            2905       -2         1249      
 10         caissa-x                  2904       3          3479      
 11         RaspFish                  2901       5          6770      
-12         mayhem23111               2894       2          172       
+12         mayhem23111               2895       0          173       
 13         YoBot_v2                  2892       -9         13764     
 14         TorBot_v2                 2890       7          252       
 15         ttBOT                     2886       0          185       
@@ -23,8 +23,8 @@ Rank       Bot                       Rating     Prog       Games
 22         ELO_1500                  2729       1          3632      
 23         MrChessTheBot             2689       -53        2243      
 24         expositor                 2662       9          5009      
-25         AKS-Mantissa              2616       4          4491      
-26         LazyBot                   2611       1          831       
+25         LazyBot                   2618       8          833       
+26         AKS-Mantissa              2616       4          4491      
 27         pawn_git                  2605       14         1573      
 28         SaxtonEngine              2587       -20        1668      
 29         Cheng-4                   2575       6          3429      
@@ -90,11 +90,11 @@ Rank       Bot                       Rating     Prog       Games
 89         dragobot                  1643       8          173       
 90         Demolito_L4               1642       6          282       
 91         sargon-4ply               1630       -20        834       
-92         LeElaGuess                1610       -10        290       
-93         maia5                     1605       -16        107587    
+92         maia5                     1613       -1         107588    
+93         LeElaGuess                1610       -10        290       
 94         DavidsGuterBot            1556       -12        747       
-95         sargon-3ply               1526       -17        1345      
-96         maia1                     1518       -11        244517    
+95         maia1                     1528       4          244519    
+96         sargon-3ply               1526       -17        1345      
 97         ShallowLearnBot           1513       -74        27        
 98         postbot                   1465       137        36        
 99         turochamp-2ply            1457       -14        1205      
