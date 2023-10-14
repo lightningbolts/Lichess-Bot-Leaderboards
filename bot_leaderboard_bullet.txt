@@ -3,7 +3,7 @@ Rank       Bot                       Rating     Prog       Games
 2          EmanPureNN                2967       4          4838      
 3          YoBot_v2                  2966       9          19957     
 4          TheFreshman1902           2962       6          1121      
-5          ToromBot                  2951       -11        66561     
+5          ToromBot                  2952       -13        66562     
 6          Mate-AI                   2948       -2         13602     
 7          TorBot_v2                 2946       -1         744       
 8          ReinforcementTrial        2941       5          3495      
@@ -12,7 +12,7 @@ Rank       Bot                       Rating     Prog       Games
 11         mayhem23111               2930       1          422       
 12         ResoluteBot               2926       3          28630     
 13         caissa-x                  2923       10         14786     
-14         RaspFish                  2827       6          55986     
+14         RaspFish                  2828       6          55987     
 15         Lili-ai                   2823       68         37        
 16         blundar_bot               2786       -5         12668     
 17         faith_bot                 2749       -21        3532      
@@ -23,11 +23,11 @@ Rank       Bot                       Rating     Prog       Games
 22         FlamingDragon_9000        2524       -5         10619     
 23         ELO_1500                  2500       3          3406      
 24         pawn_git                  2500       3          5325      
-25         AKS-Mantissa              2494       -4         12016     
+25         AKS-Mantissa              2493       -4         12017     
 26         SaxtonEngine              2493       5          5445      
 27         Cheng-4                   2491       4          14757     
 28         Weiawaga                  2486       -10        17263     
-29         catriever                 2475       9          2931      
+29         catriever                 2475       12         2932      
 30         Elmichess                 2447       -48        3226      
 31         bot_adario                2421       -4         3078      
 32         TuksuBot                  2420       -7         7753      
@@ -108,5 +108,4 @@ Rank       Bot                       Rating     Prog       Games
 107        CHoMPBoT                  1234       -22        1040      
 108        knucklefish               1205       22         3080      
 109        king-forward-bot          1194       -7         145       
-110        GuineaBot                 1072       -6         67        
-111        grandQ_AI                 823        7          886       
+110        grandQ_AI                 823        7          886       
