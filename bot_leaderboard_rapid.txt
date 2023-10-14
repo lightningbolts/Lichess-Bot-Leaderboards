@@ -32,10 +32,10 @@ Rank       Bot                       Rating     Prog       Games
 31         Pseudo-0                  2445       -4         1428      
 32         fornax-engine             2424       22         3887      
 33         OpeningsBot               2420       11         621       
-34         admete_bot                2402       -1         4723      
+34         admete_bot                2406       3          4724      
 35         simpleEval                2360       -20        8082      
 36         bekbot                    2292       14         2640      
-37         halcyonbot                2279       -2         7991      
+37         halcyonbot                2276       -2         7992      
 38         FataliiBot                2253       16         3063      
 39         eubos                     2249       5          4464      
 40         Nakshatra3                2211       -7         1080      
@@ -83,8 +83,8 @@ Rank       Bot                       Rating     Prog       Games
 82         Demolito_L4               1645       20         280       
 83         dragobot                  1643       8          173       
 84         sargon-4ply               1630       -20        834       
-85         maia5                     1616       19         107575    
-86         LeElaGuess                1608       5          284       
+85         maia5                     1614       16         107577    
+86         LeElaGuess                1610       -2         285       
 87         DavidsGuterBot            1556       -12        747       
 88         sargon-3ply               1518       -29        1344      
 89         ShallowLearnBot           1513       -74        27        
@@ -94,7 +94,7 @@ Rank       Bot                       Rating     Prog       Games
 93         Humaia                    1430       -6         2484      
 94         RoundMoundOfRebounds      1429       5          433       
 95         StupidChessRobot          1400       -21        125       
-96         turochamp-1ply            1386       23         1840      
+96         turochamp-1ply            1384       21         1841      
 97         schnecken_bot             1352       -17        562       
 98         sargon-1ply               1314       -16        9291      
 99         sargon-2ply               1312       7          3652      
