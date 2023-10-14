@@ -3,8 +3,8 @@ Rank       Bot                       Rating     Prog       Games
 2          EmanPureNN                2967       4          4838      
 3          YoBot_v2                  2966       9          19957     
 4          TheFreshman1902           2962       6          1121      
-5          ToromBot                  2950       -14        66563     
-6          Mate-AI                   2948       -2         13602     
+5          Mate-AI                   2948       -2         13602     
+6          ToromBot                  2947       -17        66564     
 7          TorBot_v2                 2946       -1         744       
 8          ReinforcementTrial        2941       5          3495      
 9          czech-bot-turbo           2932       -26        18        
@@ -16,7 +16,7 @@ Rank       Bot                       Rating     Prog       Games
 15         Lili-ai                   2823       68         37        
 16         blundar_bot               2786       -5         12668     
 17         faith_bot                 2749       -21        3532      
-18         Berserk-Test              2738       -9         605       
+18         Berserk-Test              2741       -4         606       
 19         JuroJ                     2690       -19        2121      
 20         LazyBot                   2601       -7         1541      
 21         expositor                 2584       8          22854     
@@ -40,7 +40,7 @@ Rank       Bot                       Rating     Prog       Games
 39         Phalanx-XXV               2368       11         5167      
 40         Pseudo-0                  2361       -4         4506      
 41         admete_bot                2327       9          14148     
-42         simpleEval                2301       2          26090     
+42         simpleEval                2303       1          26091     
 43         Nakshatra3                2297       10         2088      
 44         HistoryExplorer           2272       -14        2864      
 45         FataliiBot                2271       -5         6454      
@@ -83,7 +83,7 @@ Rank       Bot                       Rating     Prog       Games
 82         rudim-bot                 1644       -29        160       
 83         Jibbby                    1642       8          3180      
 84         Demolito_L4               1612       1          258       
-85         LeElaGuess                1600       -31        84        
+85         LeElaGuess                1605       -25        85        
 86         maia5                     1596       9          41062     
 87         ZE_ROOK                   1588       1          2433      
 88         turkjs                    1585       -1         19888     
@@ -91,12 +91,12 @@ Rank       Bot                       Rating     Prog       Games
 90         sargon-3ply               1550       -9         1804      
 91         sargon-4ply               1526       6          2233      
 92         DavidsGuterBot            1512       3          7002      
-93         maia1                     1509       -29        129209    
+93         maia1                     1511       -19        129210    
 94         schnecken_bot             1502       59         1740      
 95         RoundMoundOfRebounds      1479       3          1831      
 96         ShallowLearnBot           1468       3          103       
 97         yeoldwiz                  1450       18         791       
-98         monchester                1449       29         2995      
+98         monchester                1446       22         2996      
 99         turochamp-1ply            1422       -4         2546      
 100        sargon-2ply               1419       12         2971      
 101        botTideEval               1414       -14        4312      
@@ -108,4 +108,5 @@ Rank       Bot                       Rating     Prog       Games
 107        CHoMPBoT                  1234       -22        1040      
 108        knucklefish               1205       22         3080      
 109        king-forward-bot          1194       -7         145       
-110        grandQ_AI                 823        7          886       
+110        DeepKalle                 1128       -24        370       
+111        grandQ_AI                 823        7          886       
