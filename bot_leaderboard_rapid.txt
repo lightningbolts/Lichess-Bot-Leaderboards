@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          VariantsTop               2946       -2         215       
-2          LeelaMultiPoss            2943       11         454       
-3          ReinforcementTrial        2940       -1         6470      
+2          ReinforcementTrial        2944       2          6471      
+3          LeelaMultiPoss            2943       11         454       
 4          ToromBot                  2938       3          3241      
 5          EmanPureNN                2912       -2         524       
 6          caissa-x                  2906       1          3496      
@@ -11,9 +11,9 @@ Rank       Bot                       Rating     Prog       Games
 10         Intron014                 2894       -3         447       
 11         TorBot_v2                 2890       7          252       
 12         YoBot_v2                  2885       -3         13783     
-13         ArasanX                   2876       0          6590      
+13         ArasanX                   2876       0          6591      
 14         JuroJ                     2863       3          2890      
-15         faith_bot                 2840       -11        2410      
+15         faith_bot                 2836       -16        2411      
 16         blundar_bot               2808       -1         1608      
 17         RETI_BOT                  2792       10         13        
 18         Berserk-Test              2759       15         268       
@@ -28,8 +28,8 @@ Rank       Bot                       Rating     Prog       Games
 27         catriever                 2576       -7         543       
 28         Cheng-4                   2575       6          3429      
 29         bot_adario                2535       -15        1554      
-30         Weiawaga                  2499       -7         10732     
-31         TuksuBot                  2490       -1         2380      
+30         Weiawaga                  2499       -1         10733     
+31         TuksuBot                  2490       -4         2381      
 32         odonata-bot               2488       10         3981      
 33         Phalanx-XXV               2450       -9         1226      
 34         Pseudo-0                  2439       -8         1436      
@@ -73,7 +73,7 @@ Rank       Bot                       Rating     Prog       Games
 72         Virutor                   1815       21         3463      
 73         Jibbby                    1809       -17        2454      
 74         ChessChildren             1743       4          4737      
-75         maia9                     1725       -5         91809     
+75         maia9                     1722       -2         91810     
 76         turkjs                    1722       27         5314      
 77         Trollfish-Bot             1722       -35        454       
 78         ai-con                    1716       30         192       
@@ -82,7 +82,7 @@ Rank       Bot                       Rating     Prog       Games
 81         simplexitor               1673       -21        658       
 82         ZE_ROOK                   1656       -17        731       
 83         yeoldwiz                  1655       -5         808       
-84         maia5                     1649       -11        107711    
+84         maia5                     1651       -12        107712    
 85         sargon-4ply               1630       -20        834       
 86         LeElaGuess                1623       -13        328       
 87         dragobot                  1620       -21        179       
