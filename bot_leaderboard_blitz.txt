@@ -8,7 +8,7 @@ Rank       Bot                       Rating     Prog       Games
 7          ReinforcementTrial        2903       -7         4662      
 8          Mate-AI                   2896       4          3875      
 9          YoBot_v2                  2895       -13        5106      
-10         FireFishBOT_v2            2892       -10        11515     
+10         FireFishBOT_v2            2894       -5         11516     
 11         TorBot_v2                 2889       -3         223       
 12         Lili-ai                   2869       3          50        
 13         ArasanX                   2863       15         2913      
@@ -18,7 +18,7 @@ Rank       Bot                       Rating     Prog       Games
 17         faith_bot                 2746       -10        961       
 18         Berserk-Test              2730       -3         491       
 19         LazyBot                   2674       6          2078      
-20         ELO_1500                  2668       3          13485     
+20         ELO_1500                  2665       -2         13486     
 21         AKS-Mantissa              2643       10         11409     
 22         expositor                 2597       21         8187      
 23         LC0-Bot                   2547       79         33        
@@ -82,7 +82,7 @@ Rank       Bot                       Rating     Prog       Games
 81         ChessChildren             1660       9          22196     
 82         ai-con                    1641       -3         349       
 83         AshNostromo               1640       -30        1103      
-84         Jibbby                    1635       -10        6774      
+84         Jibbby                    1636       -9         6775      
 85         simplexitor               1585       -26        2671      
 86         Demolito_L4               1567       13         338       
 87         yeoldwiz                  1561       1          2187      
@@ -92,7 +92,7 @@ Rank       Bot                       Rating     Prog       Games
 91         maia5                     1479       -2         107878    
 92         LeElaGuess                1466       1          379       
 93         sargon-4ply               1437       14         2409      
-94         maia1                     1429       6          217820    
+94         maia1                     1432       6          217821    
 95         Humaia                    1427       11         1048      
 96         RoundMoundOfRebounds      1425       2          1631      
 97         ShallowLearnBot           1422       12         152       
@@ -106,7 +106,7 @@ Rank       Bot                       Rating     Prog       Games
 105        sargon-2ply               1268       6          3451      
 106        turochamp-1ply            1242       5          2020      
 107        dragobot                  1238       3          269       
-108        pawnrobot                 1195       13         2377      
+108        pawnrobot                 1194       9          2378      
 109        king-forward-bot          1169       16         110       
 110        sargon-1ply               1168       11         9093      
 111        ABotWith3200Rating        1126       12         387       
