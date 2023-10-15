@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
-1          Occhessadvanced           2652       2          268       
-2          LeelaMultiPoss            2638       12         176       
+1          Occhessadvanced           2652       3          269       
+2          LeelaMultiPoss            2638       10         177       
 3          ReinforcementTrial        2637       2          702       
 4          YoBot_v2                  2628       12         877       
 5          ResoluteBot               2597       -11        965       
@@ -26,8 +26,8 @@ Rank       Bot                       Rating     Prog       Games
 25         TuksuBot                  2129       -17        1088      
 26         Humaia-Strong             2039       51         243       
 27         Nakshatra3                2036       -30        215       
-28         simpleEval                2025       -11        1940      
-29         Leela8-Test               2009       112        16        
+28         Leela8-Test               2034       137        17        
+29         simpleEval                2025       -11        1940      
 30         Boris-Trapsky             2008       -13        10643     
 31         HistoryExplorer           1992       -2         212       
 32         eubos                     1987       2          758       
@@ -35,7 +35,7 @@ Rank       Bot                       Rating     Prog       Games
 34         honzovy-sachy-2           1981       -8         766       
 35         matmoi                    1971       -7         35        
 36         FataliiBot                1966       -41        33        
-37         jangine                   1952       -5         318       
+37         jangine                   1943       -23        319       
 38         MaxtheDog                 1921       -30        216       
 39         zeekat                    1912       -15        3493      
 40         GarboBot                  1905       -33        1734      
@@ -61,7 +61,7 @@ Rank       Bot                       Rating     Prog       Games
 60         simplexitor               1611       -33        161       
 61         turkjs                    1607       -8         958       
 62         Jibbby                    1600       11         97        
-63         maia1                     1592       -16        69905     
+63         maia1                     1593       0          69907     
 64         Demolito_L4               1581       -40        28        
 65         Trollfish-Bot             1579       -3         77        
 66         yeoldwiz                  1568       -21        330       
