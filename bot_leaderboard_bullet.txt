@@ -19,13 +19,13 @@ Rank       Bot                       Rating     Prog       Games
 18         expositor                 2584       8          22854     
 19         FlamingDragon_9000        2524       -5         10619     
 20         ELO_1500                  2505       7          3408      
-21         pawn_git                  2499       -1         5327      
-22         SaxtonEngine              2497       11         5447      
-23         RenegadeEngine            2494       30         1209      
+21         SaxtonEngine              2503       14         5448      
+22         pawn_git                  2499       -1         5327      
+23         RenegadeEngine            2494       18         1211      
 24         Weiawaga                  2491       -4         17264     
 25         Cheng-4                   2491       4          14757     
 26         AKS-Mantissa              2491       -10        12019     
-27         catriever                 2469       0          2933      
+27         catriever                 2464       -12        2934      
 28         Elmichess                 2447       -48        3226      
 29         bot_adario                2421       -4         3078      
 30         balancefish               2418       -67        126       
@@ -84,7 +84,7 @@ Rank       Bot                       Rating     Prog       Games
 83         ZE_ROOK                   1588       1          2433      
 84         turkjs                    1582       -6         19891     
 85         maia5                     1567       -26        41069     
-86         turochamp-2ply            1566       1          1995      
+86         turochamp-2ply            1563       -5         1996      
 87         sargon-3ply               1548       -8         1805      
 88         DavidsGuterBot            1529       15         7009      
 89         sargon-4ply               1526       6          2233      
@@ -97,7 +97,7 @@ Rank       Bot                       Rating     Prog       Games
 96         turochamp-1ply            1421       -2         2547      
 97         sargon-2ply               1418       8          2972      
 98         botTideEval               1403       -20        4316      
-99         StupidChessRobot          1360       -18        1566      
+99         StupidChessRobot          1363       -10        1567      
 100        sargon-1ply               1307       43         5550      
 101        ABotWith3200Rating        1283       35         239       
 102        dragobot                  1268       -27        90        
