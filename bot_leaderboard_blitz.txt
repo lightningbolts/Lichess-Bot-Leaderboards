@@ -4,9 +4,9 @@ Rank       Bot                       Rating     Prog       Games
 3          ReinforcementTrial        2908       0          4667      
 4          YoBot_v2                  2903       -5         5110      
 5          caissa-x                  2903       -9         4183      
-6          ResoluteBot               2901       -7         13555     
+6          ResoluteBot               2901       -6         13556     
 7          Mate-AI                   2901       9          3879      
-8          FireFishBOT_v2            2895       0          11534     
+8          FireFishBOT_v2            2895       0          11535     
 9          TorBot_v2                 2889       -3         223       
 10         ArasanX                   2859       -1         2920      
 11         Lili-ai                   2858       -4         55        
@@ -22,7 +22,7 @@ Rank       Bot                       Rating     Prog       Games
 21         MrChessTheBot             2542       -53        2009      
 22         Weiawaga                  2518       22         12840     
 23         SaxtonEngine              2495       3          3051      
-24         pawn_git                  2480       1          3288      
+24         pawn_git                  2485       6          3289      
 25         bot_adario                2474       -1         2810      
 26         catriever                 2467       -23        1393      
 27         RenegadeEngine            2448       1          1855      
@@ -34,8 +34,8 @@ Rank       Bot                       Rating     Prog       Games
 33         JoAnnP38_Pedantic         2394       -40        31        
 34         Pseudo-0                  2393       6          3470      
 35         Phalanx-XXV               2393       -7         3242      
-36         ChessNoobComp             2392       -3         1849      
-37         fornax-engine             2391       2          6899      
+36         fornax-engine             2391       2          6899      
+37         ChessNoobComp             2388       -11        1850      
 38         admete_bot                2372       3          7926      
 39         FlamingDragon_9000        2323       19         3331      
 40         simpleEval                2281       8          16216     
@@ -73,8 +73,8 @@ Rank       Bot                       Rating     Prog       Games
 72         notropis                  1798       -8         7952      
 73         Dinora                    1792       2          809       
 74         honzovy-sachy             1753       -16        5849      
-75         ShallowRedBot             1716       -3         942       
-76         Trollfish-Bot             1710       -10        3594      
+75         Trollfish-Bot             1710       -10        3594      
+76         ShallowRedBot             1709       -11        943       
 77         Virutor                   1708       18         8201      
 78         LittleGreenManBot         1702       11         4834      
 79         maia9                     1696       -8         108790    
@@ -83,7 +83,7 @@ Rank       Bot                       Rating     Prog       Games
 82         ChessChildren             1648       -13        22199     
 83         ai-con                    1646       11         351       
 84         AshNostromo               1644       -21        1104      
-85         Jibbby                    1631       -3         6781      
+85         Jibbby                    1638       7          6782      
 86         simplexitor               1589       -12        2673      
 87         Demolito_L4               1569       5          340       
 88         yeoldwiz                  1565       5          2190      
@@ -92,7 +92,7 @@ Rank       Bot                       Rating     Prog       Games
 91         sudobot_chess             1523       -61        404       
 92         maia5                     1513       17         107892    
 93         LeElaGuess                1482       15         392       
-94         maia1                     1478       37         217838    
+94         maia1                     1480       30         217840    
 95         sargon-4ply               1437       18         2410      
 96         Humaia                    1427       11         1048      
 97         sargon-3ply               1419       5          2243      
