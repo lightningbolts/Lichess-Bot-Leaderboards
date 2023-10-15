@@ -33,16 +33,16 @@ Rank       Bot                       Rating     Prog       Games
 32         admete_bot                2411       12         4729      
 33         ChessNoobComp             2381       -13        718       
 34         simpleEval                2361       -13        8090      
-35         halcyonbot                2258       3          8022      
+35         halcyonbot                2251       0          8023      
 36         eubos                     2250       5          4470      
 37         FataliiBot                2245       -6         3072      
 38         Nakshatra3                2211       -7         1082      
 39         honzovy-sachy-2           2210       -1         3891      
 40         HistoryExplorer           2201       0          1188      
-41         WilliamEngine             2180       85         52        
+41         WilliamEngine             2198       103        53        
 42         Elmichess                 2178       10         1448      
 43         matmoi                    2165       3          3090      
-44         jangine                   2159       11         2074      
+44         jangine                   2156       3          2075      
 45         Boris-Trapsky             2123       5          28392     
 46         Humaia-Strong             2099       30         626       
 47         Lynx_BOT                  2096       -6         40806     
@@ -62,8 +62,8 @@ Rank       Bot                       Rating     Prog       Games
 61         baby_eubos                1944       1          1153      
 62         QuintBot                  1902       3          548       
 63         ShallowRedBot             1891       15         155       
-64         Demolito_L6               1887       34         1319      
-65         NatesBot                  1886       -15        1235      
+64         NatesBot                  1890       -7         1236      
+65         Demolito_L6               1887       34         1319      
 66         Dinora                    1875       -9         163       
 67         notropis                  1873       1          2903      
 68         LittleGreenManBot         1856       -12        4012      
@@ -106,3 +106,4 @@ Rank       Bot                       Rating     Prog       Games
 105        ABotWith3200Rating        1135       0          222       
 106        GuineaBot                 858        -84        28        
 107        grandQ_AI                 804        -11        1690      
+108        G0thamB0t                 629        5          462       
