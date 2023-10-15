@@ -20,9 +20,9 @@ Rank       Bot                       Rating     Prog       Games
 19         FlamingDragon_9000        2524       -5         10619     
 20         ELO_1500                  2505       7          3408      
 21         SaxtonEngine              2503       14         5448      
-22         pawn_git                  2499       -1         5327      
-23         RenegadeEngine            2494       18         1211      
-24         Weiawaga                  2491       -4         17264     
+22         pawn_git                  2503       4          5328      
+23         Weiawaga                  2494       -2         17265     
+24         RenegadeEngine            2494       18         1211      
 25         Cheng-4                   2491       4          14757     
 26         AKS-Mantissa              2491       -10        12019     
 27         catriever                 2464       -12        2934      
@@ -30,7 +30,7 @@ Rank       Bot                       Rating     Prog       Games
 29         bot_adario                2421       -4         3078      
 30         balancefish               2418       -67        126       
 31         TuksuBot                  2416       -9         7755      
-32         clueless-bot              2407       26         7702      
+32         clueless-bot              2402       23         7703      
 33         odonata-bot               2383       21         7046      
 34         OpeningsBot               2380       -7         4322      
 35         fornax-engine             2373       13         7559      
@@ -38,7 +38,7 @@ Rank       Bot                       Rating     Prog       Games
 37         Pseudo-0                  2347       -12        4509      
 38         admete_bot                2327       10         14151     
 39         simpleEval                2304       5          26094     
-40         Nakshatra3                2287       -8         2092      
+40         Nakshatra3                2284       -14        2093      
 41         FataliiBot                2276       -5         6457      
 42         HistoryExplorer           2268       -12        2865      
 43         bekbot                    2263       8          2459      
@@ -55,7 +55,7 @@ Rank       Bot                       Rating     Prog       Games
 54         redtail-zero              2086       -10        1214      
 55         myopic-bot                2085       -7         2851      
 56         BLANK_BOT                 2054       14         8555      
-57         sun_bird                  2007       -21        3617      
+57         sun_bird                  2004       -31        3618      
 58         MaxtheDog                 1975       5          17535     
 59         zeekat                    1936       -15        21492     
 60         Demolito_L6               1893       -6         1281      
@@ -87,7 +87,7 @@ Rank       Bot                       Rating     Prog       Games
 86         sargon-3ply               1548       -8         1805      
 87         DavidsGuterBot            1529       15         7009      
 88         sargon-4ply               1526       6          2233      
-89         schnecken_bot             1514       41         1745      
+89         schnecken_bot             1506       34         1746      
 90         maia1                     1503       -16        129216    
 91         RoundMoundOfRebounds      1479       3          1831      
 92         ShallowLearnBot           1468       3          103       
@@ -95,7 +95,7 @@ Rank       Bot                       Rating     Prog       Games
 94         monchester                1446       22         2996      
 95         turochamp-1ply            1421       -2         2547      
 96         sargon-2ply               1418       8          2972      
-97         botTideEval               1403       -20        4316      
+97         botTideEval               1411       -9         4317      
 98         StupidChessRobot          1363       -10        1567      
 99         sargon-1ply               1307       43         5550      
 100        ABotWith3200Rating        1283       35         239       
