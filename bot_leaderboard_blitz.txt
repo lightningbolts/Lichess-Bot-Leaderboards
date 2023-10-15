@@ -16,8 +16,8 @@ Rank       Bot                       Rating     Prog       Games
 15         blundar_bot               2781       14         2138      
 16         faith_bot                 2746       -10        961       
 17         Berserk-Test              2722       -7         495       
-18         LazyBot                   2674       6          2078      
-19         ELO_1500                  2673       12         13490     
+18         ELO_1500                  2675       16         13491     
+19         LazyBot                   2674       6          2078      
 20         AKS-Mantissa              2651       13         11416     
 21         expositor                 2598       27         8190      
 22         MrChessTheBot             2542       -53        2009      
@@ -34,9 +34,9 @@ Rank       Bot                       Rating     Prog       Games
 33         JoAnnP38_Pedantic         2406       -9         33        
 34         ChessNoobComp             2395       -6         1852      
 35         OpeningsBot               2395       -3         2134      
-36         Pseudo-0                  2393       6          3470      
-37         Phalanx-XXV               2393       -7         3242      
-38         fornax-engine             2392       2          6900      
+36         Phalanx-XXV               2393       -7         3242      
+37         fornax-engine             2392       2          6900      
+38         Pseudo-0                  2391       10         3471      
 39         admete_bot                2372       3          7926      
 40         FlamingDragon_9000        2323       19         3331      
 41         simpleEval                2284       13         16217     
@@ -57,7 +57,7 @@ Rank       Bot                       Rating     Prog       Games
 56         myopic-bot                2052       -3         3076      
 57         Elmichess                 2040       12         3748      
 58         Humaia-Strong             2029       42         2377      
-59         likeawizard-bot           2022       5          6582      
+59         likeawizard-bot           2025       13         6583      
 60         LeelaRogue                2011       0          2459      
 61         Lynx_BOT                  2004       -3         53264     
 62         BLANK_BOT                 1998       -10        5775      
@@ -67,7 +67,7 @@ Rank       Bot                       Rating     Prog       Games
 66         zeekat                    1911       6          23745     
 67         Demolito_L6               1908       -24        2029      
 68         potato-chess-bot          1887       -27        263       
-69         QuintBot                  1836       7          12186     
+69         QuintBot                  1833       7          12187     
 70         chesstango_bot            1820       10         489       
 71         baby_eubos                1818       17         9611      
 72         NatesBot                  1806       -16        2573      
@@ -91,8 +91,8 @@ Rank       Bot                       Rating     Prog       Games
 90         ZE_ROOK                   1556       4          3444      
 91         turkjs                    1551       -7         10702     
 92         sudobot_chess             1523       -61        404       
-93         maia5                     1517       14         107894    
-94         maia1                     1490       10         217851    
+93         maia5                     1514       7          107895    
+94         maia1                     1485       -3         217853    
 95         LeElaGuess                1482       15         392       
 96         sargon-4ply               1437       18         2410      
 97         Humaia                    1427       11         1048      
