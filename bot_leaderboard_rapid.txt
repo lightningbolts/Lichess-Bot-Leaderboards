@@ -14,7 +14,7 @@ Rank       Bot                       Rating     Prog       Games
 13         JuroJ                     2860       -3         2886      
 14         faith_bot                 2825       1          2378      
 15         blundar_bot               2803       -2         1605      
-16         Berserk-Test              2746       3          255       
+16         Berserk-Test              2749       10         256       
 17         ELO_1500                  2737       3          3637      
 18         MrChessTheBot             2689       -53        2243      
 19         expositor                 2663       11         5015      
@@ -25,10 +25,10 @@ Rank       Bot                       Rating     Prog       Games
 24         Cheng-4                   2575       6          3429      
 25         catriever                 2574       4          541       
 26         bot_adario                2535       -15        1554      
-27         Weiawaga                  2512       9          10725     
+27         Weiawaga                  2510       4          10726     
 28         TuksuBot                  2494       -5         2375      
-29         odonata-bot               2489       19         3975      
-30         RenegadeEngine            2485       37         439       
+29         odonata-bot               2492       19         3976      
+30         RenegadeEngine            2482       16         440       
 31         Phalanx-XXV               2452       -7         1217      
 32         Pseudo-0                  2442       -8         1430      
 33         fornax-engine             2423       17         3889      
@@ -36,8 +36,8 @@ Rank       Bot                       Rating     Prog       Games
 35         admete_bot                2409       8          4726      
 36         ChessNoobComp             2387       -9         711       
 37         simpleEval                2362       -16        8088      
-38         clueless-bot              2357       -8         824       
-39         bekbot                    2323       14         2657      
+38         clueless-bot              2361       -8         825       
+39         bekbot                    2320       9          2658      
 40         halcyonbot                2269       -16        8007      
 41         eubos                     2251       -4         4468      
 42         FataliiBot                2246       -3         3069      
@@ -62,11 +62,11 @@ Rank       Bot                       Rating     Prog       Games
 61         LazyBotJr                 1984       11         1576      
 62         zeekat                    1952       0          9732      
 63         baby_eubos                1939       -12        1152      
-64         QuintBot                  1915       22         545       
+64         QuintBot                  1914       26         546       
 65         NatesBot                  1893       -29        1230      
 66         ShallowRedBot             1891       15         155       
 67         Dinora                    1889       -4         161       
-68         chesstango_bot            1883       -7         272       
+68         chesstango_bot            1884       1          273       
 69         Demolito_L6               1880       9          1316      
 70         notropis                  1871       2          2900      
 71         LittleGreenManBot         1868       -1         4010      
@@ -91,7 +91,7 @@ Rank       Bot                       Rating     Prog       Games
 90         DavidsGuterBot            1556       -12        747       
 91         ShallowLearnBot           1537       -22        28        
 92         sargon-3ply               1519       -12        1351      
-93         maia1                     1486       8          244572    
+93         maia1                     1491       18         244573    
 94         postbot                   1465       137        36        
 95         turochamp-2ply            1457       -14        1205      
 96         RoundMoundOfRebounds      1435       14         434       
