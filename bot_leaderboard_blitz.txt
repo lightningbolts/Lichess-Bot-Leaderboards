@@ -92,14 +92,14 @@ Rank       Bot                       Rating     Prog       Games
 91         turkjs                    1553       -12        10701     
 92         sudobot_chess             1523       -61        404       
 93         maia5                     1503       24         107889    
-94         LeElaGuess                1470       10         388       
+94         LeElaGuess                1475       11         389       
 95         maia1                     1460       21         217834    
 96         sargon-4ply               1437       18         2410      
 97         Humaia                    1427       11         1048      
-98         RoundMoundOfRebounds      1420       0          1632      
-99         sargon-3ply               1419       5          2243      
-100        ShallowLearnBot           1419       11         154       
-101        DavidsGuterBot            1417       6          4043      
+98         sargon-3ply               1419       5          2243      
+99         ShallowLearnBot           1419       11         154       
+100        DavidsGuterBot            1417       6          4043      
+101        RoundMoundOfRebounds      1415       -3         1633      
 102        StupidChessRobot          1360       -7         3450      
 103        turochamp-2ply            1345       13         1955      
 104        chat_bot                  1312       75         348       
@@ -114,4 +114,5 @@ Rank       Bot                       Rating     Prog       Games
 113        ABotWith3200Rating        1126       12         387       
 114        CHoMPBoT                  1041       -16        1898      
 115        knucklefish               1029       30         3571      
-116        grandQ_AI                 878        -42        1416      
+116        GuineaBot                 956        -27        58        
+117        grandQ_AI                 878        -42        1416      
