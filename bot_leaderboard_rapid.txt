@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
-1          LeelaMultiPoss            2943       11         454       
-2          ToromBot                  2940       5          3239      
-3          ReinforcementTrial        2938       -11        6465      
+1          ReinforcementTrial        2943       -5         6466      
+2          LeelaMultiPoss            2943       11         454       
+3          ToromBot                  2940       5          3239      
 4          caissa-x                  2906       1          3493      
 5          FireFishBOT_v2            2904       -2         1259      
 6          RaspFish                  2901       -3         6791      
@@ -9,10 +9,10 @@ Rank       Bot                       Rating     Prog       Games
 8          TorBot_v2                 2890       7          252       
 9          ttBOT                     2887       2          189       
 10         YoBot_v2                  2881       -8         13780     
-11         ArasanX                   2879       5          6586      
+11         ArasanX                   2874       0          6587      
 12         JuroJ                     2863       3          2890      
 13         faith_bot                 2841       -3         2407      
-14         blundar_bot               2807       0          1607      
+14         blundar_bot               2808       -1         1608      
 15         Berserk-Test              2756       10         266       
 16         ELO_1500                  2737       -1         3651      
 17         MrChessTheBot             2689       -53        2243      
@@ -66,7 +66,7 @@ Rank       Bot                       Rating     Prog       Games
 65         Demolito_L6               1882       35         1320      
 66         Dinora                    1875       -9         163       
 67         notropis                  1868       0          2905      
-68         LittleGreenManBot         1844       -23        4014      
+68         LittleGreenManBot         1844       -28        4015      
 69         honzovy-sachy             1826       -1         1208      
 70         Jibbby                    1818       -8         2450      
 71         Virutor                   1814       16         3462      
