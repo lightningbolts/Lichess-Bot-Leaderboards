@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
 1          YoBot_v2                  2963       -3         19967     
-2          ToromBot                  2959       5          66635     
+2          ToromBot                  2959       1          66636     
 3          TorBot_v2                 2946       -1         744       
 4          ReinforcementTrial        2937       0          3502      
 5          mayhem23111               2933       1          430       
@@ -16,8 +16,8 @@ Rank       Bot                       Rating     Prog       Games
 15         expositor                 2570       -18        22866     
 16         FlamingDragon_9000        2524       -5         10619     
 17         ELO_1500                  2506       9          3411      
-18         pawn_git                  2503       4          5328      
-19         SaxtonEngine              2502       9          5456      
+18         SaxtonEngine              2502       9          5456      
+19         pawn_git                  2502       5          5329      
 20         AKS-Mantissa              2497       -10        12020     
 21         Weiawaga                  2491       -1         17268     
 22         Cheng-4                   2491       4          14757     
@@ -58,7 +58,7 @@ Rank       Bot                       Rating     Prog       Games
 57         potato-chess-bot          1918       12         189       
 58         QuintBot                  1885       -13        12615     
 59         NatesBot                  1885       14         991       
-60         Demolito_L6               1879       -14        1291      
+60         Demolito_L6               1882       -11        1292      
 61         Trollfish-Bot             1878       19         7232      
 62         notropis                  1807       -19        4891      
 63         piglet_engine             1795       5          1434      
@@ -69,7 +69,7 @@ Rank       Bot                       Rating     Prog       Games
 68         honzovy-sachy             1752       -25        5731      
 69         dtsudo                    1749       -14        451       
 70         ai-con                    1738       42         328       
-71         ShallowRedBot             1728       14         710       
+71         ShallowRedBot             1724       15         711       
 72         postbot                   1704       -6         1027      
 73         Jibbby                    1668       28         3194      
 74         ChessChildren             1663       10         15991     
@@ -83,7 +83,7 @@ Rank       Bot                       Rating     Prog       Games
 82         maia5                     1580       14         41085     
 83         turochamp-2ply            1563       -5         1996      
 84         sargon-3ply               1544       -7         1809      
-85         maia1                     1524       9          129232    
+85         maia1                     1526       8          129233    
 86         DavidsGuterBot            1524       15         7011      
 87         sargon-4ply               1520       0          2235      
 88         schnecken_bot             1499       -3         1749      
