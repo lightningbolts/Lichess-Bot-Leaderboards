@@ -2,8 +2,8 @@ Rank       Bot                       Rating     Prog       Games
 1          LeelaMultiPoss            3005       6          1146      
 2          YoBot_v2                  2960       -6         19968     
 3          TorBot_v2                 2946       -1         744       
-4          ToromBot                  2941       -11        66668     
-5          ReinforcementTrial        2937       -4         3505      
+4          ToromBot                  2941       -11        66669     
+5          ReinforcementTrial        2937       -4         3506      
 6          FireFishBOT_v2            2930       -3         1972      
 7          ResoluteBot               2927       -1         28646     
 8          caissa-x                  2917       1          14791     
@@ -65,7 +65,7 @@ Rank       Bot                       Rating     Prog       Games
 64         piglet_engine             1792       -10        1437      
 65         baby_eubos                1781       -9         7008      
 66         simplexitor               1777       6          2767      
-67         Dinora                    1769       -10        582       
+67         Dinora                    1763       -22        583       
 68         Virutor                   1755       -18        7452      
 69         honzovy-sachy             1749       -13        5738      
 70         Calvin_Bot                1748       11         344       
@@ -103,6 +103,7 @@ Rank       Bot                       Rating     Prog       Games
 102        CHoMPBoT                  1223       -30        1041      
 103        knucklefish               1212       35         3081      
 104        king-forward-bot          1194       -7         145       
-105        DeepKalle                 1156       27         377       
-106        GuineaBot                 1065       -8         69        
-107        grandQ_AI                 740        -77        901       
+105        bobandi                   1184       5          1194      
+106        DeepKalle                 1161       30         378       
+107        GuineaBot                 1065       -8         69        
+108        grandQ_AI                 740        -77        901       
