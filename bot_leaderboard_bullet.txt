@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
 1          YoBot_v2                  2963       -3         19967     
-2          ToromBot                  2958       13         66625     
+2          ToromBot                  2959       9          66627     
 3          TorBot_v2                 2946       -1         744       
 4          Mate-AI                   2944       -7         13624     
 5          mayhem23111               2933       1          430       
@@ -9,7 +9,7 @@ Rank       Bot                       Rating     Prog       Games
 8          European_Chess_Bot        2924       -8         184       
 9          czech-bot-turbo           2904       2          37        
 10         RaspFish                  2822       -8         55999     
-11         blundar_bot               2795       9          12679     
+11         blundar_bot               2794       11         12681     
 12         faith_bot                 2751       -20        3535      
 13         Berserk-Test              2741       -4         610       
 14         JuroJ                     2690       -19        2121      
@@ -33,8 +33,8 @@ Rank       Bot                       Rating     Prog       Games
 32         AjedrezChamberi           2390       31         544       
 33         fornax-engine             2373       6          7561      
 34         ChessNoobComp             2368       10         9634      
-35         Pseudo-0                  2357       2          4516      
-36         Phalanx-XXV               2356       -6         5173      
+35         Phalanx-XXV               2359       -5         5174      
+36         Pseudo-0                  2357       2          4516      
 37         admete_bot                2332       14         14154     
 38         simpleEval                2294       -5         26099     
 39         Nakshatra3                2284       -14        2093      
@@ -43,7 +43,7 @@ Rank       Bot                       Rating     Prog       Games
 42         matmoi                    2194       3          4413      
 43         Humaia-Strong             2188       30         1329      
 44         LazyBotJr                 2174       -15        1252      
-45         eubos                     2173       6          14296     
+45         eubos                     2170       0          14297     
 46         honzovy-sachy-2           2159       17         7967      
 47         jangine                   2116       -12        3986      
 48         likeawizard-bot           2114       -24        3343      
@@ -52,10 +52,10 @@ Rank       Bot                       Rating     Prog       Games
 51         redtail-zero              2080       -13        1217      
 52         myopic-bot                2076       -8         2859      
 53         BLANK_BOT                 2038       -23        8561      
-54         sun_bird                  2030       -5         3642      
-55         MaxtheDog                 1980       -4         17554     
+54         sun_bird                  2027       -4         3643      
+55         MaxtheDog                 1986       5          17555     
 56         Aleph_Engine              1979       -13        180       
-57         zeekat                    1940       -7         21506     
+57         zeekat                    1935       -7         21507     
 58         potato-chess-bot          1916       8          188       
 59         NatesBot                  1885       14         991       
 60         QuintBot                  1879       -23        12613     
@@ -64,7 +64,7 @@ Rank       Bot                       Rating     Prog       Games
 63         notropis                  1807       -19        4891      
 64         piglet_engine             1791       -2         1433      
 65         baby_eubos                1790       8          6997      
-66         Dinora                    1785       -2         572       
+66         Dinora                    1789       1          573       
 67         simplexitor               1775       15         2755      
 68         Virutor                   1757       -16        7449      
 69         honzovy-sachy             1756       -16        5730      
