@@ -14,9 +14,9 @@ Rank       Bot                       Rating     Prog       Games
 13         faith_bot                 2844       2          2405      
 14         blundar_bot               2805       -2         1606      
 15         Berserk-Test              2754       10         265       
-16         ELO_1500                  2736       1          3650      
+16         ELO_1500                  2737       -1         3651      
 17         MrChessTheBot             2689       -53        2243      
-18         expositor                 2649       -11        5021      
+18         expositor                 2647       -11        5022      
 19         LazyBot                   2615       5          837       
 20         AKS-Mantissa              2608       -3         4498      
 21         pawn_git                  2603       4          1579      
@@ -30,7 +30,7 @@ Rank       Bot                       Rating     Prog       Games
 29         Phalanx-XXV               2451       -5         1225      
 30         Pseudo-0                  2444       -17        1434      
 31         OpeningsBot               2427       17         629       
-32         fornax-engine             2424       24         3893      
+32         fornax-engine             2422       14         3894      
 33         admete_bot                2411       12         4729      
 34         simpleEval                2361       -13        8090      
 35         halcyonbot                2258       1          8028      
@@ -70,7 +70,7 @@ Rank       Bot                       Rating     Prog       Games
 69         honzovy-sachy             1826       -1         1208      
 70         Virutor                   1807       5          3461      
 71         ChessChildren             1747       4          4736      
-72         maia9                     1727       -23        91786     
+72         maia9                     1726       -19        91787     
 73         turkjs                    1722       27         5314      
 74         Trollfish-Bot             1722       -35        454       
 75         AshNostromo               1710       -19        1362      
@@ -87,7 +87,7 @@ Rank       Bot                       Rating     Prog       Games
 86         ShallowLearnBot           1577       25         30        
 87         DavidsGuterBot            1556       -16        750       
 88         sargon-3ply               1524       -2         1353      
-89         maia1                     1495       15         244659    
+89         maia1                     1488       9          244660    
 90         postbot                   1487       128        37        
 91         turochamp-2ply            1452       -14        1207      
 92         RoundMoundOfRebounds      1435       16         435       
