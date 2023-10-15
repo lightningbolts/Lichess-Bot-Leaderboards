@@ -36,14 +36,14 @@ Rank       Bot                       Rating     Prog       Games
 35         OpeningsBot               2381       -10        4321      
 36         odonata-bot               2379       17         7045      
 37         fornax-engine             2371       7          7558      
-38         Phalanx-XXV               2368       11         5167      
+38         Phalanx-XXV               2361       3          5168      
 39         Pseudo-0                  2347       -12        4509      
 40         admete_bot                2327       10         14151     
 41         simpleEval                2304       5          26094     
 42         Nakshatra3                2294       1          2091      
 43         FataliiBot                2276       -5         6457      
-44         halcyonbot                2257       -12        6922      
-45         bekbot                    2257       11         2456      
+44         bekbot                    2264       12         2457      
+45         halcyonbot                2257       -12        6922      
 46         Humaia-Strong             2188       30         1329      
 47         LazyBotJr                 2185       -3         1250      
 48         matmoi                    2168       8          4398      
@@ -61,8 +61,8 @@ Rank       Bot                       Rating     Prog       Games
 60         zeekat                    1931       -19        21491     
 61         Demolito_L6               1893       -6         1281      
 62         NatesBot                  1880       17         987       
-63         QuintBot                  1868       0          12587     
-64         Trollfish-Bot             1863       4          7206      
+63         QuintBot                  1877       12         12589     
+64         Trollfish-Bot             1857       -1         7207      
 65         notropis                  1823       33         4883      
 66         piglet_engine             1801       2          1428      
 67         Dinora                    1787       9          561       
@@ -73,7 +73,7 @@ Rank       Bot                       Rating     Prog       Games
 72         Virutor                   1757       -11        7446      
 73         postbot                   1722       7          1008      
 74         ai-con                    1717       14         320       
-75         ShallowRedBot             1709       -13        703       
+75         ShallowRedBot             1706       -18        704       
 76         Humaia                    1655       16         612       
 77         ChessChildren             1653       -23        15986     
 78         maia9                     1650       -1         62589     
@@ -82,7 +82,7 @@ Rank       Bot                       Rating     Prog       Games
 81         Demolito_L4               1618       12         259       
 82         LeElaGuess                1605       -25        85        
 83         ZE_ROOK                   1588       1          2433      
-84         turkjs                    1580       -5         19890     
+84         turkjs                    1582       -6         19891     
 85         maia5                     1573       -11        41067     
 86         turochamp-2ply            1566       1          1995      
 87         sargon-3ply               1548       -8         1805      
@@ -97,7 +97,7 @@ Rank       Bot                       Rating     Prog       Games
 96         turochamp-1ply            1421       -2         2547      
 97         sargon-2ply               1419       12         2971      
 98         botTideEval               1405       -22        4315      
-99         StupidChessRobot          1363       -12        1565      
+99         StupidChessRobot          1360       -18        1566      
 100        sargon-1ply               1305       39         5549      
 101        ABotWith3200Rating        1283       35         239       
 102        dragobot                  1268       -27        90        
