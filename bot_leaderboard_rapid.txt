@@ -1,10 +1,10 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ReinforcementTrial        2945       8          6448      
+1          ReinforcementTrial        2951       14         6449      
 2          ToromBot                  2941       5          3237      
 3          Mate-AI                   2931       -2         2761      
-4          ResoluteBot               2910       6          6187      
-5          RaspFish                  2906       12         6776      
-6          FireFishBOT_v2            2906       -1         1252      
+4          RaspFish                  2906       12         6776      
+5          FireFishBOT_v2            2906       -1         1252      
+6          ResoluteBot               2905       1          6188      
 7          mayhem23111               2898       0          178       
 8          TorBot_v2                 2890       7          252       
 9          YoBot_v2                  2889       -8         13768     
@@ -43,7 +43,7 @@ Rank       Bot                       Rating     Prog       Games
 42         Elmichess                 2178       10         1448      
 43         matmoi                    2153       -20        3085      
 44         jangine                   2152       15         2072      
-45         Boris-Trapsky             2122       0          28385     
+45         Boris-Trapsky             2123       -3         28386     
 46         Lynx_BOT                  2102       -17        40797     
 47         Humaia-Strong             2099       30         626       
 48         likeawizard-bot           2090       -8         1887      
@@ -89,7 +89,7 @@ Rank       Bot                       Rating     Prog       Games
 88         ShallowLearnBot           1558       -26        29        
 89         DavidsGuterBot            1557       -3         748       
 90         sargon-3ply               1526       -3         1352      
-91         maia1                     1513       5          244600    
+91         maia1                     1512       7          244601    
 92         postbot                   1465       137        36        
 93         turochamp-2ply            1457       -14        1205      
 94         Humaia                    1438       16         2489      
@@ -103,7 +103,7 @@ Rank       Bot                       Rating     Prog       Games
 102        king-forward-bot          1165       -1         58        
 103        CHoMPBoT                  1153       -26        598       
 104        chat_bot                  1151       -22        348       
-105        ABotWith3200Rating        1137       0          220       
+105        ABotWith3200Rating        1136       1          221       
 106        GuineaBot                 858        -84        28        
 107        grandQ_AI                 805        -4         1689      
 108        G0thamB0t                 629        -2         461       
