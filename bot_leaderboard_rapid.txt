@@ -2,7 +2,7 @@ Rank       Bot                       Rating     Prog       Games
 1          ReinforcementTrial        2944       3          6472      
 2          LeelaMultiPoss            2943       11         454       
 3          VariantsTop               2942       -5         217       
-4          EmanPureNN                2912       0          525       
+4          EmanPureNN                2914       2          526       
 5          caissa-x                  2906       0          3497      
 6          FireFishBOT_v2            2904       -2         1259      
 7          RaspFish                  2901       -3         6791      
@@ -18,7 +18,7 @@ Rank       Bot                       Rating     Prog       Games
 17         Berserk-Test              2759       15         268       
 18         ELO_1500                  2734       -7         3652      
 19         MrChessTheBot             2689       -53        2243      
-20         Leela8-Test               2685       -27        18        
+20         Leela8-Test               2673       -39        19        
 21         expositor                 2647       -19        5025      
 22         LazyBot                   2615       5          837       
 23         AKS-Mantissa              2605       -10        4501      
@@ -90,7 +90,7 @@ Rank       Bot                       Rating     Prog       Games
 89         ShallowLearnBot           1577       25         30        
 90         DavidsGuterBot            1556       -16        750       
 91         sargon-3ply               1524       -2         1353      
-92         maia1                     1466       3          244681    
+92         maia1                     1463       7          244682    
 93         turochamp-2ply            1452       -14        1207      
 94         RoundMoundOfRebounds      1443       33         437       
 95         Humaia                    1428       2          2491      
