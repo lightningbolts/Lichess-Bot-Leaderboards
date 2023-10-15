@@ -7,9 +7,9 @@ Rank       Bot                       Rating     Prog       Games
 6          RaspFish                  2901       -3         6791      
 7          ResoluteBot               2901       -9         6198      
 8          TorBot_v2                 2890       7          252       
-9          ttBOT                     2888       2          186       
+9          ttBOT                     2888       2          187       
 10         YoBot_v2                  2881       -8         13779     
-11         ArasanX                   2878       6          6584      
+11         ArasanX                   2879       6          6585      
 12         JuroJ                     2863       3          2890      
 13         Harry-Cop                 2854       56         44        
 14         faith_bot                 2841       -3         2407      
@@ -68,8 +68,8 @@ Rank       Bot                       Rating     Prog       Games
 67         Dinora                    1875       -9         163       
 68         notropis                  1875       9          2904      
 69         LittleGreenManBot         1844       -23        4014      
-70         Jibbby                    1828       6          2449      
-71         honzovy-sachy             1826       -1         1208      
+70         honzovy-sachy             1826       -1         1208      
+71         Jibbby                    1818       -8         2450      
 72         Virutor                   1807       5          3461      
 73         ChessChildren             1747       4          4736      
 74         maia9                     1730       -11        91793     
@@ -90,9 +90,9 @@ Rank       Bot                       Rating     Prog       Games
 89         DavidsGuterBot            1556       -16        750       
 90         sargon-3ply               1524       -2         1353      
 91         postbot                   1487       128        37        
-92         maia1                     1479       4          244664    
+92         maia1                     1472       -10        244665    
 93         turochamp-2ply            1452       -14        1207      
-94         RoundMoundOfRebounds      1435       16         435       
+94         RoundMoundOfRebounds      1446       30         436       
 95         Humaia                    1428       2          2491      
 96         StupidChessRobot          1397       -19        126       
 97         turochamp-1ply            1373       18         1845      
@@ -106,3 +106,4 @@ Rank       Bot                       Rating     Prog       Games
 105        ABotWith3200Rating        1135       0          222       
 106        GuineaBot                 858        -84        28        
 107        grandQ_AI                 804        -11        1690      
+108        G0thamB0t                 636        11         464       
