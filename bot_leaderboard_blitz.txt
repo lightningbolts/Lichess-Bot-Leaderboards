@@ -39,10 +39,10 @@ Rank       Bot                       Rating     Prog       Games
 38         admete_bot                2369       0          7932      
 39         FlamingDragon_9000        2323       19         3331      
 40         simpleEval                2304       9          16239     
-41         Leela8-Test               2257       38         133       
+41         Leela8-Test               2262       43         134       
 42         FataliiBot                2235       6          7711      
-43         halcyonbot                2196       -8         11856     
-44         eubos                     2185       5          15983     
+43         halcyonbot                2199       -2         11857     
+44         eubos                     2181       -5         15984     
 45         Nakshatra3                2159       -15        2095      
 46         matmoi                    2153       11         3539      
 47         honzovy-sachy-2           2136       -15        7637      
@@ -54,7 +54,7 @@ Rank       Bot                       Rating     Prog       Games
 53         Elmichess                 2040       12         3748      
 54         Humaia-Strong             2033       39         2378      
 55         likeawizard-bot           2022       -32        6626      
-56         Lynx_BOT                  2016       16         53322     
+56         Lynx_BOT                  2013       6          53323     
 57         LeelaRogue                2011       0          2459      
 58         sun_bird                  2011       13         3342      
 59         GarboBot                  1986       -28        10571     
@@ -64,12 +64,12 @@ Rank       Bot                       Rating     Prog       Games
 63         potato-chess-bot          1931       17         283       
 64         Demolito_L6               1897       -9         2047      
 65         zeekat                    1892       -15        23779     
-66         baby_eubos                1847       8          9638      
+66         baby_eubos                1846       4          9639      
 67         chesstango_bot            1840       20         501       
 68         notropis                  1823       10         7971      
 69         QuintBot                  1821       -3         12264     
 70         NatesBot                  1811       21         2604      
-71         Calvin_Bot                1788       -10        523       
+71         Calvin_Bot                1789       -6         524       
 72         Dinora                    1758       -17        827       
 73         honzovy-sachy             1751       -15        5877      
 74         LittleGreenManBot         1722       4          4857      
@@ -113,4 +113,5 @@ Rank       Bot                       Rating     Prog       Games
 112        CHoMPBoT                  1018       -25        1913      
 113        knucklefish               1017       2          3575      
 114        GuineaBot                 947        -35        59        
-115        grandQ_AI                 875        -34        1418      
+115        bobandi                   922        1          1393      
+116        grandQ_AI                 875        -34        1418      
