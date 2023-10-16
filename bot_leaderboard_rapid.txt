@@ -12,7 +12,7 @@ Rank       Bot                       Rating     Prog       Games
 11         ArasanX                   2874       -2         6605      
 12         JuroJ                     2864       2          2892      
 13         faith_bot                 2835       4          2431      
-14         blundar_bot               2804       2          1615      
+14         blundar_bot               2806       3          1616      
 15         Berserk-Test              2767       11         277       
 16         ELO_1500                  2732       -7         3660      
 17         MrChessTheBot             2689       -53        2243      
@@ -26,7 +26,7 @@ Rank       Bot                       Rating     Prog       Games
 25         catriever                 2571       -5         547       
 26         bot_adario                2535       -15        1554      
 27         Weiawaga                  2513       12         10742     
-28         odonata-bot               2483       -9         3987      
+28         odonata-bot               2486       -6         3988      
 29         TuksuBot                  2480       -14        2389      
 30         Phalanx-XXV               2447       -11        1231      
 31         Pseudo-0                  2440       -5         1439      
@@ -34,7 +34,7 @@ Rank       Bot                       Rating     Prog       Games
 33         fornax-engine             2417       -3         3897      
 34         admete_bot                2409       0          4737      
 35         simpleEval                2372       18         8094      
-36         halcyonbot                2258       2          8051      
+36         halcyonbot                2255       -4         8052      
 37         eubos                     2254       10         4476      
 38         FataliiBot                2240       -1         3082      
 39         Nakshatra3                2227       6          1085      
@@ -83,7 +83,7 @@ Rank       Bot                       Rating     Prog       Games
 82         sargon-4ply               1634       -6         837       
 83         LeElaGuess                1628       -1         345       
 84         dragobot                  1613       -26        181       
-85         Demolito_L4               1588       7          311       
+85         Demolito_L4               1591       13         312       
 86         ShallowLearnBot           1577       25         30        
 87         DavidsGuterBot            1547       -19        753       
 88         postbot                   1537       142        40        
@@ -92,7 +92,7 @@ Rank       Bot                       Rating     Prog       Games
 91         turochamp-2ply            1445       -30        1209      
 92         RoundMoundOfRebounds      1437       16         439       
 93         Humaia                    1428       2          2491      
-94         StupidChessRobot          1397       -19        126       
+94         StupidChessRobot          1392       -26        127       
 95         turochamp-1ply            1370       12         1846      
 96         pawnrobot                 1315       19         843       
 97         sargon-2ply               1313       11         3654      
@@ -101,6 +101,7 @@ Rank       Bot                       Rating     Prog       Games
 100        CHoMPBoT                  1153       0          608       
 101        chat_bot                  1151       -22        348       
 102        ABotWith3200Rating        1132       -12        225       
-103        GuineaBot                 858        -84        28        
-104        grandQ_AI                 802        -11        1691      
-105        G0thamB0t                 636        11         464       
+103        bobandi                   1005       10         808       
+104        GuineaBot                 858        -84        28        
+105        grandQ_AI                 802        -11        1691      
+106        G0thamB0t                 636        11         464       
