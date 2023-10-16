@@ -1,5 +1,5 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ToromBot                  2942       -4         7459      
+1          ToromBot                  2940       -6         7460      
 2          FireFishBOT_v2            2924       -3         11690     
 3          TorBot                    2919       -2         1859      
 4          ReinforcementTrial        2917       0          4724      
@@ -9,7 +9,7 @@ Rank       Bot                       Rating     Prog       Games
 8          Intron014                 2900       1          1525      
 9          ResoluteBot               2898       4          13606     
 10         ArasanX                   2860       5          2966      
-11         RaspFish                  2829       -1         14325     
+11         RaspFish                  2831       0          14326     
 12         JuroJ                     2802       35         1942      
 13         blundar_bot               2802       11         2174      
 14         kazakhfirstbot            2800       30         32        
@@ -35,7 +35,7 @@ Rank       Bot                       Rating     Prog       Games
 34         AjedrezChamberi           2376       10         276       
 35         admete_bot                2365       -11        7939      
 36         FlamingDragon_9000        2323       19         3331      
-37         simpleEval                2304       0          16255     
+37         simpleEval                2304       4          16256     
 38         Leela8-Test               2292       35         144       
 39         FataliiBot                2224       -14        7720      
 40         halcyonbot                2192       8          11878     
@@ -72,8 +72,8 @@ Rank       Bot                       Rating     Prog       Games
 71         piglet_engine             1699       8          388       
 72         postbot                   1693       -8         1057      
 73         Virutor                   1691       4          8222      
-74         Trollfish-Bot             1683       -4         3643      
-75         ai-con                    1681       15         377       
+74         ai-con                    1685       16         378       
+75         Trollfish-Bot             1683       -4         3643      
 76         ChessChildren             1651       2          22221     
 77         maia9                     1646       8          108903    
 78         AshNostromo               1639       -20        1106      
@@ -81,8 +81,8 @@ Rank       Bot                       Rating     Prog       Games
 80         dtsudo                    1609       14         281       
 81         simplexitor               1592       -8         2694      
 82         Demolito_L4               1570       10         354       
-83         yeoldwiz                  1563       2          2198      
-84         turkjs                    1561       7          10708     
+83         turkjs                    1561       7          10708     
+84         yeoldwiz                  1559       -5         2199      
 85         ZE_ROOK                   1540       -8         3465      
 86         maia5                     1533       0          108011    
 87         sudobot_chess             1523       -61        404       
