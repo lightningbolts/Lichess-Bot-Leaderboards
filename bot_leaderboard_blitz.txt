@@ -1,5 +1,5 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ToromBot                  2948       3          7480      
+1          ToromBot                  2948       3          7481      
 2          FireFishBOT_v2            2925       2          11693     
 3          TorBot                    2919       -2         1859      
 4          ReinforcementTrial        2917       -1         4726      
@@ -28,7 +28,7 @@ Rank       Bot                       Rating     Prog       Games
 27         pawn_git                  2480       -4         3316      
 28         bot_adario                2474       -1         2810      
 29         catriever                 2463       0          1417      
-30         Cheng-4                   2456       11         7056      
+30         Cheng-4                   2455       10         7057      
 31         OpeningsBot               2426       21         2150      
 32         odonata-bot               2404       -13        6544      
 33         Pseudo-0                  2401       7          3486      
@@ -41,7 +41,7 @@ Rank       Bot                       Rating     Prog       Games
 40         simpleEval                2318       9          16277     
 41         Leela8-Test               2309       37         147       
 42         FataliiBot                2221       -19        7723      
-43         eubos                     2205       42         16003     
+43         eubos                     2205       40         16004     
 44         HistoryExplorer           2202       17         3111      
 45         halcyonbot                2187       -2         11881     
 46         Nakshatra3                2171       7          2104      
@@ -51,9 +51,9 @@ Rank       Bot                       Rating     Prog       Games
 50         Boris-Trapsky             2069       -13        30169     
 51         myopic-bot                2064       13         3099      
 52         KelpBot                   2056       -102       23        
-53         redtail-zero              2051       -10        815       
+53         redtail-zero              2051       -16        816       
 54         Elmichess                 2040       12         3748      
-55         sun_bird                  2026       -14        3381      
+55         sun_bird                  2026       -21        3382      
 56         LeelaRogue                2011       0          2459      
 57         Humaia-Strong             2010       14         2379      
 58         likeawizard-bot           2005       -14        6664      
@@ -83,15 +83,15 @@ Rank       Bot                       Rating     Prog       Games
 82         ChessChildren             1647       -3         22222     
 83         AshNostromo               1639       -20        1106      
 84         dtsudo                    1623       30         286       
-85         Jibbby                    1610       -5         6840      
+85         Jibbby                    1610       0          6841      
 86         simplexitor               1591       -7         2695      
 87         yeoldwiz                  1569       9          2202      
 88         Demolito_L4               1568       6          355       
 89         turkjs                    1564       13         10709     
-90         ZE_ROOK                   1541       -2         3468      
+90         ZE_ROOK                   1546       8          3469      
 91         maia5                     1534       -8         108025    
 92         sudobot_chess             1523       -61        404       
-93         LeElaGuess                1485       -11        462       
+93         LeElaGuess                1480       -14        463       
 94         ShallowLearnBot           1450       28         180       
 95         Humaia                    1430       12         1053      
 96         maia1                     1421       11         218101    
