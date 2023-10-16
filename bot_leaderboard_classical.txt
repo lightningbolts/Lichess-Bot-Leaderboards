@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ReinforcementTrial        2640       5          704       
-2          LeelaMultiPoss            2640       9          178       
+1          LeelaMultiPoss            2644       12         179       
+2          ReinforcementTrial        2640       5          704       
 3          Intron014                 2638       7          145       
 4          YoBot_v2                  2628       12         877       
 5          ResoluteBot               2597       -12        967       
@@ -9,7 +9,7 @@ Rank       Bot                       Rating     Prog       Games
 8          caissa-x                  2560       -6         370       
 9          faith_bot                 2559       2          263       
 10         JuroJ                     2553       13         1861      
-11         Berserk-Test              2495       -11        51        
+11         Berserk-Test              2490       -20        52        
 12         ELO_1500                  2436       -5         658       
 13         MrChessTheBot             2421       -61        314       
 14         LazyBot                   2383       29         213       
@@ -71,7 +71,6 @@ Rank       Bot                       Rating     Prog       Games
 70         RoundMoundOfRebounds      1469       125        133       
 71         turochamp-1ply            1364       -4         854       
 72         sargon-1ply               1295       -26        3741      
-73         bobandi                   1178       29         196       
-74         ABotWith3200Rating        1117       -3         116       
-75         CHoMPBoT                  1108       -33        198       
-76         grandQ_AI                 863        2          829       
+73         ABotWith3200Rating        1117       -3         116       
+74         CHoMPBoT                  1108       -33        198       
+75         grandQ_AI                 863        2          829       
