@@ -1,9 +1,9 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ToromBot                  2941       1          3250      
 2          VariantsTop               2941       -2         237       
-3          Mate-AI                   2925       -6         2770      
+3          Mate-AI                   2925       -6         2771      
 4          ReinforcementTrial        2923       -4         6516      
-5          EmanPureNN                2918       6          536       
+5          EmanPureNN                2919       5          537       
 6          FireFishBOT_v2            2911       5          1273      
 7          caissa-x                  2910       3          3512      
 8          Africaata                 2902       -3         488       
@@ -74,9 +74,9 @@ Rank       Bot                       Rating     Prog       Games
 73         Jibbby                    1815       25         2476      
 74         ChessChildren             1746       1          4740      
 75         turkjs                    1742       29         5320      
-76         AshNostromo               1735       20         1368      
-77         ai-con                    1733       17         203       
-78         maia9                     1727       12         91880     
+76         maia9                     1737       18         91882     
+77         AshNostromo               1735       20         1368      
+78         ai-con                    1733       17         203       
 79         melsh_bot                 1715       8          360       
 80         Trollfish-Bot             1713       -31        457       
 81         maia5                     1697       1          107799    
@@ -90,8 +90,8 @@ Rank       Bot                       Rating     Prog       Games
 89         Demolito_L4               1595       3          318       
 90         ShallowLearnBot           1577       25         30        
 91         postbot                   1554       158        41        
-92         DavidsGuterBot            1547       -19        753       
-93         maia1                     1545       43         244848    
+92         maia1                     1549       41         244849    
+93         DavidsGuterBot            1547       -19        753       
 94         sargon-3ply               1516       -6         1354      
 95         turochamp-2ply            1445       -30        1209      
 96         RoundMoundOfRebounds      1432       20         441       
@@ -99,8 +99,8 @@ Rank       Bot                       Rating     Prog       Games
 98         StupidChessRobot          1408       -6         128       
 99         schnecken_bot             1365       10         574       
 100        turochamp-1ply            1363       -3         1849      
-101        pawnrobot                 1319       25         844       
-102        sargon-2ply               1313       11         3654      
+101        sargon-2ply               1313       11         3654      
+102        pawnrobot                 1313       15         845       
 103        sargon-1ply               1303       -17        9304      
 104        king-forward-bot          1168       -3         65        
 105        chat_bot                  1151       -22        348       
