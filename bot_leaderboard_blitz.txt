@@ -1,15 +1,15 @@
 Rank       Bot                       Rating     Prog       Games     
 1          LeelaMultiPoss            2964       3          764       
-2          ToromBot                  2949       1          7491      
+2          ToromBot                  2946       -2         7492      
 3          VariantsTop               2945       -7         870       
-4          FireFishBOT_v2            2925       1          11701     
+4          FireFishBOT_v2            2924       0          11702     
 5          ReinforcementTrial        2917       0          4731      
 6          EmanPureNN                2917       -3         1949      
 7          YoBot_v2                  2911       -4         5161      
 8          caissa-x                  2906       -6         4231      
 9          ResoluteBot               2901       5          13612     
 10         Intron014                 2897       -4         1532      
-11         Mate-AI                   2895       -1         3887      
+11         Mate-AI                   2896       0          3888      
 12         czech-bot-turbo           2885       32         21        
 13         ArasanX                   2861       3          2969      
 14         RETI_BOT                  2845       2          74        
@@ -17,7 +17,7 @@ Rank       Bot                       Rating     Prog       Games
 16         blundar_bot               2803       13         2176      
 17         JuroJ                     2802       35         1942      
 18         kazakhfirstbot            2802       8          35        
-19         LC0-Bot                   2763       9          126       
+19         LC0-Bot                   2765       8          127       
 20         faith_bot                 2731       -15        972       
 21         Berserk-Test              2728       8          539       
 22         LazyBot                   2674       4          2079      
@@ -39,7 +39,7 @@ Rank       Bot                       Rating     Prog       Games
 38         AjedrezChamberi           2376       10         276       
 39         admete_bot                2368       -7         7940      
 40         FlamingDragon_9000        2323       19         3331      
-41         simpleEval                2320       10         16279     
+41         simpleEval                2320       10         16280     
 42         Leela8-Test               2315       38         150       
 43         FataliiBot                2219       -25        7724      
 44         eubos                     2197       18         16008     
@@ -95,7 +95,7 @@ Rank       Bot                       Rating     Prog       Games
 94         LeElaGuess                1496       2          467       
 95         ShallowLearnBot           1450       28         180       
 96         Humaia                    1430       12         1053      
-97         maia1                     1426       -1         218117    
+97         maia1                     1428       -5         218121    
 98         sargon-4ply               1419       -21        2419      
 99         sargon-3ply               1415       -1         2255      
 100        RoundMoundOfRebounds      1398       -22        1650      
@@ -110,7 +110,7 @@ Rank       Bot                       Rating     Prog       Games
 109        turochamp-1ply            1235       -6         2035      
 110        pawnrobot                 1187       -1         2384      
 111        king-forward-bot          1158       2          114       
-112        sargon-1ply               1150       -21        9101      
+112        sargon-1ply               1153       -15        9104      
 113        ABotWith3200Rating        1095       -31        398       
 114        CHoMPBoT                  1016       -10        1921      
 115        knucklefish               999        -30        3582      
