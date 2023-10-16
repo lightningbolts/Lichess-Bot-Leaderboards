@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          LeelaMultiPoss            2943       11         454       
-2          VariantsTop               2943       -4         224       
-3          ReinforcementTrial        2927       -2         6505      
+2          VariantsTop               2943       -3         225       
+3          ReinforcementTrial        2927       -1         6506      
 4          Mate-AI                   2926       -6         2768      
 5          EmanPureNN                2913       1          531       
 6          FireFishBOT_v2            2911       5          1273      
@@ -24,7 +24,7 @@ Rank       Bot                       Rating     Prog       Games
 23         pawn_git                  2585       -18        1590      
 24         SaxtonEngine              2583       2          1683      
 25         Cheng-4                   2575       -3         3435      
-26         catriever                 2571       -5         547       
+26         catriever                 2570       -6         548       
 27         bot_adario                2535       -15        1554      
 28         Weiawaga                  2526       27         10744     
 29         odonata-bot               2481       -9         3989      
@@ -41,17 +41,17 @@ Rank       Bot                       Rating     Prog       Games
 40         Nakshatra3                2232       9          1086      
 41         honzovy-sachy-2           2180       -24        3899      
 42         Elmichess                 2162       -6         1449      
-43         matmoi                    2155       1          3120      
-44         jangine                   2155       8          2082      
+43         jangine                   2155       8          2082      
+44         matmoi                    2154       -5         3121      
 45         Boris-Trapsky             2148       19         28406     
-46         Lynx_BOT                  2102       10         40824     
+46         Lynx_BOT                  2103       13         40825     
 47         Humaia-Strong             2099       30         626       
 48         redtail-zero              2096       13         759       
 49         likeawizard-bot           2077       -21        1910      
 50         MaxtheDog                 2045       10         983       
 51         AjedrezChamberi           2041       -34        131       
-52         myopic-bot                2031       -24        742       
-53         GarboBot                  2030       -10        6567      
+52         GarboBot                  2033       -13        6568      
+53         myopic-bot                2031       -24        742       
 54         sun_bird                  2025       2          221       
 55         Aleph_Engine              2015       -46        31        
 56         LeelaRogue                2012       56         2409      
@@ -65,7 +65,7 @@ Rank       Bot                       Rating     Prog       Games
 64         chesstango_bot            1908       21         300       
 65         NatesBot                  1890       5          1258      
 66         ShallowRedBot             1889       20         158       
-67         notropis                  1886       15         2911      
+67         notropis                  1882       4          2912      
 68         Demolito_L6               1875       -12        1330      
 69         Dinora                    1875       -9         163       
 70         LittleGreenManBot         1842       3          4027      
@@ -108,3 +108,4 @@ Rank       Bot                       Rating     Prog       Games
 107        ABotWith3200Rating        1134       -5         229       
 108        GuineaBot                 858        -84        28        
 109        grandQ_AI                 798        -10        1694      
+110        G0thamB0t                 636        11         464       
