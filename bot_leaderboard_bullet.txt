@@ -17,7 +17,7 @@ Rank       Bot                       Rating     Prog       Games
 16         Berserk-Test              2751       9          627       
 17         JuroJ                     2690       -19        2121      
 18         LazyBot                   2604       4          1543      
-19         expositor                 2565       0          22882     
+19         expositor                 2560       -2         22883     
 20         FlamingDragon_9000        2524       -5         10619     
 21         Weiawaga                  2508       9          17286     
 22         pawn_git                  2504       -4         5344      
@@ -60,9 +60,9 @@ Rank       Bot                       Rating     Prog       Games
 59         potato-chess-bot          1946       25         209       
 60         zeekat                    1889       -14        21576     
 61         NatesBot                  1886       -2         1024      
-62         Trollfish-Bot             1873       19         7327      
-63         Demolito_L6               1871       -6         1319      
-64         notropis                  1836       -3         4921      
+62         Trollfish-Bot             1873       19         7328      
+63         Demolito_L6               1871       -14        1320      
+64         notropis                  1839       0          4922      
 65         QuintBot                  1811       -4         12756     
 66         piglet_engine             1804       20         1451      
 67         Calvin_Bot                1792       0          387       
@@ -83,7 +83,7 @@ Rank       Bot                       Rating     Prog       Games
 82         ZE_ROOK                   1599       15         2445      
 83         turkjs                    1595       13         19900     
 84         maia1                     1594       8          129317    
-85         LeElaGuess                1590       5          104       
+85         LeElaGuess                1588       10         105       
 86         turochamp-2ply            1573       -3         2004      
 87         maia5                     1552       -31        41135     
 88         sargon-4ply               1526       7          2247      
