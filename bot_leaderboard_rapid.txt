@@ -1,6 +1,6 @@
 Rank       Bot                       Rating     Prog       Games     
 1          LeelaMultiPoss            2946       14         455       
-2          VariantsTop               2945       1          233       
+2          VariantsTop               2943       0          234       
 3          Mate-AI                   2925       -6         2770      
 4          ReinforcementTrial        2923       -4         6514      
 5          EmanPureNN                2918       6          534       
@@ -11,12 +11,12 @@ Rank       Bot                       Rating     Prog       Games
 10         ResoluteBot               2899       -2         6221      
 11         RaspFish                  2898       -4         6796      
 12         YoBot_v2                  2881       1          13802     
-13         JuroJ                     2864       2          2892      
-14         ArasanX                   2864       -6         6617      
+13         ArasanX                   2866       -2         6618      
+14         JuroJ                     2864       2          2892      
 15         blundar_bot               2822       17         1621      
 16         faith_bot                 2812       -21        2456      
 17         Berserk-Test              2770       10         281       
-18         ELO_1500                  2750       24         3668      
+18         ELO_1500                  2746       18         3669      
 19         MrChessTheBot             2689       -53        2243      
 20         expositor                 2653       9          5037      
 21         Leela8-Test               2618       -61        38        
@@ -77,7 +77,7 @@ Rank       Bot                       Rating     Prog       Games
 76         turkjs                    1742       29         5320      
 77         AshNostromo               1735       20         1368      
 78         ai-con                    1733       17         203       
-79         maia9                     1719       18         91871     
+79         maia9                     1715       8          91872     
 80         Trollfish-Bot             1713       -31        457       
 81         maia5                     1698       11         107797    
 82         simplexitor               1666       -12        664       
