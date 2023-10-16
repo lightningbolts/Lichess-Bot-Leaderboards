@@ -1,9 +1,9 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ToromBot                  2942       2          3249      
-2          ReinforcementTrial        2927       -8         6500      
+2          ReinforcementTrial        2927       -7         6501      
 3          TorBot                    2916       -2         923       
 4          caissa-x                  2910       4          3508      
-5          FireFishBOT_v2            2906       1          1269      
+5          FireFishBOT_v2            2906       2          1270      
 6          ResoluteBot               2899       -1         6217      
 7          Intron014                 2899       5          466       
 8          RaspFish                  2898       -4         6796      
@@ -90,7 +90,7 @@ Rank       Bot                       Rating     Prog       Games
 89         DavidsGuterBot            1547       -19        753       
 90         postbot                   1537       142        40        
 91         sargon-3ply               1516       -6         1354      
-92         maia1                     1503       0          244781    
+92         maia1                     1511       14         244782    
 93         turochamp-2ply            1445       -30        1209      
 94         RoundMoundOfRebounds      1437       16         439       
 95         Humaia                    1428       2          2491      
@@ -105,5 +105,5 @@ Rank       Bot                       Rating     Prog       Games
 104        chat_bot                  1151       -22        348       
 105        ABotWith3200Rating        1132       -12        225       
 106        GuineaBot                 858        -84        28        
-107        grandQ_AI                 801        -11        1692      
+107        grandQ_AI                 798        -10        1694      
 108        G0thamB0t                 636        11         464       
