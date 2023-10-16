@@ -20,7 +20,7 @@ Rank       Bot                       Rating     Prog       Games
 19         MrChessTheBot             2689       -53        2243      
 20         expositor                 2644       -19        5026      
 21         LazyBot                   2615       5          837       
-22         AKS-Mantissa              2605       -10        4501      
+22         AKS-Mantissa              2603       -13        4502      
 23         pawn_git                  2592       -15        1583      
 24         SaxtonEngine              2588       -9         1677      
 25         Cheng-4                   2575       6          3429      
@@ -34,9 +34,9 @@ Rank       Bot                       Rating     Prog       Games
 33         OpeningsBot               2427       17         629       
 34         fornax-engine             2419       7          3895      
 35         admete_bot                2415       16         4730      
-36         simpleEval                2368       8          8093      
-37         halcyonbot                2260       2          8039      
-38         eubos                     2258       23         4472      
+36         simpleEval                2372       18         8094      
+37         eubos                     2258       23         4472      
+38         halcyonbot                2256       -5         8040      
 39         FataliiBot                2237       -13        3077      
 40         Nakshatra3                2227       6          1085      
 41         honzovy-sachy-2           2208       7          3893      
@@ -103,6 +103,5 @@ Rank       Bot                       Rating     Prog       Games
 102        CHoMPBoT                  1155       -4         607       
 103        chat_bot                  1151       -22        348       
 104        ABotWith3200Rating        1133       -12        224       
-105        bobandi                   1005       10         808       
-106        GuineaBot                 858        -84        28        
-107        grandQ_AI                 804        -11        1690      
+105        GuineaBot                 858        -84        28        
+106        grandQ_AI                 804        -11        1690      
