@@ -2,7 +2,7 @@ Rank       Bot                       Rating     Prog       Games
 1          LeelaMultiPoss            2946       14         455       
 2          VariantsTop               2945       0          230       
 3          ReinforcementTrial        2926       -1         6510      
-4          Mate-AI                   2926       -6         2769      
+4          Mate-AI                   2925       -6         2770      
 5          EmanPureNN                2918       6          534       
 6          FireFishBOT_v2            2911       5          1273      
 7          caissa-x                  2910       3          3510      
@@ -13,7 +13,7 @@ Rank       Bot                       Rating     Prog       Games
 12         YoBot_v2                  2881       1          13802     
 13         JuroJ                     2864       2          2892      
 14         ArasanX                   2864       -12        6614      
-15         RETI_BOT                  2828       46         19        
+15         RETI_BOT                  2833       51         20        
 16         faith_bot                 2821       -13        2451      
 17         blundar_bot               2813       7          1617      
 18         Berserk-Test              2768       7          280       
@@ -71,7 +71,7 @@ Rank       Bot                       Rating     Prog       Games
 70         Dinora                    1871       -16        164       
 71         LittleGreenManBot         1842       3          4027      
 72         honzovy-sachy             1826       -7         1212      
-73         Jibbby                    1817       20         2473      
+73         Jibbby                    1823       38         2475      
 74         Virutor                   1816       8          3468      
 75         ChessChildren             1746       1          4740      
 76         turkjs                    1746       36         5319      
@@ -108,3 +108,4 @@ Rank       Bot                       Rating     Prog       Games
 107        ABotWith3200Rating        1134       -5         229       
 108        GuineaBot                 858        -84        28        
 109        grandQ_AI                 798        -10        1694      
+110        G0thamB0t                 636        11         464       
