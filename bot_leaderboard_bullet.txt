@@ -1,8 +1,8 @@
 Rank       Bot                       Rating     Prog       Games     
 1          LeelaMultiPoss            3005       6          1146      
 2          YoBot_v2                  2961       -5         19970     
-3          Mate-AI                   2944       -7         13624     
-4          ToromBot                  2938       -3         66700     
+3          ToromBot                  2944       6          66701     
+4          Mate-AI                   2939       -12        13625     
 5          ReinforcementTrial        2937       -4         3509      
 6          FireFishBOT_v2            2930       -2         1973      
 7          ResoluteBot               2925       -6         28652     
@@ -51,7 +51,7 @@ Rank       Bot                       Rating     Prog       Games
 50         redtail-zero              2071       -10        1222      
 51         Lynx_BOT                  2056       0          8747      
 52         BLANK_BOT                 2034       16         8577      
-53         sun_bird                  2023       12         3685      
+53         sun_bird                  2025       16         3686      
 54         MaxtheDog                 1979       9          17596     
 55         zeekat                    1930       4          21538     
 56         Demolito_L6               1884       0          1305      
@@ -62,8 +62,8 @@ Rank       Bot                       Rating     Prog       Games
 61         piglet_engine             1788       -15        1442      
 62         baby_eubos                1782       5          7014      
 63         simplexitor               1766       -13        2775      
-64         ai-con                    1758       20         339       
-65         honzovy-sachy             1756       6          5750      
+64         honzovy-sachy             1756       6          5750      
+65         ai-con                    1756       23         340       
 66         Dinora                    1753       -10        594       
 67         chesstango_bot            1752       1          365       
 68         Virutor                   1751       0          7459      
@@ -88,10 +88,10 @@ Rank       Bot                       Rating     Prog       Games
 87         ShallowLearnBot           1478       13         110       
 88         RoundMoundOfRebounds      1467       -3         1840      
 89         yeoldwiz                  1450       18         791       
-90         botTideEval               1447       18         4337      
+90         botTideEval               1441       10         4338      
 91         monchester                1440       6          2999      
 92         turochamp-1ply            1435       6          2555      
-93         sargon-2ply               1387       -32        2982      
+93         sargon-2ply               1393       -25        2983      
 94         StupidChessRobot          1357       -5         1581      
 95         sargon-1ply               1298       20         5553      
 96         ABotWith3200Rating        1275       32         243       
