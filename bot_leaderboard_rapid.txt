@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          LeelaMultiPoss            2946       14         455       
 2          VariantsTop               2942       0          228       
-3          ReinforcementTrial        2928       0          6507      
+3          ReinforcementTrial        2926       -4         6508      
 4          Mate-AI                   2926       -6         2769      
 5          EmanPureNN                2914       2          532       
 6          FireFishBOT_v2            2911       5          1273      
@@ -11,7 +11,7 @@ Rank       Bot                       Rating     Prog       Games
 10         ResoluteBot               2898       -3         6219      
 11         YoBot_v2                  2881       1          13802     
 12         JuroJ                     2864       2          2892      
-13         ArasanX                   2863       -12        6613      
+13         ArasanX                   2864       -12        6614      
 14         faith_bot                 2830       -9         2449      
 15         RETI_BOT                  2828       46         19        
 16         blundar_bot               2813       7          1617      
@@ -90,7 +90,7 @@ Rank       Bot                       Rating     Prog       Games
 89         ShallowLearnBot           1577       25         30        
 90         DavidsGuterBot            1547       -19        753       
 91         postbot                   1537       142        40        
-92         maia1                     1525       -9         244829    
+92         maia1                     1534       5          244830    
 93         sargon-3ply               1516       -6         1354      
 94         turochamp-2ply            1445       -30        1209      
 95         RoundMoundOfRebounds      1435       18         440       
