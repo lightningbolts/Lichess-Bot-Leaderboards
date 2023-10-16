@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          LeelaMultiPoss            2964       3          764       
-2          ToromBot                  2956       5          7434      
-3          FireFishBOT_v2            2921       5          11648     
+2          ToromBot                  2955       4          7435      
+3          FireFishBOT_v2            2921       5          11649     
 4          YoBot_v2                  2917       11         5145      
 5          ReinforcementTrial        2916       -2         4711      
 6          caissa-x                  2911       2          4215      
@@ -61,8 +61,8 @@ Rank       Bot                       Rating     Prog       Games
 60         zeekat                    1891       -15        23782     
 61         baby_eubos                1852       19         9641      
 62         chesstango_bot            1850       21         506       
-63         QuintBot                  1824       3          12271     
-64         notropis                  1823       10         7971      
+63         notropis                  1826       9          7972      
+64         QuintBot                  1824       3          12271     
 65         NatesBot                  1807       19         2605      
 66         Dinora                    1758       -17        827       
 67         honzovy-sachy             1743       -24        5879      
@@ -76,7 +76,7 @@ Rank       Bot                       Rating     Prog       Games
 75         ai-con                    1669       15         370       
 76         ChessChildren             1654       -9         22214     
 77         AshNostromo               1639       -20        1106      
-78         Jibbby                    1613       -2         6816      
+78         Jibbby                    1611       -6         6817      
 79         simplexitor               1585       -21        2692      
 80         Demolito_L4               1570       4          352       
 81         turkjs                    1564       10         10706     
@@ -108,5 +108,4 @@ Rank       Bot                       Rating     Prog       Games
 107        CHoMPBoT                  1018       -25        1913      
 108        knucklefish               1013       -9         3576      
 109        GuineaBot                 947        -35        59        
-110        bobandi                   922        1          1393      
-111        grandQ_AI                 875        -34        1418      
+110        grandQ_AI                 875        -34        1418      
