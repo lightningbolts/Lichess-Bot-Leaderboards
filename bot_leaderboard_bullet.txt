@@ -34,8 +34,8 @@ Rank       Bot                       Rating     Prog       Games
 33         OpeningsBot               2392       17         4343      
 34         AjedrezChamberi           2390       31         544       
 35         Pseudo-0                  2380       13         4530      
-36         fornax-engine             2369       2          7573      
-37         admete_bot                2369       30         14192     
+36         admete_bot                2372       28         14193     
+37         fornax-engine             2369       2          7573      
 38         Phalanx-XXV               2360       16         5191      
 39         simpleEval                2323       25         26125     
 40         FataliiBot                2269       -9         6469      
@@ -44,7 +44,7 @@ Rank       Bot                       Rating     Prog       Games
 43         Humaia-Strong             2188       30         1329      
 44         honzovy-sachy-2           2180       -3         7999      
 45         matmoi                    2178       14         4458      
-46         eubos                     2175       -4         14341     
+46         eubos                     2172       -15        14342     
 47         LazyBotJr                 2170       -28        1256      
 48         likeawizard-bot           2136       7          3378      
 49         jangine                   2108       -8         3997      
@@ -52,12 +52,12 @@ Rank       Bot                       Rating     Prog       Games
 51         redtail-zero              2075       -10        1227      
 52         myopic-bot                2065       -11        2878      
 53         Lynx_BOT                  2056       -9         8762      
-54         sun_bird                  2041       -5         3736      
+54         sun_bird                  2044       2          3739      
 55         BLANK_BOT                 2033       13         8594      
 56         MaxtheDog                 1999       14         17633     
-57         Aleph_Engine              1982       -23        183       
+57         Aleph_Engine              1979       -16        186       
 58         potato-chess-bot          1951       35         208       
-59         zeekat                    1900       -12        21571     
+59         zeekat                    1902       -8         21572     
 60         NatesBot                  1889       8          1022      
 61         Demolito_L6               1871       -6         1319      
 62         Trollfish-Bot             1865       19         7323      
@@ -74,7 +74,7 @@ Rank       Bot                       Rating     Prog       Games
 73         simplexitor               1734       -15        2792      
 74         ShallowRedBot             1734       -7         737       
 75         postbot                   1709       -1         1085      
-76         dtsudo                    1706       -11        488       
+76         dtsudo                    1699       -9         490       
 77         ChessChildren             1678       11         16004     
 78         Humaia                    1655       16         612       
 79         rudim-bot                 1644       -29        160       
