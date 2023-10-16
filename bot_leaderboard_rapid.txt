@@ -18,7 +18,7 @@ Rank       Bot                       Rating     Prog       Games
 17         ELO_1500                  2738       4          3663      
 18         MrChessTheBot             2689       -53        2243      
 19         expositor                 2646       -1         5033      
-20         Leela8-Test               2629       -74        34        
+20         Leela8-Test               2625       -66        35        
 21         LazyBot                   2615       5          837       
 22         AKS-Mantissa              2605       -6         4504      
 23         pawn_git                  2585       -18        1590      
@@ -26,7 +26,7 @@ Rank       Bot                       Rating     Prog       Games
 25         Cheng-4                   2575       -3         3435      
 26         catriever                 2570       -6         548       
 27         bot_adario                2535       -15        1554      
-28         Weiawaga                  2526       27         10744     
+28         Weiawaga                  2528       25         10745     
 29         odonata-bot               2481       -9         3989      
 30         TuksuBot                  2478       -11        2393      
 31         Phalanx-XXV               2449       -7         1233      
@@ -69,7 +69,7 @@ Rank       Bot                       Rating     Prog       Games
 68         Dinora                    1875       -9         163       
 69         LittleGreenManBot         1842       3          4027      
 70         honzovy-sachy             1826       -7         1212      
-71         Virutor                   1809       -3         3467      
+71         Virutor                   1816       8          3468      
 72         Jibbby                    1791       -17        2466      
 73         dtsudo                    1769       9          36        
 74         ChessChildren             1746       1          4740      
@@ -78,8 +78,8 @@ Rank       Bot                       Rating     Prog       Games
 77         ai-con                    1726       19         201       
 78         Trollfish-Bot             1713       -31        457       
 79         maia9                     1687       -4         91858     
-80         maia5                     1675       -4         107780    
-81         simplexitor               1671       -8         662       
+80         simplexitor               1671       -8         662       
+81         maia5                     1668       -15        107781    
 82         munfish                   1659       -70        35        
 83         yeoldwiz                  1655       0          809       
 84         ZE_ROOK                   1651       -9         736       
