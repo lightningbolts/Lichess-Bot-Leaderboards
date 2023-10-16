@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          VariantsTop               2948       6          239       
 2          ToromBot                  2940       1          3251      
-3          ReinforcementTrial        2923       -4         6517      
+3          ReinforcementTrial        2922       -6         6518      
 4          Mate-AI                   2919       -11        2773      
 5          EmanPureNN                2918       4          540       
 6          TheFreshman1902           2914       -1         295       
@@ -11,10 +11,10 @@ Rank       Bot                       Rating     Prog       Games
 10         Intron014                 2900       1          480       
 11         RaspFish                  2898       -4         6796      
 12         YoBot_v2                  2882       3          13805     
-13         ArasanX                   2866       -1         6623      
+13         ArasanX                   2867       4          6624      
 14         JuroJ                     2864       2          2892      
 15         blundar_bot               2823       22         1623      
-16         faith_bot                 2818       -6         2463      
+16         faith_bot                 2819       -8         2464      
 17         Berserk-Test              2766       1          283       
 18         ELO_1500                  2749       16         3672      
 19         MrChessTheBot             2689       -53        2243      
@@ -81,7 +81,7 @@ Rank       Bot                       Rating     Prog       Games
 80         simplexitor               1671       -4         665       
 81         yeoldwiz                  1660       0          810       
 82         munfish                   1659       -70        35        
-83         maia5                     1656       -42        107808    
+83         maia5                     1651       -42        107809    
 84         ZE_ROOK                   1649       -10        737       
 85         LeElaGuess                1634       1          367       
 86         sargon-4ply               1617       -10        840       
@@ -89,8 +89,8 @@ Rank       Bot                       Rating     Prog       Games
 88         Demolito_L4               1590       2          320       
 89         ShallowLearnBot           1577       25         30        
 90         postbot                   1554       158        41        
-91         maia1                     1553       -11        244866    
-92         DavidsGuterBot            1547       -19        753       
+91         DavidsGuterBot            1547       -19        753       
+92         maia1                     1546       -21        244867    
 93         sargon-3ply               1516       -6         1354      
 94         turochamp-2ply            1450       -22        1210      
 95         RoundMoundOfRebounds      1446       15         443       
