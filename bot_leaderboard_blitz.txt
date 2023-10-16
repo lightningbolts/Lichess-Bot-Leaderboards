@@ -2,8 +2,8 @@ Rank       Bot                       Rating     Prog       Games
 1          LeelaMultiPoss            2964       3          764       
 2          ToromBot                  2956       8          7433      
 3          YoBot_v2                  2917       11         5145      
-4          ReinforcementTrial        2916       -2         4711      
-5          FireFishBOT_v2            2915       1          11642     
+4          FireFishBOT_v2            2917       3          11643     
+5          ReinforcementTrial        2916       -2         4711      
 6          caissa-x                  2911       2          4213      
 7          Intron014                 2901       3          1507      
 8          TorBot_v2                 2900       -4         361       
@@ -18,7 +18,7 @@ Rank       Bot                       Rating     Prog       Games
 17         Berserk-Test              2718       -5         533       
 18         LazyBot                   2674       4          2079      
 19         ELO_1500                  2669       -2         13500     
-20         AKS-Mantissa              2641       -11        11455     
+20         AKS-Mantissa              2639       -8         11456     
 21         expositor                 2588       0          8218      
 22         MrChessTheBot             2542       -53        2009      
 23         SaxtonEngine              2509       5          3068      
@@ -27,7 +27,7 @@ Rank       Bot                       Rating     Prog       Games
 26         bot_adario                2474       -1         2810      
 27         catriever                 2465       3          1409      
 28         Cheng-4                   2457       11         7052      
-29         OpeningsBot               2412       12         2143      
+29         OpeningsBot               2408       14         2144      
 30         odonata-bot               2405       -20        6539      
 31         Pseudo-0                  2403       9          3480      
 32         TuksuBot                  2390       -31        4640      
@@ -40,7 +40,7 @@ Rank       Bot                       Rating     Prog       Games
 39         FataliiBot                2240       9          7712      
 40         halcyonbot                2197       -8         11858     
 41         eubos                     2176       -8         15985     
-42         Nakshatra3                2159       -15        2095      
+42         Nakshatra3                2162       -9         2096      
 43         matmoi                    2153       11         3539      
 44         honzovy-sachy-2           2136       -15        7637      
 45         jangine                   2105       -12        4208      
@@ -64,11 +64,11 @@ Rank       Bot                       Rating     Prog       Games
 63         baby_eubos                1846       10         9640      
 64         chesstango_bot            1840       25         502       
 65         notropis                  1823       10         7971      
-66         QuintBot                  1817       4          12267     
+66         QuintBot                  1822       10         12268     
 67         NatesBot                  1807       19         2605      
 68         Dinora                    1758       -17        827       
 69         honzovy-sachy             1751       -15        5877      
-70         LittleGreenManBot         1722       4          4857      
+70         LittleGreenManBot         1718       -2         4858      
 71         ShallowRedBot             1708       -15        960       
 72         postbot                   1704       19         1035      
 73         piglet_engine             1698       -6         385       
@@ -101,12 +101,12 @@ Rank       Bot                       Rating     Prog       Games
 100        sargon-2ply               1273       -6         3458      
 101        monchester                1261       -7         2938      
 102        turochamp-1ply            1249       -2         2028      
-103        dragobot                  1238       -1         270       
+103        dragobot                  1242       0          271       
 104        pawnrobot                 1193       12         2380      
 105        king-forward-bot          1160       0          112       
 106        sargon-1ply               1156       2          9098      
 107        ABotWith3200Rating        1125       11         389       
-108        DeepKalle                 1099       31         245       
+108        DeepKalle                 1095       22         246       
 109        CHoMPBoT                  1018       -25        1913      
 110        knucklefish               1013       -9         3576      
 111        GuineaBot                 947        -35        59        
