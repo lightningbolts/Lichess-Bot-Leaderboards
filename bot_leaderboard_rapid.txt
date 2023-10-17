@@ -1,7 +1,7 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ToromBot                  2939       1          3252      
 2          ReinforcementTrial        2923       -3         6520      
-3          Mate-AI                   2917       -12        2774      
+3          Mate-AI                   2916       -11        2775      
 4          caissa-x                  2913       3          3517      
 5          Occhessadvanced           2913       -5         481       
 6          FireFishBOT_v2            2912       5          1274      
@@ -11,7 +11,7 @@ Rank       Bot                       Rating     Prog       Games
 10         YoBot_v2                  2882       3          13805     
 11         ArasanX                   2869       4          6626      
 12         JuroJ                     2864       2          2892      
-13         faith_bot                 2824       12         2468      
+13         faith_bot                 2826       9          2469      
 14         blundar_bot               2823       22         1623      
 15         Berserk-Test              2766       1          283       
 16         ELO_1500                  2749       16         3672      
@@ -33,8 +33,8 @@ Rank       Bot                       Rating     Prog       Games
 32         fornax-engine             2424       -1         3899      
 33         OpeningsBot               2419       0          636       
 34         admete_bot                2408       -4         4738      
-35         simpleEval                2367       10         8098      
-36         halcyonbot                2281       11         8068      
+35         simpleEval                2366       4          8099      
+36         halcyonbot                2283       11         8069      
 37         eubos                     2246       0          4478      
 38         FataliiBot                2228       -9         3088      
 39         Nakshatra3                2220       7          1089      
@@ -74,7 +74,7 @@ Rank       Bot                       Rating     Prog       Games
 73         turkjs                    1730       8          5325      
 74         Trollfish-Bot             1716       -31        458       
 75         melsh_bot                 1715       8          360       
-76         maia9                     1708       -32        91895     
+76         maia9                     1704       -40        91896     
 77         simplexitor               1671       -4         665       
 78         yeoldwiz                  1660       0          810       
 79         munfish                   1659       -70        35        
@@ -85,7 +85,7 @@ Rank       Bot                       Rating     Prog       Games
 84         dragobot                  1608       -26        182       
 85         Demolito_L4               1596       6          321       
 86         ShallowLearnBot           1577       25         30        
-87         maia1                     1566       19         244878    
+87         maia1                     1561       13         244879    
 88         postbot                   1554       158        41        
 89         DavidsGuterBot            1547       -19        753       
 90         sargon-3ply               1516       -6         1354      
