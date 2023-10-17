@@ -1,5 +1,5 @@
 Rank       Bot                       Rating     Prog       Games     
-1          YoBot_v2                  2956       4          20010     
+1          YoBot_v2                  2960       9          20011     
 2          ReinforcementTrial        2942       5          3519      
 3          Mate-AI                   2935       -1         13691     
 4          ToromBot                  2933       -1         66802     
@@ -8,7 +8,7 @@ Rank       Bot                       Rating     Prog       Games
 7          ResoluteBot               2921       0          28699     
 8          Intron014                 2919       0          2193      
 9          blundar_bot               2821       0          12725     
-10         RaspFish                  2819       -7         56032     
+10         RaspFish                  2816       -10        56033     
 11         Berserk-Test              2751       9          632       
 12         faith_bot                 2750       0          3545      
 13         JuroJ                     2690       -19        2121      
@@ -39,7 +39,7 @@ Rank       Bot                       Rating     Prog       Games
 38         Nakshatra3                2258       -2         2115      
 39         halcyonbot                2235       6          6979      
 40         Humaia-Strong             2188       30         1329      
-41         eubos                     2174       2          14353     
+41         eubos                     2178       0          14354     
 42         matmoi                    2171       -3         4474      
 43         LazyBotJr                 2170       -28        1256      
 44         honzovy-sachy-2           2157       -17        8011      
@@ -49,7 +49,7 @@ Rank       Bot                       Rating     Prog       Games
 48         myopic-bot                2067       -5         2883      
 49         redtail-zero              2067       -14        1230      
 50         sun_bird                  2049       8          3766      
-51         Lynx_BOT                  2042       -13        8772      
+51         Lynx_BOT                  2039       -17        8773      
 52         BLANK_BOT                 2037       4          8599      
 53         MaxtheDog                 1993       -17        17652     
 54         zeekat                    1926       4          21593     
@@ -88,9 +88,9 @@ Rank       Bot                       Rating     Prog       Games
 87         monchester                1440       -9         3004      
 88         turochamp-1ply            1430       1          2561      
 89         botTideEval               1416       -8         4358      
-90         StupidChessRobot          1411       71         1613      
+90         StupidChessRobot          1405       66         1614      
 91         sargon-2ply               1384       -24        2988      
-92         DeepKalle                 1337       0          436       
+92         DeepKalle                 1344       3          437       
 93         sargon-1ply               1289       -11        5558      
 94         ABotWith3200Rating        1256       -18        248       
 95         dragobot                  1250       -64        94        
