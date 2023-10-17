@@ -3,8 +3,8 @@ Rank       Bot                       Rating     Prog       Games
 2          ReinforcementTrial        2923       -3         6521      
 3          Mate-AI                   2916       -11        2775      
 4          TheFreshman1902           2914       -2         296       
-5          caissa-x                  2913       3          3517      
-6          Occhessadvanced           2913       -5         481       
+5          caissa-x                  2913       3          3518      
+6          Occhessadvanced           2913       -8         482       
 7          FireFishBOT_v2            2912       5          1274      
 8          ResoluteBot               2900       0          6225      
 9          RaspFish                  2898       -4         6796      
@@ -24,15 +24,15 @@ Rank       Bot                       Rating     Prog       Games
 23         SaxtonEngine              2584       -1         1686      
 24         pawn_git                  2581       -9         1595      
 25         Cheng-4                   2575       -3         3435      
-26         catriever                 2568       -6         552       
+26         catriever                 2560       -13        553       
 27         bot_adario                2535       -15        1554      
 28         Weiawaga                  2533       20         10753     
 29         odonata-bot               2479       -7         3991      
 30         TuksuBot                  2463       -18        2399      
 31         Phalanx-XXV               2447       -3         1237      
 32         Pseudo-0                  2441       -4         1442      
-33         fornax-engine             2424       -1         3899      
-34         OpeningsBot               2419       0          636       
+33         OpeningsBot               2427       5          637       
+34         fornax-engine             2424       -1         3899      
 35         admete_bot                2408       -4         4738      
 36         simpleEval                2366       4          8099      
 37         halcyonbot                2283       11         8069      
@@ -105,4 +105,3 @@ Rank       Bot                       Rating     Prog       Games
 104        ABotWith3200Rating        1134       -5         229       
 105        GuineaBot                 858        -84        28        
 106        grandQ_AI                 798        -10        1694      
-107        G0thamB0t                 636        11         464       
