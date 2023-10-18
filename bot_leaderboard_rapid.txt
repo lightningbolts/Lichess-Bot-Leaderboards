@@ -27,10 +27,10 @@ Rank       Bot                       Rating     Prog       Games
 26         TuksuBot                  2463       3          2412      
 27         Phalanx-XXV               2443       -4         1251      
 28         Pseudo-0                  2441       1          1450      
-29         LunaChessEngine           2432       45         1198      
+29         LunaChessEngine           2422       37         1199      
 30         OpeningsBot               2419       -7         643       
-31         fornax-engine             2409       -16        3903      
-32         admete_bot                2405       -6         4746      
+31         admete_bot                2411       2          4747      
+32         fornax-engine             2409       -16        3903      
 33         simpleEval                2353       -20        8107      
 34         halcyonbot                2279       -34        8107      
 35         eubos                     2244       -17        4486      
@@ -84,7 +84,7 @@ Rank       Bot                       Rating     Prog       Games
 83         DavidsGuterBot            1560       3          759       
 84         ShallowLearnBot           1551       22         35        
 85         sargon-3ply               1526       4          1369      
-86         maia1                     1497       13         245040    
+86         maia1                     1494       12         245041    
 87         RoundMoundOfRebounds      1444       1          448       
 88         turochamp-2ply            1441       -28        1213      
 89         DeepKalle                 1435       2          19        
@@ -97,7 +97,7 @@ Rank       Bot                       Rating     Prog       Games
 96         sargon-1ply               1294       -24        9319      
 97         king-forward-bot          1165       0          67        
 98         chat_bot                  1142       -29        349       
-99         CHoMPBoT                  1141       -14        618       
+99         CHoMPBoT                  1135       -18        619       
 100        ABotWith3200Rating        1123       -9         236       
 101        GuineaBot                 849        -61        29        
 102        grandQ_AI                 765        -40        1700      
