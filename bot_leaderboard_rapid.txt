@@ -2,12 +2,12 @@ Rank       Bot                       Rating     Prog       Games
 1          ToromBot                  2935       -6         3282      
 2          ReinforcementTrial        2923       4          6590      
 3          Intron014                 2923       11         524       
-4          caissa-x                  2919       2          3536      
-5          Occhessadvanced           2915       4          536       
+4          Occhessadvanced           2920       10         537       
+5          caissa-x                  2919       2          3536      
 6          Mate-AI                   2905       6          2809      
 7          ResoluteBot               2904       0          6263      
 8          YoBot_v2                  2899       1          13849     
-9          RaspFish                  2892       -7         6842      
+9          RaspFish                  2887       -14        6843      
 10         JuroJ                     2864       2          2892      
 11         blundar_bot               2845       4          1660      
 12         faith_bot                 2823       -17        2534      
@@ -31,8 +31,8 @@ Rank       Bot                       Rating     Prog       Games
 30         FataliiBot                2233       8          3104      
 31         eubos                     2226       -25        4492      
 32         Nakshatra3                2222       -10        1105      
-33         HistoryExplorer           2193       -9         1193      
-34         matmoi                    2184       9          3182      
+33         matmoi                    2190       18         3183      
+34         HistoryExplorer           2187       -15        1194      
 35         Elmichess                 2162       -6         1449      
 36         jangine                   2155       0          2093      
 37         Boris-Trapsky             2113       -8         28425     
@@ -72,8 +72,8 @@ Rank       Bot                       Rating     Prog       Games
 71         maia5                     1562       -17        107999    
 72         DavidsGuterBot            1560       8          760       
 73         sargon-3ply               1523       4          1374      
-74         DeepKalle                 1523       192        23        
-75         jpg-bot                   1504       26         49        
+74         DeepKalle                 1522       179        24        
+75         jpg-bot                   1505       22         50        
 76         maia1                     1503       -31        245189    
 77         RoundMoundOfRebounds      1443       8          451       
 78         turochamp-2ply            1430       -17        1222      
