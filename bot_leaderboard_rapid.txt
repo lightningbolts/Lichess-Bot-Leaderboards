@@ -1,5 +1,5 @@
 Rank       Bot                       Rating     Prog       Games     
-1          ToromBot                  2935       -6         3281      
+1          ToromBot                  2935       -6         3282      
 2          ReinforcementTrial        2923       4          6590      
 3          Intron014                 2923       11         524       
 4          caissa-x                  2919       2          3536      
@@ -10,7 +10,7 @@ Rank       Bot                       Rating     Prog       Games
 9          RaspFish                  2892       -7         6842      
 10         JuroJ                     2864       2          2892      
 11         blundar_bot               2846       7          1659      
-12         faith_bot                 2824       -11        2533      
+12         faith_bot                 2823       -17        2534      
 13         Berserk-Test              2769       -4         311       
 14         Bingo202                  2705       295        23        
 15         Leela8-Test               2649       -18        73        
@@ -23,9 +23,9 @@ Rank       Bot                       Rating     Prog       Games
 22         odonata-bot               2477       -12        3993      
 23         TuksuBot                  2469       11         2417      
 24         OpeningsBot               2430       6          653       
-25         LunaChessEngine           2413       -9         1213      
+25         LunaChessEngine           2419       -12        1214      
 26         fornax-engine             2409       -15        3904      
-27         admete_bot                2409       -2         4755      
+27         admete_bot                2403       -7         4756      
 28         simpleEval                2350       -6         8119      
 29         halcyonbot                2267       -1         8133      
 30         FataliiBot                2233       8          3104      
@@ -67,7 +67,7 @@ Rank       Bot                       Rating     Prog       Games
 66         Trollfish-Bot             1651       -60        475       
 67         sargon-4ply               1646       30         853       
 68         ZE_ROOK                   1631       -18        743       
-69         LeElaGuess                1626       -5         432       
+69         LeElaGuess                1622       -11        433       
 70         postbot                   1576       141        45        
 71         maia5                     1562       -17        107999    
 72         DavidsGuterBot            1560       8          760       
@@ -80,7 +80,7 @@ Rank       Bot                       Rating     Prog       Games
 79         StupidChessRobot          1417       13         135       
 80         Humaia                    1410       -17        2508      
 81         GuineaBot3                1407       -188       26        
-82         schnecken_bot             1375       15         583       
+82         schnecken_bot             1379       13         584       
 83         turochamp-1ply            1353       -14        1858      
 84         pawnrobot                 1311       -8         855       
 85         sargon-2ply               1296       -9         3662      
