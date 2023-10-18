@@ -1,11 +1,11 @@
 Rank       Bot                       Rating     Prog       Games     
 1          ToromBot                  2934       5          7746      
 2          Occhessadvanced           2917       1          506       
-3          ResoluteBot               2914       5          13724     
-4          Intron014                 2910       -2         1692      
+3          ResoluteBot               2914       4          13725     
+4          Intron014                 2910       -2         1693      
 5          ReinforcementTrial        2908       0          4836      
 6          YoBot_v2                  2900       -2         5238      
-7          caissa-x                  2896       -2         4299      
+7          caissa-x                  2896       -3         4300      
 8          Mate-AI                   2886       -2         3976      
 9          RaspFish                  2854       0          14441     
 10         blundar_bot               2819       13         2246      
@@ -30,7 +30,7 @@ Rank       Bot                       Rating     Prog       Games
 29         admete_bot                2356       -8         7975      
 30         Leela8-Test               2335       14         186       
 31         FlamingDragon_9000        2323       19         3331      
-32         simpleEval                2300       -8         16364     
+32         simpleEval                2300       -4         16365     
 33         halcyonbot                2248       -15        11999     
 34         FataliiBot                2230       -19        7766      
 35         HistoryExplorer           2212       15         3121      
@@ -40,7 +40,7 @@ Rank       Bot                       Rating     Prog       Games
 39         matmoi                    2127       9          3650      
 40         jangine                   2108       12         4261      
 41         GarboBot                  2077       12         10633     
-42         myopic-bot                2067       -8         3141      
+42         myopic-bot                2070       -4         3142      
 43         KelpBot                   2056       -102       23        
 44         redtail-zero              2044       -7         826       
 45         Elmichess                 2040       12         3748      
@@ -57,8 +57,8 @@ Rank       Bot                       Rating     Prog       Games
 56         baby_eubos                1833       -21        9764      
 57         notropis                  1829       15         8050      
 58         QuintBot                  1819       14         12525     
-59         NatesBot                  1817       -8         2707      
-60         melsh_bot                 1740       20         2524      
+59         NatesBot                  1815       -15        2708      
+60         melsh_bot                 1743       18         2525      
 61         Dinora                    1739       10         887       
 62         The_Marcus                1724       -16        1962      
 63         piglet_engine             1709       11         396       
@@ -68,7 +68,7 @@ Rank       Bot                       Rating     Prog       Games
 67         postbot                   1656       0          1193      
 68         AshNostromo               1631       -21        1111      
 69         Jibbby                    1629       -22        6914      
-70         maia9                     1612       6          109148    
+70         maia9                     1615       4          109149    
 71         yeoldwiz                  1586       14         2225      
 72         turkjs                    1554       -10        10734     
 73         maia5                     1548       -5         108408    
@@ -77,7 +77,7 @@ Rank       Bot                       Rating     Prog       Games
 76         LeElaGuess                1503       3          594       
 77         DeepKalle                 1482       -2         444       
 78         Humaia                    1436       8          1055      
-79         maia1                     1433       24         218471    
+79         maia1                     1428       14         218472    
 80         sargon-4ply               1421       2          2438      
 81         sargon-3ply               1399       -5         2274      
 82         DavidsGuterBot            1385       0          4077      
