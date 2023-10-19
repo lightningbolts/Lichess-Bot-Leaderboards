@@ -102,6 +102,5 @@ while True:
     get_bot_ratings_online('kingOfTheHill')
     get_bot_ratings_online('racingKings')
     get_bot_ratings_online('threeCheck')
-    time.sleep(300)
 
 #print(get_team('leaderboard-of-bots', 'bullet'))
