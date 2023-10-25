@@ -29,7 +29,6 @@ def get_file_name(type):
 def get_bot_ratings_online(type):
     banned_bots = [
         'caissa-ai',
-        'GHDES',
         'ProteusSF',
         'ProteusSF-lite',
         'ProteusSF-Open',
@@ -37,7 +36,23 @@ def get_bot_ratings_online(type):
         'QalatBotEngine',
         'Vaxim2000',
         'MedipolUniversity',
-        'MustafaYilmazBot'
+        'MustafaYilmazBot',
+        'Viet-AI',
+        'RexherBot',
+        'SamuraiX_v1',
+        'YellowFlash_v2',
+        'NikitosikVariantsbot',
+        'CodingAdventureBot',
+        'Nikitosikbot',
+        'Anand_Bot',
+        'GHDES',
+        'caissa-test', 
+        'Codingadventurebot',
+        'RandomEngine-AI',
+        'RandomEngine',
+        'OkayWhyYouReadinThis',
+        'HappyFarmer3000',
+        'HappyFarmerChallenge',
     ]
     online_bots = urllib.request.urlopen('https://lichess.org/api/bot/online')
     user_arr = []
@@ -87,6 +102,5 @@ while True:
     get_bot_ratings_online('kingOfTheHill')
     get_bot_ratings_online('racingKings')
     get_bot_ratings_online('threeCheck')
-    time.sleep(300)
 
 #print(get_team('leaderboard-of-bots', 'bullet'))
